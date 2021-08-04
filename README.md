@@ -14,6 +14,9 @@ We hope that these resources will help you innovate and address the real-world n
 Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. Read the blog
 
 🎦Microsoft Build Round Up, Developer Edition
+Learn about options for event driven patterns across Azure Functions, containers, Kubernetes and messaging—so you can better understand what will work best for your team. Watch now
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=DeK9uar_K4s&t=411s)
+
 
 ##  Featured Content for PowerApps
 
