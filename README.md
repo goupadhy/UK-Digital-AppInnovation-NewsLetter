@@ -7,7 +7,7 @@ Covering everything from Cloud Native Apps, Power Platform, Github and App Moder
 
 We hope that these resources will help you innovate and address the real-world needs of your organizations. Watch us and star us for our latest repository versions.
 
-# H1 Featured Content for Cloud Native Apps
+## Featured Content for Cloud Native Apps
 
 📜Build cloud-native applications that run anywhere
 
@@ -15,11 +15,11 @@ Build cloud-native applications that run anywhere—with Azure application servi
 
 🎦Microsoft Build Round Up, Developer Edition
 
-# H1 Featured Content for PowerApps
+##  Featured Content for PowerApps
 
-# H1 Featured Content for Github
+##  Featured Content for Github
 
-# H1 Featured Content for App Modernization
+##  Featured Content for App Modernization
 
 
 ♥️ Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure
