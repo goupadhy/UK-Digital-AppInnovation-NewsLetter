@@ -8,6 +8,7 @@ Covering everything from Cloud Native Apps, PowerPlatform, Github and App Modern
 We hope that these resources will help you innovate and address the real-world needs of your organizations. Watch us and star us for our latest repository versions.
 
 Featured Content for Cloud Native Apps
+
 📜Build cloud-native applications that run anywhere
 
 Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. Read the blog
