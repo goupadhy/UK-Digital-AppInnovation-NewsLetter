@@ -9,22 +9,33 @@ We hope that these resources will help you innovate and address the real-world n
 
 ## Featured Content for Cloud Native Apps
 
-📜Build cloud-native applications that run anywhere
 
-Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. Read the blog
+    ### 📝 Latest Blog Posts
 
-🎦Microsoft Build Round Up, Developer Edition
-Learn about options for event driven patterns across Azure Functions, containers, Kubernetes and messaging—so you can better understand what will work best for your team. [Watch now](http://www.youtube.com/watch?v=DeK9uar_K4s&t=411s)
+    📜Build cloud-native applications that run anywhere
+
+    Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. Read the blog
+
+
+    ### 📺 Latest YouTube Videos
+
+    🎦Microsoft Build Round Up, Developer Edition
+    Learn about options for event driven patterns across Azure Functions, containers, Kubernetes and messaging—so you can better understand what will work best for your team. [Watch now](http://www.youtube.com/watch?v=DeK9uar_K4s&t=411s)
 
 
 ##  Featured Content for PowerApps
-
+    ### 📝 Latest Blog Posts
+    ### 📺 Latest YouTube Videos
 ##  Featured Content for Github
+    ### 📝 Latest Blog Posts
+    ### 📺 Latest YouTube Videos
 
 ##  Featured Content for App Modernization
+    ### 📝 Latest Blog Posts
+    ### 📺 Latest YouTube Videos
 
 
-♥️ Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure
+♥️ Customer Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure
 
 By pioneering the use of a containerized architecture on Azure, Kainos was able to deliver a highly secure service based on containers. [Learn how](https://customers.microsoft.com/en-us/story/1368348549535774520-kainos-and-nhs-digital-deliver-health-services-to-millions-on-microsoft-azure)
 

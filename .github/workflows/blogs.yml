@@ -1,0 +1,32 @@
+name: Update blog posts
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+    
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: khaosdoctor/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOGCNA
+          feed_list: "https://azurecomcdn.azureedge.net/en-in/blog/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOGPOWER
+          feed_list: "https://cloudblogs.microsoft.com/powerplatform/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOGGITHUB
+          feed_list: "https://github.blog/all.atom"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOGAPPMOD
+          feed_list: "https://azurecomcdn.azureedge.net/en-in/blog/feed/"
