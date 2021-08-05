@@ -38,7 +38,12 @@ We hope that these resources will help you innovate and address the real-world n
     ### 📺 Latest YouTube Videos
     
     <!-- YOUTUBEPOWER:START -->
-    <!-- YOUTUBEPOWER:END -->
+- [Low Code Scalable Portals with Nikita Polyakov - Power CAT Live](https://www.youtube.com/watch?v=-39YxbzfdrU)
+- [Best practices in Power Automate Part 1](https://www.youtube.com/watch?v=h71ub2Ol0V8)
+- [Best practices in Power Automate part 2](https://www.youtube.com/watch?v=QiA8k5Jh3Hs)
+- [How to manage connections in Power Automate](https://www.youtube.com/watch?v=crKWXkpO_8U)
+- [How to build your first flow](https://www.youtube.com/watch?v=BykkAIwRX-E)
+<!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
     ### 📝 Latest Blog Posts
