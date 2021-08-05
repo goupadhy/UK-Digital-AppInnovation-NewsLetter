@@ -83,7 +83,12 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
     ### 📺 Latest YouTube Videos
     <!-- YOUTUBEAPPMOD:START -->
-    <!-- YOUTUBEAPPMOD:END -->
+- [IT Pros: Learn Azure Your Way Pt. 3](https://www.youtube.com/watch?v=g_gnPfXE70w)
+- [Teaser | ACT-W: Advancing the Careers of Technical Womxn](https://www.youtube.com/watch?v=Y1DtW0UWngE)
+- [Pioneering a Process Improvement Team | ACT-W](https://www.youtube.com/watch?v=d1-3vAsFTX4)
+- [Microservices Architecture Explained for Everyone | ACT-W](https://www.youtube.com/watch?v=McZ94-7LvGk)
+- [Predictive Maintenance Use Cases | ACT-W](https://www.youtube.com/watch?v=coMQYm6yTeI)
+<!-- YOUTUBEAPPMOD:END -->
 
 
 ♥️ Customer Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure
