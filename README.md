@@ -87,7 +87,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEAPPMOD:END -->
 
 
-♥️ Customer Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure
+## ♥️ Customer Technical Story 
+
+### Kainos and NHS Digital deliver health services to millions on Microsoft Azure
 
 By pioneering the use of a containerized architecture on Azure, Kainos was able to deliver a highly secure service based on containers. [Learn how](https://customers.microsoft.com/en-us/story/1368348549535774520-kainos-and-nhs-digital-deliver-health-services-to-millions-on-microsoft-azure)
 
