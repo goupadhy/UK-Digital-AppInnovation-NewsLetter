@@ -2,7 +2,7 @@
 
 Covering everything from Cloud Native Apps, Power Platform, Github and App Modernization Journey
 
-👋 Hi everyone – welcome to the our Monthly newsletter Developer Resources repository. Every month we’re featuring exciting stuff around Application Innovation and what’s next new in Azure that we are Innovating for tomorrow, today. See how Azure enables your organization to invent with purpose through our ongoing technology investments..
+👋 Hi everyone – Welcome to the our Monthly newsletter Developer Resources repository. Every month we’re featuring exciting stuff around Application Innovation and what’s next new in Azure that we are Innovating for tomorrow, today. See how Azure enables your organization to invent with purpose through our ongoing technology investments..
 
 
 We hope that these resources will help you innovate and address the real-world needs of your organizations. Watch us and star us for our latest repository versions.
@@ -15,24 +15,40 @@ We hope that these resources will help you innovate and address the real-world n
     📜Build cloud-native applications that run anywhere
 
     Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. Read the blog
-
+    <!-- BLOGCNA:START -->
+    <!-- BLOGCNA:END -->
 
     ### 📺 Latest YouTube Videos
 
     🎦Microsoft Build Round Up, Developer Edition
     Learn about options for event driven patterns across Azure Functions, containers, Kubernetes and messaging—so you can better understand what will work best for your team. [Watch now](http://www.youtube.com/watch?v=DeK9uar_K4s&t=411s)
 
+    <!-- YOUTUBEGITHUB:START -->
+    <!-- YOUTUBEGITHUB:END -->
 
 ##  Featured Content for PowerApps
     ### 📝 Latest Blog Posts
+    <!-- BLOGPOWER:START -->
+    <!-- BLOGPOWER:END -->
     ### 📺 Latest YouTube Videos
+    
+    <!-- YOUTUBEGITHUB:START -->
+    <!-- YOUTUBEGITHUB:END -->
+
 ##  Featured Content for Github
     ### 📝 Latest Blog Posts
+    <!-- BLOGGITHUB:START -->
+    <!-- BLOGGITHUB:END -->
     ### 📺 Latest YouTube Videos
-
+    <!-- YOUTUBEGITHUB:START -->
+    <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
     ### 📝 Latest Blog Posts
+    <!-- BLOGAPPMOD:START -->
+    <!-- BLOGAPPMOD:END -->
     ### 📺 Latest YouTube Videos
+    <!-- YOUTUBEAPPMOD:START -->
+    <!-- YOUTUBEAPPMOD:END -->
 
 
 ♥️ Customer Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure
