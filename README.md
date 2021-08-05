@@ -58,7 +58,12 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
     ### 📝 Latest Blog Posts
     <!-- BLOGGITHUB:START -->
-    <!-- BLOGGITHUB:END -->
+- [GitHub Availability Report: July 2021](https://github.blog/2021-08-04-github-availability-report-july-2021/)
+- [15+ new code scanning integrations with open source security tools](https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/)
+- [Standing up for developers: the GitHub Developer Rights Fellowship at Stanford Law School](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/)
+- [Minimum Viable Governance: lightweight community structure to grow your FOSS projects](https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/)
+- [GitHub brings supply chain security features to the Go community](https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/)
+<!-- BLOGGITHUB:END -->
     ### 📺 Latest YouTube Videos
     <!-- YOUTUBEGITHUB:START -->
 - [Microsoft for Government](https://www.youtube.com/watch?v=mXUaIaE81Ds)
