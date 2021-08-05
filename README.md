@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [ACT-W: Advancing the Careers of Technical Womxn on Learn TV](https://www.youtube.com/watch?v=j6MRp0mYxes)
 - [Azure Functions and SignalR with Anthony Chu](https://www.youtube.com/watch?v=MF-nvoTUouk)
 - [Azure SQL VM: What is SQL Server IaaS Agent Extension (Ep. 2) |  Data Exposed](https://www.youtube.com/watch?v=KUlpjoeFipk)
 - [IT Pros: Learn Azure Your Way Pt. 3](https://www.youtube.com/watch?v=g_gnPfXE70w)
 - [Teaser | ACT-W: Advancing the Careers of Technical Womxn](https://www.youtube.com/watch?v=Y1DtW0UWngE)
-- [Pioneering a Process Improvement Team | ACT-W](https://www.youtube.com/watch?v=d1-3vAsFTX4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
