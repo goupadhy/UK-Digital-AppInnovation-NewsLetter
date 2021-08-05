@@ -16,7 +16,12 @@ We hope that these resources will help you innovate and address the real-world n
 
     Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. Read the blog
     <!-- BLOGCNA:START -->
-    <!-- BLOGCNA:END -->
+- [Microsoft Cloud for Healthcare expands portfolio with Azure Healthcare APIs](https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-expands-portfolio-with-azure-healthcare-apis/)
+- [Advancing Azure Virtual Machine availability transparency](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-transparency/)
+- [Advancing your financial services strategy with Azure sustainability](https://azure.microsoft.com/blog/advancing-your-financial-services-strategy-with-azure-sustainability/)
+- [Azure Cost Management and Billing updates – July 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-july-2021/)
+- [Optimize your cloud spend with Azure](https://azure.microsoft.com/blog/optimize-your-cloud-spend-with-azure/)
+<!-- BLOGCNA:END -->
 
     ### 📺 Latest YouTube Videos
 
