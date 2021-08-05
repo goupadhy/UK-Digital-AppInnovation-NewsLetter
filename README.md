@@ -23,8 +23,8 @@ We hope that these resources will help you innovate and address the real-world n
     🎦Microsoft Build Round Up, Developer Edition
     Learn about options for event driven patterns across Azure Functions, containers, Kubernetes and messaging—so you can better understand what will work best for your team. [Watch now](http://www.youtube.com/watch?v=DeK9uar_K4s&t=411s)
 
-    <!-- YOUTUBEGITHUB:START -->
-    <!-- YOUTUBEGITHUB:END -->
+    <!-- YOUTUBECNA:START -->
+    <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
     ### 📝 Latest Blog Posts
@@ -32,8 +32,8 @@ We hope that these resources will help you innovate and address the real-world n
     <!-- BLOGPOWER:END -->
     ### 📺 Latest YouTube Videos
     
-    <!-- YOUTUBEGITHUB:START -->
-    <!-- YOUTUBEGITHUB:END -->
+    <!-- YOUTUBEPOWER:START -->
+    <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
     ### 📝 Latest Blog Posts
