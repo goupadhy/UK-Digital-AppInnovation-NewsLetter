@@ -64,7 +64,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEGITHUB:START -->
 - [Microsoft for Government](https://www.youtube.com/watch?v=mXUaIaE81Ds)
 - [Mondelēz International moves to Microsoft Azure for great SAP performance and AI innovation](https://www.youtube.com/watch?v=0L0YVPNu-oQ)
-- [Microsoft of Public Safety and Justice](https://www.youtube.com/watch?v=Ei0kSYSVGPg)
+- [Microsoft for Public Safety and Justice](https://www.youtube.com/watch?v=Ei0kSYSVGPg)
 - [Protecting privacy and building customer trust with Microsoft](https://www.youtube.com/watch?v=TseZi010d_c)
 - [The power of a growth mindset to drive innovation and transformation](https://www.youtube.com/watch?v=xUjzL7qddRI)
 <!-- YOUTUBEGITHUB:END -->
