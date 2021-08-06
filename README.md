@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Automatically Updating A Dataverse Choice list (Option Set)](https://www.youtube.com/watch?v=rJaKEK3tJdU)
 - [Build A Bot Episode 8 - Power Virtual Agents in Microsoft Teams](https://www.youtube.com/watch?v=OMd8OknJeNI)
 - [Low Code Scalable Portals with Nikita Polyakov - Power CAT Live](https://www.youtube.com/watch?v=-39YxbzfdrU)
 - [Best practices in Power Automate Part 1](https://www.youtube.com/watch?v=h71ub2Ol0V8)
 - [Best practices in Power Automate part 2](https://www.youtube.com/watch?v=QiA8k5Jh3Hs)
-- [How to manage connections in Power Automate](https://www.youtube.com/watch?v=crKWXkpO_8U)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
