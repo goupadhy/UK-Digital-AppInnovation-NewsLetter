@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How can web developers take advantage of dual-screen devices? | One Dev Question](https://www.youtube.com/watch?v=mc8HeffgfHw)
 - [How do I approach design for larger screens with Figma Design Kit? | One Dev Question](https://www.youtube.com/watch?v=aZYi692S8_E)
 - [Azure Percept – AI IoT Edge Made Easy - Part 2](https://www.youtube.com/watch?v=q0trpfXoGTk)
 - [AI Show Live - Episode 25 - Automate Data Extraction from ID documents with Azure Form Recognizer](https://www.youtube.com/watch?v=hujUbjfqGXs)
 - [Learn Azure Health Bot: Adding scenarios to an Azure Health Bot (Episode 2)](https://www.youtube.com/watch?v=j2M1FwzPTvI)
-- [ACT-W: Advancing the Careers of Technical Womxn on Learn TV](https://www.youtube.com/watch?v=j6MRp0mYxes)
 <!-- YOUTUBEAPPMOD:END -->
 
 
