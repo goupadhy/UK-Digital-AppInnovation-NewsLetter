@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dataverse for Teams quick table and column in Table designer](https://www.youtube.com/watch?v=ekEhx-q6pPg)
 - [Quickly Create an app in Power Apps using a Dataverse Table](https://www.youtube.com/watch?v=NzB0eT_0TcA)
 - [Dataverse Quick Create Column](https://www.youtube.com/watch?v=mX9ZL8KMtWc)
 - [Dataverse Data Types](https://www.youtube.com/watch?v=RYTRO5heh_U)
 - [Create a Quick App in Dataverse for Teams using Dataverse Data](https://www.youtube.com/watch?v=VeCHQIP0z_c)
-- [Automatically Updating A Dataverse Choice list (Option Set)](https://www.youtube.com/watch?v=rJaKEK3tJdU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
