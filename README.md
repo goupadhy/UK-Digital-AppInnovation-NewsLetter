@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Securing Power Apps portals with Azure B2C](https://www.youtube.com/watch?v=Be1-8lBIeaI)
 - [Learn Azure Health Bot: Adding scenarios to an Azure Health Bot (Episode 2)](https://www.youtube.com/watch?v=j2M1FwzPTvI)
 - [Can I build Surface Duo apps with C# and Visual Studio? | One Dev Question](https://www.youtube.com/watch?v=-oIFibJkkAE)
 - [How do I take advantage of the Surface Duo's 2 screens in a Flutter application? | One Dev Question](https://www.youtube.com/watch?v=B5FaoZJO8As)
 - [How can web developers take advantage of dual-screen devices? | One Dev Question](https://www.youtube.com/watch?v=mc8HeffgfHw)
-- [How do I approach design for larger screens with Figma Design Kit? | One Dev Question](https://www.youtube.com/watch?v=aZYi692S8_E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
