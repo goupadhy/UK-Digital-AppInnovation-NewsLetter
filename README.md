@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Microservices Architecture Explained for Everyone with Monica Tamboli & Matt Soucoup](https://www.youtube.com/watch?v=9l4_kNONEuQ)
-- [Pioneering a Process Improvement Team with April Dunnam & Banu Raghuraman](https://www.youtube.com/watch?v=gyKgpTbkf4Y)
-- [Predictive Maintenance Use Cases with Sarah Ewing & Cassie Breviu](https://www.youtube.com/watch?v=e7kiL_Lm_z4)
-- [Securing Power Apps portals with Azure B2C](https://www.youtube.com/watch?v=Be1-8lBIeaI)
-- [Learn Azure Health Bot: Adding scenarios to an Azure Health Bot (Episode 2)](https://www.youtube.com/watch?v=j2M1FwzPTvI)
+- [Web and mobile apps using React Native Web with Robin Heinze](https://www.youtube.com/watch?v=2wOvhDtqsW8)
+- [How do you share resources between React Native and React Native Web applications?](https://www.youtube.com/watch?v=TKvL2dasRrE)
+- [How do I create a React web application?](https://www.youtube.com/watch?v=nbCUw2Wfzcw)
+- [How do I create a React Native application?](https://www.youtube.com/watch?v=HRMz6_h3KRA)
+- [What is React Native?](https://www.youtube.com/watch?v=MJ8zQvwSB_E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
