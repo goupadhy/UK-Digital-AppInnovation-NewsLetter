@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microservices Architecture Explained for Everyone with Monica Tamboli & Matt Soucoup](https://www.youtube.com/watch?v=9l4_kNONEuQ)
+- [Pioneering a Process Improvement Team with April Dunnam & Banu Raghuraman](https://www.youtube.com/watch?v=gyKgpTbkf4Y)
+- [Predictive Maintenance Use Cases with Sarah Ewing & Cassie Breviu](https://www.youtube.com/watch?v=e7kiL_Lm_z4)
 - [Securing Power Apps portals with Azure B2C](https://www.youtube.com/watch?v=Be1-8lBIeaI)
 - [Learn Azure Health Bot: Adding scenarios to an Azure Health Bot (Episode 2)](https://www.youtube.com/watch?v=j2M1FwzPTvI)
-- [Can I build Surface Duo apps with C# and Visual Studio? | One Dev Question](https://www.youtube.com/watch?v=-oIFibJkkAE)
-- [How do I take advantage of the Surface Duo's 2 screens in a Flutter application? | One Dev Question](https://www.youtube.com/watch?v=B5FaoZJO8As)
-- [How can web developers take advantage of dual-screen devices? | One Dev Question](https://www.youtube.com/watch?v=mc8HeffgfHw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
