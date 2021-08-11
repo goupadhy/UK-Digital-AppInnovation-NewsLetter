@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: What's New in C# 10.0](https://www.youtube.com/watch?v=JOdGFLNDbBs)
 - [Azure SQL August 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=p2aXvmknZek)
 - [Learn Azure Health Bot: Enhancing your Health (Episode 3)](https://www.youtube.com/watch?v=iug7QlPrY9k)
 - [Web and mobile apps using React Native Web with Robin Heinze](https://www.youtube.com/watch?v=2wOvhDtqsW8)
 - [How do you share resources between React Native and React Native Web applications?](https://www.youtube.com/watch?v=TKvL2dasRrE)
-- [How do I create a React web application?](https://www.youtube.com/watch?v=nbCUw2Wfzcw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
