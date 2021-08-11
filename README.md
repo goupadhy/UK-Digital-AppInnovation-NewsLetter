@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Assigning security roles in the Power Platform admin center](https://www.youtube.com/watch?v=MJhIwVSpQNM)
+- [Adding users to Dataverse](https://www.youtube.com/watch?v=TvPT5tn2GHo)
+- [Administer Application Users, Security roles, Teams, and Users in the Power Platform admin center](https://www.youtube.com/watch?v=1Iet2si8Ehw)
 - [New Features for US Government - Power CAT Live](https://www.youtube.com/watch?v=8NgfIAWSnCY)
 - [Dataverse for Teams quick table and column in Table designer](https://www.youtube.com/watch?v=ekEhx-q6pPg)
-- [Quickly Create an app in Power Apps using a Dataverse Table](https://www.youtube.com/watch?v=NzB0eT_0TcA)
-- [Dataverse Quick Create Column](https://www.youtube.com/watch?v=mX9ZL8KMtWc)
-- [Dataverse Data Types](https://www.youtube.com/watch?v=RYTRO5heh_U)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
