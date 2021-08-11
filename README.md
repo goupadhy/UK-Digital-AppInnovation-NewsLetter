@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Assigning security roles in the Power Platform admin center](https://www.youtube.com/watch?v=MJhIwVSpQNM)
-- [Adding users to Dataverse](https://www.youtube.com/watch?v=TvPT5tn2GHo)
-- [Administer Application Users, Security roles, Teams, and Users in the Power Platform admin center](https://www.youtube.com/watch?v=1Iet2si8Ehw)
-- [New Features for US Government - Power CAT Live](https://www.youtube.com/watch?v=8NgfIAWSnCY)
-- [Dataverse for Teams quick table and column in Table designer](https://www.youtube.com/watch?v=ekEhx-q6pPg)
+- [How to use forms in Power Automate](https://www.youtube.com/watch?v=-utv0SCUpQY)
+- [How to manage flows as an Administrator](https://www.youtube.com/watch?v=_0v4rDbUX8s)
+- [How to create an approval flow that requires everyone to approve](https://www.youtube.com/watch?v=MDFiZ-F19_A)
+- [Sharepoint in Power Automate Common scenarios](https://www.youtube.com/watch?v=VERzGgrF4Zg)
+- [How to manage your flows: Save, test, turn off, share, and troubleshoot](https://www.youtube.com/watch?v=duWAxZI0pT0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
