@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure DDoS Protection—2021 Q1 and Q2 DDoS attack trends](https://azure.microsoft.com/blog/azure-ddos-protection-2021-q1-and-q2-ddos-attack-trends/)
 - [Accelerate application modernization with Azure Migrate: App Containerization](https://azure.microsoft.com/blog/accelerate-application-modernization-with-azure-migrate-app-containerization/)
 - [Microsoft Cloud for Healthcare expands portfolio with Azure Healthcare APIs](https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-expands-portfolio-with-azure-healthcare-apis/)
 - [Advancing Azure Virtual Machine availability transparency](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-transparency/)
 - [Advancing your financial services strategy with Azure sustainability](https://azure.microsoft.com/blog/advancing-your-financial-services-strategy-with-azure-sustainability/)
-- [Azure Cost Management and Billing updates – July 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-july-2021/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
