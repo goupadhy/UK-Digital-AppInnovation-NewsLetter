@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Deep Dive: Deploy IoT solutions with Azure SQL Database | Data Exposed Live](https://www.youtube.com/watch?v=jCc6uBCOOfE)
+- [Deep Dive: Modernize your Oracle workloads to Azure SQL | Data Exposed Live](https://www.youtube.com/watch?v=IImnbYDdugw)
+- [Azure SQL Virtual Machines Reimagined Series (Ep.4) | Data Exposed Live](https://www.youtube.com/watch?v=PpyAnS7Rbd8)
+- [Azure SQL September 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=N-3m2lfQYMg)
 - [Ask the Expert: What's New in C# 10.0](https://www.youtube.com/watch?v=JOdGFLNDbBs)
-- [Azure SQL August 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=p2aXvmknZek)
-- [Learn Azure Health Bot: Enhancing your Health (Episode 3)](https://www.youtube.com/watch?v=iug7QlPrY9k)
-- [Web and mobile apps using React Native Web with Robin Heinze](https://www.youtube.com/watch?v=2wOvhDtqsW8)
-- [How do you share resources between React Native and React Native Web applications?](https://www.youtube.com/watch?v=TKvL2dasRrE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
