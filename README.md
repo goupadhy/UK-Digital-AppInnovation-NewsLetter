@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [#CoffeeConnections with Dominic Rodney | #LessCodeMorePower](https://www.youtube.com/watch?v=DXvr2b8DFoo)
 - [How to use forms in Power Automate](https://www.youtube.com/watch?v=-utv0SCUpQY)
 - [How to manage flows as an Administrator](https://www.youtube.com/watch?v=_0v4rDbUX8s)
 - [How to create an approval flow that requires everyone to approve](https://www.youtube.com/watch?v=MDFiZ-F19_A)
 - [Sharepoint in Power Automate Common scenarios](https://www.youtube.com/watch?v=VERzGgrF4Zg)
-- [How to manage your flows: Save, test, turn off, share, and troubleshoot](https://www.youtube.com/watch?v=duWAxZI0pT0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
