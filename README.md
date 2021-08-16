@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [CodeStories Denmark | All about sustainable software engineering](https://www.youtube.com/watch?v=speufh42drI)
 - [Learn Azure Health Bot: Enhancing your Health (Episode 3)](https://www.youtube.com/watch?v=iug7QlPrY9k)
 - [AI Show Live - Episode 27 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=u4Lk23OHTM0)
 - [AI Show Live - Episode 26 - Automate Data Extraction from ID documents with Azure Form Recognizer](https://www.youtube.com/watch?v=hujUbjfqGXs)
 - [Prebuilt Docker Images for Inference in Azure Machine Learning | AI Show](https://www.youtube.com/watch?v=N7otStGTP70)
-- [Azure SQL VM: Use Azure Monitor Metrics to Track VM Cache Health (Ep. 3) | Data Exposed](https://www.youtube.com/watch?v=LXIhOOfh3bE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
