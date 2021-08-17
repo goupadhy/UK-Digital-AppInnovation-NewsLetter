@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft named a Leader in The Forrester Wave™: Streaming Analytics, Q2 2021](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/)
 - [Discover and assess ASP.NET apps at-scale with Azure Migrate](https://azure.microsoft.com/blog/discover-and-assess-aspnet-apps-atscale-with-azure-migrate/)
 - [Innovate securely with Azure](https://azure.microsoft.com/blog/innovate-securely-with-azure/)
 - [Azure Government Top Secret now generally available for US national security missions](https://azure.microsoft.com/blog/azure-government-top-secret-now-generally-available-for-us-national-security-missions/)
 - [How to re-size Azure virtual networks that are peered—now in preview](https://azure.microsoft.com/blog/how-to-resize-azure-virtual-networks-that-are-peered-now-in-preview/)
-- [Azure DDoS Protection—2021 Q1 and Q2 DDoS attack trends](https://azure.microsoft.com/blog/azure-ddos-protection-2021-q1-and-q2-ddos-attack-trends/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
