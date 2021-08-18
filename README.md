@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Learn Azure Health Bot: Showcasing how people are using Azure Health Bot (Episode 4)](https://www.youtube.com/watch?v=M4mlCTKngDI)
+- [Learn Live - Enhancing your Azure Health Bot](https://www.youtube.com/watch?v=9hYx810nzX0)
 - [Ask the Expert: .NET MAUI Community Toolkit](https://www.youtube.com/watch?v=IdtCh3oJ6OM)
 - [CodeStories Denmark | All about sustainable software engineering](https://www.youtube.com/watch?v=speufh42drI)
-- [Learn Live - Learn Azure Health Bot: Enhancing your Health (Episode 3)](https://www.youtube.com/watch?v=iug7QlPrY9k)
 - [AI Show Live - Episode 27 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=u4Lk23OHTM0)
-- [AI Show Live - Episode 26 - Automate Data Extraction from ID documents with Azure Form Recognizer](https://www.youtube.com/watch?v=hujUbjfqGXs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
