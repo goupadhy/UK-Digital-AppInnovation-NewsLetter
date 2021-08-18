@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Launch Space -  A roadmap to more sustainable AI systems](https://www.youtube.com/watch?v=wIC2Za8hHuE)
 - [REFACTR.TECH 2021](https://www.youtube.com/watch?v=3zRf6Bk2NvM)
 - [Azure SQL Security: Network Security (Ep.4) | Data Exposed Live](https://www.youtube.com/watch?v=7-syRmLAZWk)
 - [Learn Live - Learn Azure Health Bot: Showcasing how people are using Azure Health Bot (Episode 4)](https://www.youtube.com/watch?v=M4mlCTKngDI)
 - [Learn Live - Enhancing your Azure Health Bot](https://www.youtube.com/watch?v=9hYx810nzX0)
-- [Ask the Expert: .NET MAUI Community Toolkit](https://www.youtube.com/watch?v=IdtCh3oJ6OM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
