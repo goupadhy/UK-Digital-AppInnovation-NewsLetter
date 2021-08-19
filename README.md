@@ -79,8 +79,8 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Azure SQL VM: Get the best price-performance for your SQL Server workloads on Azure VM (Ep. 4)](https://www.youtube.com/watch?v=jS8aeM8w6_0)
 - [The Launch Space -  A roadmap to more sustainable AI systems](https://www.youtube.com/watch?v=wIC2Za8hHuE)
+- [Azure SQL VM: Get the best price-performance for your SQL Server workloads on Azure VM (Ep. 4)](https://www.youtube.com/watch?v=jS8aeM8w6_0)
 - [REFACTR.TECH 2021](https://www.youtube.com/watch?v=3zRf6Bk2NvM)
 - [Azure SQL Security: Network Security (Ep.4) | Data Exposed Live](https://www.youtube.com/watch?v=7-syRmLAZWk)
 - [Learn Live - Learn Azure Health Bot: Showcasing how people are using Azure Health Bot (Episode 4)](https://www.youtube.com/watch?v=M4mlCTKngDI)
