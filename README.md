@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Explore the Microsoft Graph Toolkit with Beth Pan | Web Wednesday](https://www.youtube.com/watch?v=h7PYHkcD9Dw)
+- [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=z9OkkkNsTYc)
 - [AI Show Live - Episode 28 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=57PZB-Zv1WM)
 - [AI Show Live - Episode 27 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=u4Lk23OHTM0)
 - [AI Show | Automate Data Extraction from ID documents with Azure Form Recognizer  | Episode 26](https://www.youtube.com/watch?v=PpT-T3VWFms)
-- [The Launch Space -  A roadmap to more sustainable AI systems](https://www.youtube.com/watch?v=wIC2Za8hHuE)
-- [Azure SQL VM: Get the best price-performance for your SQL Server workloads on Azure VM (Ep. 4)](https://www.youtube.com/watch?v=jS8aeM8w6_0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
