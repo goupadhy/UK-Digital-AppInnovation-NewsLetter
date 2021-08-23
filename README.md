@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [NBA uses Microsoft Azure to power new content that elevates fan engagement](https://www.youtube.com/watch?v=f94aBI4IW5s)
 - [Çağlayan Arkan presents the Art of Possible: Building a resilient and sustainable supply chain](https://www.youtube.com/watch?v=TF21O8VfpZI)
 - [Microsoft for Government](https://www.youtube.com/watch?v=mXUaIaE81Ds)
 - [Mondelēz International moves to Microsoft Azure for great SAP performance and AI innovation](https://www.youtube.com/watch?v=0L0YVPNu-oQ)
 - [Microsoft for Public Safety and Justice](https://www.youtube.com/watch?v=Ei0kSYSVGPg)
-- [Protecting privacy and building customer trust with Microsoft](https://www.youtube.com/watch?v=TseZi010d_c)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
