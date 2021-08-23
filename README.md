@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
 - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
 - [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
 - [Highlights from Git 2.33](https://github.blog/2021-08-16-highlights-from-git-2-33/)
 - [Securing your GitHub account with two-factor authentication](https://github.blog/2021-08-16-securing-your-github-account-two-factor-authentication/)
-- [What’s new from GitHub Changelog? July 2021 Recap](https://github.blog/2021-08-12-whats-new-from-github-changelog-july-2021-recap/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
