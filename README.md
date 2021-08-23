@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Learn Azure Health Bot: Showcasing how people are using Azure Health Bot (Episode 4)](https://www.youtube.com/watch?v=M4mlCTKngDI)
 - [Explore the Microsoft Graph Toolkit with Beth Pan | Web Wednesday](https://www.youtube.com/watch?v=h7PYHkcD9Dw)
 - [Explore Minimal APIs with Maria Naggaga | Web Wednesday](https://www.youtube.com/watch?v=z9OkkkNsTYc)
 - [AI Show Live - Episode 28 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=57PZB-Zv1WM)
 - [AI Show Live - Episode 27 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=u4Lk23OHTM0)
-- [AI Show | Automate Data Extraction from ID documents with Azure Form Recognizer  | Episode 26](https://www.youtube.com/watch?v=PpT-T3VWFms)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
