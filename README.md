@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to prepare a recording for analysis in Process Advisor](https://www.youtube.com/watch?v=WkPxD004z20)
 - [Quarantining Canvas Apps - Power CAT Live](https://www.youtube.com/watch?v=P61zWG63igU)
 - [Migrating To Managed Solutions At Microsoft - Power CAT Live](https://www.youtube.com/watch?v=3Uu5C9zkIjo)
 - [#CoffeeConnections with Dominic Rodney | #LessCodeMorePower](https://www.youtube.com/watch?v=JJj8_EHeWHc)
 - [How to use forms in Power Automate](https://www.youtube.com/watch?v=-utv0SCUpQY)
-- [How to manage flows as an Administrator](https://www.youtube.com/watch?v=_0v4rDbUX8s)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
