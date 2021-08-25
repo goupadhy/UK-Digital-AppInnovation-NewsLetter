@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Deep Dive: Why and How Customers are Using Azure SQL Hyperscale | Data Exposed Live](https://www.youtube.com/watch?v=BjryjdY1kp4)
 - [Ask the Expert: Build Differentiated SaaS Apps with the Microsoft Cloud](https://www.youtube.com/watch?v=-NUpnoi0sf4)
 - [Updates on Migrating to Azure App Service | The Launch Space](https://www.youtube.com/watch?v=3QRqd3ZHYZc)
 - [Ask the Expert: Build a Web App with Blazor](https://www.youtube.com/watch?v=E0rrP2i5XBY)
 - [Learn Live - Learn Azure Health Bot: Showcasing how people are using Azure Health Bot (Episode 4)](https://www.youtube.com/watch?v=M4mlCTKngDI)
-- [Explore the Microsoft Graph Toolkit with Beth Pan | Web Wednesday](https://www.youtube.com/watch?v=h7PYHkcD9Dw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
