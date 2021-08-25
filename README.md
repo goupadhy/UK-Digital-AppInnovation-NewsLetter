@@ -55,10 +55,10 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
 - [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
+- [30 free and open source Linux games &#8211; part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
 - [GitHub CLI 2.0 includes extensions!](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/)
 - [The npm registry is deprecating TLS 1.0 and TLS 1.1](https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/)
 - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/)
-- [GitHub Discussions is out of beta](https://github.blog/2021-08-17-github-discussions-out-of-beta/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
