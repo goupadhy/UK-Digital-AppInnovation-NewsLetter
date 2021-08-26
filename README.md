@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [How to prepare a recording for analysis in Process Advisor](https://www.youtube.com/watch?v=WkPxD004z20)
-- [Quarantining Canvas Apps - Power CAT Live](https://www.youtube.com/watch?v=P61zWG63igU)
-- [Migrating To Managed Solutions At Microsoft - Power CAT Live](https://www.youtube.com/watch?v=3Uu5C9zkIjo)
-- [#CoffeeConnections with Dominic Rodney | #LessCodeMorePower](https://www.youtube.com/watch?v=JJj8_EHeWHc)
-- [How to use forms in Power Automate](https://www.youtube.com/watch?v=-utv0SCUpQY)
+- [Audit and compliance for Power Automate Desktop app in Intune - Part 8 of 8](https://www.youtube.com/watch?v=aj-PxxUJwDU)
+- [Deploying Power Automate Desktop and lifecycle management - Part 4 of 8](https://www.youtube.com/watch?v=iTiTM9NRGtE)
+- [Configure Intune for Deploying Package - Part 3 of 8](https://www.youtube.com/watch?v=QffIA-OpuFQ)
+- [Silent registration for Power Automate Desktop machines with Power Automate - Part 6 of 8](https://www.youtube.com/watch?v=5cDOJX--Vcw)
+- [Manage Power Automate Desktop through System Center Configuration Manager (SCCM) - Part 5 of 8](https://www.youtube.com/watch?v=_hEheQO0WdA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
