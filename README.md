@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Updates on Migrating to Azure App Service | The Launch Space](https://www.youtube.com/watch?v=3QRqd3ZHYZc)
 - [Add vision models to web apps with Lobe.ai](https://www.youtube.com/watch?v=W7tWlwg5_e8)
 - [How do I generate a React application from Lobe.ai?](https://www.youtube.com/watch?v=A6vy-3Qrn-E)
 - [How do I train models in Lobe.ai?](https://www.youtube.com/watch?v=xTrUmCV-dUc)
 - [How do I use a model exported from Lobe.ai?](https://www.youtube.com/watch?v=hGpuk7px6T8)
-- [What is Lobe.ai?](https://www.youtube.com/watch?v=Nz4T7Wr28IU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
