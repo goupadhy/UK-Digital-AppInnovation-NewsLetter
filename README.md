@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Managing SQL Server Agent jobs with Notebook Jobs in Azure Data Studio | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=wQU7zUYxUW8)
 - [Developer Tech Minutes: AI Nose](https://www.youtube.com/watch?v=bJ5Z7rH1KEY)
 - [AI Show Live - Episode 28 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=57PZB-Zv1WM)
 - [AI Show Live - Episode 29 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=uG404z3iBBA)
 - [Updates on Migrating to Azure App Service | The Launch Space](https://www.youtube.com/watch?v=3QRqd3ZHYZc)
-- [Add vision models to web apps with Lobe.ai](https://www.youtube.com/watch?v=W7tWlwg5_e8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
