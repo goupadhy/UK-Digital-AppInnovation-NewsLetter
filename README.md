@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to create a Teams approval process](https://www.youtube.com/watch?v=MKKdDyrceHY)
 - [Use the JavaScript Client API for Model Driven Apps with Jens Schrøder - Power CAT Live](https://www.youtube.com/watch?v=AE-d5JLjE8M)
 - [Audit and compliance for Power Automate Desktop app in Intune - Part 8 of 8](https://www.youtube.com/watch?v=aj-PxxUJwDU)
 - [Deploying Power Automate Desktop and lifecycle management - Part 4 of 8](https://www.youtube.com/watch?v=iTiTM9NRGtE)
 - [Configure Intune for Deploying Package - Part 3 of 8](https://www.youtube.com/watch?v=QffIA-OpuFQ)
-- [Silent registration for Power Automate Desktop machines with Power Automate - Part 6 of 8](https://www.youtube.com/watch?v=5cDOJX--Vcw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
