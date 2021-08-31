@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Vague infringement allegations considered harmful](https://github.blog/2021-08-31-vague-infringement-allegations-considered-harmful/)
 - [Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/)
 - [30 free and open source Linux games &#8211; part 3](https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/)
 - [30 free and open source Linux games &#8211; part 2](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
 - [2021 Transparency Report: January to June](https://github.blog/2021-08-25-2021-transparency-report-january-to-june/)
-- [30 free and open source Linux games &#8211; part 1](https://github.blog/2021-08-25-30-free-and-open-source-linux-games-part-1/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
