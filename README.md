@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure Cost Management and Billing updates – August 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-august-2021/)
 - [5 reasons to attend the Azure data governance digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-data-governance-digital-event/)
 - [Optimize your private mobile network and accelerate innovation with hyperscale cloud](https://azure.microsoft.com/blog/optimize-your-private-mobile-network-and-accelerate-innovation-with-hyperscale-cloud/)
 - [Genomics testing on the ISS with HPE Spaceborne Computer-2 and Azure](https://azure.microsoft.com/blog/genomics-testing-on-the-iss-with-hpe-spaceborne-computer2-and-azure/)
 - [Solve your toughest business problems with analytics and machine learning ](https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/)
-- [Microsoft named a Leader in The Forrester Wave™: Streaming Analytics, Q2 2021](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-streaming-analytics-q2-2021/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
