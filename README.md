@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Taking Stock Live - a conversation with Shelley Bransten and Deb Cupp](https://www.youtube.com/watch?v=1aajZBscKy0)
 - [Creating seamless shopping experience that benefit the bottom line](https://www.youtube.com/watch?v=6YWoFd2T_KQ)
 - [NBA uses Microsoft Azure to power new content that elevates fan engagement](https://www.youtube.com/watch?v=f94aBI4IW5s)
 - [Çağlayan Arkan presents the Art of Possible: Building a resilient and sustainable supply chain](https://www.youtube.com/watch?v=TF21O8VfpZI)
 - [Microsoft for Government](https://www.youtube.com/watch?v=mXUaIaE81Ds)
-- [Mondelēz International moves to Microsoft Azure for great SAP performance and AI innovation](https://www.youtube.com/watch?v=0L0YVPNu-oQ)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
