@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Keynote/Welcome Recording](https://www.youtube.com/watch?v=cl7AYYY-26M)
 - [Azure SQL September 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=N-3m2lfQYMg)
 - [Ask the Expert: Build a Web App with Blazor](https://www.youtube.com/watch?v=E0rrP2i5XBY)
 - [Managing SQL Server Agent jobs with Notebook Jobs in Azure Data Studio | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=wQU7zUYxUW8)
 - [Developer Tech Minutes: AI Nose](https://www.youtube.com/watch?v=bJ5Z7rH1KEY)
-- [AI Show Live - Episode 28 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=57PZB-Zv1WM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
