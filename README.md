@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Announcing Azure Spring Cloud Enterprise—fully managed VMware Tanzu components and advanced configurability for Spring Boot apps](https://azure.microsoft.com/blog/announcing-azure-spring-cloud-enterprise-fully-managed-vmware-tanzu-components-and-configurability-for-spring-boot-apps/)
 - [Azure Cost Management and Billing updates – August 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-august-2021/)
 - [5 reasons to attend the Azure data governance digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-data-governance-digital-event/)
 - [Optimize your private mobile network and accelerate innovation with hyperscale cloud](https://azure.microsoft.com/blog/optimize-your-private-mobile-network-and-accelerate-innovation-with-hyperscale-cloud/)
 - [Genomics testing on the ISS with HPE Spaceborne Computer-2 and Azure](https://azure.microsoft.com/blog/genomics-testing-on-the-iss-with-hpe-spaceborne-computer2-and-azure/)
-- [Solve your toughest business problems with analytics and machine learning ](https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
