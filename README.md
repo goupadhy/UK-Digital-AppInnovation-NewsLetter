@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Employee FAQ Chatbot](https://www.youtube.com/watch?v=2UC_skMu6ug)
+- [Power Virtual Agents Employee FAQ Chatbot](https://www.youtube.com/watch?v=2UC_skMu6ug)
 - [Solving Classroom Emergency Situations Using Power Platform with Lewis Baybutt | #LessCodeMorePower](https://www.youtube.com/watch?v=gIzEzz_4eFQ)
 - [How to create a Teams approval process](https://www.youtube.com/watch?v=MKKdDyrceHY)
 - [Use the JavaScript Client API for Model Driven Apps with Jens Schrøder - Power CAT Live](https://www.youtube.com/watch?v=AE-d5JLjE8M)
