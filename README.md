@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Introducing the MLH Fellowship: GitHub Externship Track](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/)
 - [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
 - [Improving Git protocol security on GitHub](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 - [Introducing GitHub Global Campus](https://github.blog/2021-09-01-introducing-github-global-campus/)
 - [Vague infringement allegations considered harmful](https://github.blog/2021-08-31-vague-infringement-allegations-considered-harmful/)
-- [Request for proposals: Defining standardized GitHub metrics](https://github.blog/2021-08-31-request-for-proposals-defining-standardized-github-metrics/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
