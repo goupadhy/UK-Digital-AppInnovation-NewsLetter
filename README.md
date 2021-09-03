@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build WebSocket-based web apps with the Azure Web PubSub Service](https://www.youtube.com/watch?v=0Oa-PApgNnw)
 - [Azure SQL VM: Using PerfInsights to Evaluate Resource Health and Troubleshoot (Ep. 5) | Data Exposed](https://www.youtube.com/watch?v=y71EDmK_5A8)
 - [Keynote/Welcome Recording](https://www.youtube.com/watch?v=cl7AYYY-26M)
 - [Azure SQL September 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=N-3m2lfQYMg)
 - [Ask the Expert: Build a Web App with Blazor](https://www.youtube.com/watch?v=E0rrP2i5XBY)
-- [Managing SQL Server Agent jobs with Notebook Jobs in Azure Data Studio | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=wQU7zUYxUW8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
