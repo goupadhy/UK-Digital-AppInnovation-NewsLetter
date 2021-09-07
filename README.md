@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: What's New in C# 10.0](https://www.youtube.com/watch?v=JOdGFLNDbBs)
 - [Championing Cloud Computing Curricula Design and Certification Implementation](https://www.youtube.com/watch?v=L64pUdXhx4o)
 - [AI Show Live - Episode 29 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=uG404z3iBBA)
 - [Build WebSocket-based web apps with the Azure Web PubSub Service](https://www.youtube.com/watch?v=0Oa-PApgNnw)
 - [Azure SQL VM: Using PerfInsights to Evaluate Resource Health and Troubleshoot (Ep. 5) | Data Exposed](https://www.youtube.com/watch?v=y71EDmK_5A8)
-- [Keynote/Welcome Recording](https://www.youtube.com/watch?v=cl7AYYY-26M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
