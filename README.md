@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [IoT for Beginners: WioTerminal Hackathon - Part 4](https://www.youtube.com/watch?v=U1cq4VzN0_U)
+- [IoT for Beginners: WioTerminal Hackathon - Part 3](https://www.youtube.com/watch?v=sQayC7P2ERk)
+- [IoT for Beginners: WioTerminal Hackathon - Part 1](https://www.youtube.com/watch?v=_nY8Xrhd7wI)
+- [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
 - [Ask the Expert: What's New in C# 10.0](https://www.youtube.com/watch?v=JOdGFLNDbBs)
-- [Championing Cloud Computing Curricula Design and Certification Implementation](https://www.youtube.com/watch?v=L64pUdXhx4o)
-- [AI Show Live - Episode 29 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=uG404z3iBBA)
-- [Build WebSocket-based web apps with the Azure Web PubSub Service](https://www.youtube.com/watch?v=0Oa-PApgNnw)
-- [Azure SQL VM: Using PerfInsights to Evaluate Resource Health and Troubleshoot (Ep. 5) | Data Exposed](https://www.youtube.com/watch?v=y71EDmK_5A8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
