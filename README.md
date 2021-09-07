@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to add conditions to a cloud flow](https://www.youtube.com/watch?v=BHHXFiGs-38)
 - [Developer Stages of Grief with Dave Milton – Power CAT Live](https://www.youtube.com/watch?v=gJPlCYcnvTo)
 - [How to map AAD groups to an environment](https://www.youtube.com/watch?v=b8tSOl8eolw)
 - [Power Virtual Agents Employee FAQ Chatbot](https://www.youtube.com/watch?v=2UC_skMu6ug)
 - [Solving Classroom Emergency Situations Using Power Platform with Lewis Baybutt | #LessCodeMorePower](https://www.youtube.com/watch?v=gIzEzz_4eFQ)
-- [How to create a Teams approval process](https://www.youtube.com/watch?v=MKKdDyrceHY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
