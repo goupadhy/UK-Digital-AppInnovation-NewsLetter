@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 30 - Ramping up your custom NLP tasks with Verseagility](https://www.youtube.com/watch?v=zGso_pNAw0U)
+- [Deep Dive: Modernize your Oracle workloads to Azure SQL | Data Exposed Live](https://www.youtube.com/watch?v=y-JbrjCXUNQ)
 - [Hello World: Serverless](https://www.youtube.com/watch?v=DrU0P1CWwRQ)
 - [IoT for Beginners: WioTerminal Hackathon - Part 4](https://www.youtube.com/watch?v=U1cq4VzN0_U)
 - [IoT for Beginners: WioTerminal Hackathon - Part 3](https://www.youtube.com/watch?v=sQayC7P2ERk)
-- [IoT for Beginners: WioTerminal Hackathon - Part 1](https://www.youtube.com/watch?v=_nY8Xrhd7wI)
-- [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
