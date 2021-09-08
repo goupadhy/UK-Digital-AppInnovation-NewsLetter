@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Hello World: Serverless](https://www.youtube.com/watch?v=DrU0P1CWwRQ)
 - [IoT for Beginners: WioTerminal Hackathon - Part 4](https://www.youtube.com/watch?v=U1cq4VzN0_U)
 - [IoT for Beginners: WioTerminal Hackathon - Part 3](https://www.youtube.com/watch?v=sQayC7P2ERk)
 - [IoT for Beginners: WioTerminal Hackathon - Part 1](https://www.youtube.com/watch?v=_nY8Xrhd7wI)
 - [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
-- [Ask the Expert: What's New in C# 10.0](https://www.youtube.com/watch?v=JOdGFLNDbBs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
