@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Guarantee capacity access with on-demand capacity reservations—now in preview](https://azure.microsoft.com/blog/guarantee-capacity-access-with-ondemand-capacity-reservations-now-in-preview/)
 - [4 ways AI, computer vision, and related technologies expand IoT solutions](https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/)
 - [Monitor Spring Boot applications end-to-end using Dynatrace](https://azure.microsoft.com/blog/monitor-spring-boot-applications-endtoend-using-dynatrace/)
 - [Announcing Azure Spring Cloud Enterprise—fully managed VMware Tanzu components and advanced configurability for Spring Boot apps](https://azure.microsoft.com/blog/announcing-azure-spring-cloud-enterprise-fully-managed-vmware-tanzu-components-and-configurability-for-spring-boot-apps/)
 - [Azure Cost Management and Billing updates – August 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-august-2021/)
-- [5 reasons to attend the Azure data governance digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-data-governance-digital-event/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
