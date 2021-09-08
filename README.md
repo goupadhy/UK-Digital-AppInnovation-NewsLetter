@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Data Factory Power Hour | Data Exposed Live](https://www.youtube.com/watch?v=ZmjXPprXEEI)
+- [Learn Live - Introduction to machine learning (Episode 1)](https://www.youtube.com/watch?v=Bhc3Kn1IkI4)
 - [Hello World: Cloud Summit 2021 Preview](https://www.youtube.com/watch?v=B5_Rxb8bbWM)
 - [Web Wednesday: Mastering VS debugging with Leslie Richardson](https://www.youtube.com/watch?v=eqDLlqDjDQw)
 - [Hello World: Serverless](https://www.youtube.com/watch?v=DrU0P1CWwRQ)
-- [Ask the Experts: SQL Server on Azure Virtual Machine (Ep.4) | Data Exposed Live](https://www.youtube.com/watch?v=IImnbYDdugw)
-- [AI Show Live - Episode 30 - Ramping up your custom NLP tasks with Verseagility](https://www.youtube.com/watch?v=zGso_pNAw0U)
 <!-- YOUTUBEAPPMOD:END -->
 
 
