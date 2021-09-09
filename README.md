@@ -26,7 +26,7 @@ We hope that these resources will help you innovate and address the real-world n
  
 <!-- YOUTUBECNA:START -->
 - [Web Wednesday: Mastering VS debugging with Leslie Richardson](https://www.youtube.com/watch?v=eqDLlqDjDQw)
-- [Azure Data Factory Power Hour | Data Exposed Live](https://www.youtube.com/watch?v=ZmjXPprXEEI)
+- [Azure Data  Factory Power Hour | Data Exposed Live](https://www.youtube.com/watch?v=ZmjXPprXEEI)
 - [Learn Live - Introduction to machine learning (Episode 1)](https://www.youtube.com/watch?v=Bhc3Kn1IkI4)
 - [Hello World: Cloud Summit 2021 Preview](https://www.youtube.com/watch?v=B5_Rxb8bbWM)
 - [Hello World: Serverless](https://www.youtube.com/watch?v=DrU0P1CWwRQ)
