@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [GitHub Enterprise Server 3.2 brings new color modes and added security capabilities](https://github.blog/2021-09-09-github-enterprise-server-3-2-color-modes-security/)
+- [An analysis on developer-security researcher interactions in the vulnerability disclosure process](https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/)
 - [GitHub security update: Vulnerabilities in tar and @npmcli/arborist](https://github.blog/2021-09-08-github-security-update-vulnerabilities-tar-npmcli-arborist/)
 - [Increasing developer happiness with GitHub code scanning](https://github.blog/2021-09-07-increasing-developer-happiness-github-code-scanning/)
 - [Release Radar · August 2021 Edition](https://github.blog/2021-09-03-release-radar-aug-2021/)
-- [Introducing the MLH Fellowship: GitHub Externship Track](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/)
-- [GitHub Availability Report: August 2021](https://github.blog/2021-09-01-github-availability-report-august-2021/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
