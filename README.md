@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL Virtual Machines Reimagined Series (Ep.5) | Data Exposed Live](https://www.youtube.com/watch?v=8jWntyzBkXU)
+- [Azure SQL Security Series (Ep. 5) | Data Exposed Live](https://www.youtube.com/watch?v=Q330y1VHLR0)
+- [Azure SQL October 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=dKgIqe0x6Bc)
+- [AI Show Live - Episode 30 - Ramping up your custom NLP tasks with Verseagility](https://www.youtube.com/watch?v=zGso_pNAw0U)
 - [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
-- [Ask the Expert: Windows as a Dev Box](https://www.youtube.com/watch?v=T8sGDpFHUQ4)
-- [Developer Tech Minutes: Open Source Software for Social Good](https://www.youtube.com/watch?v=Je0KKTG518Q)
-- [Hello World: Cloud Summit 2021 Preview](https://www.youtube.com/watch?v=B5_Rxb8bbWM)
-- [Using Query Store Hints to Optimize Memory Grants Improving Performance | Data Exposed](https://www.youtube.com/watch?v=CxXLj3-1y7A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
