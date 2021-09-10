@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Suppress the Connection Consent Dialog - Power CAT Live](https://www.youtube.com/watch?v=N0oOW_6JPQs)
 - [Apply to each](https://www.youtube.com/watch?v=LKQCPe_Qp8c)
 - [Notifications In Model Driven Apps! - Power CAT Live](https://www.youtube.com/watch?v=tVVO-rceZus)
 - [How to add conditions to a cloud flow](https://www.youtube.com/watch?v=BHHXFiGs-38)
 - [Developer Stages of Grief with Dave Milton – Power CAT Live](https://www.youtube.com/watch?v=gJPlCYcnvTo)
-- [How to map AAD groups to an environment](https://www.youtube.com/watch?v=b8tSOl8eolw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
