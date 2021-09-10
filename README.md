@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Windows as a Dev Box](https://www.youtube.com/watch?v=T8sGDpFHUQ4)
 - [Developer Tech Minutes: Open Source Software for Social Good](https://www.youtube.com/watch?v=Je0KKTG518Q)
 - [Hello World: Cloud Summit 2021 Preview](https://www.youtube.com/watch?v=B5_Rxb8bbWM)
 - [Using Query Store Hints to Optimize Memory Grants Improving Performance | Data Exposed](https://www.youtube.com/watch?v=CxXLj3-1y7A)
 - [Web Wednesday: Mastering VS debugging with Leslie Richardson](https://www.youtube.com/watch?v=eqDLlqDjDQw)
-- [Azure Data  Factory Power Hour | Data Exposed Live](https://www.youtube.com/watch?v=ZmjXPprXEEI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
