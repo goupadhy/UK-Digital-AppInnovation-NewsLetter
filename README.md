@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Windows Package Manager: Winget v1.0](https://www.youtube.com/watch?v=Lk1gbe_JTpY)
 - [Azure SQL Virtual Machines Reimagined Series (Ep.5) | Data Exposed Live](https://www.youtube.com/watch?v=8jWntyzBkXU)
 - [Azure SQL Security Series (Ep. 5) | Data Exposed Live](https://www.youtube.com/watch?v=Q330y1VHLR0)
 - [Azure SQL October 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=dKgIqe0x6Bc)
 - [AI Show Live - Episode 30 - Ramping up your custom NLP tasks with Verseagility](https://www.youtube.com/watch?v=zGso_pNAw0U)
-- [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
