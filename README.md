@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Powerful Devs Conference](https://www.youtube.com/watch?v=GAAXdhg4hUI)
 - [Microsoft Tech Days: Modernise Java on Azure](https://www.youtube.com/watch?v=rs98ywzLAD8)
 - [Windows Package Manager: Winget v1.0](https://www.youtube.com/watch?v=Lk1gbe_JTpY)
 - [Azure SQL Virtual Machines Reimagined Series (Ep.5) | Data Exposed Live](https://www.youtube.com/watch?v=8jWntyzBkXU)
 - [Azure SQL Security Series (Ep. 5) | Data Exposed Live](https://www.youtube.com/watch?v=Q330y1VHLR0)
-- [Azure SQL October 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=dKgIqe0x6Bc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
