@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Video analytics at the edge, an ideal technology for 5G cloud monetization](https://azure.microsoft.com/blog/video-analytics-at-the-edge-an-ideal-technology-for-5g-cloud-monetization/)
 - [Boost your network security with new updates to Azure Firewall](https://azure.microsoft.com/blog/boost-your-network-security-with-new-updates-to-azure-firewall/)
 - [Improve availability with zone-redundant storage for Azure Disk Storage](https://azure.microsoft.com/blog/improve-availability-with-zoneredundant-storage-for-azure-disk-storage/)
 - [Guarantee capacity access with on-demand capacity reservations—now in preview](https://azure.microsoft.com/blog/guarantee-capacity-access-with-ondemand-capacity-reservations-now-in-preview/)
 - [4 ways AI, computer vision, and related technologies expand IoT solutions](https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/)
-- [Monitor Spring Boot applications end-to-end using Dynatrace](https://azure.microsoft.com/blog/monitor-spring-boot-applications-endtoend-using-dynatrace/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
