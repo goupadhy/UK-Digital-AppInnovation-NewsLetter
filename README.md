@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [S2E3 - Azure Communication Services](https://www.youtube.com/watch?v=0z2UPmm395M)
 - [Day 3 - Sept 15 : Cloud Summit 2021](https://www.youtube.com/watch?v=UvhcNpya5Do)
 - [Powerful Devs Conference](https://www.youtube.com/watch?v=GAAXdhg4hUI)
 - [Microsoft Tech Days: Modernise Java on Azure](https://www.youtube.com/watch?v=rs98ywzLAD8)
 - [Windows Package Manager: Winget v1.0](https://www.youtube.com/watch?v=Lk1gbe_JTpY)
-- [Azure SQL Virtual Machines Reimagined Series (Ep.5) | Data Exposed Live](https://www.youtube.com/watch?v=8jWntyzBkXU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
