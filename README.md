@@ -82,8 +82,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [Learn Live - Introduction to machine learning (Episode 1)](https://www.youtube.com/watch?v=Bhc3Kn1IkI4)
 - [S2E4 - Microsoft Graph](https://www.youtube.com/watch?v=x03l_ME3i1E)
 - [S2E3 - Azure Communication Services](https://www.youtube.com/watch?v=0z2UPmm395M)
-- [Day 3 - Sept 15 : Cloud Summit 2021](https://www.youtube.com/watch?v=UvhcNpya5Do)
 - [Powerful Devs Conference](https://www.youtube.com/watch?v=GAAXdhg4hUI)
+- [Microsoft Tech Days: Modernise Java on Azure](https://www.youtube.com/watch?v=rs98ywzLAD8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
