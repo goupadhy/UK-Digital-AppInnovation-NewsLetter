@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [SharePoint in Power Automate: Actions](https://www.youtube.com/watch?v=naI-yrmR580)
 - [Powerful Devs Conference](https://www.youtube.com/watch?v=F5um182cW5o)
 - [SharePoint in Power Automate: Filtering data](https://www.youtube.com/watch?v=RzOlShVkNJA)
 - [Power Virtual Agents Custom Analytics with Matt Farmer - Power CAT Live](https://www.youtube.com/watch?v=V5rVlv5DkAE)
 - [Power Platform for All: Lowering the Barrier to Entry with Sharif Nasser | #LessCodeMorePower](https://www.youtube.com/watch?v=QvTEWM1gDLQ)
-- [Suppress the Connection Consent Dialog - Power CAT Live](https://www.youtube.com/watch?v=N0oOW_6JPQs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
