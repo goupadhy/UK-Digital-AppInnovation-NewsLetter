@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Well-Architected: The Backstage Tour](https://www.youtube.com/watch?v=6jVQUVSuvLQ)
+- [Hello World:  Azure Communication Services](https://www.youtube.com/watch?v=0z2UPmm395M)
 - [Deep Dive: Modernize your Oracle workloads to Azure SQL | Data Exposed Live](https://www.youtube.com/watch?v=y-JbrjCXUNQ)
 - [Microsoft Mesh App - August 2021 updates](https://www.youtube.com/watch?v=bDJ-MA8vkj4)
 - [Day 3 - Sept 15 : Cloud Summit 2021](https://www.youtube.com/watch?v=UvhcNpya5Do)
-- [Learn Live - Introduction to machine learning (Episode 1)](https://www.youtube.com/watch?v=Bhc3Kn1IkI4)
-- [S2E4 - Microsoft Graph](https://www.youtube.com/watch?v=x03l_ME3i1E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
