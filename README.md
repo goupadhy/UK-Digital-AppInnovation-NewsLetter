@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 31 - I wanna 🤘🏽 Rock (Paper, Scissors) with Seth](https://www.youtube.com/watch?v=7tzzVUHKBcQ)
 - [AI Show | Ramping up your custom NLP tasks with Verseagility | Episode 30](https://www.youtube.com/watch?v=vwSYCy-NLqU)
 - [Day 5 - Sept 17 Part 2 : Cloud Summit 2021](https://www.youtube.com/watch?v=XEZ9-tySvRg)
 - [S2E4 - Microsoft Graph](https://www.youtube.com/watch?v=x03l_ME3i1E)
 - [Day 4 - Sept 16 Cloud Summit 2021](https://www.youtube.com/watch?v=KnNkR09zloo)
-- [How to Use Citus to Shard Postgres, for Performance & Scale  | Data Exposed](https://www.youtube.com/watch?v=SGerMdC0Ub0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
