@@ -25,8 +25,8 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [AI Show Live - Episode 32 - 2021 OpenCV AI Competition Winners - Cortic Tigers](https://www.youtube.com/watch?v=ZpXp_hGLGEU)
 - [Learn Live - Build classical machine learning models with supervised learning (Episode 2)](https://www.youtube.com/watch?v=aaQRVlSmjBs)
+- [AI Show Live - Episode 32 - 2021 OpenCV AI Competition Winners - Cortic Tigers](https://www.youtube.com/watch?v=ZpXp_hGLGEU)
 - [Ask the Expert: Build Differentiated SaaS Apps with Charles Lamanna](https://www.youtube.com/watch?v=-NUpnoi0sf4)
 - [Ask the Expert: .NET Conf Highlights with Jeff Fritz](https://www.youtube.com/watch?v=EP3x7jZiSw8)
 - [Where should I put my Data in Azure?](https://www.youtube.com/watch?v=61nTmPKyoSM)
