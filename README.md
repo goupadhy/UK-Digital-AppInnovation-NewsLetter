@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [GAIA-X gets new support with European Eclipse Data Connector](https://azure.microsoft.com/blog/gaiax-gets-new-support-with-european-eclipse-data-connector/)
 - [Join us behind the scenes at Azure, thanks to the Well-Architected Framework](https://azure.microsoft.com/blog/join-us-behind-the-scenes-at-azure-thanks-to-the-wellarchitected-framework/)
 - [Video analytics at the edge, an ideal technology for 5G cloud monetization](https://azure.microsoft.com/blog/video-analytics-at-the-edge-an-ideal-technology-for-5g-cloud-monetization/)
 - [Boost your network security with new updates to Azure Firewall](https://azure.microsoft.com/blog/boost-your-network-security-with-new-updates-to-azure-firewall/)
 - [Improve availability with zone-redundant storage for Azure Disk Storage](https://azure.microsoft.com/blog/improve-availability-with-zoneredundant-storage-for-azure-disk-storage/)
-- [Guarantee capacity access with on-demand capacity reservations—now in preview](https://azure.microsoft.com/blog/guarantee-capacity-access-with-ondemand-capacity-reservations-now-in-preview/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
