@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Automate It - Episode 16 - Automation CoE command center chat bot (RPA special)](https://www.youtube.com/watch?v=xTMyFjhmdYU)
+- [Next steps after training a Form Processing model](https://www.youtube.com/watch?v=CW5en2fTYDc)
+- [Build A Bot - Episode 9 - Automation CoE command center chat bot (PVA special)](https://www.youtube.com/watch?v=63-BYh1q5CY)
 - [SharePoint in Power Automate: Actions](https://www.youtube.com/watch?v=_ZW9W18B1kY)
 - [Conditional Access Policies for Canvas Apps - Power CAT Live](https://www.youtube.com/watch?v=vYdpjeuxFww)
-- [Powerful Devs Conference](https://www.youtube.com/watch?v=F5um182cW5o)
-- [SharePoint in Power Automate: Filtering data](https://www.youtube.com/watch?v=RzOlShVkNJA)
-- [Power Virtual Agents Custom Analytics with Matt Farmer - Power CAT Live](https://www.youtube.com/watch?v=V5rVlv5DkAE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
