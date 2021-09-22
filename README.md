@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Web Wednesday: Building and deploying a website with Angular](https://www.youtube.com/watch?v=a0caGwdzczE)
 - [Powerful Devs Conference Custom Pages & PCF with Diana Birkelbach](https://www.youtube.com/watch?v=jHSK8hyek5k)
 - [Powerful Devs Conference Getting Started with Azure IOT Central and the Power Platform, Eric Cheng](https://www.youtube.com/watch?v=KOm5ul2O-iQ)
 - [Powerful Devs Conference Code in Power Platform Custom Connectors with Geetha Sivasailam](https://www.youtube.com/watch?v=zasuClMkpm8)
 - [Devs Conference Keynote with Scott Guthrie](https://www.youtube.com/watch?v=xOZgSwDtwVU)
+- [Powerful Devs Conference Using Space APIs to Create Out of This World Power Apps with Linda Nichols](https://www.youtube.com/watch?v=YCq4YlsJuFM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
