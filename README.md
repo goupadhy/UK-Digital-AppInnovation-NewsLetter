@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Announcing npm’s new access token format](https://github.blog/2021-09-23-announcing-npms-new-access-token-format/)
 - [GitHub Advisory Database now supports Rust](https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/)
 - [Audit log streaming is now in public beta](https://github.blog/2021-09-16-audit-log-streaming-public-beta/)
 - [The ReadME Project: A look back at the community stories that shape us](https://github.blog/2021-09-14-the-readme-project-a-look-back-community-stories/)
 - [What’s new from GitHub Changelog? August 2021 Recap](https://github.blog/2021-09-13-whats-new-from-github-changelog-august-2021-recap/)
-- [Announcing recipients of the GitHub Open Source Grants and GitHub Sponsors now open in India](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
