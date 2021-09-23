@@ -79,8 +79,8 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [New Microsoft Learn Modules: Azure SQL IoT and Azure Arc-enabled data services | Data Exposed](https://www.youtube.com/watch?v=UhidkkXdifI)
 - [Hello World: Looking at the New Windows 11](https://www.youtube.com/watch?v=MRsCRADEXN0)
+- [New Microsoft Learn Modules: Azure SQL IoT and Azure Arc-enabled data services | Data Exposed](https://www.youtube.com/watch?v=UhidkkXdifI)
 - [Web Wednesday: Building and deploying a website with Angular](https://www.youtube.com/watch?v=a0caGwdzczE)
 - [Powerful Devs Conference Custom Pages & PCF with Diana Birkelbach](https://www.youtube.com/watch?v=jHSK8hyek5k)
 - [Powerful Devs Conference Getting Started with Azure IOT Central and the Power Platform, Eric Cheng](https://www.youtube.com/watch?v=KOm5ul2O-iQ)
