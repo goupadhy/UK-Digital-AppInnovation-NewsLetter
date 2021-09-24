@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Well-Architected: The Backstage Tour](https://www.youtube.com/watch?v=6jVQUVSuvLQ)
-- [Developer Tech Minutes: Organizational Analytics](https://www.youtube.com/watch?v=cfueAalOgiQ)
-- [Hello World: Looking at the New Windows 11](https://www.youtube.com/watch?v=MRsCRADEXN0)
-- [New Microsoft Learn Modules: Azure SQL IoT and Azure Arc-enabled data services | Data Exposed](https://www.youtube.com/watch?v=UhidkkXdifI)
-- [Web Wednesday: Building and deploying a website with Angular](https://www.youtube.com/watch?v=a0caGwdzczE)
+- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Full Episode](https://www.youtube.com/watch?v=4Kk457RjLQk)
+- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge CSS](https://www.youtube.com/watch?v=J-VoXQ2d2Hg)
+- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge Experimental](https://www.youtube.com/watch?v=Iv-6LxZVlWQ)
+- [Episode 29669: Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge Extension](https://www.youtube.com/watch?v=2ub2GCC8DHg)
+- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil edge get started](https://www.youtube.com/watch?v=xb3ssxIXQ-4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
