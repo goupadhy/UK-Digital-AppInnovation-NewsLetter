@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 32 - 2021 OpenCV AI Competition Winners - Cortic Tigers](https://www.youtube.com/watch?v=ZpXp_hGLGEU)
 - [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Full Episode](https://www.youtube.com/watch?v=4Kk457RjLQk)
 - [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge CSS](https://www.youtube.com/watch?v=J-VoXQ2d2Hg)
 - [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge Experimental](https://www.youtube.com/watch?v=Iv-6LxZVlWQ)
 - [Episode 29669: Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge Extension](https://www.youtube.com/watch?v=2ub2GCC8DHg)
-- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil edge get started](https://www.youtube.com/watch?v=xb3ssxIXQ-4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
