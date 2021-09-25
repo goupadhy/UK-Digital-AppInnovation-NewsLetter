@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [AI Show Live - Episode 32 - 2021 OpenCV AI Competition Winners - Cortic Tigers](https://www.youtube.com/watch?v=ZpXp_hGLGEU)
-- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Full Episode](https://www.youtube.com/watch?v=4Kk457RjLQk)
-- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge CSS](https://www.youtube.com/watch?v=J-VoXQ2d2Hg)
-- [Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge Experimental](https://www.youtube.com/watch?v=Iv-6LxZVlWQ)
-- [Episode 29669: Web Wednesday: Debugging web apps using Edge DevTools with Rachel Weil Edge Extension](https://www.youtube.com/watch?v=2ub2GCC8DHg)
+- [Performance Efficiency: Fast & Furious: Optimizing for Quick & Reliable VM Deployments](https://www.youtube.com/watch?v=qFMfVBPkgYo)
+- [Azure Well-Architected Framework Keynote Address with Mark Russinovich](https://www.youtube.com/watch?v=iHuBzJi0HiU)
+- [Two reasons why you should believe us when we say you can optimize your Azure costs](https://www.youtube.com/watch?v=48DwOBTHEGQ)
+- [Reliability: Bringing Reliability Right to Your Front Door](https://www.youtube.com/watch?v=CCIoko9tf2g)
+- [Operational: Excellence How your resource actually gets provisioned](https://www.youtube.com/watch?v=yRAkQCPat90)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
