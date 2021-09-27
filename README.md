@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Performance Efficiency: Fast & Furious: Optimizing for Quick & Reliable VM Deployments](https://www.youtube.com/watch?v=qFMfVBPkgYo)
+- [IoT for Beginners: WioTerminal Hackathon - Part 1](https://www.youtube.com/watch?v=_nY8Xrhd7wI)
+- [Azure Well-Architected Framework: Performance Efficiency](https://www.youtube.com/watch?v=qFMfVBPkgYo)
 - [Azure Well-Architected Framework Keynote Address with Mark Russinovich](https://www.youtube.com/watch?v=iHuBzJi0HiU)
-- [Two reasons why you should believe us when we say you can optimize your Azure costs](https://www.youtube.com/watch?v=48DwOBTHEGQ)
-- [Reliability: Bringing Reliability Right to Your Front Door](https://www.youtube.com/watch?v=CCIoko9tf2g)
-- [Operational: Excellence How your resource actually gets provisioned](https://www.youtube.com/watch?v=yRAkQCPat90)
+- [Azure Well-Architected Framework: Cost Optimization](https://www.youtube.com/watch?v=48DwOBTHEGQ)
+- [Azure Well-Architected Framework: Reliability](https://www.youtube.com/watch?v=CCIoko9tf2g)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
