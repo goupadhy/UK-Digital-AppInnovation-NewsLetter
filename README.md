@@ -77,10 +77,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
 - [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
 - [SQL Server Failover Cluster Instances in Azure | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=mN18npFVFmE)
-- [Azure Serverless Conf EMEA: Mihail Mateev](https://www.youtube.com/watch?v=YVDxP_GFW_I)
-- [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
