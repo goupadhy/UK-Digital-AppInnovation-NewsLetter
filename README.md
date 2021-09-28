@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Web Wednesday: Mastering VS debugging with Leslie Richardson](https://www.youtube.com/watch?v=xze3eDPrV4I)
+- [Web Wednesday: A Q&A about becoming a Professional Developer with Chloe Condon](https://www.youtube.com/watch?v=FpDrBoSHRhg)
 - [Azure Serverless Conf (AMERICAS)](https://www.youtube.com/watch?v=W2wmSxeA7fM)
 - [IoT for Beginners: WioTerminal Hackathon - Part 1](https://www.youtube.com/watch?v=_nY8Xrhd7wI)
 - [Azure Well-Architected Framework: Performance Efficiency](https://www.youtube.com/watch?v=qFMfVBPkgYo)
-- [Azure Well-Architected Framework Keynote Address with Mark Russinovich](https://www.youtube.com/watch?v=iHuBzJi0HiU)
-- [Azure Well-Architected Framework: Cost Optimization](https://www.youtube.com/watch?v=48DwOBTHEGQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
