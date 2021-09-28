@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Serverless Conf (AMERICAS)](https://www.youtube.com/watch?v=W2wmSxeA7fM)
 - [IoT for Beginners: WioTerminal Hackathon - Part 1](https://www.youtube.com/watch?v=_nY8Xrhd7wI)
 - [Azure Well-Architected Framework: Performance Efficiency](https://www.youtube.com/watch?v=qFMfVBPkgYo)
 - [Azure Well-Architected Framework Keynote Address with Mark Russinovich](https://www.youtube.com/watch?v=iHuBzJi0HiU)
 - [Azure Well-Architected Framework: Cost Optimization](https://www.youtube.com/watch?v=48DwOBTHEGQ)
-- [Azure Well-Architected Framework: Reliability](https://www.youtube.com/watch?v=CCIoko9tf2g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
