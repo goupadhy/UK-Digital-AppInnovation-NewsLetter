@@ -80,9 +80,8 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEAPPMOD:START -->
 - [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
 - [SQL Server Failover Cluster Instances in Azure | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=mN18npFVFmE)
-- [Learn Live - Introduction to data for machine learning (Episode 3)](https://www.youtube.com/watch?v=aP4mC01TUck)
-- [Azure Serverless Conf EMEA: Tom Kerkhove](https://www.youtube.com/watch?v=6OV0ElErGSU)
-- [Azure Serverless Conf EMEA: Nino Crudele](https://www.youtube.com/watch?v=Cm1IQpjXxF4)
+- [Azure Serverless Conf EMEA: Mihail Mateev](https://www.youtube.com/watch?v=YVDxP_GFW_I)
+- [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
