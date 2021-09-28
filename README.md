@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Govern your data wherever it resides with Azure Purview](https://azure.microsoft.com/blog/govern-your-data-wherever-it-resides-with-azure-purview/)
 - [Azure Cost Management and Billing updates – September 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-september-2021/)
 - [Enable industrial device connectivity with thousands of partner-provided Azure IoT Plug and Play device profiles](https://azure.microsoft.com/blog/enable-industrial-device-connectivity-with-thousands-of-partnerprovided-azure-iot-plug-and-play-device-profiles/)
 - [GAIA-X gets new support with European Eclipse Data Connector](https://azure.microsoft.com/blog/gaiax-gets-new-support-with-european-eclipse-data-connector/)
 - [Join us behind the scenes at Azure, thanks to the Well-Architected Framework](https://azure.microsoft.com/blog/join-us-behind-the-scenes-at-azure-thanks-to-the-wellarchitected-framework/)
-- [Video analytics at the edge, an ideal technology for 5G cloud monetization](https://azure.microsoft.com/blog/video-analytics-at-the-edge-an-ideal-technology-for-5g-cloud-monetization/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
