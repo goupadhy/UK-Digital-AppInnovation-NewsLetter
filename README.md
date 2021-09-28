@@ -28,8 +28,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
 - [SQL Server Failover Cluster Instances in Azure | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=mN18npFVFmE)
 - [Learn Live - Introduction to data for machine learning (Episode 3)](https://www.youtube.com/watch?v=aP4mC01TUck)
-- [Azure Serverless Conf (EMEA)](https://www.youtube.com/watch?v=pQsLJBxrl00)
-- [Azure Serverless Conf (APAC)](https://www.youtube.com/watch?v=hT9qL7tJD2E)
+- [Azure Serverless Conf EMEA: Tom Kerkhove](https://www.youtube.com/watch?v=6OV0ElErGSU)
+- [Azure Serverless Conf EMEA: Nino Crudele](https://www.youtube.com/watch?v=Cm1IQpjXxF4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
