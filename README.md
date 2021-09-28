@@ -25,9 +25,9 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Introduction to data for machine learning (Episode 3)](https://www.youtube.com/watch?v=aP4mC01TUck)
 - [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
 - [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
-- [Learn Live - Introduction to data for machine learning (Episode 3)](https://www.youtube.com/watch?v=aP4mC01TUck)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
