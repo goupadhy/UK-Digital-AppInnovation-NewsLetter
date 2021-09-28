@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
+- [SQL Server Failover Cluster Instances in Azure | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=mN18npFVFmE)
+- [Learn Live - Introduction to data for machine learning (Episode 3)](https://www.youtube.com/watch?v=aP4mC01TUck)
 - [Azure Serverless Conf (EMEA)](https://www.youtube.com/watch?v=pQsLJBxrl00)
 - [Azure Serverless Conf (APAC)](https://www.youtube.com/watch?v=hT9qL7tJD2E)
-- [Web Wednesday: Mastering VS debugging with Leslie Richardson](https://www.youtube.com/watch?v=xze3eDPrV4I)
-- [Web Wednesday: A Q&A about becoming a Professional Developer with Chloe Condon](https://www.youtube.com/watch?v=FpDrBoSHRhg)
-- [Azure Serverless Conf (AMERICAS)](https://www.youtube.com/watch?v=W2wmSxeA7fM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
