@@ -70,7 +70,7 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
-- [Microsoft partners with the EDM Council to achieve more in the cloud](https://azure.microsoft.com/blog/microsoft-partners-with-the-edm-council-to-achieve-more-in-the-cloud/)
+- [Microsoft partners with the EDM Council to empower Chief Data Officers to achieve more in the cloud](https://azure.microsoft.com/blog/microsoft-partners-with-the-edm-council-to-achieve-more-in-the-cloud/)
 - [Govern your data wherever it resides with Azure Purview](https://azure.microsoft.com/blog/govern-your-data-wherever-it-resides-with-azure-purview/)
 - [Azure Cost Management and Billing updates – September 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-september-2021/)
 - [Enable industrial device connectivity with thousands of partner-provided Azure IoT Plug and Play device profiles](https://azure.microsoft.com/blog/enable-industrial-device-connectivity-with-thousands-of-partnerprovided-azure-iot-plug-and-play-device-profiles/)
