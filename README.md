@@ -27,7 +27,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBECNA:START -->
 - [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
 - [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
-- [SQL Server Failover Cluster Instances in Azure | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=mN18npFVFmE)
+- [Learn Live - Introduction to data for machine learning (Episode 3)](https://www.youtube.com/watch?v=aP4mC01TUck)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
