@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway (hosted by GeekTrainer)](https://www.youtube.com/watch?v=anXdGtynGpI)
 - [Azure Serverless Conf (AMERICAS)](https://www.youtube.com/watch?v=W2wmSxeA7fM)
 - [Serverless Apps with Blazor WebAssembly and Azure Static Web Apps](https://www.youtube.com/watch?v=cxbwqbjo-gU)
 - [Build Custom Connectors for Azure Logic Apps](https://www.youtube.com/watch?v=vcJNam7RhmQ)
 - [Creating the Azure Functions Updates Twitterbot](https://www.youtube.com/watch?v=g3x49hmJcVs)
-- [Build everything on Serverless!](https://www.youtube.com/watch?v=QMB60t2Ejk4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
