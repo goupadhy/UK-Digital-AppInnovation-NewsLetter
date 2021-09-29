@@ -25,9 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Learn Live - Introduction to data for machine learning (Episode 3)](https://www.youtube.com/watch?v=aP4mC01TUck)
-- [What's New in Project Bonsai](https://www.youtube.com/watch?v=wSHcKDcgkzM)
-- [IoT for Beginners: WioTerminal Hackathon - Part 2](https://www.youtube.com/watch?v=G2L81UGfqnI)
+- [Serverless Apps with Blazor WebAssembly and Azure Static Web Apps](https://www.youtube.com/watch?v=cxbwqbjo-gU)
+- [Build Custom Connectors for Azure Logic Apps](https://www.youtube.com/watch?v=vcJNam7RhmQ)
+- [Creating the Azure Functions Updates Twitterbot](https://www.youtube.com/watch?v=g3x49hmJcVs)
+- [Build everything on Serverless!](https://www.youtube.com/watch?v=QMB60t2Ejk4)
+- [Serverless architectures with SQL Server and Azure Functions](https://www.youtube.com/watch?v=Yz6KNQOwEKs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
