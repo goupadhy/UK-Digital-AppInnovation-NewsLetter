@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to automate ALM process](https://www.youtube.com/watch?v=t7rPzNUx1jI)
 - [Power Fx Formula Columns In Dataverse - Power CAT Live](https://www.youtube.com/watch?v=09V0IMGlG6Y)
 - [Power Apps Community Video Roundup: Getting Started with Power Apps](https://www.youtube.com/watch?v=GzqeG1EHAx4)
 - [Preserving OAuth Configuration During Solution Updates - Power CAT Live](https://www.youtube.com/watch?v=HVDf4yAgkyo)
 - [Automate It - Episode 16 - Automation CoE command center chat bot (RPA special)](https://www.youtube.com/watch?v=xTMyFjhmdYU)
-- [Next steps after training a Form Processing model](https://www.youtube.com/watch?v=CW5en2fTYDc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
