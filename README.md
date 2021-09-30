@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What's New in Project Bonsai](https://www.youtube.com/watch?v=l-TLPRjU3jU)
 - [AI Show Live - Episode 34 Introduction to Neural Networks](https://www.youtube.com/watch?v=YTmvicIL5HA)
 - [What is a Svelte component?](https://www.youtube.com/watch?v=moG5w1U8OLo)
 - [How do I manage two-way data binding in Svelte](https://www.youtube.com/watch?v=sT5iyWxR4Qk)
 - [How do I add props to a Svelte component?](https://www.youtube.com/watch?v=tHmrUu-8eJg)
-- [How is a Svelte project structured?](https://www.youtube.com/watch?v=uLnjm755AC8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
