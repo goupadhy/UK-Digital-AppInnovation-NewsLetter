@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Introducing Dynamics 365 Commerce Functional Consultant Certification](https://www.youtube.com/watch?v=wIjzbzhHsfY)
-- [Achieve Operational Excellence With Azure Well-Architected Framework](https://www.youtube.com/watch?v=AwHpQxU7mJs)
-- [Migrating to SQL: How to find the right Azure SQL SKU for your SQL workloads (Ep. 8) | Data Exposed](https://www.youtube.com/watch?v=2zmZJi5t3Aw)
-- [Azure Serverless Conf (EMEA)](https://www.youtube.com/watch?v=pQsLJBxrl00)
-- [Azure Serverless Conf (APAC)](https://www.youtube.com/watch?v=hT9qL7tJD2E)
+- [What is a Svelte component?](https://www.youtube.com/watch?v=moG5w1U8OLo)
+- [How do I manage two-way data binding in Svelte](https://www.youtube.com/watch?v=sT5iyWxR4Qk)
+- [How do I add props to a Svelte component?](https://www.youtube.com/watch?v=tHmrUu-8eJg)
+- [How is a Svelte project structured?](https://www.youtube.com/watch?v=uLnjm755AC8)
+- [What is Svelte?](https://www.youtube.com/watch?v=O0T_9V7hRc4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
