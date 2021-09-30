@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 34 Introduction to Neural Networks](https://www.youtube.com/watch?v=NWn7AiUxG1o)
 - [High Level MLOps from Microsoft Data Scientists](https://www.youtube.com/watch?v=fsP7xMYOCOo)
 - [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway (hosted by GeekTrainer)](https://www.youtube.com/watch?v=anXdGtynGpI)
 - [Azure Serverless Conf (AMERICAS)](https://www.youtube.com/watch?v=W2wmSxeA7fM)
 - [Serverless Apps with Blazor WebAssembly and Azure Static Web Apps](https://www.youtube.com/watch?v=cxbwqbjo-gU)
-- [Build Custom Connectors for Azure Logic Apps](https://www.youtube.com/watch?v=vcJNam7RhmQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
