@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Serverless Conf (EMEA)](https://www.youtube.com/watch?v=pQsLJBxrl00)
 - [Azure Serverless Conf (APAC)](https://www.youtube.com/watch?v=hT9qL7tJD2E)
 - [AI Show Live - Episode 34 Introduction to Neural Networks](https://www.youtube.com/watch?v=NWn7AiUxG1o)
 - [High Level MLOps from Microsoft Data Scientists](https://www.youtube.com/watch?v=fsP7xMYOCOo)
 - [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway (hosted by GeekTrainer)](https://www.youtube.com/watch?v=anXdGtynGpI)
-- [Azure Serverless Conf (AMERICAS)](https://www.youtube.com/watch?v=W2wmSxeA7fM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
