@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introducing Dynamics 365 Commerce Functional Consultant Certification](https://www.youtube.com/watch?v=wIjzbzhHsfY)
 - [Achieve Operational Excellence With Azure Well-Architected Framework](https://www.youtube.com/watch?v=AwHpQxU7mJs)
 - [Migrating to SQL: How to find the right Azure SQL SKU for your SQL workloads (Ep. 8) | Data Exposed](https://www.youtube.com/watch?v=2zmZJi5t3Aw)
 - [Azure Serverless Conf (EMEA)](https://www.youtube.com/watch?v=pQsLJBxrl00)
 - [Azure Serverless Conf (APAC)](https://www.youtube.com/watch?v=hT9qL7tJD2E)
-- [AI Show Live - Episode 34 Introduction to Neural Networks](https://www.youtube.com/watch?v=NWn7AiUxG1o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
