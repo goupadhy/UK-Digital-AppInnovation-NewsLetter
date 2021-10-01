@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [AI Show | 2021 OpenCV AI Competition |  Grand Prize Winners | Cortic Tigers | Episode 32](https://www.youtube.com/watch?v=TIFbeJcSiVQ)
-- [Securing your cloud journey with Microsoft Cloud Adoption Framework](https://www.youtube.com/watch?v=BElgV99Zspc)
-- [Introducing Dynamics 365 Commerce Functional Consultant Certification](https://www.youtube.com/watch?v=wIjzbzhHsfY)
-- [What's New in Project Bonsai](https://www.youtube.com/watch?v=l-TLPRjU3jU)
-- [AI Show Live - Episode 34 Introduction to Neural Networks](https://www.youtube.com/watch?v=YTmvicIL5HA)
+- [Day 1   Frank Boucher](https://www.youtube.com/watch?v=AG15m0fRcR0)
+- [Day 1   Heini Ilmarinen](https://www.youtube.com/watch?v=Dtipr8TbUuw)
+- [Day 1   Magnus](https://www.youtube.com/watch?v=mGFQVpYWmuY)
+- [Day 1   Olena Borzenko](https://www.youtube.com/watch?v=9arsI6oTo3g)
+- [Day 1   Sabrina Smai](https://www.youtube.com/watch?v=rBKaWcR-xBk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
