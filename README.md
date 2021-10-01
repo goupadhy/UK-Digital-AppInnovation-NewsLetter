@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Securing your cloud journey with Microsoft Cloud Adoption Framework](https://www.youtube.com/watch?v=BElgV99Zspc)
 - [Introducing Dynamics 365 Commerce Functional Consultant Certification](https://www.youtube.com/watch?v=wIjzbzhHsfY)
 - [What's New in Project Bonsai](https://www.youtube.com/watch?v=l-TLPRjU3jU)
 - [AI Show Live - Episode 34 Introduction to Neural Networks](https://www.youtube.com/watch?v=YTmvicIL5HA)
 - [What is a Svelte component?](https://www.youtube.com/watch?v=moG5w1U8OLo)
-- [How do I manage two-way data binding in Svelte](https://www.youtube.com/watch?v=sT5iyWxR4Qk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
