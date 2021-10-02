@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Day 3 Kayla](https://www.youtube.com/watch?v=yn2pKXLgJ-U)
 - [AI Show Live | Episode 33 | High Level MLOps from Microsoft Data Scientists](https://www.youtube.com/watch?v=fsP7xMYOCOo)
 - [Day 1   Frank Boucher](https://www.youtube.com/watch?v=AG15m0fRcR0)
 - [Day 1   Heini Ilmarinen](https://www.youtube.com/watch?v=Dtipr8TbUuw)
 - [Day 1   Magnus](https://www.youtube.com/watch?v=mGFQVpYWmuY)
-- [Day 1   Olena Borzenko](https://www.youtube.com/watch?v=9arsI6oTo3g)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
