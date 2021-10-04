@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft named a Leader in 2021 Gartner® Magic Quadrant™ for data integration tools](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-data-integration-tools/)
 - [Advancing reliability through a resilient cloud supply chain](https://azure.microsoft.com/blog/advancing-reliability-through-a-resilient-cloud-supply-chain/)
 - [Streamline your DDoS management with new Azure Firewall Manager capabilities](https://azure.microsoft.com/blog/streamline-your-ddos-management-with-new-azure-firewall-manager-capabilities/)
 - [Microsoft partners with the EDM Council to empower Chief Data Officers to achieve more in the cloud](https://azure.microsoft.com/blog/microsoft-partners-with-the-edm-council-to-achieve-more-in-the-cloud/)
 - [Govern your data wherever it resides with Azure Purview](https://azure.microsoft.com/blog/govern-your-data-wherever-it-resides-with-azure-purview/)
-- [Azure Cost Management and Billing updates – September 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-september-2021/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
