@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Learn Live - Train and understand regression models in machine learning (Episode 4)](https://www.youtube.com/watch?v=aqYxUN4Ed-U)
-- [Day 3 Kayla](https://www.youtube.com/watch?v=yn2pKXLgJ-U)
-- [AI Show Live | Episode 33 | High Level MLOps from Microsoft Data Scientists](https://www.youtube.com/watch?v=fsP7xMYOCOo)
-- [Day 1   Frank Boucher](https://www.youtube.com/watch?v=AG15m0fRcR0)
-- [Day 1   Heini Ilmarinen](https://www.youtube.com/watch?v=Dtipr8TbUuw)
+- [Azure Serverless Conf AMERICAS Session5 PrashantGBhoyar](https://www.youtube.com/watch?v=-IXAnFlmse8)
+- [Azure Serverless Conf AMERICAS Session6 CharlesChen](https://www.youtube.com/watch?v=Pm9HumbRKvA)
+- [Azure Serverless Conf AMERICAS Session3 DavideMauri](https://www.youtube.com/watch?v=TIh52zbi8Dk)
+- [Azure Serverless Conf AMERICAS Session1 Keynote JonGalloway JamesMontemagno](https://www.youtube.com/watch?v=O2LBlobVuiY)
+- [Azure Serverless Conf AMERICAS Session2 BradenRiggs JaysonDeLancey](https://www.youtube.com/watch?v=tKhUucR6MkI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
