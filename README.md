@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Automation in Windows 11 enables users to reduce repetitive tasks and boost productivity](https://cloudblogs.microsoft.com/powerplatform/2021/10/04/automation-in-windows-11-enables-users-to-reduce-repetitive-tasks-and-boost-productivity/)
 - [Ensure Power Platform success in your organization through a Center of Excellence](https://cloudblogs.microsoft.com/powerplatform/2021/09/20/ensure-power-platform-success-in-your-organization-through-a-center-of-excellence/)
 - [Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q3 2021](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-augmented-bi-platforms-q3-2021/)
 - [Supporting our customers and partners as they return to the workplace—one year later](https://cloudblogs.microsoft.com/powerplatform/2021/07/15/supporting-our-customers-and-partners-as-they-return-to-the-workplace-one-year-later/)
 - [2021 release wave 2 plans for Dynamics 365 and Power Platform now available](https://cloudblogs.microsoft.com/dynamics365/bdm/2021/07/15/2021-release-wave-2-plans-for-dynamics-365-and-power-platform-now-available/)
-- [Innovate and grow with the simplified Business Applications ISV Connect program](https://cloudblogs.microsoft.com/dynamics365/bdm/2021/07/14/innovate-and-grow-with-the-simplified-business-applications-isv-connect-program/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
