@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Train and understand regression models in machine learning (Episode 4)](https://www.youtube.com/watch?v=aqYxUN4Ed-U)
 - [Day 3 Kayla](https://www.youtube.com/watch?v=yn2pKXLgJ-U)
 - [AI Show Live | Episode 33 | High Level MLOps from Microsoft Data Scientists](https://www.youtube.com/watch?v=fsP7xMYOCOo)
 - [Day 1   Frank Boucher](https://www.youtube.com/watch?v=AG15m0fRcR0)
 - [Day 1   Heini Ilmarinen](https://www.youtube.com/watch?v=Dtipr8TbUuw)
-- [Day 1   Magnus](https://www.youtube.com/watch?v=mGFQVpYWmuY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
