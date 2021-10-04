@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Azure Serverless Conf AMERICAS Session5 PrashantGBhoyar](https://www.youtube.com/watch?v=-IXAnFlmse8)
-- [Azure Serverless Conf AMERICAS Session6 CharlesChen](https://www.youtube.com/watch?v=Pm9HumbRKvA)
-- [Azure Serverless Conf AMERICAS Session3 DavideMauri](https://www.youtube.com/watch?v=TIh52zbi8Dk)
-- [Azure Serverless Conf AMERICAS Session1 Keynote JonGalloway JamesMontemagno](https://www.youtube.com/watch?v=O2LBlobVuiY)
-- [Azure Serverless Conf AMERICAS Session2 BradenRiggs JaysonDeLancey](https://www.youtube.com/watch?v=tKhUucR6MkI)
+- [Working with Azure SQL DB Serverless with Carlos Lopez](https://www.youtube.com/watch?v=GFzC2xP4ezk)
+- [IoT for Beginners: WioTerminal Hackathon - Part 3](https://www.youtube.com/watch?v=sQayC7P2ERk)
+- [Battle Royale: Azure Logic Apps vs. Power Automate (Microsoft Flow) with Prashant G Bhoyar](https://www.youtube.com/watch?v=-IXAnFlmse8)
+- [Surfacing FDA COVID Data Using Serverless Functions and CosmosDB with Charles Chen](https://www.youtube.com/watch?v=Pm9HumbRKvA)
+- [Serverless Full-Stack Kickstart with Davide Mauri](https://www.youtube.com/watch?v=TIh52zbi8Dk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
