@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: VS Code: Development in the Open](https://www.youtube.com/watch?v=Aopij_AxWdQ)
+- [AI Show Live - Episode 36 Deep Learning in the Cloud](https://www.youtube.com/watch?v=KhEYFatBHEo)
 - [Working with Azure SQL DB Serverless with Carlos Lopez](https://www.youtube.com/watch?v=GFzC2xP4ezk)
 - [IoT for Beginners: WioTerminal Hackathon - Part 3](https://www.youtube.com/watch?v=sQayC7P2ERk)
 - [Battle Royale: Azure Logic Apps vs. Power Automate (Microsoft Flow) with Prashant G Bhoyar](https://www.youtube.com/watch?v=-IXAnFlmse8)
-- [Surfacing FDA COVID Data Using Serverless Functions and CosmosDB with Charles Chen](https://www.youtube.com/watch?v=Pm9HumbRKvA)
-- [Serverless Full-Stack Kickstart with Davide Mauri](https://www.youtube.com/watch?v=TIh52zbi8Dk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
