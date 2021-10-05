@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [The wait (list) is over: Azure NetApp Files is enterprise-ready in your Azure portal](https://azure.microsoft.com/blog/the-wait-list-is-over-azure-netapp-files-is-enterpriseready-in-your-azure-portal/)
 - [Microsoft named a Leader in 2021 Gartner® Magic Quadrant™ for data integration tools](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-data-integration-tools/)
 - [Advancing reliability through a resilient cloud supply chain](https://azure.microsoft.com/blog/advancing-reliability-through-a-resilient-cloud-supply-chain/)
 - [Streamline your DDoS management with new Azure Firewall Manager capabilities](https://azure.microsoft.com/blog/streamline-your-ddos-management-with-new-azure-firewall-manager-capabilities/)
 - [Microsoft partners with the EDM Council to empower Chief Data Officers to achieve more in the cloud](https://azure.microsoft.com/blog/microsoft-partners-with-the-edm-council-to-achieve-more-in-the-cloud/)
-- [Govern your data wherever it resides with Azure Purview](https://azure.microsoft.com/blog/govern-your-data-wherever-it-resides-with-azure-purview/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
