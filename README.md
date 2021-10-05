@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do decorators work in Angular?](https://www.youtube.com/watch?v=WQ8Zu_A9WjI)
+- [Learn Live - Train and understand regression models in machine learning (Episode 4)](https://www.youtube.com/watch?v=aqYxUN4Ed-U)
 - [ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=tbQA2trhLIs)
 - [Why would a web developer choose a server-side framework?](https://www.youtube.com/watch?v=cSKVzDnLRvA)
 - [How do I get started with Razor pages?](https://www.youtube.com/watch?v=PUE300l_kes)
-- [How do I use tag helpers to enhance my Razor?](https://www.youtube.com/watch?v=tS1zGg7rOWg)
-- [How do I cache portions of a Razor page?](https://www.youtube.com/watch?v=5OBXshNwyLg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
