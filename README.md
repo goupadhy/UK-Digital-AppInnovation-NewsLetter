@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [New Azure VMware Solution updates and global expansion drives customer success](https://azure.microsoft.com/blog/new-azure-vmware-solution-updates-and-global-expansion-drives-customer-success/)
 - [The wait (list) is over: Azure NetApp Files is enterprise-ready in your Azure portal](https://azure.microsoft.com/blog/the-wait-list-is-over-azure-netapp-files-is-enterpriseready-in-your-azure-portal/)
 - [Microsoft named a Leader in 2021 Gartner® Magic Quadrant™ for data integration tools](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-data-integration-tools/)
 - [Advancing reliability through a resilient cloud supply chain](https://azure.microsoft.com/blog/advancing-reliability-through-a-resilient-cloud-supply-chain/)
 - [Streamline your DDoS management with new Azure Firewall Manager capabilities](https://azure.microsoft.com/blog/streamline-your-ddos-management-with-new-azure-firewall-manager-capabilities/)
-- [Microsoft partners with the EDM Council to empower Chief Data Officers to achieve more in the cloud](https://azure.microsoft.com/blog/microsoft-partners-with-the-edm-council-to-achieve-more-in-the-cloud/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
