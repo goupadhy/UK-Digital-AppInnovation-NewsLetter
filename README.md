@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Hello World: API Management](https://www.youtube.com/watch?v=yXFP-2r9T94)
+- [IoT for Beginners: WioTerminal Hackathon - Part 4](https://www.youtube.com/watch?v=U1cq4VzN0_U)
 - [Ask the Expert: VS Code: Development in the Open](https://www.youtube.com/watch?v=Aopij_AxWdQ)
 - [AI Show Live - Episode 36 Deep Learning in the Cloud](https://www.youtube.com/watch?v=KhEYFatBHEo)
 - [Working with Azure SQL DB Serverless with Carlos Lopez](https://www.youtube.com/watch?v=GFzC2xP4ezk)
-- [IoT for Beginners: WioTerminal Hackathon - Part 3](https://www.youtube.com/watch?v=sQayC7P2ERk)
-- [Battle Royale: Azure Logic Apps vs. Power Automate (Microsoft Flow) with Prashant G Bhoyar](https://www.youtube.com/watch?v=-IXAnFlmse8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
