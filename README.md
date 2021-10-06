@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Hello World: API Management](https://www.youtube.com/watch?v=yXFP-2r9T94)
 - [Azure SQL October 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=dKgIqe0x6Bc)
 - [Deploying Azure Landing Zones using Terraform](https://www.youtube.com/watch?v=FlQ17u4NNts)
 - [Exploring web frameworks with Damola Omotosho](https://www.youtube.com/watch?v=bVysO6bjJl0)
 - [What is server-side rendering for web development?](https://www.youtube.com/watch?v=okvg3MRAPs0)
-- [What is Angular?](https://www.youtube.com/watch?v=pO4a-W4vXOY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
