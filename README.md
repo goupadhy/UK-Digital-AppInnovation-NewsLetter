@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Exploring web frameworks with Damola Omotosho](https://www.youtube.com/watch?v=bVysO6bjJl0)
 - [What is server-side rendering for web development?](https://www.youtube.com/watch?v=okvg3MRAPs0)
 - [What is Angular?](https://www.youtube.com/watch?v=pO4a-W4vXOY)
 - [What web framework should I use?](https://www.youtube.com/watch?v=P1Ta7OQAoE4)
 - [What versions of Angular are available, and where should I start?](https://www.youtube.com/watch?v=qGrew7E4-bY)
-- [What is Flutter?](https://www.youtube.com/watch?v=6gMxeaEqbVw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
