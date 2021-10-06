@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [How do decorators work in Angular?](https://www.youtube.com/watch?v=WQ8Zu_A9WjI)
-- [Learn Live - Train and understand regression models in machine learning (Episode 4)](https://www.youtube.com/watch?v=aqYxUN4Ed-U)
-- [ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=tbQA2trhLIs)
-- [Why would a web developer choose a server-side framework?](https://www.youtube.com/watch?v=cSKVzDnLRvA)
-- [How do I get started with Razor pages?](https://www.youtube.com/watch?v=PUE300l_kes)
+- [What is server-side rendering for web development?](https://www.youtube.com/watch?v=okvg3MRAPs0)
+- [What is Angular?](https://www.youtube.com/watch?v=pO4a-W4vXOY)
+- [What web framework should I use?](https://www.youtube.com/watch?v=P1Ta7OQAoE4)
+- [What versions of Angular are available, and where should I start?](https://www.youtube.com/watch?v=qGrew7E4-bY)
+- [What is Flutter?](https://www.youtube.com/watch?v=6gMxeaEqbVw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
