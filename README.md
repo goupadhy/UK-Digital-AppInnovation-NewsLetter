@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Web Wednesday: Managing international dates with JavaScript with Tomomi Imura](https://www.youtube.com/watch?v=UrW49rS4vew)
 - [Hello World - .NET Conf](https://www.youtube.com/watch?v=IcPHsbeXaiM)
 - [Hello World: Microsoft Identity](https://www.youtube.com/watch?v=JK3hbmNinuE)
 - [Hello World: API Management](https://www.youtube.com/watch?v=yXFP-2r9T94)
 - [Azure SQL October 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=dKgIqe0x6Bc)
-- [Deploying Azure Landing Zones using Terraform](https://www.youtube.com/watch?v=FlQ17u4NNts)
 <!-- YOUTUBEAPPMOD:END -->
 
 
