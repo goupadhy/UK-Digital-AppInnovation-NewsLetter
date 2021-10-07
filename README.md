@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [AI Builder Overview in Power Automate](https://www.youtube.com/watch?v=D7p-sSauBTQ)
 - [Create Tables in Dataverse – Part 2](https://www.youtube.com/watch?v=SCTSftWTTDc)
 - [Create Tables in Dataverse – Part 1](https://www.youtube.com/watch?v=txHnZ7ZymEI)
 - [Intelligent document processing capabilities in Power Automate](https://www.youtube.com/watch?v=xmMbXmceS2Y)
 - [Inside the Fast Track Recognized Solution Architect Program (FTRSA) - Power CAT Live](https://www.youtube.com/watch?v=A1h2RnneOBA)
-- [Easier Imports With Dataverse Alternate Keys  - Power CAT Live](https://www.youtube.com/watch?v=m35K6-qlCo4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
