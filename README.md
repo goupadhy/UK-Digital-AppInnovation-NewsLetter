@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MR Speaker Series: Quality Fundamentals](https://www.youtube.com/watch?v=Ohyc7Dm5uiQ)
+- [MR Speaker Series: Shader Foundations](https://www.youtube.com/watch?v=GfeG_ZFzL1g)
+- [MR Speaker Series: The #FutureStages: A Peek Behind the Virtual Curtain](https://www.youtube.com/watch?v=pwCmu4MbV2Q)
+- [MR Speaker Series: Creating worlds whilst worlds apart: Using the HoloLens 2 to create & connect](https://www.youtube.com/watch?v=fvd6LwiqNfM)
 - [MR Speaker Series: So, you want to switch to a career in Mixed Reality?](https://www.youtube.com/watch?v=glYufvWECQI)
-- [Imagine Cup Kick Off: Build Your Epic](https://www.youtube.com/watch?v=D6tlnH1e4i0)
-- [AI Show | High Level MLOps with Microsoft Data Scientists | Episode 33](https://www.youtube.com/watch?v=NkeKwvK_AAE)
-- [Learn release management best-practices with Azure Well-Architected Framework](https://www.youtube.com/watch?v=3gQIH-Sai6s)
-- [Hello World: Microsoft Identity](https://www.youtube.com/watch?v=JK3hbmNinuE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
