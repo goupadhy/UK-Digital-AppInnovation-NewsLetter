@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Financial Services Overview: Accelerate innovation for sustainable growth](https://www.youtube.com/watch?v=qSmsfJ5ieZE)
 - [How to get started with Windows Admin Center](https://www.youtube.com/watch?v=JQ1aHG8yZkQ)
 - [Microsoft for Public Health and Social Services](https://www.youtube.com/watch?v=G31-XLmBb14)
 - [Çağlayan Arkan presents the Art of Possible: What’s next for industrial innovation with Honeywell](https://www.youtube.com/watch?v=hZKC-V7vQhM)
 - [Taking Stock Live - a conversation with Shelley Bransten and Deb Cupp](https://www.youtube.com/watch?v=1aajZBscKy0)
-- [Creating seamless shopping experience that benefit the bottom line](https://www.youtube.com/watch?v=6YWoFd2T_KQ)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
