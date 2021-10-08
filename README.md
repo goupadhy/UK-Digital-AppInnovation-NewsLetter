@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn release management best-practices with Azure Well-Architected Framework](https://www.youtube.com/watch?v=3gQIH-Sai6s)
 - [Hello World: Microsoft Identity](https://www.youtube.com/watch?v=JK3hbmNinuE)
 - [Migrating to SQL: Introduction to Database Schema Conversion Toolkit (DSCT) (Ep. 9) | Data Exposed](https://www.youtube.com/watch?v=HWlKP_w9ldM)
 - [Compute Auto-scaling in Azure SQL Database Serverless with Morgan Oslake](https://www.youtube.com/watch?v=mmRMvVo21-c)
 - [Web Wednesday: Managing international dates with JavaScript with Tomomi Imura](https://www.youtube.com/watch?v=UrW49rS4vew)
-- [Hello World - .NET Conf](https://www.youtube.com/watch?v=IcPHsbeXaiM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
