@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MR Speaker Series: Creating a digital twin solution with Unity & Azure Digital Twins](https://www.youtube.com/watch?v=xzXd57RutrQ)
+- [MR Speaker Series: Bringing People Together in MR: The tech behind the vision](https://www.youtube.com/watch?v=wjGEaaLWsLo)
+- [MR Speaker Series: Mixed Reality for Cultural Heritage](https://www.youtube.com/watch?v=J7G2oj3rtGg)
+- [AI Show Live - Episode 34 Introduction to Deep Learning](https://www.youtube.com/watch?v=YTmvicIL5HA)
 - [MR Speaker Series: Quality Fundamentals](https://www.youtube.com/watch?v=Ohyc7Dm5uiQ)
-- [MR Speaker Series: Shader Foundations](https://www.youtube.com/watch?v=GfeG_ZFzL1g)
-- [MR Speaker Series: The #FutureStages: A Peek Behind the Virtual Curtain](https://www.youtube.com/watch?v=pwCmu4MbV2Q)
-- [MR Speaker Series: Creating worlds whilst worlds apart: Using the HoloLens 2 to create & connect](https://www.youtube.com/watch?v=fvd6LwiqNfM)
-- [MR Speaker Series: So, you want to switch to a career in Mixed Reality?](https://www.youtube.com/watch?v=glYufvWECQI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
