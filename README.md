@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MR Speaker Series: So, you want to switch to a career in Mixed Reality?](https://www.youtube.com/watch?v=glYufvWECQI)
+- [Imagine Cup Kick Off: Build Your Epic](https://www.youtube.com/watch?v=D6tlnH1e4i0)
+- [AI Show | High Level MLOps with Microsoft Data Scientists | Episode 33](https://www.youtube.com/watch?v=NkeKwvK_AAE)
 - [Learn release management best-practices with Azure Well-Architected Framework](https://www.youtube.com/watch?v=3gQIH-Sai6s)
 - [Hello World: Microsoft Identity](https://www.youtube.com/watch?v=JK3hbmNinuE)
-- [Migrating to SQL: Introduction to Database Schema Conversion Toolkit (DSCT) (Ep. 9) | Data Exposed](https://www.youtube.com/watch?v=HWlKP_w9ldM)
-- [Compute Auto-scaling in Azure SQL Database Serverless with Morgan Oslake](https://www.youtube.com/watch?v=mmRMvVo21-c)
-- [Web Wednesday: Managing international dates with JavaScript with Tomomi Imura](https://www.youtube.com/watch?v=UrW49rS4vew)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
