@@ -29,7 +29,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Actionable Ideation: How to use the 100 Bad Ideas Framework to Find Your BEST Ideas with Dona Sarkar](https://www.youtube.com/watch?v=BGH3O-AfITU)
 - [Being Customer-Driven: How to Discover Unmet Needs and Change the World with Travis Lowdermilk](https://www.youtube.com/watch?v=6TsjLkrDwlI)
 - [Failing Can Be Good! Bringing a Growth Mindset to Every Project with Amanda Silver](https://www.youtube.com/watch?v=arkFs9hYE5U)
-- [Welcome to the Imagine Cup!](https://www.youtube.com/watch?v=Zej3R0y_Tu0)
+- [MR Speaker Series: Creating a digital twin solution with Unity & Azure Digital Twins](https://www.youtube.com/watch?v=xzXd57RutrQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
