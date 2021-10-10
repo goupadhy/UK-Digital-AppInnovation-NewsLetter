@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Failing Can Be Good! Bringing a Growth Mindset to Every Project with Amanda Silver](https://www.youtube.com/watch?v=arkFs9hYE5U)
 - [Welcome to the Imagine Cup!](https://www.youtube.com/watch?v=Zej3R0y_Tu0)
 - [The Secrets to Product Storytelling with Seth Juarez](https://www.youtube.com/watch?v=aWPuI0w55U0)
 - [It's Time to Go Tell Your Story!](https://www.youtube.com/watch?v=GGR9W-MhkrM)
 - [MR Speaker Series: Creating a digital twin solution with Unity & Azure Digital Twins](https://www.youtube.com/watch?v=xzXd57RutrQ)
-- [MR Speaker Series: Bringing People Together in MR: The tech behind the vision](https://www.youtube.com/watch?v=wjGEaaLWsLo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
