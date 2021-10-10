@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Understanding Teams Through Systems Thinking and Stories with Scott Hanselman](https://www.youtube.com/watch?v=V73iL_INK7Y)
 - [Actionable Ideation: How to use the 100 Bad Ideas Framework to Find Your BEST Ideas with Dona Sarkar](https://www.youtube.com/watch?v=BGH3O-AfITU)
 - [Being Customer-Driven: How to Discover Unmet Needs and Change the World with Travis Lowdermilk](https://www.youtube.com/watch?v=6TsjLkrDwlI)
 - [Failing Can Be Good! Bringing a Growth Mindset to Every Project with Amanda Silver](https://www.youtube.com/watch?v=arkFs9hYE5U)
 - [Welcome to the Imagine Cup!](https://www.youtube.com/watch?v=Zej3R0y_Tu0)
-- [The Secrets to Product Storytelling with Seth Juarez](https://www.youtube.com/watch?v=aWPuI0w55U0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
