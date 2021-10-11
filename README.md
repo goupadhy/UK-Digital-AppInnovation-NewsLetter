@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft named as a Leader in 2021 Gartner® Magic Quadrant™ for Full Lifecycle API Management](https://azure.microsoft.com/blog/microsoft-named-as-a-leader-in-2021-gartner-magic-quadrant-for-full-lifecycle-api-management/)
 - [Microsoft named as a Leader in 2021 Gartner® Magic Quadrant™ for Enterprise Integration Platform as a Service](https://azure.microsoft.com/blog/microsoft-named-as-a-leader-in-2021-gartner-magic-quadrant-for-enterprise-integration-platform-as-a-service/)
 - [New Azure VMware Solution updates and global expansion drives customer success](https://azure.microsoft.com/blog/new-azure-vmware-solution-updates-and-global-expansion-drives-customer-success/)
 - [The wait (list) is over: Azure NetApp Files is enterprise-ready in your Azure portal](https://azure.microsoft.com/blog/the-wait-list-is-over-azure-netapp-files-is-enterpriseready-in-your-azure-portal/)
 - [Microsoft named a Leader in 2021 Gartner® Magic Quadrant™ for data integration tools](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-data-integration-tools/)
-- [Advancing reliability through a resilient cloud supply chain](https://azure.microsoft.com/blog/advancing-reliability-through-a-resilient-cloud-supply-chain/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
