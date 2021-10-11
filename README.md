@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Understanding Teams Through Systems Thinking and Stories with Scott Hanselman](https://www.youtube.com/watch?v=V73iL_INK7Y)
-- [Actionable Ideation: How to use the 100 Bad Ideas Framework to Find Your BEST Ideas with Dona Sarkar](https://www.youtube.com/watch?v=BGH3O-AfITU)
-- [Being Customer-Driven: How to Discover Unmet Needs and Change the World with Travis Lowdermilk](https://www.youtube.com/watch?v=6TsjLkrDwlI)
-- [Failing Can Be Good! Bringing a Growth Mindset to Every Project with Amanda Silver](https://www.youtube.com/watch?v=arkFs9hYE5U)
 - [MR Speaker Series: Creating a digital twin solution with Unity & Azure Digital Twins](https://www.youtube.com/watch?v=xzXd57RutrQ)
+- [MR Speaker Series: Bringing People Together in MR: The tech behind the vision](https://www.youtube.com/watch?v=wjGEaaLWsLo)
+- [MR Speaker Series: Mixed Reality for Cultural Heritage](https://www.youtube.com/watch?v=J7G2oj3rtGg)
+- [AI Show Live - Episode 34 Introduction to Deep Learning](https://www.youtube.com/watch?v=YTmvicIL5HA)
+- [MR Speaker Series: Quality Fundamentals](https://www.youtube.com/watch?v=Ohyc7Dm5uiQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
