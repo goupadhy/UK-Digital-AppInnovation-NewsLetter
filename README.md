@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=qEdVcTZH5bs)
 - [MR Speaker Series: Creating a digital twin solution with Unity & Azure Digital Twins](https://www.youtube.com/watch?v=xzXd57RutrQ)
 - [MR Speaker Series: Bringing People Together in MR: The tech behind the vision](https://www.youtube.com/watch?v=wjGEaaLWsLo)
 - [MR Speaker Series: Mixed Reality for Cultural Heritage](https://www.youtube.com/watch?v=J7G2oj3rtGg)
 - [AI Show Live - Episode 34 Introduction to Deep Learning](https://www.youtube.com/watch?v=YTmvicIL5HA)
-- [MR Speaker Series: Quality Fundamentals](https://www.youtube.com/watch?v=Ohyc7Dm5uiQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
