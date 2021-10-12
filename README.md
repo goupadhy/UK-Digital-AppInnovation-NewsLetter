@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Model virtual machine costs with the Azure Cost Estimator Power BI Template](https://www.youtube.com/watch?v=awYdinnhlZI)
 - [AI Show Live - Episode 38 - Ignite Recap](https://www.youtube.com/watch?v=-yvD_diUFQQ)
 - [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=qEdVcTZH5bs)
 - [MR Speaker Series: Creating a digital twin solution with Unity & Azure Digital Twins](https://www.youtube.com/watch?v=xzXd57RutrQ)
 - [MR Speaker Series: Bringing People Together in MR: The tech behind the vision](https://www.youtube.com/watch?v=wjGEaaLWsLo)
-- [MR Speaker Series: Mixed Reality for Cultural Heritage](https://www.youtube.com/watch?v=J7G2oj3rtGg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
