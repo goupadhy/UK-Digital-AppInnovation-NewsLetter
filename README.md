@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [DaprCon Day 1](https://www.youtube.com/watch?v=NYpe2qUm-AE)
 - [AI Show Live - Episode 34 - Building computer vision models using AutoML for Images](https://www.youtube.com/watch?v=PlSlU8NOEIE)
 - [Ask the Expert: VS Code: Development in the Open](https://www.youtube.com/watch?v=Aopij_AxWdQ)
 - [Learn Live - Refine and test machine learning models (Episode 5)](https://www.youtube.com/watch?v=qsPJNVdX6PI)
 - [Model virtual machine costs with the Azure Cost Estimator Power BI Template](https://www.youtube.com/watch?v=awYdinnhlZI)
-- [AI Show Live - Episode 38 - Ignite Recap](https://www.youtube.com/watch?v=-yvD_diUFQQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
