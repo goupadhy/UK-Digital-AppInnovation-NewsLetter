@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [StereoKit: Hello World for StereoKit](https://www.youtube.com/watch?v=apcWlHNJ5kM)
+- [StereoKit: Render a Model from File](https://www.youtube.com/watch?v=WUU67r_Tt_M)
+- [StereoKit: Project Setup for HoloLens Development](https://www.youtube.com/watch?v=U_7VNIcPQaM)
+- [StereoKit - Project Setup for Desktop Development](https://www.youtube.com/watch?v=lOYs8seoRpc)
 - [Learn Live - Refine and test machine learning models (Episode 5)](https://www.youtube.com/watch?v=qsPJNVdX6PI)
-- [DaprCon Day 1](https://www.youtube.com/watch?v=NYpe2qUm-AE)
-- [AI Show Live - Episode 34 - Building computer vision models using AutoML for Images](https://www.youtube.com/watch?v=PlSlU8NOEIE)
-- [Ask the Expert: VS Code: Development in the Open](https://www.youtube.com/watch?v=Aopij_AxWdQ)
-- [Model virtual machine costs with the Azure Cost Estimator Power BI Template](https://www.youtube.com/watch?v=awYdinnhlZI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
