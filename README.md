@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Unleashing the true potential of 5G with cloud networks](https://azure.microsoft.com/blog/unleashing-the-true-potential-of-5g-with-cloud-networks/)
 - [Empowering cloud sustainability with the Microsoft Emissions Impact Dashboard](https://azure.microsoft.com/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/)
 - [Unlock opportunities to engage customers at scale](https://azure.microsoft.com/blog/unlock-opportunities-to-engage-customers-at-scale/)
 - [Business as usual for Azure customers despite 2.4 Tbps DDoS attack](https://azure.microsoft.com/blog/business-as-usual-for-azure-customers-despite-24-tbps-ddos-attack/)
 - [Microsoft named as a Leader in 2021 Gartner® Magic Quadrant™ for Full Lifecycle API Management](https://azure.microsoft.com/blog/microsoft-named-as-a-leader-in-2021-gartner-magic-quadrant-for-full-lifecycle-api-management/)
-- [Microsoft named as a Leader in 2021 Gartner® Magic Quadrant™ for Enterprise Integration Platform as a Service](https://azure.microsoft.com/blog/microsoft-named-as-a-leader-in-2021-gartner-magic-quadrant-for-enterprise-integration-platform-as-a-service/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
