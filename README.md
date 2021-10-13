@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [StereoKit: Hello World for StereoKit](https://www.youtube.com/watch?v=apcWlHNJ5kM)
-- [StereoKit: Render a Model from File](https://www.youtube.com/watch?v=WUU67r_Tt_M)
-- [StereoKit: Project Setup for HoloLens Development](https://www.youtube.com/watch?v=U_7VNIcPQaM)
-- [StereoKit - Project Setup for Desktop Development](https://www.youtube.com/watch?v=lOYs8seoRpc)
-- [Learn Live - Refine and test machine learning models (Episode 5)](https://www.youtube.com/watch?v=qsPJNVdX6PI)
+- [Understanding Teams Through Systems Thinking and Stories with Scott Hanselman](https://www.youtube.com/watch?v=dT6Eso4AYp8)
+- [Actionable Ideation: How to use the 100 Bad Ideas Framework to Find Your BEST Ideas with Dona Sarkar](https://www.youtube.com/watch?v=C01SJPKD_I8)
+- [Being Customer-Driven: How to Discover Unmet Needs and Change the World with Travis Lowdermilk](https://www.youtube.com/watch?v=oIy01Q-o0AA)
+- [Failing Can Be Good! Bringing a Growth Mindset to Every Project with Amanda Silver](https://www.youtube.com/watch?v=XzrsC7oCS1w)
+- [The Secrets to Product Storytelling with Seth Juarez](https://www.youtube.com/watch?v=9EDxu7nPX24)
 <!-- YOUTUBEAPPMOD:END -->
 
 
