@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Data Factory Power Hour | Data Exposed Live](https://www.youtube.com/watch?v=ZmjXPprXEEI)
 - [Understanding Teams Through Systems Thinking and Stories with Scott Hanselman](https://www.youtube.com/watch?v=dT6Eso4AYp8)
 - [Actionable Ideation: How to use the 100 Bad Ideas Framework to Find Your BEST Ideas with Dona Sarkar](https://www.youtube.com/watch?v=C01SJPKD_I8)
 - [Being Customer-Driven: How to Discover Unmet Needs and Change the World with Travis Lowdermilk](https://www.youtube.com/watch?v=oIy01Q-o0AA)
 - [Failing Can Be Good! Bringing a Growth Mindset to Every Project with Amanda Silver](https://www.youtube.com/watch?v=XzrsC7oCS1w)
-- [The Secrets to Product Storytelling with Seth Juarez](https://www.youtube.com/watch?v=9EDxu7nPX24)
 <!-- YOUTUBEAPPMOD:END -->
 
 
