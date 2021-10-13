@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Where should I put my Data in Azure?](https://www.youtube.com/watch?v=hIjdtgmEnEs)
+- [Data Science for Beginners: A New Free Curriculum](https://www.youtube.com/watch?v=8mzavjQSMM4)
 - [Hello World: .NET 6 and .NET Conf](https://www.youtube.com/watch?v=IcPHsbeXaiM)
 - [Azure Data Factory Power Hour | Data Exposed Live](https://www.youtube.com/watch?v=ZmjXPprXEEI)
 - [Understanding Teams Through Systems Thinking and Stories with Scott Hanselman](https://www.youtube.com/watch?v=dT6Eso4AYp8)
-- [Actionable Ideation: How to use the 100 Bad Ideas Framework to Find Your BEST Ideas with Dona Sarkar](https://www.youtube.com/watch?v=C01SJPKD_I8)
-- [Being Customer-Driven: How to Discover Unmet Needs and Change the World with Travis Lowdermilk](https://www.youtube.com/watch?v=oIy01Q-o0AA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
