@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models](https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/)
 - [Unleashing the true potential of 5G with cloud networks](https://azure.microsoft.com/blog/unleashing-the-true-potential-of-5g-with-cloud-networks/)
 - [Empowering cloud sustainability with the Microsoft Emissions Impact Dashboard](https://azure.microsoft.com/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/)
 - [Unlock opportunities to engage customers at scale](https://azure.microsoft.com/blog/unlock-opportunities-to-engage-customers-at-scale/)
 - [Business as usual for Azure customers despite 2.4 Tbps DDoS attack](https://azure.microsoft.com/blog/business-as-usual-for-azure-customers-despite-24-tbps-ddos-attack/)
-- [Microsoft named as a Leader in 2021 Gartner® Magic Quadrant™ for Full Lifecycle API Management](https://azure.microsoft.com/blog/microsoft-named-as-a-leader-in-2021-gartner-magic-quadrant-for-full-lifecycle-api-management/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
