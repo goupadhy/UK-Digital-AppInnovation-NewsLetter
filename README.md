@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Notebook Views in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=c6VWLk1WZtY)
 - [Optimize Monitoring and Observability with Azure Well-Architected Framework](https://www.youtube.com/watch?v=ah_YQ-ppNDU)
 - [AI Show Live - Episode 35 - Building computer vision models using AutoML for Images](https://www.youtube.com/watch?v=2g4v0bMcBdk)
 - [Where should I put my Data in Azure?](https://www.youtube.com/watch?v=hIjdtgmEnEs)
 - [Data Science for Beginners: A New Free Curriculum](https://www.youtube.com/watch?v=8mzavjQSMM4)
-- [Hello World: .NET 6 and .NET Conf](https://www.youtube.com/watch?v=IcPHsbeXaiM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
