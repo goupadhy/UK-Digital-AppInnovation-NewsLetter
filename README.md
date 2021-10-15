@@ -25,10 +25,10 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Getting Started Programming](https://www.youtube.com/watch?v=EuoT3xuZ9CY)
 - [Where should I put my Data in Azure?](https://www.youtube.com/watch?v=hIjdtgmEnEs)
 - [Notebook Views in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=c6VWLk1WZtY)
 - [Optimize Monitoring and Observability with Azure Well-Architected Framework](https://www.youtube.com/watch?v=ah_YQ-ppNDU)
-- [AI Show Live - Episode 35 - Building computer vision models using AutoML for Images](https://www.youtube.com/watch?v=2g4v0bMcBdk)
 - [Data Science for Beginners: A New Free Curriculum](https://www.youtube.com/watch?v=8mzavjQSMM4)
 <!-- YOUTUBECNA:END -->
 
