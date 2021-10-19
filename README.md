@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Developer Tech Minutes: Mastering Mahjong with AI](https://www.youtube.com/watch?v=XYhjU5JZ7lI)
+- [Armchair Architects: Resiliency in the Cloud: an Introduction](https://www.youtube.com/watch?v=rSaaHKsDnT4)
 - [Learn Live - Create and understand classification models in machine learning (Episode 6)](https://www.youtube.com/watch?v=Gv817ErCXXE)
 - [Hello World Meets Microsoft Graph team](https://www.youtube.com/watch?v=Cw_v1BQk_NU)
 - [Azure SQL November 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=FnLuXDdGmTE)
-- [AI Show Live - Episode 35 - Building computer vision models using AutoML for Images](https://www.youtube.com/watch?v=2g4v0bMcBdk)
-- [Microsoft SQL Engineering Session | Data Exposed Live](https://www.youtube.com/watch?v=Q6MW6p93jDU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
