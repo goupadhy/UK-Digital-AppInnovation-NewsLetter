@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Increase ROI and business impact with Azure Machine Learning](https://azure.microsoft.com/blog/increase-roi-and-business-impact-with-azure-machine-learning/)
 - [Empower an adaptive IT environment with Inside Azure for IT](https://azure.microsoft.com/blog/empower-an-adaptive-it-environment-for-people-processes-and-culture-with-inside-azure-for-it/)
 - [Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models](https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/)
 - [Unleashing the true potential of 5G with cloud networks](https://azure.microsoft.com/blog/unleashing-the-true-potential-of-5g-with-cloud-networks/)
 - [Empowering cloud sustainability with the Microsoft Emissions Impact Dashboard](https://azure.microsoft.com/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/)
-- [Unlock opportunities to engage customers at scale](https://azure.microsoft.com/blog/unlock-opportunities-to-engage-customers-at-scale/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
