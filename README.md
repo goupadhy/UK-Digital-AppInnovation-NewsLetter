@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Hello World Meets Microsoft Graph team](https://www.youtube.com/watch?v=Cw_v1BQk_NU)
 - [Azure SQL November 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=FnLuXDdGmTE)
 - [AI Show Live - Episode 35 - Building computer vision models using AutoML for Images](https://www.youtube.com/watch?v=2g4v0bMcBdk)
 - [Microsoft SQL Engineering Session | Data Exposed Live](https://www.youtube.com/watch?v=Q6MW6p93jDU)
 - [Ask the Expert: Getting Started Programming](https://www.youtube.com/watch?v=EuoT3xuZ9CY)
-- [Where should I put my Data in Azure?](https://www.youtube.com/watch?v=hIjdtgmEnEs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
