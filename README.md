@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [The Enclave Device Blueprint for confidential computing at the edge](https://azure.microsoft.com/blog/the-enclave-device-blueprint-for-confidential-computing-at-the-edge/)
+- [Join us at NAFEMS World Congress to learn more about Azure HPC and AI Supercomputing](https://azure.microsoft.com/blog/join-us-at-nafems-world-congress-to-learn-more-about-azure-hpc-and-ai-supercomputing/)
 - [Increase ROI and business impact with Azure Machine Learning](https://azure.microsoft.com/blog/increase-roi-and-business-impact-with-azure-machine-learning/)
 - [Empower an adaptive IT environment with Inside Azure for IT](https://azure.microsoft.com/blog/empower-an-adaptive-it-environment-for-people-processes-and-culture-with-inside-azure-for-it/)
 - [Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models](https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/)
-- [Unleashing the true potential of 5G with cloud networks](https://azure.microsoft.com/blog/unleashing-the-true-potential-of-5g-with-cloud-networks/)
-- [Empowering cloud sustainability with the Microsoft Emissions Impact Dashboard](https://azure.microsoft.com/blog/empowering-cloud-sustainability-with-the-microsoft-emissions-impact-dashboard/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
