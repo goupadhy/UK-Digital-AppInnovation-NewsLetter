@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Together: Developing Real-Time Collaborative Apps with Azure, M365, Power Platform, and GitHub](https://www.youtube.com/watch?v=UGskQXjdWAI)
 - [Developer Tech Minutes: Mastering Mahjong with AI](https://www.youtube.com/watch?v=XYhjU5JZ7lI)
 - [Armchair Architects: Resiliency in the Cloud: an Introduction](https://www.youtube.com/watch?v=rSaaHKsDnT4)
 - [Learn Live - Create and understand classification models in machine learning (Episode 6)](https://www.youtube.com/watch?v=Gv817ErCXXE)
 - [Hello World Meets Microsoft Graph team](https://www.youtube.com/watch?v=Cw_v1BQk_NU)
-- [Azure SQL November 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=FnLuXDdGmTE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
