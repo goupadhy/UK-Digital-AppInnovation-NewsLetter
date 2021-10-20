@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=EtBbwydgOs0)
 - [Learn Live - Create and understand classification models in machine learning (Episode 6)](https://www.youtube.com/watch?v=Gv817ErCXXE)
 - [DaprCon Day 1](https://www.youtube.com/watch?v=NYpe2qUm-AE)
 - [Learn Together: Developing Real-Time Collaborative Apps with Azure, M365, Power Platform, and GitHub](https://www.youtube.com/watch?v=UGskQXjdWAI)
 - [Developer Tech Minutes: Mastering Mahjong with AI](https://www.youtube.com/watch?v=XYhjU5JZ7lI)
-- [Armchair Architects: Resiliency in the Cloud: an Introduction](https://www.youtube.com/watch?v=rSaaHKsDnT4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
