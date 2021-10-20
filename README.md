@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Diversity, inclusion, and belonging at GitHub in 2021](https://github.blog/2021-10-20-diversity-inclusion-belonging-github-2021/)
 - [What’s new from GitHub Changelog? September 2021 recap](https://github.blog/2021-10-19-whats-new-from-github-changelog-september-2021-recap/)
 - [Meet the GitHub Universe hosts, and start building your schedule](https://github.blog/2021-10-18-meet-github-universe-hosts-start-building-schedule/)
 - [💾 Save the date for GitHub Game Off 2021](https://github.blog/2021-10-15-save-the-date-for-github-game-off-2021/)
 - [Student developer resources you won’t find in the classroom](https://github.blog/2021-10-14-student-developer-resources-wont-find-classroom/)
-- [Apply now for GitHub Universe 2021 micro-mentoring](https://github.blog/2021-10-12-apply-github-universe-2021-micro-mentoring/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
