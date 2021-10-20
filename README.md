@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Web Wednesday: Creating full stack web apps with Blazor - with Cecil Phillip](https://www.youtube.com/watch?v=C9WSloRSiIc)
 - [Hello World Meets Microsoft Graph team](https://www.youtube.com/watch?v=Cw_v1BQk_NU)
 - [Create: DevOps](https://www.youtube.com/watch?v=xaUa0-p3l9o)
 - [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=EtBbwydgOs0)
 - [Learn Live - Create and understand classification models in machine learning (Episode 6)](https://www.youtube.com/watch?v=Gv817ErCXXE)
-- [DaprCon Day 1](https://www.youtube.com/watch?v=NYpe2qUm-AE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
