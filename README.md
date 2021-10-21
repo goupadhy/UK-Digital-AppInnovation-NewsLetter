@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dynamics 365 & Power Platform Community How To Series Overview](https://www.youtube.com/watch?v=YFu21EQuBVw)
+- [User Groups - Inviting users and creating a new event](https://www.youtube.com/watch?v=atl2j8gIFHI)
+- [User Groups - Registering as a member and requesting a new user group](https://www.youtube.com/watch?v=-jJC3m98X8k)
 - [Power App Code Review Tool – New Features with Mehdi - Power CAT Live](https://www.youtube.com/watch?v=kfkUsGXIlIA)
 - [Document Automation Overview in Power Automate](https://www.youtube.com/watch?v=H1I0ZrEQ1e4)
-- [Data Operations in Power Automate](https://www.youtube.com/watch?v=uL5IfAMvW98)
-- [HEAT up your RPA Center of Excellence with Kent Weare - Power CAT Live](https://www.youtube.com/watch?v=utV_qTe6H4s)
-- [AI Builder Overview in Power Automate](https://www.youtube.com/watch?v=D7p-sSauBTQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
