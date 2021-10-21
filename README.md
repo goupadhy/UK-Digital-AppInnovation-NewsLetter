@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Hello World: Teams](https://www.youtube.com/watch?v=QUvLDGWgToc)
 - [Create: DevOps](https://www.youtube.com/watch?v=xaUa0-p3l9o)
 - [Running Dapr in Production](https://www.youtube.com/watch?v=SD9oHSkkNRs)
 - [Dapr case study: Legentic](https://www.youtube.com/watch?v=B17net_KUR0)
 - [Automating Diagnostic Notebooks with Azure Serverless Architecture | Data Exposed](https://www.youtube.com/watch?v=QbYy4JvKRqo)
-- [Adopters Panel](https://www.youtube.com/watch?v=I58VFw8j2HE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
