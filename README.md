@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Running Dapr in Production](https://www.youtube.com/watch?v=SD9oHSkkNRs)
+- [Dapr Case Study: Man Group](https://www.youtube.com/watch?v=BY2fhfLJjGE)
+- [Dapr case study: Legentic](https://www.youtube.com/watch?v=B17net_KUR0)
 - [Automating Diagnostic Notebooks with Azure Serverless Architecture | Data Exposed](https://www.youtube.com/watch?v=QbYy4JvKRqo)
 - [Adopters Panel](https://www.youtube.com/watch?v=I58VFw8j2HE)
-- [Maintainer panel](https://www.youtube.com/watch?v=9394jYbVXWc)
-- [Zero to Hero with Dapr](https://www.youtube.com/watch?v=AAQSShtl9S0)
-- [DaprCon Keynote](https://www.youtube.com/watch?v=rbYMqSHOmdg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
