@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Dapr case study: Man Group](https://www.youtube.com/watch?v=O76Hqf7AnvA)
-- [Hello World: Teams](https://www.youtube.com/watch?v=QUvLDGWgToc)
-- [Create: DevOps](https://www.youtube.com/watch?v=xaUa0-p3l9o)
-- [Running Dapr in Production](https://www.youtube.com/watch?v=SD9oHSkkNRs)
-- [Dapr case study: Legentic](https://www.youtube.com/watch?v=B17net_KUR0)
+- [AI Show Live | Building computer vision models using AutoML for Images | Episode 35](https://www.youtube.com/watch?v=ovsMiyqKo28)
+- [Hands-on Workshop with Marcus Felling, Steven Murawski and Jay Gordon](https://www.youtube.com/watch?v=jjjT72eW5qY)
+- [DevOps: Beyond the scope of development and operations with Quintessence Anx and Steven Murawski](https://www.youtube.com/watch?v=BjmUXAOgfns)
+- [Panel - Observability: What's the big idea? with Quintessence Anx, April Edwards and Alex Hidalgo](https://www.youtube.com/watch?v=423y7JufbCk)
+- [Shifting left, how security fits into the DevOps story with Kat Cosgrove and Jay Gordon](https://www.youtube.com/watch?v=-xwfjmBynek)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
