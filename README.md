@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show | Oct 22 | Translator now supports 100+ languages and dialects | Episode 36](https://www.youtube.com/watch?v=KhEYFatBHEo)
 - [AI Show Live | Building computer vision models using AutoML for Images | Episode 35](https://www.youtube.com/watch?v=ovsMiyqKo28)
 - [Hands-on Workshop with Marcus Felling, Steven Murawski and Jay Gordon](https://www.youtube.com/watch?v=jjjT72eW5qY)
 - [DevOps: Beyond the scope of development and operations with Quintessence Anx and Steven Murawski](https://www.youtube.com/watch?v=BjmUXAOgfns)
 - [Panel - Observability: What's the big idea? with Quintessence Anx, April Edwards and Alex Hidalgo](https://www.youtube.com/watch?v=423y7JufbCk)
-- [Shifting left, how security fits into the DevOps story with Kat Cosgrove and Jay Gordon](https://www.youtube.com/watch?v=-xwfjmBynek)
 <!-- YOUTUBEAPPMOD:END -->
 
 
