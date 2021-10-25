@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [5 trends transforming business—2021 IoT Signals report](https://azure.microsoft.com/blog/5-trends-transforming-business-2021-iot-signals-report/)
 - [Join us on Azure IaaS Day: Learn to increase agility and resiliency of your infrastructure](https://azure.microsoft.com/blog/join-us-on-azure-iaas-day-learn-to-increase-agility-and-resiliency-of-your-infrastructure/)
 - [5 reasons to join the Modernize Apps and Data with Azure and Power Apps free virtual event](https://azure.microsoft.com/blog/5-reasons-to-join-the-modernize-apps-and-data-with-azure-and-power-apps-free-virtual-event/)
 - [The Enclave Device Blueprint for confidential computing at the edge](https://azure.microsoft.com/blog/the-enclave-device-blueprint-for-confidential-computing-at-the-edge/)
 - [Join us at NAFEMS World Congress to learn more about Azure HPC and AI Supercomputing](https://azure.microsoft.com/blog/join-us-at-nafems-world-congress-to-learn-more-about-azure-hpc-and-ai-supercomputing/)
-- [Increase ROI and business impact with Azure Machine Learning](https://azure.microsoft.com/blog/increase-roi-and-business-impact-with-azure-machine-learning/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
