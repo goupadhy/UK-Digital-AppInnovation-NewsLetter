@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Accelerating healthcare AI innovation with Zero Trust technology](https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/)
 - [Microsoft named a Leader in the 2021 Gartner® Magic Quadrant™ for Industrial IoT Platforms](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-2021-gartner-magic-quadrant-for-industrial-iot-platforms/)
 - [Spot every Spring Boot application issue on the spot using AppDynamics](https://azure.microsoft.com/blog/spot-every-spring-boot-application-issue-on-the-spot-using-appdynamics/)
 - [5 trends transforming business—2021 IoT Signals report](https://azure.microsoft.com/blog/5-trends-transforming-business-2021-iot-signals-report/)
 - [Join us on Azure IaaS Day: Learn to increase agility and resiliency of your infrastructure](https://azure.microsoft.com/blog/join-us-on-azure-iaas-day-learn-to-increase-agility-and-resiliency-of-your-infrastructure/)
-- [5 reasons to join the Modernize Apps and Data with Azure and Power Apps free virtual event](https://azure.microsoft.com/blog/5-reasons-to-join-the-modernize-apps-and-data-with-azure-and-power-apps-free-virtual-event/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
