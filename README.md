@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Select and customize architectures and hyperparameters using random forest (Episode 7)](https://www.youtube.com/watch?v=T3VRdIIJpgo)
 - [Ask the Expert: Getting Started Programming](https://www.youtube.com/watch?v=EuoT3xuZ9CY)
 - [Learn Together: Developing Real-Time Collaborative Apps with Azure, M365, Power Platform, and GitHub](https://www.youtube.com/watch?v=UGskQXjdWAI)
 - [Using Azure Synapse Serverless Pools for Data Engineering | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ymV8PNbwYHU)
 - [Armchair Architects: Hybrid and Multi-Cloud Architectures: an Introduction](https://www.youtube.com/watch?v=3EqfNtoajpM)
-- [Learn Live - Select and customize architectures and hyperparameters using random forest (Episode 7)](https://www.youtube.com/watch?v=T3VRdIIJpgo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
