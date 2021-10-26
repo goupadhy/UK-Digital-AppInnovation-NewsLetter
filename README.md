@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Select and customize architectures and hyperparameters using random forest (Episode 7)](https://www.youtube.com/watch?v=T3VRdIIJpgo)
 - [Azure Community Conference 2021 - DAY 2](https://www.youtube.com/watch?v=E7JHGn2DYvk)
 - [Azure Community Conference 2021 - DAY 1](https://www.youtube.com/watch?v=QL43Fy5oqz8)
 - [AI Show | Oct 22 | Translator now supports 100+ languages and dialects | Episode 36](https://www.youtube.com/watch?v=KhEYFatBHEo)
 - [AI Show Live | Building computer vision models using AutoML for Images | Episode 35](https://www.youtube.com/watch?v=ovsMiyqKo28)
-- [Hands-on Workshop with Marcus Felling, Steven Murawski and Jay Gordon](https://www.youtube.com/watch?v=jjjT72eW5qY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
