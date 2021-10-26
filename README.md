@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Using Azure Synapse Serverless Pools for Data Engineering | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ymV8PNbwYHU)
 - [Armchair Architects: Hybrid and Multi-Cloud Architectures: an Introduction](https://www.youtube.com/watch?v=3EqfNtoajpM)
 - [Learn Live - Select and customize architectures and hyperparameters using random forest (Episode 7)](https://www.youtube.com/watch?v=T3VRdIIJpgo)
 - [Azure Community Conference 2021 - DAY 2](https://www.youtube.com/watch?v=E7JHGn2DYvk)
 - [Azure Community Conference 2021 - DAY 1](https://www.youtube.com/watch?v=QL43Fy5oqz8)
-- [AI Show | Oct 22 | Translator now supports 100+ languages and dialects | Episode 36](https://www.youtube.com/watch?v=KhEYFatBHEo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
