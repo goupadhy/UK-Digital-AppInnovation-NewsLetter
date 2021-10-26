@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Digital Transformation in Action with Microsoft](https://www.youtube.com/watch?v=Wrqpo54X3uM)
 - [Datacenters and Decarbonization](https://www.youtube.com/watch?v=vmPUsqRTJa8)
 - [Microsoft Circular Centers helping to achieve zero waste](https://www.youtube.com/watch?v=3tRB7Qskw_Q)
 - [Taking Stock Live - a conversation with Dave Weiner](https://www.youtube.com/watch?v=NcHHXuPMt88)
 - [Microsoft for Public Finance](https://www.youtube.com/watch?v=VsRoKmFrjGo)
-- [Empowering Hybrid Work for Brands & Retailers](https://www.youtube.com/watch?v=mJDW1HIvl1Q)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
