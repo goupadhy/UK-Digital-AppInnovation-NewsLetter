@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure Cost Management and Billing updates – October 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-october-2021/)
 - [Accelerating healthcare AI innovation with Zero Trust technology](https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/)
 - [Microsoft named a Leader in the 2021 Gartner® Magic Quadrant™ for Industrial IoT Platforms](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-2021-gartner-magic-quadrant-for-industrial-iot-platforms/)
 - [Spot every Spring Boot application issue on the spot using AppDynamics](https://azure.microsoft.com/blog/spot-every-spring-boot-application-issue-on-the-spot-using-appdynamics/)
 - [5 trends transforming business—2021 IoT Signals report](https://azure.microsoft.com/blog/5-trends-transforming-business-2021-iot-signals-report/)
-- [Join us on Azure IaaS Day: Learn to increase agility and resiliency of your infrastructure](https://azure.microsoft.com/blog/join-us-on-azure-iaas-day-learn-to-increase-agility-and-resiliency-of-your-infrastructure/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
