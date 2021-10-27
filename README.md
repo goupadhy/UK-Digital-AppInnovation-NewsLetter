@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Hello World: Teams](https://www.youtube.com/watch?v=QUvLDGWgToc)
 - [Azure SQL Virtual Machines Reimaged: Simplify HA & DR configuration (Ep.5) | Data Exposed Live](https://www.youtube.com/watch?v=8jWntyzBkXU)
 - [AI Show Live - Episode 37 - Another AI Show Takeover: PyTorch Profiler](https://www.youtube.com/watch?v=65V1RJMWNKU)
 - [Adding real time data into your apps with Dan Wahlin and Dan Roney](https://www.youtube.com/watch?v=LL0ppKbdQYI)
 - [Bringing your apps where your users work every day with Ayca Bas and Juma George Odhiambo](https://www.youtube.com/watch?v=CV3F8bJtatE)
-- [What is collaboration first development with Dan Wahlin and April Dunnam](https://www.youtube.com/watch?v=ycfltKAyrDc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
