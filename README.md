@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 37 - Another AI Show Takeover: PyTorch Profiler](https://www.youtube.com/watch?v=65V1RJMWNKU)
 - [Adding real time data into your apps with Dan Wahlin and Dan Roney](https://www.youtube.com/watch?v=LL0ppKbdQYI)
 - [Bringing your apps where your users work every day with Ayca Bas and Juma George Odhiambo](https://www.youtube.com/watch?v=CV3F8bJtatE)
 - [What is collaboration first development with Dan Wahlin and April Dunnam](https://www.youtube.com/watch?v=ycfltKAyrDc)
 - [Enhancing your development collaboration and productivity with Burke Holland and Brigit Murtaugh](https://www.youtube.com/watch?v=1V8wpXjr240)
-- [Adding real time communication into your apps with Piyali Dey and Reza Jooyandeh](https://www.youtube.com/watch?v=uieQtmGUZ-I)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
