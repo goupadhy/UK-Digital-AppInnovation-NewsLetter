@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Learn Live - Select and customize architectures and hyperparameters using random forest (Episode 7)](https://www.youtube.com/watch?v=T3VRdIIJpgo)
-- [Ask the Expert: Getting Started Programming](https://www.youtube.com/watch?v=EuoT3xuZ9CY)
-- [Learn Together: Developing Real-Time Collaborative Apps with Azure, M365, Power Platform, and GitHub](https://www.youtube.com/watch?v=UGskQXjdWAI)
-- [Using Azure Synapse Serverless Pools for Data Engineering | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ymV8PNbwYHU)
-- [Armchair Architects: Hybrid and Multi-Cloud Architectures: an Introduction](https://www.youtube.com/watch?v=3EqfNtoajpM)
+- [Adding real time data into your apps with Dan Wahlin and Dan Roney](https://www.youtube.com/watch?v=LL0ppKbdQYI)
+- [Bringing your apps where your users work every day with Ayca Bas and Juma George Odhiambo](https://www.youtube.com/watch?v=CV3F8bJtatE)
+- [What is collaboration first development with Dan Wahlin and April Dunnam](https://www.youtube.com/watch?v=ycfltKAyrDc)
+- [Enhancing your development collaboration and productivity with Burke Holland and Brigit Murtaugh](https://www.youtube.com/watch?v=1V8wpXjr240)
+- [Adding real time communication into your apps with Piyali Dey and Reza Jooyandeh](https://www.youtube.com/watch?v=uieQtmGUZ-I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
