@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Hybrid and Multi-Cloud Architectures - Feasibility](https://www.youtube.com/watch?v=5hGrKOtnosA)
 - [Web Wednesday: Use containers to streamline your dev process with Burke Holland](https://www.youtube.com/watch?v=j-x44UKT1iM)
 - [Hello World: Teams](https://www.youtube.com/watch?v=QUvLDGWgToc)
 - [Azure SQL Virtual Machines Reimaged: Simplify HA & DR configuration (Ep.5) | Data Exposed Live](https://www.youtube.com/watch?v=8jWntyzBkXU)
 - [AI Show Live - Episode 37 - Another AI Show Takeover: PyTorch Profiler](https://www.youtube.com/watch?v=65V1RJMWNKU)
-- [Adding real time data into your apps with Dan Wahlin and Dan Roney](https://www.youtube.com/watch?v=LL0ppKbdQYI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
