@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show | Oct 22 | Translator now supports 100+ languages and dialects | Episode 36](https://www.youtube.com/watch?v=LdDK5SoUsHE)
 - [Azure Community Conference 2021 - DAY 1](https://www.youtube.com/watch?v=QL43Fy5oqz8)
 - [What is exciting in Flexible Server for PostgreSQL on Azure | Data Exposed](https://www.youtube.com/watch?v=damXLEH0VTQ)
 - [TransformX: Democratizing and Accelerating the Future of AI with Scale AI](https://www.youtube.com/watch?v=KwWi80_LiMI)
 - [Armchair Architects: Hybrid and Multi-Cloud Architectures - Feasibility](https://www.youtube.com/watch?v=5hGrKOtnosA)
-- [Web Wednesday: Use containers to streamline your dev process with Burke Holland](https://www.youtube.com/watch?v=j-x44UKT1iM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
