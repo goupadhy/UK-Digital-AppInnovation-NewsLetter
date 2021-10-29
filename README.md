@@ -54,7 +54,7 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-ten-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
+- [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
 - [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
 - [A peek inside some of the top games from Ludum Dare 49](https://github.blog/2021-10-25-a-peek-inside-some-of-the-top-games-from-ludum-dare-49/)
 - [GitHub Actions for security and compliance](https://github.blog/2021-10-22-github-actions-for-security-compliance/)
