@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Community Conference 2021 - DAY 2](https://www.youtube.com/watch?v=E7JHGn2DYvk)
 - [AI Show Live - Episode 37 - Another AI Show Takeover: PyTorch Profiler](https://www.youtube.com/watch?v=65V1RJMWNKU)
 - [AI Show | Oct 22 | Translator now supports 100+ languages and dialects | Episode 36](https://www.youtube.com/watch?v=LdDK5SoUsHE)
 - [Azure Community Conference 2021 - DAY 1](https://www.youtube.com/watch?v=QL43Fy5oqz8)
 - [What is exciting in Flexible Server for PostgreSQL on Azure | Data Exposed](https://www.youtube.com/watch?v=damXLEH0VTQ)
-- [TransformX: Democratizing and Accelerating the Future of AI with Scale AI](https://www.youtube.com/watch?v=KwWi80_LiMI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
