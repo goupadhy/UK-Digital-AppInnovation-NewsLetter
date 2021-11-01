@@ -25,9 +25,9 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Power BI Women Summit](https://www.youtube.com/watch?v=z-pXJyiQA1s)
 - [Developer Tech Minutes: Future of Haptics in Virtual Reality](https://www.youtube.com/watch?v=I5ZI3tAQjzI)
 - [Learn Live - Confusion matrix and data imbalances (Episode 8)](https://www.youtube.com/watch?v=OzZCHIK5LdQ)
-- [Power BI Women Summit](https://www.youtube.com/watch?v=z-pXJyiQA1s)
 - [Azure Community Conference 2021 - DAY 2](https://www.youtube.com/watch?v=E7JHGn2DYvk)
 - [AI Show Live - Episode 37 - Another AI Show Takeover: PyTorch Profiler](https://www.youtube.com/watch?v=65V1RJMWNKU)
 <!-- YOUTUBECNA:END -->
