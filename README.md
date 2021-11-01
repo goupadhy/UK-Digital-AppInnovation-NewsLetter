@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Power BI Women Summit](https://www.youtube.com/watch?v=z-pXJyiQA1s)
-- [Developer Tech Minutes: Future of Haptics in Virtual Reality](https://www.youtube.com/watch?v=I5ZI3tAQjzI)
-- [Learn Live - Confusion matrix and data imbalances (Episode 8)](https://www.youtube.com/watch?v=OzZCHIK5LdQ)
-- [Azure Community Conference 2021 - DAY 2](https://www.youtube.com/watch?v=E7JHGn2DYvk)
-- [AI Show Live - Episode 37 - Another AI Show Takeover: PyTorch Profiler](https://www.youtube.com/watch?v=65V1RJMWNKU)
+- [Spotlight Chat with Amanda Rivera, Principal Program Manager Power BI](https://www.youtube.com/watch?v=zIomG-GwH-A)
+- [How I Strive to be an Ally Everyday](https://www.youtube.com/watch?v=X5uRRhsNnBQ)
+- [Becoming a Woman in Technology and the Endless Possibilities](https://www.youtube.com/watch?v=tWWh4BuaoG0)
+- [Fireside Chat](https://www.youtube.com/watch?v=x-USJYyvFBo)
+- [People You Should Know](https://www.youtube.com/watch?v=tewG87EgXvg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
