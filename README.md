@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
-- [Digital Transformation in Action with Microsoft](https://www.youtube.com/watch?v=Wrqpo54X3uM)
-- [Datacenters and Decarbonization](https://www.youtube.com/watch?v=vmPUsqRTJa8)
-- [Microsoft Circular Centers helping to achieve zero waste](https://www.youtube.com/watch?v=3tRB7Qskw_Q)
-- [Taking Stock Live - a conversation with Dave Weiner](https://www.youtube.com/watch?v=NcHHXuPMt88)
-- [Microsoft for Public Finance](https://www.youtube.com/watch?v=VsRoKmFrjGo)
+- [Microsoft Cloud for Manufacturing Overview](https://www.youtube.com/watch?v=sBFwo-QzaYo)
+- [Microsoft Cloud for Manufacturing - Asset productivity](https://www.youtube.com/watch?v=qv1syj2Xxts)
+- [Heineken partners with Microsoft to become the best connected brewer](https://www.youtube.com/watch?v=C6dq5bPGcNs)
+- [Microsoft Cloud for Manufacturing - Always-on service](https://www.youtube.com/watch?v=5XEGmgjMe_c)
+- [National Forest Foundation and Microsoft Cloud for Nonprofits](https://www.youtube.com/watch?v=A9Gat-k0Puk)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
