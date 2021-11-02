@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [New Power Platform capabilities announced at Microsoft Ignite](https://cloudblogs.microsoft.com/powerplatform/2021/11/02/new-power-platform-capabilities-announced-at-microsoft-ignite/)
+- [Accelerate innovation with low-code applications using Power Platform](https://cloudblogs.microsoft.com/powerplatform/2021/11/02/accelerate-innovation-with-low-code-applications-using-power-platform/)
 - [Your guide to Power Platform at Microsoft Ignite](https://cloudblogs.microsoft.com/powerplatform/2021/10/26/your-guide-to-power-platform-at-microsoft-ignite/)
 - [Microsoft acquires Clear Software to enhance connectivity to systems of record](https://cloudblogs.microsoft.com/powerplatform/2021/10/22/microsoft-acquires-clear-software-to-enhance-connectivity-to-systems-of-record/)
 - [Automation in Windows 11 enables users to reduce repetitive tasks and boost productivity](https://cloudblogs.microsoft.com/powerplatform/2021/10/04/automation-in-windows-11-enables-users-to-reduce-repetitive-tasks-and-boost-productivity/)
-- [Ensure Power Platform success in your organization through a Center of Excellence](https://cloudblogs.microsoft.com/powerplatform/2021/09/20/ensure-power-platform-success-in-your-organization-through-a-center-of-excellence/)
-- [Microsoft named a Leader in The Forrester Wave™: Augmented BI Platforms, Q3 2021](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-augmented-bi-platforms-q3-2021/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
