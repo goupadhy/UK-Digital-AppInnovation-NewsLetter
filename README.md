@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Blue-teaming for Exiv2, part 1: creating a security advisory process](https://github.blog/2021-11-02-blue-teaming-create-security-advisory-process/)
 - [Game Off 2021 theme announcement](https://github.blog/2021-11-01-game-off-2021-theme-announcement/)
 - [Cybersecurity spotlight on bug bounty researcher @yvvdwf](https://github.blog/2021-11-01-cybersecurity-spotlight-bug-bounty-researcher-yvvdwf/)
 - [GitHub keeps getting better for open source maintainers](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/)
 - [13 short and scary games plus source to play (or hack) this Halloween 🎃](https://github.blog/2021-10-29-thirteen-short-and-scary-games-plus-source-to-play-or-hack-this-halloween/)
-- [Everything new from Universe 2021](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
