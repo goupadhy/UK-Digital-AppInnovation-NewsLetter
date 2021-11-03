@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [3 ways to enhance your cloud journey: break, prepare, and optimize your apps in Azure](https://azure.microsoft.com/blog/3-ways-to-enhance-your-cloud-journey-break-prepare-and-optimize-your-apps-in-azure/)
+- [Powering all your applications from cloud to edge with Azure infrastructure ](https://azure.microsoft.com/blog/powering-all-your-applications-from-cloud-to-edge-with-azure-infrastructure/)
+- [New investments to help you accelerate your Azure migration and modernization journey](https://azure.microsoft.com/blog/new-investments-to-help-you-accelerate-your-azure-migration-and-modernization-journey/)
 - [Key foundations for protecting your data with Azure confidential computing](https://azure.microsoft.com/blog/key-foundations-for-protecting-your-data-with-azure-confidential-computing/)
 - [Innovate with cloud-native apps and open source on Azure](https://azure.microsoft.com/blog/innovate-with-cloudnative-apps-and-open-source-on-azure/)
-- [Your hybrid, multicloud, and edge strategy just got better with Azure](https://azure.microsoft.com/blog/your-hybrid-multicloud-and-edge-strategy-just-got-better-with-azure/)
-- [Transform your business with Microsoft's unrivaled end-to-end data platform](https://azure.microsoft.com/blog/transform-your-business-with-microsofts-unrivaled-endtoend-data-platform/)
-- [Microsoft powers transformation at NVIDIA GTC Fall—GPU technology conference](https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-gtc-fall-gpu-technology-conference/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
