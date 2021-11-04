@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Data Exposed Live | Azure SQL News Update: Year in Review](https://www.youtube.com/watch?v=a2QxJseFyaI)
 - [AI Lab - Datamations](https://www.youtube.com/watch?v=3uyzFLi0UXQ)
 - [Learn Live - Confusion matrix and data imbalances (Episode 8)](https://www.youtube.com/watch?v=OzZCHIK5LdQ)
 - [Spotlight Chat with Amanda Rivera, Principal Program Manager Power BI](https://www.youtube.com/watch?v=zIomG-GwH-A)
 - [How I Strive to be an Ally Everyday](https://www.youtube.com/watch?v=X5uRRhsNnBQ)
-- [Becoming a Woman in Technology and the Endless Possibilities](https://www.youtube.com/watch?v=tWWh4BuaoG0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
