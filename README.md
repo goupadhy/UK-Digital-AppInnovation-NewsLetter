@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Explaining Date and Time in Dataverse using PowerApps](https://www.youtube.com/watch?v=cFxmRHt8uzg)
 - [Whoa! Easily Migrate Access To Power Platform - Power CAT Live #MSIgnite](https://www.youtube.com/watch?v=X3Bmfi6SkYM)
 - [Modernize business units](https://www.youtube.com/watch?v=NBBYinF9B7g)
 - [Access Migration to Dataverse for Teams](https://www.youtube.com/watch?v=g3V6WOQl4Pw)
 - [Migrating MS Access data to Dataverse and Power Apps](https://www.youtube.com/watch?v=3Yxoy9pd25I)
-- [Currency in Dataverse](https://www.youtube.com/watch?v=YVGlIPgM6es)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
