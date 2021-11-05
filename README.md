@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Learn Live: Explore Microsoft Teams](https://www.youtube.com/watch?v=B3jsJ13tebk)
 - [AI Show Live - Episode 38 - Ignite Recap](https://www.youtube.com/watch?v=VcUDvqxBvck)
+- [AI Show | Nov 19 | GreenerAI with Azure Machine Learning | Ep 40](https://www.youtube.com/watch?v=We33ZvJmzPM)
+- [Learn Live: Explore Microsoft Teams](https://www.youtube.com/watch?v=B3jsJ13tebk)
 - [Media Future: An Evolution in Video for Developers](https://www.youtube.com/watch?v=pQmMu-UPvZo)
 - [WSL: Connect USB drives](https://www.youtube.com/watch?v=I2jOuLU4o8E)
-- [Hello World - Power Platform](https://www.youtube.com/watch?v=D0uVeiRWb8k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
