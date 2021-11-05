@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live: Explore Microsoft Teams](https://www.youtube.com/watch?v=B3jsJ13tebk)
+- [AI Show Live - Episode 38 - Ignite Recap](https://www.youtube.com/watch?v=VcUDvqxBvck)
 - [Media Future: An Evolution in Video for Developers](https://www.youtube.com/watch?v=pQmMu-UPvZo)
 - [WSL: Connect USB drives](https://www.youtube.com/watch?v=I2jOuLU4o8E)
 - [Hello World - Power Platform](https://www.youtube.com/watch?v=D0uVeiRWb8k)
-- [Introduction to SQL Server 2022 (Ep.1) | Data Exposed](https://www.youtube.com/watch?v=4KoBdx5ZyeI)
-- [Data Exposed Live | Azure SQL News Update: Year in Review](https://www.youtube.com/watch?v=a2QxJseFyaI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
