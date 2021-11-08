@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Modernize Apps, Build SaaS Offers, and Scale](https://www.youtube.com/watch?v=kNQCLIMp_r4)
+- [Ask the Expert: Process Advisor: Process and Task Mining](https://www.youtube.com/watch?v=W4af9ZwkhCM)
 - [AI Show Live - Episode 38 - Ignite Recap](https://www.youtube.com/watch?v=VcUDvqxBvck)
 - [AI Show | Nov 19 | GreenerAI with Azure Machine Learning | Ep 40](https://www.youtube.com/watch?v=We33ZvJmzPM)
 - [Learn Live: Explore Microsoft Teams](https://www.youtube.com/watch?v=B3jsJ13tebk)
-- [Media Future: An Evolution in Video for Developers](https://www.youtube.com/watch?v=pQmMu-UPvZo)
-- [WSL: Connect USB drives](https://www.youtube.com/watch?v=I2jOuLU4o8E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
