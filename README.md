@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Protect workloads with inline DDoS protection from Gateway Load Balancer partners](https://azure.microsoft.com/blog/protect-workloads-with-inline-ddos-protection-from-gateway-load-balancer-partners/)
 - [Azure HBv3 virtual machines for HPC, now up to 80 percent faster with AMD Milan-X CPUs](https://azure.microsoft.com/blog/azure-hbv3-virtual-machines-for-hpc-now-up-to-80-percent-faster-with-amd-milanx-cpus/)
 - [3 ways to enhance your cloud journey: break, prepare, and optimize your apps in Azure](https://azure.microsoft.com/blog/3-ways-to-enhance-your-cloud-journey-break-prepare-and-optimize-your-apps-in-azure/)
 - [Powering all your applications from cloud to edge with Azure infrastructure ](https://azure.microsoft.com/blog/powering-all-your-applications-from-cloud-to-edge-with-azure-infrastructure/)
 - [New investments to help you accelerate your Azure migration and modernization journey](https://azure.microsoft.com/blog/new-investments-to-help-you-accelerate-your-azure-migration-and-modernization-journey/)
-- [Key foundations for protecting your data with Azure confidential computing](https://azure.microsoft.com/blog/key-foundations-for-protecting-your-data-with-azure-confidential-computing/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
