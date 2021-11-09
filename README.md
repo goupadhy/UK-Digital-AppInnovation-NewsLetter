@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live: Explore Microsoft Teams](https://www.youtube.com/watch?v=B3jsJ13tebk)
 - [Ask the Expert: Managing Access for all Applications with Azure AD](https://www.youtube.com/watch?v=5fqjpdqHHCU)
 - [Learn Live - Measure and optimize model performance with ROC and AUC](https://www.youtube.com/watch?v=zLwKJ0uPSNk)
 - [Ask the Expert: Modernize Apps, Build SaaS Offers, and Scale](https://www.youtube.com/watch?v=kNQCLIMp_r4)
 - [Ask the Expert: Process Advisor: Process and Task Mining](https://www.youtube.com/watch?v=W4af9ZwkhCM)
-- [AI Show Live - Episode 38 - Ignite Recap](https://www.youtube.com/watch?v=VcUDvqxBvck)
 <!-- YOUTUBEAPPMOD:END -->
 
 
