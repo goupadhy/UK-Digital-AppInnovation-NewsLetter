@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 39 - Exciting updates from Managed Online Endpoints in Azure ML](https://www.youtube.com/watch?v=xIEEiXPLt4o)
 - [Armchair Architects: Is that configurable?](https://www.youtube.com/watch?v=cp4chQY8z0k)
 - [Learn Live: Explore Microsoft Teams](https://www.youtube.com/watch?v=B3jsJ13tebk)
 - [Ask the Expert: Managing Access for all Applications with Azure AD](https://www.youtube.com/watch?v=5fqjpdqHHCU)
 - [Learn Live - Measure and optimize model performance with ROC and AUC](https://www.youtube.com/watch?v=zLwKJ0uPSNk)
-- [Ask the Expert: Modernize Apps, Build SaaS Offers, and Scale](https://www.youtube.com/watch?v=kNQCLIMp_r4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
