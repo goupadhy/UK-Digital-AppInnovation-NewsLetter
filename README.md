@@ -58,7 +58,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [10 GitHub Actions resources to bookmark from the basics to CI/CD](https://github.blog/2021-11-04-10-github-actions-resources-basics-ci-cd/)
 - [Building the next phase of GitHub, together](https://github.blog/2021-11-03-building-the-next-phase-of-github-together/)
 - [Thank you, GitHub](https://github.blog/2021-11-03-thank-you-github/)
-- [Blue-teaming for Exiv2, part 1: creating a security advisory process](https://github.blog/2021-11-02-blue-teaming-create-security-advisory-process/)
+- [Blue-teaming for Exiv2: creating a security advisory process](https://github.blog/2021-11-02-blue-teaming-create-security-advisory-process/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
