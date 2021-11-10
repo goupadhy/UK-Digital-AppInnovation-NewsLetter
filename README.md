@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [5 reasons to attend the Azure IaaS Day digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-iaas-day-digital-event/)
 - [Discover what’s new to Microsoft database services—recap from Microsoft Ignite ](https://azure.microsoft.com/blog/discover-what-s-new-to-microsoft-database-services-recap-from-microsoft-ignite/)
 - [Azure high-performance computing at Supercomputing 2021](https://azure.microsoft.com/blog/azure-highperformance-computing-at-supercomputing-2021/)
 - [Learn how Microsoft Azure is accelerating hardware innovations for a sustainable future](https://azure.microsoft.com/blog/learn-how-microsoft-azure-is-accelerating-hardware-innovations-for-a-sustainable-future/)
 - [Protect workloads with inline DDoS protection from Gateway Load Balancer partners](https://azure.microsoft.com/blog/protect-workloads-with-inline-ddos-protection-from-gateway-load-balancer-partners/)
-- [Azure HBv3 virtual machines for HPC, now up to 80 percent faster with AMD Milan-X CPUs](https://azure.microsoft.com/blog/azure-hbv3-virtual-machines-for-hpc-now-up-to-80-percent-faster-with-amd-milanx-cpus/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
