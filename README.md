@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live: Plan and deploy Microsoft Teams](https://www.youtube.com/watch?v=FbFpzMvzXmY)
 - [Microsoft Tech Days: A flight into IoT](https://www.youtube.com/watch?v=anbdKJC_eqQ)
 - [Azure SQL &amp; SQL Server 2022: Intelligent Database Futures | Data Exposed Live](https://www.youtube.com/watch?v=BbaC6-2qsjI)
 - [Data Loading Best Practices on Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=WP-bqtVdJg4)
 - [Azure SQL November 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=FnLuXDdGmTE)
-- [Learn Live - Measure and optimize model performance with ROC and AUC](https://www.youtube.com/watch?v=zLwKJ0uPSNk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
