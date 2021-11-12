@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Big Data Analytics with Power BI](https://www.youtube.com/watch?v=tcEHBhKN2qk)
+- [Ask the Expert: Empower your Organization with Power Platform](https://www.youtube.com/watch?v=KEOyV0z9FvU)
 - [Learn Live: Plan and deploy Microsoft Teams](https://www.youtube.com/watch?v=FbFpzMvzXmY)
 - [Microsoft Tech Days: A flight into IoT](https://www.youtube.com/watch?v=anbdKJC_eqQ)
 - [Azure SQL &amp; SQL Server 2022: Intelligent Database Futures | Data Exposed Live](https://www.youtube.com/watch?v=BbaC6-2qsjI)
-- [Data Loading Best Practices on Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=WP-bqtVdJg4)
-- [Azure SQL November 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=FnLuXDdGmTE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
