@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
-- [Enhance third-party NVA availability with Azure Gateway Load Balancer—now in preview](https://azure.microsoft.com/blog/enhance-thirdparty-nva-availability-with-azure-gateway-load-balancer-now-in-preview/)
 - [5 reasons to attend the Azure IaaS Day digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-iaas-day-digital-event/)
 - [Discover what’s new to Microsoft database services—recap from Microsoft Ignite ](https://azure.microsoft.com/blog/discover-what-s-new-to-microsoft-database-services-recap-from-microsoft-ignite/)
 - [Azure high-performance computing at Supercomputing 2021](https://azure.microsoft.com/blog/azure-highperformance-computing-at-supercomputing-2021/)
 - [Learn how Microsoft Azure is accelerating hardware innovations for a sustainable future](https://azure.microsoft.com/blog/learn-how-microsoft-azure-is-accelerating-hardware-innovations-for-a-sustainable-future/)
+- [Protect workloads with inline DDoS protection from Gateway Load Balancer partners](https://azure.microsoft.com/blog/protect-workloads-with-inline-ddos-protection-from-gateway-load-balancer-partners/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
