@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Pay-as-you-go - Power CAT Live](https://www.youtube.com/watch?v=ZYkGRmhZXLg)
 - [Synapse Link For Dataverse - Power CAT Live](https://www.youtube.com/watch?v=3SGt8eiZH-A)
 - [How to import data for process mining](https://www.youtube.com/watch?v=R2KoxKfMaPw)
 - [Explaining Date and Time in Dataverse using PowerApps](https://www.youtube.com/watch?v=cFxmRHt8uzg)
 - [Whoa! Easily Migrate Access To Power Platform - Power CAT Live #MSIgnite](https://www.youtube.com/watch?v=X3Bmfi6SkYM)
-- [Modernize business units](https://www.youtube.com/watch?v=NBBYinF9B7g)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
