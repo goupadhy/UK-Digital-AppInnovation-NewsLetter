@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show | AI for Birds](https://www.youtube.com/watch?v=Dm5Wdg7MrpA)
 - [Ask the Expert: Big Data Analytics with Power BI](https://www.youtube.com/watch?v=tcEHBhKN2qk)
 - [Ask the Expert: Empower your Organization with Power Platform](https://www.youtube.com/watch?v=KEOyV0z9FvU)
 - [Learn Live: Plan and deploy Microsoft Teams](https://www.youtube.com/watch?v=FbFpzMvzXmY)
 - [Microsoft Tech Days: A flight into IoT](https://www.youtube.com/watch?v=anbdKJC_eqQ)
-- [Azure SQL &amp; SQL Server 2022: Intelligent Database Futures | Data Exposed Live](https://www.youtube.com/watch?v=BbaC6-2qsjI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
