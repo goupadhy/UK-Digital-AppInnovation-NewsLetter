@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Process Advisor: Process and Task Mining](https://www.youtube.com/watch?v=W4af9ZwkhCM)
 - [Create a web UI with ASP.NET Core](https://www.youtube.com/watch?v=YnU1FckB2s4)
 - [Microsoft Tech Days: A flight into IoT](https://www.youtube.com/watch?v=anbdKJC_eqQ)
 - [AI Show Live - Episode 39 - Exciting updates from Managed Online Endpoints in Azure ML](https://www.youtube.com/watch?v=xIEEiXPLt4o)
 - [AI Show | AI for Birds](https://www.youtube.com/watch?v=Dm5Wdg7MrpA)
-- [Ask the Expert: Big Data Analytics with Power BI](https://www.youtube.com/watch?v=tcEHBhKN2qk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
