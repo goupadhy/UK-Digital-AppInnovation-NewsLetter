@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=Px_AajrzpNo)
+- [Armchair Architects: How architecture is changing – Serverless](https://www.youtube.com/watch?v=6sGjR5kiyIo)
 - [Learn Live: Plan and deploy Microsoft Teams](https://www.youtube.com/watch?v=FbFpzMvzXmY)
 - [Create a web UI with ASP.NET Core](https://www.youtube.com/watch?v=YnU1FckB2s4)
 - [Ask the Expert: Process Advisor: Process and Task Mining](https://www.youtube.com/watch?v=W4af9ZwkhCM)
-- [Microsoft Tech Days: A flight into IoT](https://www.youtube.com/watch?v=anbdKJC_eqQ)
-- [AI Show Live - Episode 39 - Exciting updates from Managed Online Endpoints in Azure ML](https://www.youtube.com/watch?v=xIEEiXPLt4o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
