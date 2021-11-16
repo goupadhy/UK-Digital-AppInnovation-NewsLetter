@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Build real-time web apps with Azure Web PubSub—now generally available ](https://azure.microsoft.com/blog/build-realtime-web-apps-with-azure-web-pubsub-now-generally-available/)
 - [Join Azure at the Design Automation Conference (DAC)](https://azure.microsoft.com/blog/join-azure-at-the-design-automation-conference-dac/)
 - [Microsoft expands its AI-supercomputer lineup with general availability of the latest 80GB NVIDIA A100 GPUs in Azure, claims 4 spots on TOP500 supercomputers list](https://azure.microsoft.com/blog/microsoft-expands-its-aisupercomputer-lineup-with-general-availability-of-the-latest-80gb-nvidia-a100-gpus-in-azure-claims/)
 - [Enhance third-party NVA availability with Azure Gateway Load Balancer—now in preview](https://azure.microsoft.com/blog/enhance-thirdparty-nva-availability-with-azure-gateway-load-balancer-now-in-preview/)
 - [5 reasons to attend the Azure IaaS Day digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-iaas-day-digital-event/)
-- [Discover what’s new to Microsoft database services—recap from Microsoft Ignite ](https://azure.microsoft.com/blog/discover-what-s-new-to-microsoft-database-services-recap-from-microsoft-ignite/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
