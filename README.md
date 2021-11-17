@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Developer Tech Minutes: Future of Search](https://www.youtube.com/watch?v=fOSVY7dJMGM)
+- [Armchair Architects: Hybrid and Multi-Cloud Architectures - Observability](https://www.youtube.com/watch?v=_-2dLNsBi18)
+- [Armchair Architects: How architecture is changing – Containers and Collaboration Environments](https://www.youtube.com/watch?v=h0xnMmWb0x8)
 - [Hello World - The new Visual Studio 2022](https://www.youtube.com/watch?v=YvQoTHvbweE)
 - [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=Px_AajrzpNo)
-- [Armchair Architects: How architecture is changing – Serverless](https://www.youtube.com/watch?v=6sGjR5kiyIo)
-- [Learn Live: Plan and deploy Microsoft Teams](https://www.youtube.com/watch?v=FbFpzMvzXmY)
-- [Create a web UI with ASP.NET Core](https://www.youtube.com/watch?v=YnU1FckB2s4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
