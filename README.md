@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Hello World - The new Visual Studio 2022](https://www.youtube.com/watch?v=YvQoTHvbweE)
 - [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=Px_AajrzpNo)
 - [Armchair Architects: How architecture is changing – Serverless](https://www.youtube.com/watch?v=6sGjR5kiyIo)
 - [Learn Live: Plan and deploy Microsoft Teams](https://www.youtube.com/watch?v=FbFpzMvzXmY)
 - [Create a web UI with ASP.NET Core](https://www.youtube.com/watch?v=YnU1FckB2s4)
-- [Ask the Expert: Process Advisor: Process and Task Mining](https://www.youtube.com/watch?v=W4af9ZwkhCM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
