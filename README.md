@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Hello World - The new Visual Studio 2022](https://www.youtube.com/watch?v=YvQoTHvbweE)
 - [Welcome to SQL Server 2022 Live! | Data Exposed Live](https://www.youtube.com/watch?v=Q6MW6p93jDU)
 - [Ask the Expert: .NET Conf Highlights with Jeff Fritz](https://www.youtube.com/watch?v=EP3x7jZiSw8)
 - [Developer Tech Minutes: Future of Search](https://www.youtube.com/watch?v=fOSVY7dJMGM)
 - [Armchair Architects: Hybrid and Multi-Cloud Architectures - Observability](https://www.youtube.com/watch?v=_-2dLNsBi18)
-- [Armchair Architects: How architecture is changing – Containers and Collaboration Environments](https://www.youtube.com/watch?v=h0xnMmWb0x8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
