@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=UtKAzxob5F0)
-- [Hello World - Power Platform](https://www.youtube.com/watch?v=D0uVeiRWb8k)
-- [Ask the Expert: Windows 365 Adoption](https://www.youtube.com/watch?v=DU2DgJActow)
-- [Web Wednesday: Recapping .NET Conf with Jon Galloway](https://www.youtube.com/watch?v=hP2ZjtXpWyk)
-- [Hello World - The new Visual Studio 2022](https://www.youtube.com/watch?v=YvQoTHvbweE)
+- [Armchair Architects: How architecture is changing – Low-code Development](https://www.youtube.com/watch?v=y2zCnKAq6dk)
+- [Ask the Expert: Onboarding Wizard to Deploy Frontline Workers](https://www.youtube.com/watch?v=e9IjuuDfH3Q)
+- [Ask the Expert: Video and Stream in M365](https://www.youtube.com/watch?v=rnVtUd44b9c)
+- [Ask the Expert: Windows 11 Deployment](https://www.youtube.com/watch?v=jvrIu5z1Gvg)
+- [Ask the Expert: Seamless External Collaboration with Teams Connect](https://www.youtube.com/watch?v=6L88ElNFh4E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
