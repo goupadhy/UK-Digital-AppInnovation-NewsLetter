@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Forging a path from telco to cloud with Microsoft Azure](https://azure.microsoft.com/blog/forging-a-path-from-telco-to-cloud-with-microsoft-azure/)
 - [Microsoft and AT&T are accelerating the enterprise customer’s journey to the edge with 5G](https://azure.microsoft.com/blog/microsoft-and-att-are-accelerating-the-enterprise-customer-s-journey-to-the-edge-with-5g/)
 - [Bringing commercial innovations in chip design to national security](https://azure.microsoft.com/blog/bringing-commercial-innovations-in-chip-design-to-national-security/)
 - [Build real-time web apps with Azure Web PubSub—now generally available ](https://azure.microsoft.com/blog/build-realtime-web-apps-with-azure-web-pubsub-now-generally-available/)
 - [Join Azure at the Design Automation Conference (DAC)](https://azure.microsoft.com/blog/join-azure-at-the-design-automation-conference-dac/)
-- [Microsoft expands its AI-supercomputer lineup with general availability of the latest 80GB NVIDIA A100 GPUs in Azure, claims 4 spots on TOP500 supercomputers list](https://azure.microsoft.com/blog/microsoft-expands-its-aisupercomputer-lineup-with-general-availability-of-the-latest-80gb-nvidia-a100-gpus-in-azure-claims/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
