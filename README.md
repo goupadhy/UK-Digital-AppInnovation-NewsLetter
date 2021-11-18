@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=UtKAzxob5F0)
 - [Hello World - Power Platform](https://www.youtube.com/watch?v=D0uVeiRWb8k)
 - [Ask the Expert: Windows 365 Adoption](https://www.youtube.com/watch?v=DU2DgJActow)
 - [Web Wednesday: Recapping .NET Conf with Jon Galloway](https://www.youtube.com/watch?v=hP2ZjtXpWyk)
 - [Hello World - The new Visual Studio 2022](https://www.youtube.com/watch?v=YvQoTHvbweE)
-- [Welcome to SQL Server 2022 Live! | Data Exposed Live](https://www.youtube.com/watch?v=Q6MW6p93jDU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
