@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Microsoft Ignite recap: Power Platform news and announcements you may have missed](https://cloudblogs.microsoft.com/powerplatform/2021/11/18/microsoft-ignite-recap-power-platform-news-and-announcements-you-may-have-missed/)
 - [New Power Platform capabilities announced at Microsoft Ignite](https://cloudblogs.microsoft.com/powerplatform/2021/11/02/new-power-platform-capabilities-announced-at-microsoft-ignite/)
 - [Accelerate innovation with low-code applications using Power Platform](https://cloudblogs.microsoft.com/powerplatform/2021/11/02/accelerate-innovation-with-low-code-applications-using-power-platform/)
 - [Your guide to Power Platform at Microsoft Ignite](https://cloudblogs.microsoft.com/powerplatform/2021/10/26/your-guide-to-power-platform-at-microsoft-ignite/)
 - [Microsoft acquires Clear Software to enhance connectivity to systems of record](https://cloudblogs.microsoft.com/powerplatform/2021/10/22/microsoft-acquires-clear-software-to-enhance-connectivity-to-systems-of-record/)
-- [Automation in Windows 11 enables users to reduce repetitive tasks and boost productivity](https://cloudblogs.microsoft.com/powerplatform/2021/10/04/automation-in-windows-11-enables-users-to-reduce-repetitive-tasks-and-boost-productivity/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
