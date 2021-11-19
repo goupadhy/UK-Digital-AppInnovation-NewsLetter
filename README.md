@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live: Implement lifecycle management and governance for Microsoft Teams](https://www.youtube.com/watch?v=WgzfA0bvF14)
 - [Learn Live: Manage hybrid workloads with Azure Arc](https://www.youtube.com/watch?v=s_8s54xNqss)
 - [Armchair Architects: How architecture is changing – Low-code Development](https://www.youtube.com/watch?v=y2zCnKAq6dk)
 - [Ask the Expert: Onboarding Wizard to Deploy Frontline Workers](https://www.youtube.com/watch?v=e9IjuuDfH3Q)
 - [Ask the Expert: Video and Stream in M365](https://www.youtube.com/watch?v=rnVtUd44b9c)
-- [Ask the Expert: Windows 11 Deployment](https://www.youtube.com/watch?v=jvrIu5z1Gvg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
