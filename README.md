@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [What’s new from GitHub Changelog? October 2021 recap](https://github.blog/2021-11-19-whats-new-from-github-changelog-october-2021-recap/)
 - [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/)
 - [GitHub’s developer-first approach to content moderation](https://github.blog/2021-11-17-githubs-developer-first-approach-to-content-moderation/)
 - [GraphQL global ID migration update](https://github.blog/2021-11-16-graphql-global-id-migration-update/)
 - [Blue-teaming for Exiv2: adding custom CodeQL queries to code scanning](https://github.blog/2021-11-16-adding-custom-codeql-queries-code-scanning/)
-- [The 2021 State of the Octoverse](https://github.blog/2021-11-16-the-2021-state-of-the-octoverse/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
