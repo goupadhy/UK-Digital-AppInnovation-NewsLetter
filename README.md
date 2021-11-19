@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Managing Access for all Applications with Azure AD](https://www.youtube.com/watch?v=5fqjpdqHHCU)
+- [The Download: .NET 6, VS Code, WinApp SDK, and XBox at 20](https://www.youtube.com/watch?v=wAOgAUvC9kY)
 - [Ask the Expert: Modernize Apps, Build SaaS Offers, and Scale](https://www.youtube.com/watch?v=kNQCLIMp_r4)
 - [Learn Live: Implement lifecycle management and governance for Microsoft Teams](https://www.youtube.com/watch?v=WgzfA0bvF14)
 - [Learn Live: Manage hybrid workloads with Azure Arc](https://www.youtube.com/watch?v=s_8s54xNqss)
-- [Armchair Architects: How architecture is changing – Low-code Development](https://www.youtube.com/watch?v=y2zCnKAq6dk)
-- [Ask the Expert: Onboarding Wizard to Deploy Frontline Workers](https://www.youtube.com/watch?v=e9IjuuDfH3Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
