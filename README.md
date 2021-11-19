@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show | Nov 5 | Ignite Recap | Language Services](https://www.youtube.com/watch?v=mHyPlhP4OSs)
+- [AI Show | Nov 5 | Ignite Recap | Arc Enabled ML](https://www.youtube.com/watch?v=yl_g-HhGVGI)
+- [AI Show: Live | Nov 12 | Exciting updates from Managed Online Endpoints from Azure ML | Episode 39](https://www.youtube.com/watch?v=1kLmo4Pwr9w)
 - [Ask the Expert: Managing Access for all Applications with Azure AD](https://www.youtube.com/watch?v=5fqjpdqHHCU)
 - [The Download: .NET 6, VS Code, WinApp SDK, and XBox at 20](https://www.youtube.com/watch?v=wAOgAUvC9kY)
-- [Ask the Expert: Modernize Apps, Build SaaS Offers, and Scale](https://www.youtube.com/watch?v=kNQCLIMp_r4)
-- [Learn Live: Implement lifecycle management and governance for Microsoft Teams](https://www.youtube.com/watch?v=WgzfA0bvF14)
-- [Learn Live: Manage hybrid workloads with Azure Arc](https://www.youtube.com/watch?v=s_8s54xNqss)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
