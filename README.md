@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Empower your Organization with Power Platform](https://www.youtube.com/watch?v=KEOyV0z9FvU)
 - [AI Show | Nov 19 | GreenerAI with Azure Machine Learning | Ep 40](https://www.youtube.com/watch?v=We33ZvJmzPM)
 - [AI Show | Nov 5 | Ignite Recap | Language Services](https://www.youtube.com/watch?v=mHyPlhP4OSs)
 - [AI Show | Nov 5 | Ignite Recap | Arc Enabled ML](https://www.youtube.com/watch?v=yl_g-HhGVGI)
 - [AI Show: Live | Nov 12 | Exciting updates from Managed Online Endpoints from Azure ML | Episode 39](https://www.youtube.com/watch?v=1kLmo4Pwr9w)
-- [Ask the Expert: Managing Access for all Applications with Azure AD](https://www.youtube.com/watch?v=5fqjpdqHHCU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
