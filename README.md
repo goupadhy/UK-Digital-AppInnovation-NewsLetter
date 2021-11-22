@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft expands cloud services with two new datacenters in Wyoming](https://azure.microsoft.com/blog/microsoft-expands-cloud-services-with-two-new-datacenters-in-wyoming/)
 - [Simplify connectivity, routing, and security with Azure Virtual WAN](https://azure.microsoft.com/blog/simplify-connectivity-routing-and-security-with-azure-virtual-wan/)
 - [Forging a path from telco to cloud with Microsoft Azure](https://azure.microsoft.com/blog/forging-a-path-from-telco-to-cloud-with-microsoft-azure/)
 - [Microsoft and AT&T are accelerating the enterprise customer’s journey to the edge with 5G](https://azure.microsoft.com/blog/microsoft-and-att-are-accelerating-the-enterprise-customer-s-journey-to-the-edge-with-5g/)
 - [Bringing commercial innovations in chip design to national security](https://azure.microsoft.com/blog/bringing-commercial-innovations-in-chip-design-to-national-security/)
-- [Build real-time web apps with Azure Web PubSub—now generally available ](https://azure.microsoft.com/blog/build-realtime-web-apps-with-azure-web-pubsub-now-generally-available/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
