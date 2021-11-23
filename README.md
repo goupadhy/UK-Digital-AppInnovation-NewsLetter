@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Big Data Analytics with Power BI](https://www.youtube.com/watch?v=tcEHBhKN2qk)
 - [Learn Live - Build your first microservice with .NET](https://www.youtube.com/watch?v=YcE2UR3ldfE)
 - [Learn Live - Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://www.youtube.com/watch?v=bB0bEBiGRVw)
 - [Learn Live - Create a web API with ASP.NET Core](https://www.youtube.com/watch?v=bCuP0ggT7mE)
 - [Armchair Architects: How architecture is changing – Machine Learning](https://www.youtube.com/watch?v=b-FQ9H7cRH0)
-- [Learn Live: Implement lifecycle management and governance for Microsoft Teams](https://www.youtube.com/watch?v=WgzfA0bvF14)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
