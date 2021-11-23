@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live: Implement lifecycle management and governance for Microsoft Teams](https://www.youtube.com/watch?v=WgzfA0bvF14)
 - [AI Show Live - Episode 41 - Best of AI Show Holiday Edition!](https://www.youtube.com/watch?v=BnF3xz8qLTA)
 - [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=GoRueoEv8NI)
 - [Ask the Expert: Empower your Organization with Power Platform](https://www.youtube.com/watch?v=KEOyV0z9FvU)
 - [AI Show | Nov 19 | GreenerAI with Azure Machine Learning | Ep 40](https://www.youtube.com/watch?v=We33ZvJmzPM)
-- [AI Show | Nov 5 | Ignite Recap | Language Services](https://www.youtube.com/watch?v=mHyPlhP4OSs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
