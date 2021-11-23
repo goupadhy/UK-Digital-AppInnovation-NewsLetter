@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Build your first microservice with .NET](https://www.youtube.com/watch?v=YcE2UR3ldfE)
+- [Learn Live - Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://www.youtube.com/watch?v=bB0bEBiGRVw)
+- [Learn Live - Create a web API with ASP.NET Core](https://www.youtube.com/watch?v=bCuP0ggT7mE)
+- [Armchair Architects: How architecture is changing – Machine Learning](https://www.youtube.com/watch?v=b-FQ9H7cRH0)
 - [Learn Live: Implement lifecycle management and governance for Microsoft Teams](https://www.youtube.com/watch?v=WgzfA0bvF14)
-- [AI Show Live - Episode 41 - Best of AI Show Holiday Edition!](https://www.youtube.com/watch?v=BnF3xz8qLTA)
-- [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=GoRueoEv8NI)
-- [Ask the Expert: Empower your Organization with Power Platform](https://www.youtube.com/watch?v=KEOyV0z9FvU)
-- [AI Show | Nov 19 | GreenerAI with Azure Machine Learning | Ep 40](https://www.youtube.com/watch?v=We33ZvJmzPM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
