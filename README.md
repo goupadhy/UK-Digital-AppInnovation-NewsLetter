@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs](https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/)
 - [Advancing service resilience in Azure Active Directory with its backup authentication service](https://azure.microsoft.com/blog/advancing-service-resilience-in-azure-active-directory-with-its-backup-authentication-service/)
 - [Microsoft expands cloud services with two new datacenters in Wyoming](https://azure.microsoft.com/blog/microsoft-expands-cloud-services-with-two-new-datacenters-in-wyoming/)
 - [Simplify connectivity, routing, and security with Azure Virtual WAN](https://azure.microsoft.com/blog/simplify-connectivity-routing-and-security-with-azure-virtual-wan/)
 - [Forging a path from telco to cloud with Microsoft Azure](https://azure.microsoft.com/blog/forging-a-path-from-telco-to-cloud-with-microsoft-azure/)
-- [Microsoft and AT&T are accelerating the enterprise customer’s journey to the edge with 5G](https://azure.microsoft.com/blog/microsoft-and-att-are-accelerating-the-enterprise-customer-s-journey-to-the-edge-with-5g/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
