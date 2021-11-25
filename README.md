@@ -81,9 +81,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEAPPMOD:START -->
 - [Top 3 Reasons to Consider Azure Database for MySQL – Flexible Server | Data Exposed](https://www.youtube.com/watch?v=IOJz1f4258s)
 - [Ask the Expert: Big Data Analytics with Power BI](https://www.youtube.com/watch?v=tcEHBhKN2qk)
+- [Learn Live - Implement hybrid identity with Windows Server](https://www.youtube.com/watch?v=8VULknGICUA)
 - [Learn Live - Build your first microservice with .NET](https://www.youtube.com/watch?v=YcE2UR3ldfE)
 - [Learn Live - Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://www.youtube.com/watch?v=bB0bEBiGRVw)
-- [Learn Live - Create a web API with ASP.NET Core](https://www.youtube.com/watch?v=bCuP0ggT7mE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
