@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Windows 365 Adoption](https://www.youtube.com/watch?v=DU2DgJActow)
 - [AI Show Live - Episode 41 - Best of AI Show Holiday Edition!](https://www.youtube.com/watch?v=BnF3xz8qLTA)
 - [Learn Live - Implement hybrid identity with Windows Server](https://www.youtube.com/watch?v=8VULknGICUA)
 - [Festive Tech Calendar Kickoff](https://www.youtube.com/watch?v=scLoLp830BU)
 - [Learn Live - Implement hybrid network infrastructure](https://www.youtube.com/watch?v=OyCEKKjCRKk)
-- [Top 3 Reasons to Consider Azure Database for MySQL – Flexible Server | Data Exposed](https://www.youtube.com/watch?v=IOJz1f4258s)
 <!-- YOUTUBEAPPMOD:END -->
 
 
