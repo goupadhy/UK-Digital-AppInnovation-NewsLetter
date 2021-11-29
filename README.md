@@ -28,8 +28,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [AI Show Live - Episode 41 - Best of AI Show Holiday Edition!](https://www.youtube.com/watch?v=BnF3xz8qLTA)
 - [Learn Live - Implement hybrid identity with Windows Server](https://www.youtube.com/watch?v=8VULknGICUA)
 - [Festive Tech Calendar Kickoff](https://www.youtube.com/watch?v=scLoLp830BU)
+- [Learn Live - Implement hybrid network infrastructure](https://www.youtube.com/watch?v=OyCEKKjCRKk)
 - [Top 3 Reasons to Consider Azure Database for MySQL – Flexible Server | Data Exposed](https://www.youtube.com/watch?v=IOJz1f4258s)
-- [Ask the Expert: Big Data Analytics with Power BI](https://www.youtube.com/watch?v=tcEHBhKN2qk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
