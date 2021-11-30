@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/)
 - [SONiC opens more opportunities for network innovation](https://azure.microsoft.com/blog/sonic-opens-more-opportunities-for-network-innovation/)
 - [Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs](https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/)
 - [Advancing service resilience in Azure Active Directory with its backup authentication service](https://azure.microsoft.com/blog/advancing-service-resilience-in-azure-active-directory-with-its-backup-authentication-service/)
 - [Microsoft expands cloud services with two new datacenters in Wyoming](https://azure.microsoft.com/blog/microsoft-expands-cloud-services-with-two-new-datacenters-in-wyoming/)
-- [Simplify connectivity, routing, and security with Azure Virtual WAN](https://azure.microsoft.com/blog/simplify-connectivity-routing-and-security-with-azure-virtual-wan/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
