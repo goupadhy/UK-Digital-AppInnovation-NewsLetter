@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [From Nowt to Query in 10 minutes: Azure Arc–enabled data services SQL Managed Instance |Data Exposed](https://www.youtube.com/watch?v=M82GDFsHIEo)
 - [Azure Synapse Data Explorer for Log &amp; Telemetry Management | Data Exposed](https://www.youtube.com/watch?v=PNrQl8kqjgk)
 - [Learn Live - Monitor your Microsoft Teams environment](https://www.youtube.com/watch?v=bNEfJDpL8m4)
 - [Learn Live - Create a web API with ASP.NET Core](https://www.youtube.com/watch?v=bCuP0ggT7mE)
 - [Ask the Expert: Windows 365 Adoption](https://www.youtube.com/watch?v=DU2DgJActow)
-- [AI Show Live - Episode 41 - Best of AI Show Holiday Edition!](https://www.youtube.com/watch?v=BnF3xz8qLTA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
