@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [5 DevOps tips to speed up your developer workflow](https://github.blog/2021-11-30-5-devops-tips-to-speed-up-your-developer-workflow/)
 - [GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
 - [Secure deployments with OpenID Connect &#038; GitHub Actions now generally available](https://github.blog/2021-11-23-secure-deployments-openid-connect-github-actions-generally-available/)
 - [How to squash bugs by enrolling in OSS-Fuzz](https://github.blog/2021-11-23-how-to-squash-bugs-by-enrolling-in-oss-fuzz/)
 - [The Copyright Office expands your security research rights](https://github.blog/2021-11-23-copyright-office-expands-security-research-rights/)
-- [Accelerate security adoption in your organization](https://github.blog/2021-11-22-accelerate-security-adoption-in-your-organization/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
