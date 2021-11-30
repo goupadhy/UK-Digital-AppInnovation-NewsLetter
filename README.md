@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Build Responsive Power Apps With Layout Containers - Power CAT Live](https://www.youtube.com/watch?v=N73RaNvaijs)
 - [New PVA Features from Ignite 2021! - Build a Bot Episode 11](https://www.youtube.com/watch?v=FTigtv7mUGc)
 - [Community Forums |  Microsoft Dynamics 365 &amp; Power Platform Community](https://www.youtube.com/watch?v=oYb-42rCPXQ)
 - [Understand Your Organization With Process Mining - Power CAT Live](https://www.youtube.com/watch?v=VH1fdkUmJ3k)
 - [Power Apps Pay-as-you-go - Power CAT Live](https://www.youtube.com/watch?v=ZYkGRmhZXLg)
-- [Synapse Link For Dataverse - Power CAT Live](https://www.youtube.com/watch?v=3SGt8eiZH-A)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
