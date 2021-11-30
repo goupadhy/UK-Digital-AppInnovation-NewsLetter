@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [AI Show: Live | Dec 3 | Azure Machine Learning Batch Endpoints | Episode 43](https://www.youtube.com/watch?v=bqfM2d_IzEo)
+- [Learn Live - Implement hybrid network infrastructure](https://www.youtube.com/watch?v=OyCEKKjCRKk)
+- [Hello World: Tools to monitor Azure Cost](https://www.youtube.com/watch?v=MYZjoc8ZXGw)
+- [AI Show: Live | Dec 3 | Azure Machine Learning Batch Endpoints | Episode 42](https://www.youtube.com/watch?v=bqfM2d_IzEo)
 - [From Nowt to Query in 10 minutes: Azure Arc–enabled data services SQL Managed Instance |Data Exposed](https://www.youtube.com/watch?v=M82GDFsHIEo)
 - [Azure Synapse Data Explorer for Log &amp; Telemetry Management | Data Exposed](https://www.youtube.com/watch?v=PNrQl8kqjgk)
-- [Learn Live - Monitor your Microsoft Teams environment](https://www.youtube.com/watch?v=bNEfJDpL8m4)
-- [Learn Live - Create a web API with ASP.NET Core](https://www.youtube.com/watch?v=bCuP0ggT7mE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
