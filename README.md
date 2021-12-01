@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Hello World: Tools to monitor Azure Cost](https://www.youtube.com/watch?v=MYZjoc8ZXGw)
+- [Ask the Expert: IBM: Threat Management Systems for Business Survival](https://www.youtube.com/watch?v=9GjLB8KV4Tw)
 - [Learn Live - Implement a hybrid file server infrastructure](https://www.youtube.com/watch?v=wb-VU7OXadk)
 - [Festive Tech Calendar Kickoff](https://www.youtube.com/watch?v=scLoLp830BU)
 - [Learn Live - Implement hybrid network infrastructure](https://www.youtube.com/watch?v=OyCEKKjCRKk)
-- [Hello World: Tools to monitor Azure Cost](https://www.youtube.com/watch?v=MYZjoc8ZXGw)
-- [AI Show: Live | Dec 3 | Azure Machine Learning Batch Endpoints | Episode 42](https://www.youtube.com/watch?v=bqfM2d_IzEo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
