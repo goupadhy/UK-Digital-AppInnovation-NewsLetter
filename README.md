@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Hello World - Let&#39;s talk about .NET and .NET Conf](https://www.youtube.com/watch?v=m032k9Dpg-s)
 - [Learn Live - Architect modern applications using Azure SQL Database](https://www.youtube.com/watch?v=7H7TDnQR2G4)
 - [Hello World: Tools to monitor Azure Cost](https://www.youtube.com/watch?v=MYZjoc8ZXGw)
 - [Ask the Expert: IBM: Threat Management Systems for Business Survival](https://www.youtube.com/watch?v=9GjLB8KV4Tw)
 - [Learn Live - Implement a hybrid file server infrastructure](https://www.youtube.com/watch?v=wb-VU7OXadk)
-- [Festive Tech Calendar Kickoff](https://www.youtube.com/watch?v=scLoLp830BU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
