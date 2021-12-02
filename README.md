@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [TitletownTech &amp; Strive MedTech | Leveraging Azure to build startups in Green Bay](https://www.youtube.com/watch?v=ealFGI2C6kI)
+- [Hello World - Let&#39;s talk about .NET and .NET Conf](https://www.youtube.com/watch?v=m032k9Dpg-s)
 - [Developer Tech Minutes: Project Eclipse](https://www.youtube.com/watch?v=FWlpthO9Dpk)
 - [Learn Live - Optimize databases by using advanced modeling patterns for Azure Cosmos DB](https://www.youtube.com/watch?v=u-Ef3svU5mY)
 - [SQL Server 2022: The cloud-connected database &lpar;Ep.2&rpar; | Data Exposed](https://www.youtube.com/watch?v=Z7vLzouxI-s)
-- [Hello World - Let&#39;s talk about .NET and .NET Conf](https://www.youtube.com/watch?v=m032k9Dpg-s)
-- [Learn Live - Architect modern applications using Azure SQL Database](https://www.youtube.com/watch?v=7H7TDnQR2G4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
