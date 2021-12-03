@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show: Live | Dec 3 | Azure Machine Learning Batch Endpoints | Episode 42](https://www.youtube.com/watch?v=bqfM2d_IzEo)
 - [AI Show | Nov 19 | GreenerAI with Azure Machine Learning | Ep 40](https://www.youtube.com/watch?v=ODkwLoNwDbk)
 - [AI Show | Nov 5 | Ignite Recap | Open AI](https://www.youtube.com/watch?v=0jUBozjQKfc)
 - [Ask the Expert: Seamless External Collaboration with Teams Connect](https://www.youtube.com/watch?v=6L88ElNFh4E)
 - [The Download: Ugly Sweaters, GitHub Copilot, Raspberry Pi Hacks and More](https://www.youtube.com/watch?v=Crt95qnPbPg)
-- [Learn Live - Implement a hybrid file server infrastructure](https://www.youtube.com/watch?v=wb-VU7OXadk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
