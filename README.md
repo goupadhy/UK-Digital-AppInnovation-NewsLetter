@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Implement a hybrid file server infrastructure](https://www.youtube.com/watch?v=wb-VU7OXadk)
 - [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=UtKAzxob5F0)
 - [TitletownTech &amp; Strive MedTech | Leveraging Azure to build startups in Green Bay](https://www.youtube.com/watch?v=ealFGI2C6kI)
 - [Hello World - Let&#39;s talk about .NET and .NET Conf](https://www.youtube.com/watch?v=m032k9Dpg-s)
 - [Developer Tech Minutes: Project Eclipse](https://www.youtube.com/watch?v=FWlpthO9Dpk)
-- [Learn Live - Optimize databases by using advanced modeling patterns for Azure Cosmos DB](https://www.youtube.com/watch?v=u-Ef3svU5mY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
