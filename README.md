@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Write more secure code with the OWASP Top 10 Proactive Controls](https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/)
 - [Safeguard your containers with new container signing capability in GitHub Actions](https://github.blog/2021-12-06-safeguard-container-signing-capability-actions/)
 - [Release Radar · November 2021 Edition](https://github.blog/2021-12-03-release-radar-nov-2021/)
 - [GitHub Availability Report: November 2021](https://github.blog/2021-12-01-github-availability-report-november-2021/)
 - [Using ChatOps to help Actions on-call engineers](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
-- [GitHub Externships: enabling India’s next generation of developers](https://github.blog/2021-11-30-github-externships-enabling-indias-next-generation-of-developers/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
