@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://www.youtube.com/watch?v=bB0bEBiGRVw)
 - [Ask the Expert: Windows 11 Deployment](https://www.youtube.com/watch?v=jvrIu5z1Gvg)
 - [GopherCon 2021 - Day 3](https://www.youtube.com/watch?v=wY03WHzNy74)
 - [GopherCon 2021 - Day 2](https://www.youtube.com/watch?v=xmMs_cr7bJw)
 - [GopherCon 2021 Day 1](https://www.youtube.com/watch?v=6X-3Q-c0fEA)
-- [Learn Live - Accelerate your migration and modernization journey to Azure](https://www.youtube.com/watch?v=c9hHZHId-ek)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
