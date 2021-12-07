@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [New resources and tools to enable product leaders to implement AI responsibly](https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/)
 - [4 reasons to attend the Put Responsible AI into Practice Azure digital event](https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/)
 - [5 reasons Azure Databricks is best for Hadoop workloads](https://azure.microsoft.com/blog/5-reasons-azure-databricks-is-best-for-hadoop-workloads/)
 - [Azure Cost Management and Billing updates – November 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-november-2021/)
 - [Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/)
-- [SONiC opens more opportunities for network innovation](https://azure.microsoft.com/blog/sonic-opens-more-opportunities-for-network-innovation/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
