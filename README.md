@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Expand hybrid management tools with Red Hat Ansible Automation Platform on Azure](https://azure.microsoft.com/blog/expand-hybrid-management-tools-with-red-hat-ansible-automation-platform-on-azure/)
 - [New resources and tools to enable product leaders to implement AI responsibly](https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/)
 - [4 reasons to attend the Put Responsible AI into Practice Azure digital event](https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/)
 - [5 reasons Azure Databricks is best for Hadoop workloads](https://azure.microsoft.com/blog/5-reasons-azure-databricks-is-best-for-hadoop-workloads/)
 - [Azure Cost Management and Billing updates – November 2021](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-november-2021/)
-- [Introducing Azure Load Testing: Optimize app performance at scale](https://azure.microsoft.com/blog/introducing-azure-load-testing-optimize-app-performance-at-scale/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
