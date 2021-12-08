@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [An introduction to the Cloud Adoption Framework Manage methodology](https://www.youtube.com/watch?v=riizUgSs3T8)
 - [What is Microsoft Learn?](https://www.youtube.com/watch?v=PPuCITD54HA)
 - [Learn Live - Manage Azure updates](https://www.youtube.com/watch?v=tHTc9BnVTFI)
 - [Learn Live - Implement hybrid backup and recovery with Windows Server IaaS](https://www.youtube.com/watch?v=bPTsLKaEK6A)
 - [Learn Live - Optimize databases by using advanced modeling patterns for Azure Cosmos DB](https://www.youtube.com/watch?v=u-Ef3svU5mY)
-- [Learn Live - Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://www.youtube.com/watch?v=bB0bEBiGRVw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
