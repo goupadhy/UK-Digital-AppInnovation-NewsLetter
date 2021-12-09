@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [.NET Conf &amp; VS2022 After Party Q&amp;A](https://www.youtube.com/watch?v=TkO4hNaxhaM)
 - [Accelerate Spring Apps to Cloud at Scale - Discussion with Azure Spring Cloud Customers](https://www.youtube.com/watch?v=jzGP8PdlN1M)
 - [Start here - accelerate Spring Boot applications to cloud at scale](https://www.youtube.com/watch?v=X51mMEiaGb8)
 - [7-minute demo - accelerate Spring Boot applications to cloud at scale!](https://www.youtube.com/watch?v=qrzm4uRSlUA)
 - [TEASER - Accelerate Spring Apps to Cloud at Scale - Discussion with Azure Spring Cloud Customers](https://www.youtube.com/watch?v=pAwtplbAutc)
-- [Accelerate Spring Apps to Cloud at Scale - Discussion with Azure Spring Cloud Customers](https://www.youtube.com/watch?v=-S9vYfcs_ok)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
