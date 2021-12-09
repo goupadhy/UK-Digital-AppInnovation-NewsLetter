@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [GopherCon 2021 Day 1 Replay](https://www.youtube.com/watch?v=fOwiIWkRaRA)
 - [GopherCon 2021 Day 1](https://www.youtube.com/watch?v=6X-3Q-c0fEA)
 - [AI Show Live - Episode 43 - Responsible AI Dashboard and more!](https://www.youtube.com/watch?v=yZJ8wWR-QmY)
 - [Data Exposed Live | Azure SQL News Update: Year in Review](https://www.youtube.com/watch?v=a2QxJseFyaI)
 - [An introduction to the Cloud Adoption Framework Manage methodology](https://www.youtube.com/watch?v=riizUgSs3T8)
-- [What is Microsoft Learn?](https://www.youtube.com/watch?v=PPuCITD54HA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
