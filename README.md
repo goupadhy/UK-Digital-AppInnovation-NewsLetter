@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Building an Automation Center of Excellence with Microsoft Power Platform - Automate It](https://www.youtube.com/watch?v=ddWqxRr_cVo)
 - [Custom Pages Demo &amp; Roadmap with Adrian Orth - Power CAT Live](https://www.youtube.com/watch?v=ysmbMMA6X1U)
 - [Building Power Apps that are Accessible for All - The Low Code Revolution](https://www.youtube.com/watch?v=IYCnOrm8sEo)
 - [Build Responsive Power Apps With Layout Containers - Power CAT Live](https://www.youtube.com/watch?v=N73RaNvaijs)
 - [New PVA Features from Ignite 2021! - Build a Bot Episode 11](https://www.youtube.com/watch?v=FTigtv7mUGc)
-- [Community Forums |  Microsoft Dynamics 365 &amp; Power Platform Community](https://www.youtube.com/watch?v=oYb-42rCPXQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
