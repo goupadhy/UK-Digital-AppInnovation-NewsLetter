@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Developer Tech Minutes: Watch For](https://www.youtube.com/watch?v=_zMN61TnUbc)
 - [AI Development 101 - Episode 1: &quot;Hello World, machine learning&quot;](https://www.youtube.com/watch?v=eO31aH4WyJQ)
 - [AI Development 101 - Episode 2: &quot;A hike in the mountains&quot;](https://www.youtube.com/watch?v=IncQssTfy50)
 - [AI 101 Series:  Introduction](https://www.youtube.com/watch?v=2QplcEWo4q4)
 - [AI Development 101 - Episode 3: &quot;Classifying all the things&quot;](https://www.youtube.com/watch?v=0jw4HhSKi8Q)
-- [Intelligent Query Processing in SQL Server 2022 &lpar;Ep.3&rpar; | Data Exposed](https://www.youtube.com/watch?v=bbXM3Pk9Ejw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
