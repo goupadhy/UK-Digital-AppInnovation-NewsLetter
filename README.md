@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Developer Tech Minutes: Watch For](https://www.youtube.com/watch?v=_zMN61TnUbc)
-- [AI Development 101 - Episode 1: &quot;Hello World, machine learning&quot;](https://www.youtube.com/watch?v=eO31aH4WyJQ)
-- [AI Development 101 - Episode 2: &quot;A hike in the mountains&quot;](https://www.youtube.com/watch?v=IncQssTfy50)
-- [AI 101 Series:  Introduction](https://www.youtube.com/watch?v=2QplcEWo4q4)
-- [AI Development 101 - Episode 3: &quot;Classifying all the things&quot;](https://www.youtube.com/watch?v=0jw4HhSKi8Q)
+- [Accelerate Spring Apps to Cloud at Scale - Discussion with Azure Spring Cloud Customers](https://www.youtube.com/watch?v=jzGP8PdlN1M)
+- [Start here - accelerate Spring Boot applications to cloud at scale](https://www.youtube.com/watch?v=X51mMEiaGb8)
+- [7-minute demo - accelerate Spring Boot applications to cloud at scale!](https://www.youtube.com/watch?v=qrzm4uRSlUA)
+- [TEASER - Accelerate Spring Apps to Cloud at Scale - Discussion with Azure Spring Cloud Customers](https://www.youtube.com/watch?v=pAwtplbAutc)
+- [Accelerate Spring Apps to Cloud at Scale - Discussion with Azure Spring Cloud Customers](https://www.youtube.com/watch?v=-S9vYfcs_ok)
 <!-- YOUTUBEAPPMOD:END -->
 
 
