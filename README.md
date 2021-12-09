@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [GopherCon 2021 Day 1 Replay](https://www.youtube.com/watch?v=fOwiIWkRaRA)
-- [GopherCon 2021 Day 1](https://www.youtube.com/watch?v=6X-3Q-c0fEA)
-- [AI Show Live - Episode 43 - Responsible AI Dashboard and more!](https://www.youtube.com/watch?v=yZJ8wWR-QmY)
-- [Data Exposed Live | Azure SQL News Update: Year in Review](https://www.youtube.com/watch?v=a2QxJseFyaI)
-- [An introduction to the Cloud Adoption Framework Manage methodology](https://www.youtube.com/watch?v=riizUgSs3T8)
+- [AI Development 101 - Episode 1: &quot;Hello World, machine learning&quot;](https://www.youtube.com/watch?v=eO31aH4WyJQ)
+- [AI Development 101 - Episode 2: &quot;A hike in the mountains&quot;](https://www.youtube.com/watch?v=IncQssTfy50)
+- [AI 101 Series:  Introduction](https://www.youtube.com/watch?v=2QplcEWo4q4)
+- [AI Development 101 - Episode 3: &quot;Classifying all the things&quot;](https://www.youtube.com/watch?v=0jw4HhSKi8Q)
+- [Intelligent Query Processing in SQL Server 2022 &lpar;Ep.3&rpar; | Data Exposed](https://www.youtube.com/watch?v=bbXM3Pk9Ejw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
