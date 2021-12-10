@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 43 - Responsible AI Dashboard and more!](https://www.youtube.com/watch?v=yZJ8wWR-QmY)
 - [AI Show: Live Responsible AI Dashboard: One-stop shop for operationalizing RAI in practice | 43](https://www.youtube.com/watch?v=f1oaDNl3djg)
 - [An introduction to the Cloud Adoption Framework Ready methodology](https://www.youtube.com/watch?v=ZC3AsTHEUPs)
 - [GopherCon 2021 - Day 2](https://www.youtube.com/watch?v=xmMs_cr7bJw)
 - [.NET Conf &amp; VS2022 After Party Q&amp;A](https://www.youtube.com/watch?v=TkO4hNaxhaM)
-- [Accelerate Spring Apps to Cloud at Scale - Discussion with Azure Spring Cloud Customers](https://www.youtube.com/watch?v=jzGP8PdlN1M)
 <!-- YOUTUBEAPPMOD:END -->
 
 
