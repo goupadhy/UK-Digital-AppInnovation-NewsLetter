@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [GopherCon 2021 - Day 3 Replay](https://www.youtube.com/watch?v=0qwUM8u19Vo)
 - [GopherCon 2021 - Day 3](https://www.youtube.com/watch?v=wY03WHzNy74)
 - [AI Show Live - Episode 43 - Responsible AI Dashboard and more!](https://www.youtube.com/watch?v=yZJ8wWR-QmY)
 - [AI Show: Live Responsible AI Dashboard: One-stop shop for operationalizing RAI in practice | 43](https://www.youtube.com/watch?v=f1oaDNl3djg)
 - [An introduction to the Cloud Adoption Framework Ready methodology](https://www.youtube.com/watch?v=ZC3AsTHEUPs)
+- [GopherCon 2021 - Day 2](https://www.youtube.com/watch?v=xmMs_cr7bJw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
