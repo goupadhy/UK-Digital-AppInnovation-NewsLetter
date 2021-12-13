@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [GitHub at the UN Internet Governance Forum](https://github.blog/2021-12-13-github-at-the-un-internet-governance-forum/)
 - [Introducing stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/)
 - [Precise code navigation for Python, and code navigation in pull requests](https://github.blog/2021-12-09-precise-code-navigation-python-code-navigation-pull-requests/)
 - [Improving GitHub code search](https://github.blog/2021-12-08-improving-github-code-search/)
 - [GitHub Enterprise Server 3.3 is generally available](https://github.blog/2021-12-07-github-enterprise-server-3-3-is-generally-available/)
-- [Enrolling all npm publishers in enhanced login verification and next steps for two-factor authentication enforcement](https://github.blog/2021-12-07-enrolling-npm-publishers-enhanced-login-verification-two-factor-authentication-enforcement/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
