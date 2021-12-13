@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Kyndryl- Managing Large Scale SAP Systems on Microsoft Azure](https://www.youtube.com/watch?v=jLVo2Sx7jqk)
 - [Ask the Expert: Quest- An AD Recovery from Ransomware](https://www.youtube.com/watch?v=hrn8uzaYLic)
 - [Ask the Expert: Building a Co-Creative Enterprise with ManageEngine](https://www.youtube.com/watch?v=uhw2h5sZv-Q)
 - [Monitor Windows Server IaaS Virtual Machines and Hybrid Instances](https://www.youtube.com/watch?v=f7aIpf3B7zM)
 - [Azure SQL January 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=K7YZr9ztLFc)
-- [Ask the Expert: Video and Stream in M365](https://www.youtube.com/watch?v=rnVtUd44b9c)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
