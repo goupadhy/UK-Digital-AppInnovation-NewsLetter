@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Monitor Windows Server IaaS Virtual Machines and Hybrid Instances](https://www.youtube.com/watch?v=f7aIpf3B7zM)
 - [Azure SQL January 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=K7YZr9ztLFc)
 - [Ask the Expert: Video and Stream in M365](https://www.youtube.com/watch?v=rnVtUd44b9c)
 - [Hello World: Special Community Demos](https://www.youtube.com/watch?v=Ou9kcmt_s18)
 - [Hello World: Let&#39;s get Started with GitHub](https://www.youtube.com/watch?v=2NvwxgW0-Bs)
-- [GopherCon 2021 - Day 3](https://www.youtube.com/watch?v=wY03WHzNy74)
 <!-- YOUTUBEAPPMOD:END -->
 
 
