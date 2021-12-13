@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL January 2021 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=K7YZr9ztLFc)
 - [Ask the Expert: Video and Stream in M365](https://www.youtube.com/watch?v=rnVtUd44b9c)
 - [Hello World: Special Community Demos](https://www.youtube.com/watch?v=Ou9kcmt_s18)
 - [Hello World: Let&#39;s get Started with GitHub](https://www.youtube.com/watch?v=2NvwxgW0-Bs)
 - [GopherCon 2021 - Day 3](https://www.youtube.com/watch?v=wY03WHzNy74)
-- [AI Show Live - Episode 43 - Responsible AI Dashboard and more!](https://www.youtube.com/watch?v=yZJ8wWR-QmY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
