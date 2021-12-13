@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Taking Stock Live - a conversation with Judson Althoff](https://www.youtube.com/watch?v=9Mq0q0693gg)
 - [Microsoft Cloud for Financial Services: Unified Customer Profile](https://www.youtube.com/watch?v=kAqQ-rdQMpQ)
 - [Microsoft Cloud for Financial Services: Collaboration Manager](https://www.youtube.com/watch?v=ZYBPmf97yPo)
 - [Enhance emergency response effectiveness with Microsoft Tactical First Response Capabilities](https://www.youtube.com/watch?v=f3PJq8sgtcA)
 - [Azure helps Avanade build retail solutions to change the world](https://www.youtube.com/watch?v=nLifqPofyQo)
-- [Microsoft Cloud for Manufacturing Overview](https://www.youtube.com/watch?v=sBFwo-QzaYo)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
