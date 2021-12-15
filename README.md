@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL &amp; SQL Server 2022: Intelligent Database Futures | Data Exposed Live](https://www.youtube.com/watch?v=BbaC6-2qsjI)
 - [Ask the Expert: IBM: Threat Management Systems for Business Survival](https://www.youtube.com/watch?v=9GjLB8KV4Tw)
 - [Learn Live - Architect modern applications using Azure SQL Database](https://www.youtube.com/watch?v=7H7TDnQR2G4)
 - [Learn Live - Build your first microservice with .NET](https://www.youtube.com/watch?v=YcE2UR3ldfE)
 - [Ask the Expert: Kyndryl- Managing Large Scale SAP Systems on Microsoft Azure](https://www.youtube.com/watch?v=jLVo2Sx7jqk)
-- [Ask the Expert: Quest- An AD Recovery from Ransomware](https://www.youtube.com/watch?v=hrn8uzaYLic)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
