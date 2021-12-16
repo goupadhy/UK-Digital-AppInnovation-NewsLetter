@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Hello World: Special Community Demos](https://www.youtube.com/watch?v=Ou9kcmt_s18)
 - [.NET Conf &amp; VS2022 After Party Q&amp;A](https://www.youtube.com/watch?v=TkO4hNaxhaM)
 - [Azure SQL VM: Best Price-Performance with Ebdsv5 Series &lpar;Ep.6&rpar; | Data Exposed](https://www.youtube.com/watch?v=cQ7k6Flip3M)
 - [Learn Live - Accelerate your migration and modernization journey to Azure](https://www.youtube.com/watch?v=c9hHZHId-ek)
 - [AI Show Live - Episode 44 - Automate Custom Vision models creation with AutoML for Images](https://www.youtube.com/watch?v=FPDCRSuAym0)
-- [Hello World: Let&#39;s get Started with GitHub](https://www.youtube.com/watch?v=2NvwxgW0-Bs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
