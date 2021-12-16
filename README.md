@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Accelerate your migration and modernization journey to Azure](https://www.youtube.com/watch?v=c9hHZHId-ek)
 - [AI Show Live - Episode 44 - Automate Custom Vision models creation with AutoML for Images](https://www.youtube.com/watch?v=FPDCRSuAym0)
 - [Hello World: Let&#39;s get Started with GitHub](https://www.youtube.com/watch?v=2NvwxgW0-Bs)
 - [Azure SQL &amp; SQL Server 2022: Intelligent Database Futures | Data Exposed Live](https://www.youtube.com/watch?v=BbaC6-2qsjI)
 - [Ask the Expert: IBM: Threat Management Systems for Business Survival](https://www.youtube.com/watch?v=9GjLB8KV4Tw)
-- [Learn Live - Architect modern applications using Azure SQL Database](https://www.youtube.com/watch?v=7H7TDnQR2G4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
