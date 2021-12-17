@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Download: Log4j Madness and Top Picks of 2021](https://www.youtube.com/watch?v=5aIbibgjRpY)
 - [AI Show: Live | Dec 3 | Azure Machine Learning Batch Endpoints | Episode 42](https://www.youtube.com/watch?v=bgqj0eIEupM)
 - [Learn Live - Implement hybrid backup and recovery with Windows Server IaaS](https://www.youtube.com/watch?v=bPTsLKaEK6A)
 - [Hello World: Special Community Demos](https://www.youtube.com/watch?v=Ou9kcmt_s18)
 - [.NET Conf &amp; VS2022 After Party Q&amp;A](https://www.youtube.com/watch?v=TkO4hNaxhaM)
-- [Azure SQL VM: Best Price-Performance with Ebdsv5 Series &lpar;Ep.6&rpar; | Data Exposed](https://www.youtube.com/watch?v=cQ7k6Flip3M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
