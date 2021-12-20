@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Developer Tech Minutes: Human Parity on CommonsenseQA](https://www.youtube.com/watch?v=j6IFOTdnJMg)
 - [AI Show Live - Episode 44 - Automate Custom Vision model creation with AutoML for Images](https://www.youtube.com/watch?v=FPDCRSuAym0)
 - [The Download: Log4j Madness and Top Picks of 2021](https://www.youtube.com/watch?v=5aIbibgjRpY)
 - [AI Show: Live | Dec 3 | Azure Machine Learning Batch Endpoints | Episode 42](https://www.youtube.com/watch?v=bgqj0eIEupM)
 - [Learn Live - Implement hybrid backup and recovery with Windows Server IaaS](https://www.youtube.com/watch?v=bPTsLKaEK6A)
-- [Hello World: Special Community Demos](https://www.youtube.com/watch?v=Ou9kcmt_s18)
 <!-- YOUTUBEAPPMOD:END -->
 
 
