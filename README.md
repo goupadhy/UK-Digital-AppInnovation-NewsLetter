@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [KQL - The Next Query Language You Need to Learn | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Uj2J55bs_xs)
 - [Ask the Expert: Kyndryl- Managing Large Scale SAP Systems on Microsoft Azure](https://www.youtube.com/watch?v=jLVo2Sx7jqk)
 - [Developer Tech Minutes: Human Parity on CommonsenseQA](https://www.youtube.com/watch?v=j6IFOTdnJMg)
 - [AI Show Live - Episode 44 - Automate Custom Vision model creation with AutoML for Images](https://www.youtube.com/watch?v=FPDCRSuAym0)
 - [The Download: Log4j Madness and Top Picks of 2021](https://www.youtube.com/watch?v=5aIbibgjRpY)
-- [AI Show: Live | Dec 3 | Azure Machine Learning Batch Endpoints | Episode 42](https://www.youtube.com/watch?v=bgqj0eIEupM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
