@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [GitHub’s top 10 blog posts of 2021](https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/)
 - [How GitHub contributed to the Santa Clara Principles update](https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/)
 - [How to leverage security frameworks and libraries for secure code](https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/)
 - [Getting started with GitHub Actions just got easier!](https://github.blog/2021-12-17-getting-started-with-github-actions-just-got-easier/)
 - [Technical interviews via Codespaces](https://github.blog/2021-12-16-technical-interviews-via-codespaces/)
-- [5 automations every developer should be running](https://github.blog/2021-12-16-5-automations-every-developer-should-be-running/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
