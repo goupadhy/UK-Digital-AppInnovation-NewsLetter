@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=U1PlSqBAvU8)
 - [AI Show Live - Episode 45 - New Years Special Machine Learning Learnathon](https://www.youtube.com/watch?v=XP1wFsKhORE)
 - [Ask the Expert: Building a Co-Creative Enterprise with ManageEngine](https://www.youtube.com/watch?v=uhw2h5sZv-Q)
 - [KQL - The Next Query Language You Need to Learn | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Uj2J55bs_xs)
 - [Ask the Expert: Kyndryl- Managing Large Scale SAP Systems on Microsoft Azure](https://www.youtube.com/watch?v=jLVo2Sx7jqk)
-- [Developer Tech Minutes: Human Parity on CommonsenseQA](https://www.youtube.com/watch?v=j6IFOTdnJMg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
