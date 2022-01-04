@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure Cost Management and Billing 2021 year in review](https://azure.microsoft.com/blog/azure-cost-management-and-billing-2021-year-in-review/)
 - [Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud](https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/)
 - [Microsoft named a Leader in 2021 Gartner® Magic Quadrant™ for Cloud DBMS Platforms](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-cloud-dbms-platforms/)
 - [Updates to Azure Files: NFS v4.1, higher performance limits, and reserved instance pricing](https://azure.microsoft.com/blog/updates-to-azure-files-nfs-v41-higher-performance-limits-and-reserved-instance-pricing/)
 - [Microsoft named a Leader in The Forrester Wave: Enterprise iPaaS, 2021](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-enterprise-ipaas-2021/)
-- [Geospatial imagery unlocks new cloud computing scenarios on Azure](https://azure.microsoft.com/blog/geospatial-imagery-unlocks-new-cloud-computing-scenarios-on-azure/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
