@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Web Wednesday - Web Wednesday: TypeScript and GraphQL with Aaron Powell](https://www.youtube.com/watch?v=WjFspnutTtI)
+- [Web Wednesday: Style and art with CSS with Rojhan Paydar](https://www.youtube.com/watch?v=oFVfv5TT5Fc)
 - [Ask the Expert: Quest- An AD Recovery from Ransomware](https://www.youtube.com/watch?v=hrn8uzaYLic)
 - [IgnitePartnerATE: Building a co-creative enterprise with ManageEngine](https://www.youtube.com/watch?v=TeRo4HwkfTg)
 - [IgnitePartnerATE: Kyndryl: Managing large scale SAP systems on Microsoft Azure](https://www.youtube.com/watch?v=CpfpwwuJ7AU)
-- [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=U1PlSqBAvU8)
-- [AI Show Live - Episode 45 - New Years Special Machine Learning Learnathon](https://www.youtube.com/watch?v=XP1wFsKhORE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
