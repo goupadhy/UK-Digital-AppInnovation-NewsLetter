@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Peek Inside the Power Platform Release Process - Power CAT Live](https://www.youtube.com/watch?v=F3yrcf8IWRE)
 - [Microsoft Cloud for Healthcare AMA](https://www.youtube.com/watch?v=mRj4fIGU7QQ)
 - [Power Platform Storytelling: The Inside Story – Power CAT Live](https://www.youtube.com/watch?v=GJHHTMOd398)
 - [Improve Your Model Driven App Performance With Asynchronous Calls](https://www.youtube.com/watch?v=qhXg_w6dWw8)
 - [Power Apps Native Apps for Mobile Devices - Power CAT Live](https://www.youtube.com/watch?v=FSwACx_Wb88)
-- [How to analyze imported log files in process mining](https://www.youtube.com/watch?v=bgPA11LF32c)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
