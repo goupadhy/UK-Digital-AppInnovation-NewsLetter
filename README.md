@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The AI Show | Updates to Semantic Search](https://www.youtube.com/watch?v=W7G5SHPYGxM)
 - [Web Wednesday - Web Wednesday: TypeScript and GraphQL with Aaron Powell](https://www.youtube.com/watch?v=WjFspnutTtI)
 - [Web Wednesday: Style and art with CSS with Rojhan Paydar](https://www.youtube.com/watch?v=oFVfv5TT5Fc)
 - [Ask the Expert: Quest- An AD Recovery from Ransomware](https://www.youtube.com/watch?v=hrn8uzaYLic)
 - [IgnitePartnerATE: Building a co-creative enterprise with ManageEngine](https://www.youtube.com/watch?v=TeRo4HwkfTg)
-- [IgnitePartnerATE: Kyndryl: Managing large scale SAP systems on Microsoft Azure](https://www.youtube.com/watch?v=CpfpwwuJ7AU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
