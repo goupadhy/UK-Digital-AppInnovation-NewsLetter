@@ -79,7 +79,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [AI Show Live - Episode 46 - Updates to Semantic Search and More from Aysegul and Bea](https://www.youtube.com/watch?v=W7G5SHPYGxM)
+- [AI Show Live - Episode 46 - Updates to Semantic Search and Speech and more from Aysegul and Bea](https://www.youtube.com/watch?v=W7G5SHPYGxM)
 - [Web Wednesday - Web Wednesday: TypeScript and GraphQL with Aaron Powell](https://www.youtube.com/watch?v=WjFspnutTtI)
 - [Web Wednesday: Style and art with CSS with Rojhan Paydar](https://www.youtube.com/watch?v=oFVfv5TT5Fc)
 - [Ask the Expert: Quest- An AD Recovery from Ransomware](https://www.youtube.com/watch?v=hrn8uzaYLic)
