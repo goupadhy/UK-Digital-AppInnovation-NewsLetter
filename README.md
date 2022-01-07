@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=o19ON5OHFV8)
+- [Learn Live - Introduction to microservices with .NET](https://www.youtube.com/watch?v=oN1g6eApv0g)
 - [Azure Arc-enabled Data Services Directly Connected Mode Breakdown | Data Exposed](https://www.youtube.com/watch?v=imxevTNI4hM)
 - [Web Wednesday: Style and art with CSS with Rojhan Paydar and Annie Liew](https://www.youtube.com/watch?v=oFVfv5TT5Fc)
 - [Made with PowerApps: Add Mixed Reality Features to an Interior Decorating App](https://www.youtube.com/watch?v=7B-OUfOWMc8)
-- [Ask the Expert: Extend Viva Connections](https://www.youtube.com/watch?v=CeKyZ_FeCjw)
-- [AI Show Live - Episode 46 - Updates to Semantic Search and Speech and more from Ayşegül and Bea](https://www.youtube.com/watch?v=W7G5SHPYGxM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
