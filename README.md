@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Fusion Team Development and Leveraging Power Automate Desktop &lpar;RPA&rpar; | The Low Code Revolution](https://www.youtube.com/watch?v=-CcT76_YZaY)
 - [Power Platform Weekly Newsletter | Community Connections](https://www.youtube.com/watch?v=co1SlC01FIM)
 - [Galleries | Microsoft Dynamics 365 &amp; Power Platform Community](https://www.youtube.com/watch?v=4kusXlbqGPA)
 - [Peek Inside the Power Platform Release Process - Power CAT Live](https://www.youtube.com/watch?v=F3yrcf8IWRE)
 - [Microsoft Cloud for Healthcare AMA](https://www.youtube.com/watch?v=mRj4fIGU7QQ)
+- [Power Platform Storytelling: The Inside Story – Power CAT Live](https://www.youtube.com/watch?v=GJHHTMOd398)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
