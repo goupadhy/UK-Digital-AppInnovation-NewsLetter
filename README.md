@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL February 2022 New Updates | Data Exposed](https://www.youtube.com/watch?v=VoEyrILitJA)
 - [Web Wednesday - Talking ASP.NET with Jon Galloway](https://www.youtube.com/watch?v=Q5yk82B87Ow)
 - [Web Wednesday hosted by GeekTrainer: Chatting about Blazor with Cecil Phillip](https://www.youtube.com/watch?v=YQf_pN4ldWY)
 - [AI Show Live - Episode 46 - Updates to Semantic Search and Speech and more from Ayşegül and Bea](https://www.youtube.com/watch?v=W7G5SHPYGxM)
 - [AI Show | Dec 17 | Automate Custom Vision model creation with AutoML for Images | Ep 44](https://www.youtube.com/watch?v=VvTjHzcYuaQ)
-- [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=o19ON5OHFV8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
