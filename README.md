@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power BI Pro Tips For Power Apps - Power CAT Live](https://www.youtube.com/watch?v=UNMYSEN3VeI)
 - [Automation Recommendation using Process Advisor](https://www.youtube.com/watch?v=Rdu0M89UwcQ)
 - [How to analyze a process using Process Advisor](https://www.youtube.com/watch?v=_cqASbwRGGo)
 - [How to share a process using Process Advisor](https://www.youtube.com/watch?v=qV4rkMFoKAA)
 - [How to prepare your recording using Process Advisor](https://www.youtube.com/watch?v=K6IGTY478jU)
-- [Power Platform Weekly Newsletter | Community Connections](https://www.youtube.com/watch?v=co1SlC01FIM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
