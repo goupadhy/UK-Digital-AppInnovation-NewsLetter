@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Introduction to microservices with .NET](https://www.youtube.com/watch?v=oN1g6eApv0g)
 - [Ask the Expert: Microsoft Certification Renewals](https://www.youtube.com/watch?v=pMbS6FZNpqI)
 - [Azure SQL February 2022 New Updates | Data Exposed](https://www.youtube.com/watch?v=VoEyrILitJA)
 - [Web Wednesday - Talking ASP.NET with Jon Galloway](https://www.youtube.com/watch?v=Q5yk82B87Ow)
 - [Web Wednesday hosted by GeekTrainer: Chatting about Blazor with Cecil Phillip](https://www.youtube.com/watch?v=YQf_pN4ldWY)
-- [AI Show Live - Episode 46 - Updates to Semantic Search and Speech and more from Ayşegül and Bea](https://www.youtube.com/watch?v=W7G5SHPYGxM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
