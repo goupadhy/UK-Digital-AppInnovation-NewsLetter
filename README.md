@@ -80,10 +80,10 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
 - [What&#39;s New in Project Bonsai](https://www.youtube.com/watch?v=64BUHCjYJRI)
+- [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=o19ON5OHFV8)
 - [Azure SQL January 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=K7YZr9ztLFc)
 - [What is Gaming Accessibility?](https://www.youtube.com/watch?v=czpZxs_N9lk)
 - [Ask the Expert: Extend Viva Connections](https://www.youtube.com/watch?v=CeKyZ_FeCjw)
-- [Learn Live - Introduction to microservices with .NET](https://www.youtube.com/watch?v=oN1g6eApv0g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
