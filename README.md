@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ep 48 | Fast-Track labeling with Data Labeling Services in Azure ML](https://www.youtube.com/watch?v=KD5ZTy05Lao)
 - [What&#39;s New in Project Bonsai](https://www.youtube.com/watch?v=64BUHCjYJRI)
 - [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=o19ON5OHFV8)
 - [Azure SQL January 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=K7YZr9ztLFc)
 - [What is Gaming Accessibility?](https://www.youtube.com/watch?v=czpZxs_N9lk)
-- [Ask the Expert: Extend Viva Connections](https://www.youtube.com/watch?v=CeKyZ_FeCjw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
