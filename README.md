@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the product experts live: Azure Confidential Computing](https://www.youtube.com/watch?v=f8zI8hcitA8)
 - [Azure SQL VM: Optimally Configure SQL Server on Azure Virtual Machines with SQL Assessment &lpar;Ep. 7&rpar;](https://www.youtube.com/watch?v=8i2Pbppfk2E)
 - [AzureFunBytes Episode 65 - @Azure Durable Functions For Automation With @LBugnion](https://www.youtube.com/watch?v=YALMRJ-43kw)
 - [Learn Live - Create and deploy a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=t2OIbhdRLPA)
 - [Learn Live - Plan and implement Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=6GYrXsAMs-I)
-- [AI Show Live - Episode 47 - High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=83_ZTYb6_AA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
