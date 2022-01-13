@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Create and deploy a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=t2OIbhdRLPA)
+- [Learn Live - Plan and implement Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=6GYrXsAMs-I)
 - [AI Show Live - Episode 47 - High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=83_ZTYb6_AA)
 - [Web Wednesday - Web Wednesday: TypeScript and GraphQL with Aaron Powell](https://www.youtube.com/watch?v=WjFspnutTtI)
 - [Ep 48 | Fast-Track labeling with Data Labeling Services in Azure ML](https://www.youtube.com/watch?v=KD5ZTy05Lao)
-- [What&#39;s New in Project Bonsai](https://www.youtube.com/watch?v=64BUHCjYJRI)
-- [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=o19ON5OHFV8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
