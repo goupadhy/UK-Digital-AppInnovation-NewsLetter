@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [5 reasons to attend the Azure Virtual Desktop Master Class](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-virtual-desktop-master-class/)
 - [Accelerate your websites with Azure Static Web Apps enterprise-edge](https://azure.microsoft.com/blog/accelerate-your-websites-with-azure-static-web-apps-enterpriseedge/)
 - [Accelerate the in-vehicle digital experience with Azure Cognitive Services](https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/)
 - [Azure Cost Management and Billing 2021 year in review](https://azure.microsoft.com/blog/azure-cost-management-and-billing-2021-year-in-review/)
 - [Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud](https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/)
-- [Microsoft named a Leader in 2021 Gartner® Magic Quadrant™ for Cloud DBMS Platforms](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-cloud-dbms-platforms/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
