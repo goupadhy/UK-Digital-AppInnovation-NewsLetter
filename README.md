@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 47 - High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=83_ZTYb6_AA)
 - [Web Wednesday - Web Wednesday: TypeScript and GraphQL with Aaron Powell](https://www.youtube.com/watch?v=WjFspnutTtI)
 - [Ep 48 | Fast-Track labeling with Data Labeling Services in Azure ML](https://www.youtube.com/watch?v=KD5ZTy05Lao)
 - [What&#39;s New in Project Bonsai](https://www.youtube.com/watch?v=64BUHCjYJRI)
 - [Learn Live - Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=o19ON5OHFV8)
-- [Azure SQL January 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=K7YZr9ztLFc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
