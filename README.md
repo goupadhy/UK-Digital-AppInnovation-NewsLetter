@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Download - PowerToys, VS Git, and Wordle](https://www.youtube.com/watch?v=9ks3QvViMhc)
 - [AI Show Live - Episode 47 - High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=83_ZTYb6_AA)
 - [Ep 46 | Updates to Semantic Search and Speech and more from Aysegul and Bea](https://www.youtube.com/watch?v=wNpILR_yMYQ)
 - [The Download: PowerToys, VS Git, and Wordle](https://www.youtube.com/watch?v=VauWt5AEF84)
 - [Why did the message on the Windows 95 Start menu change from &#39;Start&#39; to &#39;Ship It&#39; for one build?](https://www.youtube.com/watch?v=kUbKB-W22Z4)
-- [CosmosDB Certification Study Hall Ep01: Get started with Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=di69_l5CYco)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
