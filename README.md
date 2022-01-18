@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Onboarding Wizard to Deploy Frontline Workers](https://www.youtube.com/watch?v=e9IjuuDfH3Q)
 - [Learn Live - Create and deploy a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=t2OIbhdRLPA)
 - [The Download - PowerToys, VS Git, and Wordle](https://www.youtube.com/watch?v=9ks3QvViMhc)
 - [AI Show Live - Episode 47 - High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=83_ZTYb6_AA)
 - [Ep 46 | Updates to Semantic Search and Speech and more from Aysegul and Bea](https://www.youtube.com/watch?v=wNpILR_yMYQ)
-- [The Download: PowerToys, VS Git, and Wordle](https://www.youtube.com/watch?v=VauWt5AEF84)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
