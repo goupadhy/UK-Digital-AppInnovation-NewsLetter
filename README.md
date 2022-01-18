@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Create and deploy a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=t2OIbhdRLPA)
 - [The Download - PowerToys, VS Git, and Wordle](https://www.youtube.com/watch?v=9ks3QvViMhc)
 - [AI Show Live - Episode 47 - High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=83_ZTYb6_AA)
 - [Ep 46 | Updates to Semantic Search and Speech and more from Aysegul and Bea](https://www.youtube.com/watch?v=wNpILR_yMYQ)
 - [The Download: PowerToys, VS Git, and Wordle](https://www.youtube.com/watch?v=VauWt5AEF84)
-- [Why did the message on the Windows 95 Start menu change from &#39;Start&#39; to &#39;Ship It&#39; for one build?](https://www.youtube.com/watch?v=kUbKB-W22Z4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
