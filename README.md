@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [WebWednesday-WebWednesdayVoiceAssistantAndWebXRinWebAppsWithAyşegülYönet](https://www.youtube.com/watch?v=GZrM2h5rnPg)
 - [Learn Live - Plan and implement Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=6GYrXsAMs-I)
 - [How many customers am I reaching by building accessibility into my games?](https://www.youtube.com/watch?v=feRPPQXv8AY)
 - [Ask the Expert: Onboarding Wizard to Deploy Frontline Workers](https://www.youtube.com/watch?v=e9IjuuDfH3Q)
 - [Learn Live - Create and deploy a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=t2OIbhdRLPA)
-- [The Download - PowerToys, VS Git, and Wordle](https://www.youtube.com/watch?v=9ks3QvViMhc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
