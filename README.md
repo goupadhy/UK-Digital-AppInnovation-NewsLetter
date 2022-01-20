@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to Leverage Centrally-managed Azure Hybrid Benefit to Save Money, Manage Cost and Stay Compliant](https://www.youtube.com/watch?v=LvtUXO4wcjs)
 - [Learn Live - Implement resiliency in a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=MmL2WfwJb8Q)
 - [WebWednesday-WebWednesdayVoiceAssistantAndWebXRinWebAppsWithAyşegülYönet](https://www.youtube.com/watch?v=GZrM2h5rnPg)
 - [Learn Live - Plan and implement Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=6GYrXsAMs-I)
 - [How many customers am I reaching by building accessibility into my games?](https://www.youtube.com/watch?v=feRPPQXv8AY)
-- [Ask the Expert: Onboarding Wizard to Deploy Frontline Workers](https://www.youtube.com/watch?v=e9IjuuDfH3Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
