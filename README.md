@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dynamics 365 Community AMA with Sales GM Ray Smith](https://www.youtube.com/watch?v=Fj6vBJ3ndko)
 - [Getting Started with Responsive Canvas Apps | The Low Code Revolution](https://www.youtube.com/watch?v=tjYIy2ZbDWw)
 - [3 Ways To List Power Apps In The Office App Launcher - Power CAT Live](https://www.youtube.com/watch?v=msragCPRY6I)
 - [AI Builder Overview](https://www.youtube.com/watch?v=F7JU14eVpLg)
 - [Power BI Pro Tips For Power Apps - Power CAT Live](https://www.youtube.com/watch?v=UNMYSEN3VeI)
-- [Automation Recommendation using Process Advisor](https://www.youtube.com/watch?v=Rdu0M89UwcQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
