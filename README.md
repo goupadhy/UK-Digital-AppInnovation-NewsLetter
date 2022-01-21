@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ep 48 | Fast-Track labeling with Data Labeling Services in Azure ML](https://www.youtube.com/watch?v=KD5ZTy05Lao)
 - [The Download: Microsoft Buys Activision, DevToys app, Ventoy and More](https://www.youtube.com/watch?v=dsoGOAxWvG8)
 - [Ep 47 | High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=T1qBxPyl6Y4)
 - [Learn Live - Move data into and out of Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Uj8LEYKVtuo)
 - [MR Speaker Series: Improving Unity Workflows and Productivity with Pixyz Plugin and Visual Scripting](https://www.youtube.com/watch?v=K40WhXd5nPU)
-- [Journey into XR Development - Episode 1 - Paths into XR Development](https://www.youtube.com/watch?v=XNX3gQWOdA0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
