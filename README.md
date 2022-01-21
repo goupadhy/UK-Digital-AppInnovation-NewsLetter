@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Move data into and out of Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Uj8LEYKVtuo)
 - [MR Speaker Series: Improving Unity Workflows and Productivity with Pixyz Plugin and Visual Scripting](https://www.youtube.com/watch?v=K40WhXd5nPU)
 - [Journey into XR Development - Episode 1 - Paths into XR Development](https://www.youtube.com/watch?v=XNX3gQWOdA0)
 - [MR Speaker Series: MRTK v3 - improving the MR Developer Experience](https://www.youtube.com/watch?v=2WhkT29X4mc)
 - [MR Speaker Series: The Making of SonzaiXR](https://www.youtube.com/watch?v=N9W-gttDiIQ)
-- [MR Speaker Series: MuseumEye - New Eye to an Immersive Holographic Content in Museums](https://www.youtube.com/watch?v=X-4SwbnrzdQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
