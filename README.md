@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to Use Process Advisor | Power Platform Shorts](https://www.youtube.com/watch?v=TiScmaR8OE0)
 - [How to create a process using Process Advisor](https://www.youtube.com/watch?v=cvnFtZ0zhas)
 - [How to analyze imported log files in process mining](https://www.youtube.com/watch?v=u5f5Yv4HdHk)
 - [How to import data for process mining](https://www.youtube.com/watch?v=9VAJEJkihr0)
 - [Dynamics 365 Community AMA with Marketing VP Lori Lamkin](https://www.youtube.com/watch?v=l8JTHWcwRzg)
-- [Dynamics 365 Community AMA with Sales GM Ray Smith](https://www.youtube.com/watch?v=Fj6vBJ3ndko)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
