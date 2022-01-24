@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Planzer leverages the Azure Migration and Modernization Program to migrate to Azure](https://www.youtube.com/watch?v=qMEhH2cgeZ4)
 - [Mattress Firm partners with Microsoft to transform customer experiences](https://www.youtube.com/watch?v=H6yaQNZcUsA)
 - [Diversity &amp; Inclusion Perspectives Segment | Microsoft Envision 2022](https://www.youtube.com/watch?v=w7TU__xPr2c)
 - [Connect your customers, your people, and your data with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=ew_gMs3Mtps)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Tom Ripley](https://www.youtube.com/watch?v=QzAI5yFUexs)
-- [Microsoft for Government Critical Infrastructure](https://www.youtube.com/watch?v=gjLjRO_m69I)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
