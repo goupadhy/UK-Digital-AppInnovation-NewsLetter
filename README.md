@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [7 reasons to attend Azure Open Source Day](https://azure.microsoft.com/blog/7-reasons-to-attend-azure-open-source-day/)
 - [Elastic and Microsoft Azure: Unified Observability for Spring Boot applications](https://azure.microsoft.com/blog/elastic-and-microsoft-azure-unified-observability-for-spring-boot-applications/)
 - [What does “open” really mean to you?](https://azure.microsoft.com/blog/what-does-open-really-mean-to-you/)
 - [Delivering the connected shopping experience: How Microsoft and Avanade are reimagining retail](https://azure.microsoft.com/blog/delivering-the-connected-shopping-experience-how-microsoft-and-avanade-are-reimagining-retail/)
 - [5 reasons to attend the Azure Virtual Desktop Master Class](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-virtual-desktop-master-class/)
-- [Accelerate your websites with Azure Static Web Apps enterprise-edge](https://azure.microsoft.com/blog/accelerate-your-websites-with-azure-static-web-apps-enterpriseedge/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
