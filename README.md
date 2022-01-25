@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Journey into XR Development - Episode 2 - Plan &amp; Design Your XR App](https://www.youtube.com/watch?v=67NXMD7tf8s)
 - [Ep 48 | Fast-Track labeling with Data Labeling Services in Azure ML](https://www.youtube.com/watch?v=KD5ZTy05Lao)
 - [The Download: Microsoft Buys Activision, DevToys app, Ventoy and More](https://www.youtube.com/watch?v=dsoGOAxWvG8)
 - [Ep 47 | High-performance serving with Triton Inference Server in AzureML](https://www.youtube.com/watch?v=T1qBxPyl6Y4)
 - [Learn Live - Move data into and out of Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Uj8LEYKVtuo)
-- [MR Speaker Series: Improving Unity Workflows and Productivity with Pixyz Plugin and Visual Scripting](https://www.youtube.com/watch?v=K40WhXd5nPU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
