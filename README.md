@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Use the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=jIWwW5sDu_w)
 - [Introduction to the Data Management and Analytics Scenario](https://www.youtube.com/watch?v=x84RlRvfx8E)
 - [Learn Live - Instrument a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=hAeup0sKctM)
 - [Learn Live - Implement resiliency in a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=MmL2WfwJb8Q)
 - [Journey into XR Development - Episode 2 - Plan &amp; Design Your XR App](https://www.youtube.com/watch?v=67NXMD7tf8s)
-- [Ep 48 | Fast-Track labeling with Data Labeling Services in Azure ML](https://www.youtube.com/watch?v=KD5ZTy05Lao)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
