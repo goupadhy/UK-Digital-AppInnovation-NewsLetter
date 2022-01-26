@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Web Wednesday: Voice assistant &amp; WebXR in web apps with Ayşegül Yönet](https://www.youtube.com/watch?v=mohZd2H4-Us)
+- [How much extra work is it for developers to add accessibility into their games?](https://www.youtube.com/watch?v=gLyBwHm8O4A)
 - [Azure AD for Azure Data Services: Synapse Edition | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=QbVbCBUG3sg)
 - [Ask the Expert: Microsoft Certification Renewals](https://www.youtube.com/watch?v=pMbS6FZNpqI)
 - [Learn Live - Use the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=jIWwW5sDu_w)
-- [Introduction to the Data Management and Analytics Scenario](https://www.youtube.com/watch?v=x84RlRvfx8E)
-- [Learn Live - Instrument a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=hAeup0sKctM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
