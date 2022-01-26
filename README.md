@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Save big by using your on-premises licenses on Azure](https://azure.microsoft.com/blog/save-big-by-using-your-onpremises-licenses-on-azure/)
 - [Azure DDoS Protection—2021 Q3 and Q4 DDoS attack trends](https://azure.microsoft.com/blog/azure-ddos-protection-2021-q3-and-q4-ddos-attack-trends/)
 - [Rightsize to maximize your cloud investment with Microsoft Azure](https://azure.microsoft.com/blog/rightsize-to-maximize-your-cloud-investment-with-microsoft-azure/)
 - [7 reasons to attend Azure Open Source Day](https://azure.microsoft.com/blog/7-reasons-to-attend-azure-open-source-day/)
 - [Elastic and Microsoft Azure: Unified Observability for Spring Boot applications](https://azure.microsoft.com/blog/elastic-and-microsoft-azure-unified-observability-for-spring-boot-applications/)
-- [What does “open” really mean to you?](https://azure.microsoft.com/blog/what-does-open-really-mean-to-you/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
