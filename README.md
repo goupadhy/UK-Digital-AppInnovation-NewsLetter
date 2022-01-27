@@ -82,8 +82,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [Introduction to Azure SQL Bindings for Azure Functions | Data Exposed](https://www.youtube.com/watch?v=LZxm4A0qBa4)
 - [AI Show Live - Episode 49 - Question Answering in General Availability](https://www.youtube.com/watch?v=BHWwgmOPopY)
 - [Learn Live - Move data into and out of Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Uj8LEYKVtuo)
+- [Introduction to the hybrid and multicloud Scenario](https://www.youtube.com/watch?v=FxGyXb-cP6M)
 - [Web Wednesday: Voice assistant &amp; WebXR in web apps with Ayşegül Yönet](https://www.youtube.com/watch?v=mohZd2H4-Us)
-- [How much extra work is it for developers to add accessibility into their games?](https://www.youtube.com/watch?v=gLyBwHm8O4A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
