@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft launches landing zone accelerator for Azure Arc-enabled servers](https://azure.microsoft.com/blog/microsoft-launches-landing-zone-accelerator-for-azure-arcenabled-servers/)
 - [Save big by using your on-premises licenses on Azure](https://azure.microsoft.com/blog/save-big-by-using-your-onpremises-licenses-on-azure/)
 - [Azure DDoS Protection—2021 Q3 and Q4 DDoS attack trends](https://azure.microsoft.com/blog/azure-ddos-protection-2021-q3-and-q4-ddos-attack-trends/)
 - [Rightsize to maximize your cloud investment with Microsoft Azure](https://azure.microsoft.com/blog/rightsize-to-maximize-your-cloud-investment-with-microsoft-azure/)
 - [7 reasons to attend Azure Open Source Day](https://azure.microsoft.com/blog/7-reasons-to-attend-azure-open-source-day/)
-- [Elastic and Microsoft Azure: Unified Observability for Spring Boot applications](https://azure.microsoft.com/blog/elastic-and-microsoft-azure-unified-observability-for-spring-boot-applications/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
