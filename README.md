@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Custom Analytics Revisited | Build a Bot](https://www.youtube.com/watch?v=sEQuF55EMCc)
 - [Power Automate Community Challenge](https://www.youtube.com/watch?v=Am14zsiQFJE)
 - [Dynamics 365 Community AMA with Welly Lee](https://www.youtube.com/watch?v=4rOsN3UkbXE)
 - [Free Templates For Power Platform Adoption - Power CAT Live](https://www.youtube.com/watch?v=gRZxDie9eKg)
 - [Dynamics 365 Community AMA &lpar;Ask Me Anything&rpar; with Georg Glantschnig](https://www.youtube.com/watch?v=vEkaMXpic3k)
-- [How to Use Process Advisor | Power Platform Shorts](https://www.youtube.com/watch?v=TiScmaR8OE0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
