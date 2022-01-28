@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Document Automation overview](https://www.youtube.com/watch?v=y_ZyjpJ33iU)
+- [Next steps after training a Form Processing model](https://www.youtube.com/watch?v=taxEaoZlQAA)
 - [Dynamics 365 Community AMA with Manoj Swaminathan](https://www.youtube.com/watch?v=RTgkbioic6Q)
 - [Custom Analytics Revisited | Build a Bot](https://www.youtube.com/watch?v=sEQuF55EMCc)
 - [Power Automate Community Challenge](https://www.youtube.com/watch?v=Am14zsiQFJE)
-- [Dynamics 365 Community AMA with Welly Lee](https://www.youtube.com/watch?v=4rOsN3UkbXE)
-- [Free Templates For Power Platform Adoption - Power CAT Live](https://www.youtube.com/watch?v=gRZxDie9eKg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
