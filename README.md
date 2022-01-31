@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Web Wednesday: TypeScript and GraphQL with Aaron Powell](https://www.youtube.com/watch?v=V8vrDkfrrQE)
 - [AI Show Live - Episode 49 - Question Answering in General Availability](https://www.youtube.com/watch?v=BHWwgmOPopY)
 - [The Download: Rancher Desktop 1.0, New Git Features, and TUI Toolkits](https://www.youtube.com/watch?v=uWjmMtejwSU)
 - [Introduction to Azure SQL Bindings for Azure Functions | Data Exposed](https://www.youtube.com/watch?v=LZxm4A0qBa4)
 - [Learn Live - Move data into and out of Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Uj8LEYKVtuo)
-- [Introduction to the hybrid and multicloud Scenario](https://www.youtube.com/watch?v=FxGyXb-cP6M)
 <!-- YOUTUBEAPPMOD:END -->
 
 
