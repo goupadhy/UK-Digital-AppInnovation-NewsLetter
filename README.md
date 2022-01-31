@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Taking Stock Live - a conversation with Shelley Bransten &amp; Julie Averill](https://www.youtube.com/watch?v=ZjzGi3DdPAM)
 - [Retailers are partnering with Microsoft to connect their customers, their people and their data](https://www.youtube.com/watch?v=C2xHCjsREVU)
 - [Transformation in Media and Entertainment](https://www.youtube.com/watch?v=MGPQGP2_jCA)
 - [Driving the Future of Mobility | Microsoft Cloud](https://www.youtube.com/watch?v=pAA33k8DFME)
 - [Planzer leverages the Azure Migration and Modernization Program to migrate to Azure](https://www.youtube.com/watch?v=qMEhH2cgeZ4)
-- [Mattress Firm partners with Microsoft to transform customer experiences](https://www.youtube.com/watch?v=H6yaQNZcUsA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
