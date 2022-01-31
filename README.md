@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dynamics 365 Community AMA with Swamy Narayana](https://www.youtube.com/watch?v=TwOh3fhvS_c)
 - [Power Apps Pay As You Go Plan | Power Platform Shorts](https://www.youtube.com/watch?v=S6bC1zyIly8)
 - [Document Automation webinar](https://www.youtube.com/watch?v=DAl65nhnOkE)
 - [Microsoft Dynamics 365 Commerce POS Offline Features](https://www.youtube.com/watch?v=sQU-2pgHToI)
 - [Document Automation overview](https://www.youtube.com/watch?v=y_ZyjpJ33iU)
-- [Next steps after training a Form Processing model](https://www.youtube.com/watch?v=taxEaoZlQAA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
