@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Mixed Reality and Power Apps | The Low Code Revolution](https://www.youtube.com/watch?v=GfEgkStbstY)
 - [Dynamics 365 Community AMA with Balaji Balasubramanian](https://www.youtube.com/watch?v=FWf2QJuIG1E)
 - [Let Power Apps Write the Power Fx For You! - Power CAT Live](https://www.youtube.com/watch?v=zbjKdzavPHk)
 - [Dynamics 365 Community AMA with Swamy Narayana](https://www.youtube.com/watch?v=TwOh3fhvS_c)
 - [Power Apps Pay As You Go Plan | Power Platform Shorts](https://www.youtube.com/watch?v=S6bC1zyIly8)
-- [Document Automation webinar](https://www.youtube.com/watch?v=DAl65nhnOkE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
