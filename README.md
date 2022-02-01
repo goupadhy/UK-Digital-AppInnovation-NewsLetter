@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure Cost Management and Billing updates – January 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-january-2022/)
 - [The intersection of edge computing, telecommunications networks, and the cloud](https://azure.microsoft.com/blog/the-intersection-of-edge-computing-telecommunications-networks-and-the-cloud/)
 - [Enabling Zero Trust with Azure network security services](https://azure.microsoft.com/blog/enabling-zero-trust-with-azure-network-security-services/)
 - [New performance and logging capabilities in Azure Firewall](https://azure.microsoft.com/blog/new-performance-and-logging-capabilities-in-azure-firewall/)
 - [Microsoft launches landing zone accelerator for Azure Arc-enabled servers](https://azure.microsoft.com/blog/microsoft-launches-landing-zone-accelerator-for-azure-arcenabled-servers/)
-- [Save big by using your on-premises licenses on Azure](https://azure.microsoft.com/blog/save-big-by-using-your-onpremises-licenses-on-azure/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
