@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Announcing the public preview of Microsoft Azure Payment HSM service](https://azure.microsoft.com/blog/announcing-the-public-preview-of-microsoft-azure-payment-hsm-service/)
 - [Improve your security defenses for ransomware attacks with Azure Firewall](https://azure.microsoft.com/blog/improve-your-security-defenses-for-ransomware-attacks-with-azure-firewall/)
 - [Azure Cost Management and Billing updates – January 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-january-2022/)
 - [The intersection of edge computing, telecommunications networks, and the cloud](https://azure.microsoft.com/blog/the-intersection-of-edge-computing-telecommunications-networks-and-the-cloud/)
 - [Enabling Zero Trust with Azure network security services](https://azure.microsoft.com/blog/enabling-zero-trust-with-azure-network-security-services/)
-- [New performance and logging capabilities in Azure Firewall](https://azure.microsoft.com/blog/new-performance-and-logging-capabilities-in-azure-firewall/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
