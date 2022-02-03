@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Migrate SQL Server to Azure | Data Exposed](https://www.youtube.com/watch?v=ak9BeDnUWXM)
 - [Learn Live - Use the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=jIWwW5sDu_w)
 - [What are some creative ways people take advantage of gaming accessibility options?](https://www.youtube.com/watch?v=UGdpRRmKmYw)
 - [Ep 48 | Fast-Track labeling with Data Labeling Services in Azure ML](https://www.youtube.com/watch?v=RC8_bLFbGOk)
 - [Learn Live - Instrument a cloud-native ASP.NET Core microservice](https://www.youtube.com/watch?v=hAeup0sKctM)
-- [AI Show - Episode 50 - Artificial Nose and 30 Days of Learn: AI Fundamentals](https://www.youtube.com/watch?v=tjDL8w1afjw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
