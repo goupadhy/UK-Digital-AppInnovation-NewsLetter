@@ -62,7 +62,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
-- [Microsoft Accelerates Media and Entertainment Transformation no subtitles](https://www.youtube.com/watch?v=HREOWPQrWGc)
+- [Microsoft Accelerates Media and Entertainment Transformation](https://www.youtube.com/watch?v=HREOWPQrWGc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Julie Averill](https://www.youtube.com/watch?v=ZjzGi3DdPAM)
 - [Retailers are partnering with Microsoft to connect their customers, their people and their data](https://www.youtube.com/watch?v=C2xHCjsREVU)
 - [Transformation in Media and Entertainment](https://www.youtube.com/watch?v=MGPQGP2_jCA)
