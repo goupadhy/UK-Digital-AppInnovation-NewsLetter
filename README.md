@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Proactive data management needs to be part of your cloud migration strategy| Migration Minded Part 4](https://www.youtube.com/watch?v=WoFACxey6Tg)
 - [Overview Page | Microsoft Dynamics 365 &amp; Power Platform Community](https://www.youtube.com/watch?v=bfW79_NkPJE)
 - [Mixed Reality and Power Apps | The Low Code Revolution](https://www.youtube.com/watch?v=GfEgkStbstY)
 - [Dynamics 365 Community AMA with Balaji Balasubramanian](https://www.youtube.com/watch?v=FWf2QJuIG1E)
 - [Let Power Apps Write the Power Fx For You! - Power CAT Live](https://www.youtube.com/watch?v=zbjKdzavPHk)
-- [Dynamics 365 Community AMA with Swamy Narayana](https://www.youtube.com/watch?v=TwOh3fhvS_c)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
