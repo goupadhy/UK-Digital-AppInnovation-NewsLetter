@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The AI Show | Ep 49 | Question Answering in General Availability](https://www.youtube.com/watch?v=GZ3vz3NOpBI)
 - [Learn Live - Configure the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=mm51KJXswnE)
 - [Learn Live - Implement feature flags in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=TI0cQXLscJU)
 - [Migrate SQL Server to Azure | Data Exposed](https://www.youtube.com/watch?v=ak9BeDnUWXM)
 - [Learn Live - Use the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=jIWwW5sDu_w)
-- [What are some creative ways people take advantage of gaming accessibility options?](https://www.youtube.com/watch?v=UGdpRRmKmYw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
