@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show - Episode 50 - Artificial Nose and 30 Days of Learn: AI Fundamentals](https://www.youtube.com/watch?v=tjDL8w1afjw)
 - [The Download: 20th Anniversary of .NET, PWA Studio, VS Code Update and more](https://www.youtube.com/watch?v=mSWNfAWsMAI)
 - [The AI Show | Ep 49 | Question Answering in General Availability](https://www.youtube.com/watch?v=GZ3vz3NOpBI)
 - [Learn Live - Configure the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=mm51KJXswnE)
 - [Learn Live - Implement feature flags in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=TI0cQXLscJU)
-- [Migrate SQL Server to Azure | Data Exposed](https://www.youtube.com/watch?v=ak9BeDnUWXM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
