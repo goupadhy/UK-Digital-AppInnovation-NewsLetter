@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Deploy Your First Azure App](https://www.youtube.com/watch?v=jLcX-8zAFd4)
+- [Ask the Expert: VS Code Day- Sneak Peek](https://www.youtube.com/watch?v=WqEyJ1a1C3E)
 - [CodeStories Berlin | Mixed Reality for Cultural Heritage](https://www.youtube.com/watch?v=wF654Uff3Xw)
 - [AI Show - Episode 50 - Artificial Nose and 30 Days of Learn: AI Fundamentals](https://www.youtube.com/watch?v=tjDL8w1afjw)
 - [The Download: 20th Anniversary of .NET, PWA Studio, VS Code Update and more](https://www.youtube.com/watch?v=mSWNfAWsMAI)
-- [The AI Show | Ep 49 | Question Answering in General Availability](https://www.youtube.com/watch?v=GZ3vz3NOpBI)
-- [Learn Live - Configure the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=mm51KJXswnE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
