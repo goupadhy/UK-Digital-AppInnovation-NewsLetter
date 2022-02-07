@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [Highlights from Git 2.35](https://github.blog/2022-01-24-highlights-from-git-2-35/)
-- [Release Radar · December 2021 Edition](https://github.blog/2022-01-21-release-radar-dec-2021/)
-- [Open source creates value, but how do you measure it?](https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/)
-- [Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4](https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/)
-- [How open source is supporting NASA’s new eyes in space](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/)
+- [Release Radar · January 2022 Edition](https://github.blog/2022-02-04-release-radar-jan-2022/)
+- [GitHub Availability Report: January 2022](https://github.blog/2022-02-02-github-availability-report-january-2022/)
+- [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
+- [New sponsors-only repositories, custom amounts, and more](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)
+- [Code scanning and Ruby: turning source code into a queryable database](https://github.blog/2022-02-01-code-scanning-and-ruby-turning-source-code-into-a-queryable-database/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
