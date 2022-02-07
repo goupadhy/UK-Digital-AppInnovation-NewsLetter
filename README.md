@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Genomic analysis on Galaxy using Azure CycleCloud](https://azure.microsoft.com/blog/genomic-analysis-on-galaxy-using-azure-cyclecloud/)
 - [IoT adoption remains strong in the Asia-Pacific region as organizations broaden usage](https://azure.microsoft.com/blog/iot-adoption-remains-strong-in-the-asiapacific-region-as-organizations-broaden-usage/)
 - [Announcing the public preview of Microsoft Azure Payment HSM service](https://azure.microsoft.com/blog/announcing-the-public-preview-of-microsoft-azure-payment-hsm-service/)
 - [Improve your security defenses for ransomware attacks with Azure Firewall](https://azure.microsoft.com/blog/improve-your-security-defenses-for-ransomware-attacks-with-azure-firewall/)
 - [Azure Cost Management and Billing updates – January 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-january-2022/)
-- [The intersection of edge computing, telecommunications networks, and the cloud](https://azure.microsoft.com/blog/the-intersection-of-edge-computing-telecommunications-networks-and-the-cloud/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
