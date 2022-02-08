@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Implement feature flags in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=TI0cQXLscJU)
 - [Ask the Expert: Deploy Your First Azure App](https://www.youtube.com/watch?v=jLcX-8zAFd4)
 - [Ask the Expert: VS Code Day- Sneak Peek](https://www.youtube.com/watch?v=WqEyJ1a1C3E)
 - [CodeStories Berlin | Mixed Reality for Cultural Heritage](https://www.youtube.com/watch?v=wF654Uff3Xw)
 - [AI Show - Episode 50 - Artificial Nose and 30 Days of Learn: AI Fundamentals](https://www.youtube.com/watch?v=tjDL8w1afjw)
-- [The Download: 20th Anniversary of .NET, PWA Studio, VS Code Update and more](https://www.youtube.com/watch?v=mSWNfAWsMAI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
