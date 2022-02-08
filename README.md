@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Migrating your files to Azure has never been easier](https://azure.microsoft.com/blog/migrating-your-files-to-azure-has-never-been-easier/)
 - [Learn how open source plays a key role in Microsoft’s cloud strategy with Inside Azure for IT](https://azure.microsoft.com/blog/learn-how-open-source-plays-a-key-role-in-microsoft-s-cloud-strategy-with-inside-azure-for-it/)
 - [Genomic analysis on Galaxy using Azure CycleCloud](https://azure.microsoft.com/blog/genomic-analysis-on-galaxy-using-azure-cyclecloud/)
 - [IoT adoption remains strong in the Asia-Pacific region as organizations broaden usage](https://azure.microsoft.com/blog/iot-adoption-remains-strong-in-the-asiapacific-region-as-organizations-broaden-usage/)
 - [Announcing the public preview of Microsoft Azure Payment HSM service](https://azure.microsoft.com/blog/announcing-the-public-preview-of-microsoft-azure-payment-hsm-service/)
-- [Improve your security defenses for ransomware attacks with Azure Firewall](https://azure.microsoft.com/blog/improve-your-security-defenses-for-ransomware-attacks-with-azure-firewall/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
