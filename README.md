@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Accessibility Features - Power CAT Live](https://www.youtube.com/watch?v=QXvS1RH04-Y)
 - [Building your first AI Model with AI Builder | Power Platform Shorts](https://www.youtube.com/watch?v=G6OQ0XberPQ)
 - [Global Power Platform Bootcamp | Community Connections](https://www.youtube.com/watch?v=pra3Vs8j_PE)
 - [Proactive data management needs to be part of your cloud migration strategy| Migration Minded Part 4](https://www.youtube.com/watch?v=WoFACxey6Tg)
 - [Overview Page | Microsoft Dynamics 365 &amp; Power Platform Community](https://www.youtube.com/watch?v=bfW79_NkPJE)
-- [Mixed Reality and Power Apps | The Low Code Revolution](https://www.youtube.com/watch?v=GfEgkStbstY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
