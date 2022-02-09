@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 51 - NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=op2n6zfeCNI)
+- [Learn Live - Configure the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=mm51KJXswnE)
 - [Learn Live - Use managed data stores in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=kUe8I6_xolU)
 - [Learn Live - Implement feature flags in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=TI0cQXLscJU)
 - [Ask the Expert: Deploy Your First Azure App](https://www.youtube.com/watch?v=jLcX-8zAFd4)
-- [Ask the Expert: VS Code Day- Sneak Peek](https://www.youtube.com/watch?v=WqEyJ1a1C3E)
-- [CodeStories Berlin | Mixed Reality for Cultural Heritage](https://www.youtube.com/watch?v=wF654Uff3Xw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
