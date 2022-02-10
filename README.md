@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL VM: New and Improved SQL on Azure VM deployment &amp; management experience &lpar;Ep.8&rpar;](https://www.youtube.com/watch?v=Tf37kG2JH6w)
 - [Azure SQL April New Updates | Data Exposed](https://www.youtube.com/watch?v=HbTgg2A3O4I)
 - [Developer Tech Minutes: SMART Health Cards](https://www.youtube.com/watch?v=Pu_DAm_Tgfg)
 - [What is the Xbox Adaptive Controller?](https://www.youtube.com/watch?v=1s4LNLR0Xv4)
 - [AI Show Live - Episode 51 - NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=op2n6zfeCNI)
-- [Learn Live - Configure the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=mm51KJXswnE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
