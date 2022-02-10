@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Developer Tech Minutes: SMART Health Cards](https://www.youtube.com/watch?v=Pu_DAm_Tgfg)
 - [What is the Xbox Adaptive Controller?](https://www.youtube.com/watch?v=1s4LNLR0Xv4)
 - [AI Show Live - Episode 51 - NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=op2n6zfeCNI)
 - [Learn Live - Configure the Azure Cosmos DB SQL API SDK](https://www.youtube.com/watch?v=mm51KJXswnE)
 - [Learn Live - Use managed data stores in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=kUe8I6_xolU)
-- [Learn Live - Implement feature flags in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=TI0cQXLscJU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
