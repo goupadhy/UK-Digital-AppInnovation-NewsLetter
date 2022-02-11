@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Global Power Platform Bootcamp](https://www.youtube.com/watch?v=yGmrw3BVdPs)
 - [User Groups - Inviting users and creating a new event](https://www.youtube.com/watch?v=WO-Uc5Dg_oo)
 - [Successful cloud migrations end with user adoption | Migration Minded Part 5](https://www.youtube.com/watch?v=5C5yAGZRATc)
 - [Addressing your CRM customizations when migrating to the cloud](https://www.youtube.com/watch?v=bwJkLkJAK8o)
 - [Power Apps Accessibility Features - Power CAT Live](https://www.youtube.com/watch?v=QXvS1RH04-Y)
-- [Building your first AI Model with AI Builder | Power Platform Shorts](https://www.youtube.com/watch?v=G6OQ0XberPQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
