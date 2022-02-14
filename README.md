@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft UK Tech Community Day](https://www.youtube.com/watch?v=75iOn2PxMqc)
 - [AI Show Live - Episode 51 - NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=op2n6zfeCNI)
 - [Learn Live - Implement Azure Cosmos DB SQL API point operations](https://www.youtube.com/watch?v=qEsgdKCSuXA)
 - [Azure SQL VM: New and Improved SQL on Azure VM deployment &amp; management experience &lpar;Ep.8&rpar;](https://www.youtube.com/watch?v=Tf37kG2JH6w)
 - [Azure SQL April New Updates | Data Exposed](https://www.youtube.com/watch?v=HbTgg2A3O4I)
-- [Developer Tech Minutes: SMART Health Cards](https://www.youtube.com/watch?v=Pu_DAm_Tgfg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
