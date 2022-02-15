@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft Azure’s first Azure HPC + AI Day](https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/)
 - [Advancing Azure Virtual Machine availability monitoring with Project Flash](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-monitoring-with-project-flash/)
 - [Migrating your files to Azure has never been easier](https://azure.microsoft.com/blog/migrating-your-files-to-azure-has-never-been-easier/)
 - [Learn how open source plays a key role in Microsoft’s cloud strategy with Inside Azure for IT](https://azure.microsoft.com/blog/learn-how-open-source-plays-a-key-role-in-microsoft-s-cloud-strategy-with-inside-azure-for-it/)
 - [Genomic analysis on Galaxy using Azure CycleCloud](https://azure.microsoft.com/blog/genomic-analysis-on-galaxy-using-azure-cyclecloud/)
-- [IoT adoption remains strong in the Asia-Pacific region as organizations broaden usage](https://azure.microsoft.com/blog/iot-adoption-remains-strong-in-the-asiapacific-region-as-organizations-broaden-usage/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
