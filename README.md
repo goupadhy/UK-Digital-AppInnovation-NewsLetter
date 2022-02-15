@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [North Star Architecture for Power Platform – Power CAT Live](https://www.youtube.com/watch?v=4ZAq7WfFGsc)
 - [The Power BI Show](https://www.youtube.com/watch?v=6gBgfQmGmdQ)
 - [Create your first Teams chatbot with Power Virtual Agents](https://www.youtube.com/watch?v=iaTLD77B2nI)
 - [Global Power Platform Bootcamp](https://www.youtube.com/watch?v=yGmrw3BVdPs)
 - [User Groups - Inviting users and creating a new event](https://www.youtube.com/watch?v=WO-Uc5Dg_oo)
-- [Successful cloud migrations end with user adoption | Migration Minded Part 5](https://www.youtube.com/watch?v=5C5yAGZRATc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
