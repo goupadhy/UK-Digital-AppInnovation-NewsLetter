@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Deploy Your First Azure App](https://www.youtube.com/watch?v=jLcX-8zAFd4)
 - [Learn Live - Use managed data stores in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=kUe8I6_xolU)
 - [LunchBytes - DevOps &amp; API Management](https://www.youtube.com/watch?v=GiK41WLcgYQ)
 - [Microsoft UK Tech Community Day](https://www.youtube.com/watch?v=75iOn2PxMqc)
 - [AI Show Live - Episode 51 - NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=op2n6zfeCNI)
-- [Learn Live - Implement Azure Cosmos DB SQL API point operations](https://www.youtube.com/watch?v=qEsgdKCSuXA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
