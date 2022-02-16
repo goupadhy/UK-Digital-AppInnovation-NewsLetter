@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure Spring Cloud Enterprise is now available in preview](https://azure.microsoft.com/blog/azure-spring-cloud-enterprise-is-now-available-in-preview/)
 - [Manage Linux anywhere with improved Azure Hybrid Benefit and Red Hat Ansible Automation Platform on Azure](https://azure.microsoft.com/blog/manage-linux-anywhere-with-improved-azure-hybrid-benefit-and-red-hat-ansible-automation-platform-on-azure/)
 - [Microsoft Azure’s first Azure HPC + AI Day](https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/)
 - [Advancing Azure Virtual Machine availability monitoring with Project Flash](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-monitoring-with-project-flash/)
 - [Migrating your files to Azure has never been easier](https://azure.microsoft.com/blog/migrating-your-files-to-azure-has-never-been-easier/)
-- [Learn how open source plays a key role in Microsoft’s cloud strategy with Inside Azure for IT](https://azure.microsoft.com/blog/learn-how-open-source-plays-a-key-role-in-microsoft-s-cloud-strategy-with-inside-azure-for-it/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
