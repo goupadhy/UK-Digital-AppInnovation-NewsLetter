@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Ask the Expert: Deploy Your First Azure App](https://www.youtube.com/watch?v=jLcX-8zAFd4)
-- [Learn Live - Use managed data stores in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=kUe8I6_xolU)
-- [LunchBytes - DevOps &amp; API Management](https://www.youtube.com/watch?v=GiK41WLcgYQ)
-- [Microsoft UK Tech Community Day](https://www.youtube.com/watch?v=75iOn2PxMqc)
-- [AI Show Live - Episode 51 - NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=op2n6zfeCNI)
+- [Difference between App Registration and Enterprise apps in Azure AD?](https://www.youtube.com/watch?v=JeahL9ZtGfQ)
+- [How do I turn on the admin consent workflow?](https://www.youtube.com/watch?v=19v7WSt9HwU)
+- [How do I grant admin consent in the Azure AD portal?](https://www.youtube.com/watch?v=LSYcelwdhHI)
+- [How do I revoke permissions I&#39;ve previously consented to for an app?](https://www.youtube.com/watch?v=A88uh7ICNJU)
+- [How do delegated permissions work?](https://www.youtube.com/watch?v=URTrOXCyH1s)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
