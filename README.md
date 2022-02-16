@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What the most important aspect of gaming accessibility?](https://www.youtube.com/watch?v=1zpfov1r7Z0)
 - [Difference between App Registration and Enterprise apps in Azure AD?](https://www.youtube.com/watch?v=JeahL9ZtGfQ)
 - [How do I turn on the admin consent workflow?](https://www.youtube.com/watch?v=19v7WSt9HwU)
 - [How do I grant admin consent in the Azure AD portal?](https://www.youtube.com/watch?v=LSYcelwdhHI)
 - [How do I revoke permissions I&#39;ve previously consented to for an app?](https://www.youtube.com/watch?v=A88uh7ICNJU)
-- [How do delegated permissions work?](https://www.youtube.com/watch?v=URTrOXCyH1s)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
