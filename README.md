@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [ASP.NET Community Standup - 20 Years of ASP.NET🎂](https://www.youtube.com/watch?v=1IiKborLQgg)
+- [Microsoft UK Tech Community Day](https://www.youtube.com/watch?v=75iOn2PxMqc)
 - [SQL Server 2022 Storage Engine Capabilities &lpar;Ep. 4&rpar; | Data Exposed](https://www.youtube.com/watch?v=VeK1OvBKZYI)
 - [Learn Live - Implement Azure Cosmos DB SQL API point operations](https://www.youtube.com/watch?v=qEsgdKCSuXA)
 - [What the most important aspect of gaming accessibility?](https://www.youtube.com/watch?v=1zpfov1r7Z0)
-- [Difference between App Registration and Enterprise apps in Azure AD?](https://www.youtube.com/watch?v=JeahL9ZtGfQ)
-- [How do I turn on the admin consent workflow?](https://www.youtube.com/watch?v=19v7WSt9HwU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
