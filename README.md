@@ -46,7 +46,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEPOWER:START -->
 - [Health check for Dynamics 365 commerce POS](https://www.youtube.com/watch?v=RfPDNmnqYvY)
 - [North Star Architecture for Power Platform – Power CAT Live](https://www.youtube.com/watch?v=4ZAq7WfFGsc)
-- [The Power BI Show](https://www.youtube.com/watch?v=6gBgfQmGmdQ)
+- [The Power BI Community Show](https://www.youtube.com/watch?v=6gBgfQmGmdQ)
 - [Create your first Teams chatbot with Power Virtual Agents](https://www.youtube.com/watch?v=iaTLD77B2nI)
 - [Global Power Platform Bootcamp](https://www.youtube.com/watch?v=yGmrw3BVdPs)
 <!-- YOUTUBEPOWER:END -->
