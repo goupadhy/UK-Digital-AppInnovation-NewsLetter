@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [North Star Architecture and Landing Zones for Power Platform](https://cloudblogs.microsoft.com/powerplatform/2022/02/18/north-star-architecture-and-landing-zones-for-power-platform/)
 - [New Power Platform Return to the Workplace capabilities enable organizations to meet global health guidelines](https://cloudblogs.microsoft.com/powerplatform/2021/11/30/new-power-platform-return-to-the-workplace-capabilities-enable-organizations-to-meet-global-health-guidelines/)
 - [Microsoft Ignite recap: Power Platform news and announcements you may have missed](https://cloudblogs.microsoft.com/powerplatform/2021/11/18/microsoft-ignite-recap-power-platform-news-and-announcements-you-may-have-missed/)
 - [New Power Platform capabilities announced at Microsoft Ignite](https://cloudblogs.microsoft.com/powerplatform/2021/11/02/new-power-platform-capabilities-announced-at-microsoft-ignite/)
 - [Accelerate innovation with low-code applications using Power Platform](https://cloudblogs.microsoft.com/powerplatform/2021/11/02/accelerate-innovation-with-low-code-applications-using-power-platform/)
-- [Your guide to Power Platform at Microsoft Ignite](https://cloudblogs.microsoft.com/powerplatform/2021/10/26/your-guide-to-power-platform-at-microsoft-ignite/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
