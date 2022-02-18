@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The AI Show: Ep 51 | NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=tOmdUUVuP7g)
 - [The Download: .NET 7 Preview 1, Sexy Notepad, Modern iPods and more](https://www.youtube.com/watch?v=jkxf9LwMZJ4)
 - [Microsoft UK Tech Community Day](https://www.youtube.com/watch?v=75iOn2PxMqc)
 - [SQL Server 2022 Storage Engine Capabilities &lpar;Ep. 4&rpar; | Data Exposed](https://www.youtube.com/watch?v=VeK1OvBKZYI)
 - [Learn Live - Implement Azure Cosmos DB SQL API point operations](https://www.youtube.com/watch?v=qEsgdKCSuXA)
-- [What the most important aspect of gaming accessibility?](https://www.youtube.com/watch?v=1zpfov1r7Z0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
