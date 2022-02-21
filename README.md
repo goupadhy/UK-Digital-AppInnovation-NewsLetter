@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Perform cross-document transactional operations with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=PCG8KB5COt0)
 - [Learn Live - Understand API gateways in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=ts-ePrQmEe0)
 - [AI Show Live | Ep 52 | Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=YBmVAc6AlIM)
 - [The AI Show: Ep 51 | NVIDIA DeepStream development with Microsoft Azure](https://www.youtube.com/watch?v=tOmdUUVuP7g)
 - [The Download: .NET 7 Preview 1, Sexy Notepad, Modern iPods and more](https://www.youtube.com/watch?v=jkxf9LwMZJ4)
-- [Microsoft UK Tech Community Day](https://www.youtube.com/watch?v=75iOn2PxMqc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
