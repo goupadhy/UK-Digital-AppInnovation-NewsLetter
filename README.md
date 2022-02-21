@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Cleaning your dirty data using Power Query | Power Platform Shorts](https://www.youtube.com/watch?v=YzbIVKXQQIk)
 - [The Power BI Community Show](https://www.youtube.com/watch?v=6BJ50k9lDbw)
 - [Migration Minded with special guest Steve Weaver](https://www.youtube.com/watch?v=jrj1yaaa4QU)
 - [Automated ALM with Power Virtual Agents | Build a Bot](https://www.youtube.com/watch?v=aEbnO4vLp8o)
 - [Health check for Dynamics 365 commerce POS](https://www.youtube.com/watch?v=RfPDNmnqYvY)
-- [North Star Architecture for Power Platform – Power CAT Live](https://www.youtube.com/watch?v=4ZAq7WfFGsc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
