@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Perform cross-document transactional operations with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=PCG8KB5COt0)
 - [What are some common accessibility features in gaming?](https://www.youtube.com/watch?v=Ijb373IDVVQ)
 - [LunchBytes - DevOps &amp; API Management](https://www.youtube.com/watch?v=GiK41WLcgYQ)
 - [LunchBytes - DevOps for Logic Apps](https://www.youtube.com/watch?v=mDcHsvychhs)
 - [Azure Cosmos DB Conf 2022 &lpar;APAC&rpar;](https://www.youtube.com/watch?v=qkDrE6iyIuE)
-- [Azure Cosmos DB Conf 2022 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=W3EBzYIooBk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
