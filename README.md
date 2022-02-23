@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes - DevOps for Logic Apps](https://www.youtube.com/watch?v=mDcHsvychhs)
 - [Azure Cosmos DB Conf 2022 &lpar;APAC&rpar;](https://www.youtube.com/watch?v=qkDrE6iyIuE)
 - [Azure Cosmos DB Conf 2022 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=W3EBzYIooBk)
 - [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=xfUbcZECwNY)
 - [Citus + Postgres Conf &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=JHhMRwkCnLM)
-- [Citus + Postgres Conf &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=pbZR1QPOvX4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
