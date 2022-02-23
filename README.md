@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Observability from cloud to edge in Azure](https://azure.microsoft.com/blog/observability-from-cloud-to-edge-in-azure/)
 - [Azure Spring Cloud Enterprise is now available in preview](https://azure.microsoft.com/blog/azure-spring-cloud-enterprise-is-now-available-in-preview/)
 - [Manage Linux anywhere with improved Azure Hybrid Benefit and Red Hat Ansible Automation Platform on Azure](https://azure.microsoft.com/blog/manage-linux-anywhere-with-improved-azure-hybrid-benefit-and-red-hat-ansible-automation-platform-on-azure/)
 - [Microsoft Azure’s first Azure HPC + AI Day](https://azure.microsoft.com/blog/microsoft-azure-s-first-azure-hpc-ai-day/)
 - [Advancing Azure Virtual Machine availability monitoring with Project Flash](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-monitoring-with-project-flash/)
-- [Migrating your files to Azure has never been easier](https://azure.microsoft.com/blog/migrating-your-files-to-azure-has-never-been-easier/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
