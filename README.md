@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [A new way to understand your GitHub-hosted runner capacity](https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/)
 - [Codespaces for the largest repositories just got faster](https://github.blog/2022-02-23-codespaces-largest-repositories-faster/)
 - [Get started with ease using security workflows!](https://github.blog/2022-02-22-get-started-using-security-workflows/)
 - [GitHub Advisory Database now open to community contributions](https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/)
 - [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
-- [Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
