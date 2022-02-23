@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cosmos DB Conf 2022 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=W3EBzYIooBk)
+- [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=xfUbcZECwNY)
 - [Citus + Postgres Conf &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=JHhMRwkCnLM)
 - [Citus + Postgres Conf &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=pbZR1QPOvX4)
 - [Citus + Postgres Conf &lpar;APAC&rpar;](https://www.youtube.com/watch?v=FBoAtpN8pg4)
-- [Ask the Expert: VS Code Day- Sneak Peek](https://www.youtube.com/watch?v=WqEyJ1a1C3E)
-- [Learn Live - Understand API gateways in a cloud-native ASP.NET Core microservices app](https://www.youtube.com/watch?v=ts-ePrQmEe0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
