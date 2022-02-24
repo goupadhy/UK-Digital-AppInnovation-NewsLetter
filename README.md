@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Robotics process automation &lpar;RPA&rpar; migration | Automate It](https://www.youtube.com/watch?v=VmVMAJ_XPbE)
 - [Create In-App Notifications for Model-Driven Apps the Low Code Way! | The Low Code Revolution](https://www.youtube.com/watch?v=maFgzxUo1Us)
 - [Power Platform Connector Infrastructure - Power CAT Live](https://www.youtube.com/watch?v=N-ScKw_ltN4)
 - [Cleaning your dirty data using Power Query | Power Platform Shorts](https://www.youtube.com/watch?v=YzbIVKXQQIk)
 - [The Power BI Community Show](https://www.youtube.com/watch?v=6BJ50k9lDbw)
-- [Migration Minded with special guest Steve Weaver](https://www.youtube.com/watch?v=jrj1yaaa4QU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
