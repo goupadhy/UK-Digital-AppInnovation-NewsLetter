@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server 2022: Introducing Buffer Pool Parallel Scan &lpar;Ep. 5&rpar; | Data Exposed](https://www.youtube.com/watch?v=4GvU106Xiag)
 - [C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
 - [Learn Live - Perform cross-document transactional operations with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=PCG8KB5COt0)
 - [What are some common accessibility features in gaming?](https://www.youtube.com/watch?v=Ijb373IDVVQ)
 - [LunchBytes - DevOps &amp; API Management](https://www.youtube.com/watch?v=GiK41WLcgYQ)
-- [LunchBytes - DevOps for Logic Apps](https://www.youtube.com/watch?v=mDcHsvychhs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
