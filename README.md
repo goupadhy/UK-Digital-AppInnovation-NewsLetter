@@ -48,7 +48,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Create In-App Notifications for Model-Driven Apps the Low Code Way! | The Low Code Revolution](https://www.youtube.com/watch?v=maFgzxUo1Us)
 - [Power Platform Connector Infrastructure - Power CAT Live](https://www.youtube.com/watch?v=N-ScKw_ltN4)
 - [Cleaning your dirty data using Power Query | Power Platform Shorts](https://www.youtube.com/watch?v=YzbIVKXQQIk)
-- [The Power BI Community Show](https://www.youtube.com/watch?v=6BJ50k9lDbw)
+- [The Power BI Community Show Ep Two](https://www.youtube.com/watch?v=6BJ50k9lDbw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
