@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Stay on top of database threats with Microsoft Defender for Azure Cosmos DB](https://azure.microsoft.com/blog/stay-on-top-of-database-threats-with-microsoft-defender-for-azure-cosmos-db/)
 - [New Azure for Operators solutions and services built for the future of telecommunications ](https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/)
 - [Seamless integration of Logz.io observability platform with Microsoft Azure](https://azure.microsoft.com/blog/seamless-integration-of-logzio-observability-platform-with-microsoft-azure/)
 - [Observability from cloud to edge in Azure](https://azure.microsoft.com/blog/observability-from-cloud-to-edge-in-azure/)
 - [Azure Spring Cloud Enterprise is now available in preview](https://azure.microsoft.com/blog/azure-spring-cloud-enterprise-is-now-available-in-preview/)
-- [Manage Linux anywhere with improved Azure Hybrid Benefit and Red Hat Ansible Automation Platform on Azure](https://azure.microsoft.com/blog/manage-linux-anywhere-with-improved-azure-hybrid-benefit-and-red-hat-ansible-automation-platform-on-azure/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
