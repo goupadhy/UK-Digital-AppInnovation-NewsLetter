@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Announcing the New Microsoft Azure Cosmos DB Developer Specialty Certification | Data Exposed](https://www.youtube.com/watch?v=cFEX97HGA8k)
 - [Learn Live - Deploy a cloud-native ASP.NET Core microservice with GitHub Actions](https://www.youtube.com/watch?v=hNnKdzV54IY)
 - [Learn Live - Process bulk data in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Qc5YO4EoYCA)
 - [The AI Show: Ep 52 | Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc)
 - [Ask the Expert: Introducing Microsoft for Startups Founders Hub](https://www.youtube.com/watch?v=NBeZT2acsuk)
-- [SQL Server 2022: Introducing Buffer Pool Parallel Scan &lpar;Ep. 5&rpar; | Data Exposed](https://www.youtube.com/watch?v=4GvU106Xiag)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
