@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [System Page Latch Concurrency Enhancements &lpar;Ep. 6&rpar; | Data Exposed](https://www.youtube.com/watch?v=2FYyOk27ZxM)
 - [Learn Live - Query the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=k9bvN0Bn3sU)
 - [Learn Live - Introduction to infrastructure as code using Bicep](https://www.youtube.com/watch?v=MP60ND7Upn4)
 - [Learn Live - Process bulk data in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Qc5YO4EoYCA)
 - [Learn Live - Deploy a cloud-native ASP.NET Core microservice with GitHub Actions](https://www.youtube.com/watch?v=hNnKdzV54IY)
-- [The AI Show: Ep 52 | Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
