@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft Azure expands to new region in the China market](https://azure.microsoft.com/blog/microsoft-azure-expands-to-new-region-in-the-china-market/)
 - [Azure Cost Management and Billing updates – February 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-february-2022/)
 - [Stay on top of database threats with Microsoft Defender for Azure Cosmos DB](https://azure.microsoft.com/blog/stay-on-top-of-database-threats-with-microsoft-defender-for-azure-cosmos-db/)
 - [New Azure for Operators solutions and services built for the future of telecommunications ](https://azure.microsoft.com/blog/new-azure-for-operators-solutions-and-services-built-for-the-future-of-telecommunications/)
 - [Seamless integration of Logz.io observability platform with Microsoft Azure](https://azure.microsoft.com/blog/seamless-integration-of-logzio-observability-platform-with-microsoft-azure/)
-- [Observability from cloud to edge in Azure](https://azure.microsoft.com/blog/observability-from-cloud-to-edge-in-azure/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
