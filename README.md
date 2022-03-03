@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Query the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=k9bvN0Bn3sU)
 - [Learn Live - Introduction to infrastructure as code using Bicep](https://www.youtube.com/watch?v=MP60ND7Upn4)
 - [Learn Live - Process bulk data in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Qc5YO4EoYCA)
 - [Learn Live - Deploy a cloud-native ASP.NET Core microservice with GitHub Actions](https://www.youtube.com/watch?v=hNnKdzV54IY)
 - [The AI Show: Ep 52 | Analyze unstructured docs and more with Azure Form Recognizer](https://www.youtube.com/watch?v=86cZgYJdRGc)
-- [Ask the Expert: Introducing Microsoft for Startups Founders Hub](https://www.youtube.com/watch?v=NBeZT2acsuk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
