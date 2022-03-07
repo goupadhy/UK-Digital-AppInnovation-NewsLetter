@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Assessing your Machine Learning Workloads](https://www.youtube.com/watch?v=PyTSOpiBqu8)
 - [VS Code Day 2022, TypeScript 4.6, Wordle for Windows 3.1 and more](https://www.youtube.com/watch?v=W3dDoUQ1Dt0)
 - [System Page Latch Concurrency Enhancements &lpar;Ep. 6&rpar; | Data Exposed](https://www.youtube.com/watch?v=2FYyOk27ZxM)
 - [Learn Live - Query the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=k9bvN0Bn3sU)
 - [Learn Live - Introduction to infrastructure as code using Bicep](https://www.youtube.com/watch?v=MP60ND7Upn4)
-- [Learn Live - Process bulk data in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=Qc5YO4EoYCA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
