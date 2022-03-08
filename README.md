@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Introducing dynamic lineage extraction from Azure SQL Databases in Azure Purview](https://azure.microsoft.com/blog/introducing-dynamic-lineage-extraction-from-azure-sql-databases-in-azure-purview/)
 - [Technical leaders agree: AI is now a necessity to compete](https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/)
 - [Microsoft DDoS protection response guide](https://azure.microsoft.com/blog/microsoft-ddos-protection-response-guide/)
 - [Microsoft Azure expands to new region in the China market](https://azure.microsoft.com/blog/microsoft-azure-expands-to-new-region-in-the-china-market/)
 - [Azure Cost Management and Billing updates – February 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-february-2022/)
-- [Stay on top of database threats with Microsoft Defender for Azure Cosmos DB](https://azure.microsoft.com/blog/stay-on-top-of-database-threats-with-microsoft-defender-for-azure-cosmos-db/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
