@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Query the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=k9bvN0Bn3sU)
 - [What are some best practices for gaming accessibility?](https://www.youtube.com/watch?v=35McDURic9U)
 - [LunchBytes - DevOps for Logic Apps](https://www.youtube.com/watch?v=mDcHsvychhs)
 - [Learn Live - Introduction to infrastructure as code using Bicep](https://www.youtube.com/watch?v=MP60ND7Upn4)
 - [Assessing your Machine Learning Workloads](https://www.youtube.com/watch?v=PyTSOpiBqu8)
-- [VS Code Day 2022, TypeScript 4.6, Wordle for Windows 3.1 and more](https://www.youtube.com/watch?v=W3dDoUQ1Dt0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
