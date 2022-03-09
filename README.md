@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [The anatomy of a datacenter—how Microsoft's datacenter hardware powers the Microsoft Cloud](https://azure.microsoft.com/blog/the-anatomy-of-a-datacenter-how-microsofts-datacenter-hardware-powers-the-microsoft-cloud/)
 - [5 reasons to attend the Azure VMware Solution digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-azure-vmware-solution-digital-event/)
 - [Meet PCI compliance with credit card tokenization](https://azure.microsoft.com/blog/meet-pci-compliance-with-credit-card-tokenization/)
 - [Introducing dynamic lineage extraction from Azure SQL Databases in Azure Purview](https://azure.microsoft.com/blog/introducing-dynamic-lineage-extraction-from-azure-sql-databases-in-azure-purview/)
 - [Technical leaders agree: AI is now a necessity to compete](https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/)
-- [Microsoft DDoS protection response guide](https://azure.microsoft.com/blog/microsoft-ddos-protection-response-guide/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
