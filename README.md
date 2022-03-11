@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Download: Visual Studio at 25, a JavaScript Proposal, and Gaming Chairs for Babies??](https://www.youtube.com/watch?v=u4BZ08VASNM)
+- [SQL Bits](https://www.youtube.com/watch?v=Nh88PiWOXtw)
 - [What are some tips for someone applying for an internship or job at Microsoft?  #Shorts](https://www.youtube.com/watch?v=3acaKYwQzt8)
 - [Azure SQL News Update | Data Exposed Live @SQLBits 2022](https://www.youtube.com/watch?v=VoEyrILitJA)
 - [Learn Live - Build your first Bicep template](https://www.youtube.com/watch?v=jncLNpZzDz0)
-- [Journey into XR Development - Episode 3 - Low-Code/No-Code Platforms for AR](https://www.youtube.com/watch?v=bMcPxUGv4AA)
-- [Learn Live - Query the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=k9bvN0Bn3sU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
