@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Build your first Bicep template](https://www.youtube.com/watch?v=jncLNpZzDz0)
 - [Journey into XR Development - Episode 3 - Low-Code/No-Code Platforms for AR](https://www.youtube.com/watch?v=bMcPxUGv4AA)
 - [Learn Live - Query the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=k9bvN0Bn3sU)
 - [What are some best practices for gaming accessibility?](https://www.youtube.com/watch?v=35McDURic9U)
 - [LunchBytes - DevOps for Logic Apps](https://www.youtube.com/watch?v=mDcHsvychhs)
-- [Learn Live - Introduction to infrastructure as code using Bicep](https://www.youtube.com/watch?v=MP60ND7Upn4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
