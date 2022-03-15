@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Behind the Scenes Europe - Responsible AI Dashboard](https://www.youtube.com/watch?v=R3uBe2WIugU)
+- [Behind the Scenes Asia - Azure Cognitive services](https://www.youtube.com/watch?v=HXIed8pgC-0)
+- [Behind the Scenes North America - Document Processing](https://www.youtube.com/watch?v=jSTXMLAK-oI)
+- [Behind the Scenes South America - Azure Percept](https://www.youtube.com/watch?v=a6FjLW2GAnI)
 - [Behind the Scenes Africa - Semantic Search](https://www.youtube.com/watch?v=SoctPIvOQ6I)
-- [Behind the Scenes Down Under](https://www.youtube.com/watch?v=RQhwzkQSIlA)
-- [Learn Live - Author complex queries with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=QGJvPmy3Vto)
-- [The AI Show: Ep 53 | Medical Imaging with Azure Machine Learning](https://www.youtube.com/watch?v=I3ao-F8XiRg)
-- [The Download: Visual Studio at 25, a JavaScript Proposal, and Gaming Chairs for Babies??](https://www.youtube.com/watch?v=u4BZ08VASNM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
