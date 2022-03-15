@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Behind the Scenes Africa - Semantic Search](https://www.youtube.com/watch?v=SoctPIvOQ6I)
 - [Behind the Scenes Down Under](https://www.youtube.com/watch?v=RQhwzkQSIlA)
 - [Learn Live - Author complex queries with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=QGJvPmy3Vto)
 - [The AI Show: Ep 53 | Medical Imaging with Azure Machine Learning](https://www.youtube.com/watch?v=I3ao-F8XiRg)
 - [The Download: Visual Studio at 25, a JavaScript Proposal, and Gaming Chairs for Babies??](https://www.youtube.com/watch?v=u4BZ08VASNM)
-- [SQL Bits](https://www.youtube.com/watch?v=Nh88PiWOXtw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
