@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Behind the Scenes Asia - Azure Cognitive services](https://www.youtube.com/watch?v=HXIed8pgC-0)
 - [Behind the Scenes North America - Document Processing](https://www.youtube.com/watch?v=jSTXMLAK-oI)
 - [Behind the Scenes South America - Azure Percept](https://www.youtube.com/watch?v=a6FjLW2GAnI)
 - [Learn Live - Build your first Bicep template](https://www.youtube.com/watch?v=jncLNpZzDz0)
 - [Behind the Scenes Africa - Semantic Search](https://www.youtube.com/watch?v=SoctPIvOQ6I)
-- [Behind the Scenes Europe - Responsible AI Dashboard](https://www.youtube.com/watch?v=R3uBe2WIugU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
