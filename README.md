@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Secure your APIs with Private Link support for Azure API Management ](https://azure.microsoft.com/blog/secure-your-apis-with-private-link-support-for-azure-api-management/)
 - [Learn how Microsoft Circular Centers are scaling cloud supply chain sustainability](https://azure.microsoft.com/blog/learn-how-microsoft-circular-centers-are-scaling-cloud-supply-chain-sustainability/)
 - [Microsoft launches Azure Health Data Services to unify health data and power AI in the cloud](https://azure.microsoft.com/blog/microsoft-launches-azure-health-data-services-to-unify-health-data-and-power-ai-in-the-cloud/)
 - [Scaling cloud solutions to new heights with Microsoft’s partner ecosystem](https://azure.microsoft.com/blog/scaling-cloud-solutions-to-new-heights-with-microsoft-s-partner-ecosystem/)
 - [Join Microsoft Azure at NVIDIA GTC developer conference 2022](https://azure.microsoft.com/blog/join-microsoft-azure-at-nvidia-gtc-developer-conference-2022/)
-- [The anatomy of a datacenter—how Microsoft's datacenter hardware powers the Microsoft Cloud](https://azure.microsoft.com/blog/the-anatomy-of-a-datacenter-how-microsofts-datacenter-hardware-powers-the-microsoft-cloud/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
