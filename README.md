@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Journey into XR Development - Episode 4 - Enhance XR Experiences with Azure Cloud Services](https://www.youtube.com/watch?v=muD_KeB1FC8)
 - [Exciting New Features in Azure Data Factory | Data Exposed](https://www.youtube.com/watch?v=Wx9536TtqGU)
 - [Learn Live - Define indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=gMKELAc8MwY)
 - [Learn Live - Build reusable Bicep templates by using parameters](https://www.youtube.com/watch?v=Z27yyo18ckQ)
 - [Learn Live - Containerize and deploy a Java app to Azure](https://www.youtube.com/watch?v=pfjqFhCvg88)
-- [Learn Live - Author complex queries with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=QGJvPmy3Vto)
 <!-- YOUTUBEAPPMOD:END -->
 
 
