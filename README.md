@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Exciting New Features in Azure Data Factory | Data Exposed](https://www.youtube.com/watch?v=Wx9536TtqGU)
 - [Learn Live - Define indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=gMKELAc8MwY)
 - [Learn Live - Build reusable Bicep templates by using parameters](https://www.youtube.com/watch?v=Z27yyo18ckQ)
 - [Learn Live - Containerize and deploy a Java app to Azure](https://www.youtube.com/watch?v=pfjqFhCvg88)
 - [Learn Live - Author complex queries with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=QGJvPmy3Vto)
-- [Behind the Scenes Europe - Responsible AI Dashboard](https://www.youtube.com/watch?v=R3uBe2WIugU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
