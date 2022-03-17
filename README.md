@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Build reusable Bicep templates by using parameters](https://www.youtube.com/watch?v=Z27yyo18ckQ)
 - [Learn Live - Containerize and deploy a Java app to Azure](https://www.youtube.com/watch?v=pfjqFhCvg88)
 - [Learn Live - Author complex queries with the Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=QGJvPmy3Vto)
 - [Behind the Scenes Europe - Responsible AI Dashboard](https://www.youtube.com/watch?v=R3uBe2WIugU)
 - [Behind the Scenes Asia - Azure Cognitive services](https://www.youtube.com/watch?v=HXIed8pgC-0)
-- [Behind the Scenes North America - Document Processing](https://www.youtube.com/watch?v=jSTXMLAK-oI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
