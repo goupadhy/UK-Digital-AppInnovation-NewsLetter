@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [The Download: NPM PSA, Visual Studio Updates, and the Greatest Linux Distro Ever](https://www.youtube.com/watch?v=uI4qtnQUCYw)
 - [The AI Show: Building NLP models with Azure ML AutoML | Ep 54](https://www.youtube.com/watch?v=c0eZJ95ZVA4)
 - [Journey into XR Development - Episode 4 - Enhance XR Experiences with Azure Cloud Services](https://www.youtube.com/watch?v=muD_KeB1FC8)
 - [Exciting New Features in Azure Data Factory | Data Exposed](https://www.youtube.com/watch?v=Wx9536TtqGU)
 - [Learn Live - Define indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=gMKELAc8MwY)
+- [Learn Live - Build reusable Bicep templates by using parameters](https://www.youtube.com/watch?v=Z27yyo18ckQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
