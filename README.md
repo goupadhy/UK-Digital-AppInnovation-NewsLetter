@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Sustainability in Telco: perspective from industry leaders](https://www.youtube.com/watch?v=umeu4BkO7EA)
 - [Scale your business | Cloud Solutions Provider](https://www.youtube.com/watch?v=yC9d52PsuOg)
 - [Scaling your business thru partners | Cloud Solutions Provider](https://www.youtube.com/watch?v=X33C-RV9dZc)
 - [Intelligent telecommunications: Empowering the future of insights, experiences, and growth](https://www.youtube.com/watch?v=d568RFbCLz0)
 - [Gjensidige builds on GitHub &amp; Azure to put security front-and-center of its new application platform](https://www.youtube.com/watch?v=2vM27KH_jCI)
-- [Microsoft Accelerates Media and Entertainment Transformation](https://www.youtube.com/watch?v=HREOWPQrWGc)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
