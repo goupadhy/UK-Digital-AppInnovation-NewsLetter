@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes - Azure Arc for Application Services](https://www.youtube.com/watch?v=GAog-m35-N8)
 - [Azure SQL Security: Database protection using Microsoft Defender for Cloud &lpar;Ep. 5&rpar; | Data Exposed](https://www.youtube.com/watch?v=F61w5Bpjyzo)
 - [The Download: NPM PSA, Visual Studio Updates, and the Greatest Linux Distro Ever](https://www.youtube.com/watch?v=08XCMheR-TM)
 - [The AI Show: Building NLP models with Azure ML AutoML | Ep 54](https://www.youtube.com/watch?v=c0eZJ95ZVA4)
 - [Journey into XR Development - Episode 4 - Enhance XR Experiences with Azure Cloud Services](https://www.youtube.com/watch?v=muD_KeB1FC8)
-- [Exciting New Features in Azure Data Factory | Data Exposed](https://www.youtube.com/watch?v=Wx9536TtqGU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
