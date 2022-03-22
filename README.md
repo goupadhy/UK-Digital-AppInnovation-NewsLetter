@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL Loves Star Wars | Data Exposed Live](https://www.youtube.com/watch?v=1a8wiDg5MOs)
+- [Azure SQL June 2022 Updates | Data Exposed Live](https://www.youtube.com/watch?v=_GBwnEyND6M)
 - [Learn Live - Containerize and deploy a Java app to Azure](https://www.youtube.com/watch?v=pfjqFhCvg88)
 - [LunchBytes - Azure Arc for Application Services](https://www.youtube.com/watch?v=GAog-m35-N8)
 - [Azure SQL Security: Database protection using Microsoft Defender for Cloud &lpar;Ep. 5&rpar; | Data Exposed](https://www.youtube.com/watch?v=F61w5Bpjyzo)
-- [The Download: NPM PSA, Visual Studio Updates, and the Greatest Linux Distro Ever](https://www.youtube.com/watch?v=08XCMheR-TM)
-- [The AI Show: Building NLP models with Azure ML AutoML | Ep 54](https://www.youtube.com/watch?v=c0eZJ95ZVA4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
