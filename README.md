@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Accelerate graphics-heavy workloads using NVads A10 v5 Azure ](https://azure.microsoft.com/blog/accelerate-graphicsheavy-workloads-using-nvads-a10-v5-azure/)
 - [Azure confidential computing with NVIDIA GPUs for trustworthy AI](https://azure.microsoft.com/blog/azure-confidential-computing-with-nvidia-gpus-for-trustworthy-ai/)
 - [Azure HBv3 VMs for HPC now generally available with AMD EPYC CPUs with AMD 3D V-Cache](https://azure.microsoft.com/blog/azure-hbv3-vms-for-hpc-now-generally-available-with-amd-epyc-cpus-with-amd-3d-vcache/)
 - [Secure your APIs with Private Link support for Azure API Management ](https://azure.microsoft.com/blog/secure-your-apis-with-private-link-support-for-azure-api-management/)
 - [Learn how Microsoft Circular Centers are scaling cloud supply chain sustainability](https://azure.microsoft.com/blog/learn-how-microsoft-circular-centers-are-scaling-cloud-supply-chain-sustainability/)
-- [Microsoft launches Azure Health Data Services to unify health data and power AI in the cloud](https://azure.microsoft.com/blog/microsoft-launches-azure-health-data-services-to-unify-health-data-and-power-ai-in-the-cloud/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
