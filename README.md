@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [RISE with SAP on the Microsoft Cloud: A year in review](https://azure.microsoft.com/blog/rise-with-sap-on-the-microsoft-cloud-a-year-in-review/)
 - [Cloud migration for medical imaging data using Azure Health Data Services and IMS](https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/)
 - [Manage port forwarding for backend pool with Azure Load Balancer](https://azure.microsoft.com/blog/manage-port-forwarding-for-backend-pool-with-azure-load-balancer/)
 - [5 reasons to attend the Modernize and Migrate with Hybrid Cloud Flexibility digital event](https://azure.microsoft.com/blog/5-reasons-to-attend-the-modernize-and-migrate-with-hybrid-cloud-flexibility-digital-event/)
 - [Accelerate graphics-heavy workloads using NVads A10 v5 Azure ](https://azure.microsoft.com/blog/accelerate-graphicsheavy-workloads-using-nvads-a10-v5-azure/)
-- [Azure confidential computing with NVIDIA GPUs for trustworthy AI](https://azure.microsoft.com/blog/azure-confidential-computing-with-nvidia-gpus-for-trustworthy-ai/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
