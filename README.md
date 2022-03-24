@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
 - [20220511-TheAIShow-Responsible AI Dashboard in Azure Machine Learning](https://www.youtube.com/watch?v=epdoZRQCBxk)
 - [20220517-TheAIShow-Automatedataextractionfromhealthinsurance](https://www.youtube.com/watch?v=tSky38E-CoM)
 - [Learn Live - Customize indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=eCyG5CPS5fo)
 - [Learn Live - Build flexible Bicep templates by using conditions and loops](https://www.youtube.com/watch?v=YFzFPj2UgZc)
-- [Learn Live - Deploy Spring microservices to Azure](https://www.youtube.com/watch?v=paxOM1Gm_HQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
