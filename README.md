@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Customize indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=eCyG5CPS5fo)
+- [Learn Live - Build flexible Bicep templates by using conditions and loops](https://www.youtube.com/watch?v=YFzFPj2UgZc)
 - [Learn Live - Deploy Spring microservices to Azure](https://www.youtube.com/watch?v=paxOM1Gm_HQ)
 - [Learn Live - Define indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=gMKELAc8MwY)
 - [LunchBytes - Azure Arc for Application Services](https://www.youtube.com/watch?v=GAog-m35-N8)
-- [Learn Live - Build reusable Bicep templates by using parameters](https://www.youtube.com/watch?v=Z27yyo18ckQ)
-- [Azure SQL Loves Star Wars | Data Exposed Live](https://www.youtube.com/watch?v=1a8wiDg5MOs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
