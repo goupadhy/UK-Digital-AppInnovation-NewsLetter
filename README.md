@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Streamline your workflow by changing just one setting](https://www.youtube.com/watch?v=oKbIN6YKXYs)
 - [Improving App UI in 60 Seconds | Power Platform Shorts](https://www.youtube.com/watch?v=ivXDshpNwT4)
 - [Power Apps Portals Run Everywhere with Progressive Web Apps - Power CAT Live](https://www.youtube.com/watch?v=_4D8FQr5Qec)
 - [Extract Text from a String in Power Automate the Easy Way | Power Platform Shorts](https://www.youtube.com/watch?v=dlHlAny2N1U)
 - [Dynamics AX data management for cloud migration](https://www.youtube.com/watch?v=kcVgQq25z4I)
-- [Upserts For Simpler Cloud Flows - Power CAT Live](https://www.youtube.com/watch?v=-zPqK5MIwck)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
