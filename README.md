@@ -54,7 +54,7 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [Unlock all the GitHub secrets within Next.Tech’s newest experience: Break the Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
+- [Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
 - [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 - [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/)
 - [Improving your GitHub feed](https://github.blog/2022-03-22-improving-your-github-feed/)
