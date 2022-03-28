@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How much real experience do you get as an intern at Microsoft?  #Shorts](https://www.youtube.com/watch?v=ssV5vqhug2c)
 - [Learn Live - Deploy Spring microservices to Azure](https://www.youtube.com/watch?v=paxOM1Gm_HQ)
 - [Take your first steps with C#](https://www.youtube.com/watch?v=g-6vhI5Ga8c)
 - [Pure Virtual C++ 2022](https://www.youtube.com/watch?v=2CshUe_cwWI)
 - [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
-- [20220511-TheAIShow-Responsible AI Dashboard in Azure Machine Learning](https://www.youtube.com/watch?v=epdoZRQCBxk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
