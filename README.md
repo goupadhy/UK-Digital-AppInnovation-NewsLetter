@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Take your first steps with C#](https://www.youtube.com/watch?v=g-6vhI5Ga8c)
 - [Pure Virtual C++ 2022](https://www.youtube.com/watch?v=2CshUe_cwWI)
 - [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
 - [20220511-TheAIShow-Responsible AI Dashboard in Azure Machine Learning](https://www.youtube.com/watch?v=epdoZRQCBxk)
 - [20220517-TheAIShow-Automatedataextractionfromhealthinsurance](https://www.youtube.com/watch?v=tSky38E-CoM)
-- [Learn Live - Customize indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=eCyG5CPS5fo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
