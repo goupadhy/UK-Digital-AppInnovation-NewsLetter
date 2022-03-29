@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What You Need to Know About Azure VM Sizing | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ZBdm1YKDXx0)
 - [How much real experience do you get as an intern at Microsoft?  #Shorts](https://www.youtube.com/watch?v=ssV5vqhug2c)
 - [Learn Live - Deploy Spring microservices to Azure](https://www.youtube.com/watch?v=paxOM1Gm_HQ)
 - [Take your first steps with C#](https://www.youtube.com/watch?v=g-6vhI5Ga8c)
 - [Pure Virtual C++ 2022](https://www.youtube.com/watch?v=2CshUe_cwWI)
-- [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
