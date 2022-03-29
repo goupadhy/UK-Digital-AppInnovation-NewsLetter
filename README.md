@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Build flexible Bicep templates by using conditions and loops](https://www.youtube.com/watch?v=YFzFPj2UgZc)
 - [TitletownTech &amp; Strive MedTech Part 2 | Microsoft Industry Clouds accelerate startups in Green Bay](https://www.youtube.com/watch?v=pJ4VcCu0uQM)
 - [What You Need to Know About Azure VM Sizing | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ZBdm1YKDXx0)
 - [How much real experience do you get as an intern at Microsoft?  #Shorts](https://www.youtube.com/watch?v=ssV5vqhug2c)
 - [Learn Live - Deploy Spring microservices to Azure](https://www.youtube.com/watch?v=paxOM1Gm_HQ)
-- [Take your first steps with C#](https://www.youtube.com/watch?v=g-6vhI5Ga8c)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
