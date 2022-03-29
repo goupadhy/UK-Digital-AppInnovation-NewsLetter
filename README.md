@@ -55,10 +55,10 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
 - [GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/)
+- [Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/)
 - [How to secure your end-to-end supply chain on GitHub](https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/)
 - [Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
 - [An update on recent service disruptions](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
-- [GitHub Actions: secure self-hosted runners by limiting them to specific workflows](https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
