@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [TitletownTech &amp; Strive MedTech Part 2 | Microsoft Industry Clouds accelerate startups in Green Bay](https://www.youtube.com/watch?v=pJ4VcCu0uQM)
 - [What You Need to Know About Azure VM Sizing | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ZBdm1YKDXx0)
 - [How much real experience do you get as an intern at Microsoft?  #Shorts](https://www.youtube.com/watch?v=ssV5vqhug2c)
 - [Learn Live - Deploy Spring microservices to Azure](https://www.youtube.com/watch?v=paxOM1Gm_HQ)
 - [Take your first steps with C#](https://www.youtube.com/watch?v=g-6vhI5Ga8c)
-- [Pure Virtual C++ 2022](https://www.youtube.com/watch?v=2CshUe_cwWI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
