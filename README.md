@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Customize indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=eCyG5CPS5fo)
 - [Microsoft Azure Overview](https://www.youtube.com/watch?v=oPSHs71mTVU)
 - [Learn Live - Build flexible Bicep templates by using conditions and loops](https://www.youtube.com/watch?v=YFzFPj2UgZc)
 - [TitletownTech &amp; Strive MedTech Part 2 | Microsoft Industry Clouds accelerate startups in Green Bay](https://www.youtube.com/watch?v=pJ4VcCu0uQM)
 - [What You Need to Know About Azure VM Sizing | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ZBdm1YKDXx0)
-- [How much real experience do you get as an intern at Microsoft?  #Shorts](https://www.youtube.com/watch?v=ssV5vqhug2c)
 <!-- YOUTUBEAPPMOD:END -->
 
 
