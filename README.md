@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cosmos DB Conf 2022 &lpar;APAC&rpar;](https://www.youtube.com/watch?v=-wYe3Rn732A)
 - [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=aksujgKkht8)
 - [Instant Realtime GraphQL on Azure SQL with Hasura | Data Exposed](https://www.youtube.com/watch?v=7oUmJDrbkOI)
 - [Learn Live - Customize indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=eCyG5CPS5fo)
 - [Microsoft Azure Overview](https://www.youtube.com/watch?v=oPSHs71mTVU)
-- [Learn Live - Build flexible Bicep templates by using conditions and loops](https://www.youtube.com/watch?v=YFzFPj2UgZc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
