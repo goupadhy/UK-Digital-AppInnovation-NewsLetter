@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [20220420-Web Wednesday: WebXR Hand Interactions with Ada Rose Cannon](https://www.youtube.com/watch?v=lsNkuFH8dtM)
+- [20220427-Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=iInbtInEwS8)
+- [Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=FP9b33Y01hU)
 - [Azure Cosmos DB Conf 2022 &lpar;APAC&rpar;](https://www.youtube.com/watch?v=-wYe3Rn732A)
 - [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=aksujgKkht8)
-- [Instant Realtime GraphQL on Azure SQL with Hasura | Data Exposed](https://www.youtube.com/watch?v=7oUmJDrbkOI)
-- [Learn Live - Customize indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=eCyG5CPS5fo)
-- [Microsoft Azure Overview](https://www.youtube.com/watch?v=oPSHs71mTVU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
