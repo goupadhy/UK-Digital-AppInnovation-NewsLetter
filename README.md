@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Bring your own IP addresses (BYOIP) to Azure with Custom IP Prefix](https://azure.microsoft.com/blog/bring-your-own-ip-addresses-byoip-to-azure-with-custom-ip-prefix/)
 - [Diversifying the telecommunications supply chain with Open RAN](https://azure.microsoft.com/blog/diversifying-the-telecommunications-supply-chain-with-open-ran/)
 - [Accelerate silicon design innovation on Azure with Synopsys Cloud](https://azure.microsoft.com/blog/accelerate-silicon-design-innovation-on-azure-with-synopsys-cloud/)
 - [Azure Cost Management and Billing updates – March 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-march-2022/)
 - [Introducing the new Azure Front Door: Reimagined for modern apps and content](https://azure.microsoft.com/blog/introducing-the-new-azure-front-door-reimagined-for-modern-apps-and-content/)
-- [RISE with SAP on the Microsoft Cloud: A year in review](https://azure.microsoft.com/blog/rise-with-sap-on-the-microsoft-cloud-a-year-in-review/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
