@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=aksujgKkht8)
 - [Instant Realtime GraphQL on Azure SQL with Hasura | Data Exposed](https://www.youtube.com/watch?v=7oUmJDrbkOI)
 - [Learn Live - Customize indexes in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=eCyG5CPS5fo)
 - [Microsoft Azure Overview](https://www.youtube.com/watch?v=oPSHs71mTVU)
 - [Learn Live - Build flexible Bicep templates by using conditions and loops](https://www.youtube.com/watch?v=YFzFPj2UgZc)
-- [TitletownTech &amp; Strive MedTech Part 2 | Microsoft Industry Clouds accelerate startups in Green Bay](https://www.youtube.com/watch?v=pJ4VcCu0uQM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
