@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Deploy a Java EE &lpar;Jakarta EE&rpar; application to Azure](https://www.youtube.com/watch?v=UZttBmL7NEw)
 - [20220420-Web Wednesday: WebXR Hand Interactions with Ada Rose Cannon](https://www.youtube.com/watch?v=lsNkuFH8dtM)
 - [20220427-Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=iInbtInEwS8)
 - [Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=FP9b33Y01hU)
 - [Azure Cosmos DB Conf 2022 &lpar;APAC&rpar;](https://www.youtube.com/watch?v=-wYe3Rn732A)
-- [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=aksujgKkht8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
