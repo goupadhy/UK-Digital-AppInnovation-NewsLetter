@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Get ready to start migrating to Azure—the SMART way](https://www.youtube.com/watch?v=84aaFhTWXl0)
 - [Learn Live - Consume an Azure Cosmos DB SQL API change feed using the SDK](https://www.youtube.com/watch?v=RZl6mXQ7ctc)
 - [Learn Live - Create composable Bicep files by using modules](https://www.youtube.com/watch?v=pKwbIyqxGY8)
 - [Learn Live - Deploy a Java EE &lpar;Jakarta EE&rpar; application to Azure](https://www.youtube.com/watch?v=UZttBmL7NEw)
 - [20220420-Web Wednesday: WebXR Hand Interactions with Ada Rose Cannon](https://www.youtube.com/watch?v=lsNkuFH8dtM)
-- [20220427-Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=iInbtInEwS8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
