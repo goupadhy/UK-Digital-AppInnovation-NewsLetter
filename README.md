@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Proactively prevent secret leaks with GitHub Advanced Security secret scanning](https://github.blog/2022-04-04-push-protection-github-advanced-security/)
 - [How GitHub does take home technical interviews](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
 - [GitHub Copilot now available for Visual Studio 2022](https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/)
 - [Career tips for beginner developers](https://github.blog/2022-03-29-career-tips-for-beginner-developers/)
 - [How to secure your end-to-end supply chain on GitHub](https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/)
-- [Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!](https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
