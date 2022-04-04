@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Now in preview: Azure Virtual Machines with Ampere Altra Arm-based processors](https://azure.microsoft.com/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 - [Join us at the Innovate for Impact digital event](https://azure.microsoft.com/blog/join-us-at-the-innovate-for-impact-digital-event/)
 - [Bring your own IP addresses (BYOIP) to Azure with Custom IP Prefix](https://azure.microsoft.com/blog/bring-your-own-ip-addresses-byoip-to-azure-with-custom-ip-prefix/)
 - [Diversifying the telecommunications supply chain with Open RAN](https://azure.microsoft.com/blog/diversifying-the-telecommunications-supply-chain-with-open-ran/)
 - [Accelerate silicon design innovation on Azure with Synopsys Cloud](https://azure.microsoft.com/blog/accelerate-silicon-design-innovation-on-azure-with-synopsys-cloud/)
-- [Azure Cost Management and Billing updates – March 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-march-2022/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
