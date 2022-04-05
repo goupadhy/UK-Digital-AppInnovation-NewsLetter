@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The Power of Sharing | MVP Global Summit](https://www.youtube.com/watch?v=i9g0ooy7S5Q)
 - [Prevent Unsaved Changes in Power Apps with ConfirmExit | Power Platform Shorts](https://www.youtube.com/watch?v=ygrTX6QFVrE)
 - [Connected &amp; Ready: On the changing world of cloud CRM](https://www.youtube.com/watch?v=1im9A3Xqc78)
 - [Use Policies for Better Custom Connectors - Power CAT Live](https://www.youtube.com/watch?v=RMX7dPXHBS4)
 - [Tomasz Poszytek | Community Connections](https://www.youtube.com/watch?v=qU4mCmnZZqc)
-- [Positive depreciation for Fixed Assets | Dynamics 365 Webinars](https://www.youtube.com/watch?v=EnCStheXuZk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
