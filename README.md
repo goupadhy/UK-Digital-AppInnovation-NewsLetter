@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Web Wednesday: Static Web Apps is 1 years old!](https://www.youtube.com/watch?v=8SPGneTG28s)
 - [Learn Live - Deploy a Java EE &lpar;Jakarta EE&rpar; application to Azure](https://www.youtube.com/watch?v=UZttBmL7NEw)
 - [How do I get a job in Mixed Reality? #Shorts](https://www.youtube.com/watch?v=ps9flQ9piss)
 - [Get ready to start migrating to Azure—the SMART way](https://www.youtube.com/watch?v=84aaFhTWXl0)
 - [Learn Live - Consume an Azure Cosmos DB SQL API change feed using the SDK](https://www.youtube.com/watch?v=RZl6mXQ7ctc)
-- [Learn Live - Create composable Bicep files by using modules](https://www.youtube.com/watch?v=pKwbIyqxGY8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
