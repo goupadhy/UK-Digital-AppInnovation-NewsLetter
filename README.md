@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What Is Cloud Computing?](https://www.youtube.com/watch?v=Fal8pZrS1lg)
 - [Journey into XR Development - Episode 5 - Interactions for AR &amp; VR Development](https://www.youtube.com/watch?v=D6EmmvgLvBM)
 - [Web Wednesday: Static Web Apps is 1 years old!](https://www.youtube.com/watch?v=8SPGneTG28s)
 - [Learn Live - Deploy a Java EE &lpar;Jakarta EE&rpar; application to Azure](https://www.youtube.com/watch?v=UZttBmL7NEw)
 - [How do I get a job in Mixed Reality? #Shorts](https://www.youtube.com/watch?v=ps9flQ9piss)
-- [Get ready to start migrating to Azure—the SMART way](https://www.youtube.com/watch?v=84aaFhTWXl0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
