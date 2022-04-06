@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure delivers strong MLPerf inferencing v2.0 results from 1 to 8 GPUs](https://azure.microsoft.com/blog/azure-delivers-strong-mlperf-inferencing-v20-results-from-1-to-8-gpus/)
 - [The future is on FHIR for SAS and Microsoft Azure](https://azure.microsoft.com/blog/the-future-is-on-fhir-for-sas-and-microsoft-azure/)
 - [Increase remote storage performance with Azure Ebsv5 VMs—now generally available](https://azure.microsoft.com/blog/increase-remote-storage-performance-with-azure-ebsv5-vms-now-generally-available/)
 - [Empowering space development off the planet with Azure](https://azure.microsoft.com/blog/empowering-space-development-off-the-planet-with-azure/)
 - [Now in preview: Azure Virtual Machines with Ampere Altra Arm-based processors](https://azure.microsoft.com/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/)
-- [Join us at the Innovate for Impact digital event](https://azure.microsoft.com/blog/join-us-at-the-innovate-for-impact-digital-event/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
