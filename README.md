@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Consume an Azure Cosmos DB SQL API change feed using the SDK](https://www.youtube.com/watch?v=RZl6mXQ7ctc)
 - [Ask the Expert: Introducing Microsoft for Startups Founders Hub](https://www.youtube.com/watch?v=NBeZT2acsuk)
 - [Journey into XR Development - Episode 6 - Developing Immersive XR Experiences on the Web](https://www.youtube.com/watch?v=9VhSbSUohYI)
 - [20220518-TheAIShow-Ep 56 | How to Create a Custom Neural Voice &quot;Lite&quot; for Brands and Characters](https://www.youtube.com/watch?v=8czxWybRXzM)
 - [Azure SQL April 2022 News Updates | Data Exposed](https://www.youtube.com/watch?v=HbTgg2A3O4I)
-- [Learn Live - Introduction to Azure VMware Solution](https://www.youtube.com/watch?v=VOpXcx5th7s)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
