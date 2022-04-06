@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [The future is on FHIR for SAS and Microsoft Azure](https://azure.microsoft.com/blog/the-future-is-on-fhir-for-sas-and-microsoft-azure/)
 - [Increase remote storage performance with Azure Ebsv5 VMs—now generally available](https://azure.microsoft.com/blog/increase-remote-storage-performance-with-azure-ebsv5-vms-now-generally-available/)
 - [Empowering space development off the planet with Azure](https://azure.microsoft.com/blog/empowering-space-development-off-the-planet-with-azure/)
 - [Now in preview: Azure Virtual Machines with Ampere Altra Arm-based processors](https://azure.microsoft.com/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 - [Join us at the Innovate for Impact digital event](https://azure.microsoft.com/blog/join-us-at-the-innovate-for-impact-digital-event/)
-- [Bring your own IP addresses (BYOIP) to Azure with Custom IP Prefix](https://azure.microsoft.com/blog/bring-your-own-ip-addresses-byoip-to-azure-with-custom-ip-prefix/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
