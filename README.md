@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL April 2022 News Updates | Data Exposed](https://www.youtube.com/watch?v=HbTgg2A3O4I)
 - [Learn Live - Introduction to Azure VMware Solution](https://www.youtube.com/watch?v=VOpXcx5th7s)
 - [Learn Live - Create composable Bicep files by using modules](https://www.youtube.com/watch?v=pKwbIyqxGY8)
 - [What Is Cloud Computing?](https://www.youtube.com/watch?v=Fal8pZrS1lg)
 - [Journey into XR Development - Episode 5 - Interactions for AR &amp; VR Development](https://www.youtube.com/watch?v=D6EmmvgLvBM)
-- [Web Wednesday: Static Web Apps is 1 years old!](https://www.youtube.com/watch?v=8SPGneTG28s)
 <!-- YOUTUBEAPPMOD:END -->
 
 
