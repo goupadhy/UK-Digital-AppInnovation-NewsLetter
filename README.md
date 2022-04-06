@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Introducing Microsoft for Startups Founders Hub](https://www.youtube.com/watch?v=NBeZT2acsuk)
+- [Journey into XR Development - Episode 6 - Developing Immersive XR Experiences on the Web](https://www.youtube.com/watch?v=9VhSbSUohYI)
+- [20220518-TheAIShow-Ep 56 | How to Create a Custom Neural Voice &quot;Lite&quot; for Brands and Characters](https://www.youtube.com/watch?v=8czxWybRXzM)
 - [Azure SQL April 2022 News Updates | Data Exposed](https://www.youtube.com/watch?v=HbTgg2A3O4I)
 - [Learn Live - Introduction to Azure VMware Solution](https://www.youtube.com/watch?v=VOpXcx5th7s)
-- [Learn Live - Create composable Bicep files by using modules](https://www.youtube.com/watch?v=pKwbIyqxGY8)
-- [What Is Cloud Computing?](https://www.youtube.com/watch?v=Fal8pZrS1lg)
-- [Journey into XR Development - Episode 5 - Interactions for AR &amp; VR Development](https://www.youtube.com/watch?v=D6EmmvgLvBM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
