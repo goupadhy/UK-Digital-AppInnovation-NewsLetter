@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Develop applications faster with Azure Database for MySQL – Flexible Server | Data Exposed](https://www.youtube.com/watch?v=RZXbwscC9FU)
+- [Learn how to assess your cloud journey using the Cloud Adoption Strategy Evaluator](https://www.youtube.com/watch?v=6hfIX9YVtsQ)
 - [Learn Live - Prepare to migrate VMware workloads to Azure by deploying Azure VMware Solution](https://www.youtube.com/watch?v=VNn-4t5Vq30)
 - [20220601-Web Wednesday: Build Recap for Web Developers with Christopher Harrison](https://www.youtube.com/watch?v=ofc-ULek_GY)
 - [Add logic to your applications with C#, introduced by Bob Tabor : Microsoft Learn](https://www.youtube.com/watch?v=u-x7p6eZ-wk)
-- [Learn Live - Consume an Azure Cosmos DB SQL API change feed using the SDK](https://www.youtube.com/watch?v=RZl6mXQ7ctc)
-- [Ask the Expert: Introducing Microsoft for Startups Founders Hub](https://www.youtube.com/watch?v=NBeZT2acsuk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
