@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Prepare to migrate VMware workloads to Azure by deploying Azure VMware Solution](https://www.youtube.com/watch?v=VNn-4t5Vq30)
 - [20220601-Web Wednesday: Build Recap for Web Developers with Christopher Harrison](https://www.youtube.com/watch?v=ofc-ULek_GY)
 - [Add logic to your applications with C#, introduced by Bob Tabor : Microsoft Learn](https://www.youtube.com/watch?v=u-x7p6eZ-wk)
 - [Learn Live - Consume an Azure Cosmos DB SQL API change feed using the SDK](https://www.youtube.com/watch?v=RZl6mXQ7ctc)
 - [Ask the Expert: Introducing Microsoft for Startups Founders Hub](https://www.youtube.com/watch?v=NBeZT2acsuk)
-- [Journey into XR Development - Episode 6 - Developing Immersive XR Experiences on the Web](https://www.youtube.com/watch?v=9VhSbSUohYI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
