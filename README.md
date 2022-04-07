@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [20220601-Web Wednesday: Build Recap for Web Developers with Christopher Harrison](https://www.youtube.com/watch?v=ofc-ULek_GY)
+- [Add logic to your applications with C#, introduced by Bob Tabor : Microsoft Learn](https://www.youtube.com/watch?v=u-x7p6eZ-wk)
 - [Learn Live - Consume an Azure Cosmos DB SQL API change feed using the SDK](https://www.youtube.com/watch?v=RZl6mXQ7ctc)
 - [Ask the Expert: Introducing Microsoft for Startups Founders Hub](https://www.youtube.com/watch?v=NBeZT2acsuk)
 - [Journey into XR Development - Episode 6 - Developing Immersive XR Experiences on the Web](https://www.youtube.com/watch?v=9VhSbSUohYI)
-- [20220518-TheAIShow-Ep 56 | How to Create a Custom Neural Voice &quot;Lite&quot; for Brands and Characters](https://www.youtube.com/watch?v=8czxWybRXzM)
-- [Azure SQL April 2022 News Updates | Data Exposed](https://www.youtube.com/watch?v=HbTgg2A3O4I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
