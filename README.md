@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Develop applications faster with Azure Database for MySQL – Flexible Server | Data Exposed](https://www.youtube.com/watch?v=RZXbwscC9FU)
-- [Learn how to assess your cloud journey using the Cloud Adoption Strategy Evaluator](https://www.youtube.com/watch?v=6hfIX9YVtsQ)
-- [Learn Live - Prepare to migrate VMware workloads to Azure by deploying Azure VMware Solution](https://www.youtube.com/watch?v=VNn-4t5Vq30)
-- [20220601-Web Wednesday: Build Recap for Web Developers with Christopher Harrison](https://www.youtube.com/watch?v=ofc-ULek_GY)
-- [Add logic to your applications with C#, introduced by Bob Tabor : Microsoft Learn](https://www.youtube.com/watch?v=u-x7p6eZ-wk)
+- [All about Java Records – Part 2 [Video 13] | Java for Beginners](https://www.youtube.com/watch?v=_DSDKiqd2lU)
+- [Java Methods Part 2 [Video 25] | Java for Beginners](https://www.youtube.com/watch?v=rc0zn0XmwTQ)
+- [Java Methods part 1 [Video 24] | Java for Beginners](https://www.youtube.com/watch?v=3ShYdeEGpss)
+- [Working with Java in Visual Studio Code [Video 5] | Java for Beginners](https://www.youtube.com/watch?v=ZHHUZyy_fOo)
+- [Working with Numeric Data Types in Java [Video 9] | Java for Beginners](https://www.youtube.com/watch?v=nVpz41c-lfg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
