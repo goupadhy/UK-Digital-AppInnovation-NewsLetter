@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Nimble and Sherweb partner up for growth on the commercial marketplace](https://www.youtube.com/watch?v=E4ZYk60DZzE)
 - [AI test to detect damage to Astronaut Equipment onboard ISS with NASA, HPE, Microsoft](https://www.youtube.com/watch?v=r-wMwGjO8yc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Bill Borden | Part 1](https://www.youtube.com/watch?v=1LgXpaHNpT8)
 - [Sustainability in Media &amp; Entertainment: perspective from industry leaders](https://www.youtube.com/watch?v=p92ze8Wr4J8)
 - [Sustainability in Telco: perspective from industry leaders](https://www.youtube.com/watch?v=umeu4BkO7EA)
-- [Scale your business | Cloud Solutions Provider](https://www.youtube.com/watch?v=yC9d52PsuOg)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
