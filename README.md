@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Modern Advanced Find - Power CAT Live](https://www.youtube.com/watch?v=ZZd-Iy_cGxU)
 - [Power Platform Community Support Form](https://www.youtube.com/watch?v=_RL36zslKF8)
 - [Inspire Digital Transformation Buy-In Across Your Organization | Migration Minded](https://www.youtube.com/watch?v=4Kwk_BoTc6I)
 - [The Power of Sharing | MVP Global Summit](https://www.youtube.com/watch?v=i9g0ooy7S5Q)
 - [Prevent Unsaved Changes in Power Apps with ConfirmExit | Power Platform Shorts](https://www.youtube.com/watch?v=ygrTX6QFVrE)
-- [Connected &amp; Ready: On the changing world of cloud CRM](https://www.youtube.com/watch?v=1im9A3Xqc78)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
