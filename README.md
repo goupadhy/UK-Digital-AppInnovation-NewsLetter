@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Deploy child and extension resources by using Bicep](https://www.youtube.com/watch?v=8EmUJ8RSGyY)
 - [All about Java Records – Part 2 [Video 13] | Java for Beginners](https://www.youtube.com/watch?v=_DSDKiqd2lU)
 - [Java Methods Part 2 [Video 25] | Java for Beginners](https://www.youtube.com/watch?v=rc0zn0XmwTQ)
 - [Java Methods part 1 [Video 24] | Java for Beginners](https://www.youtube.com/watch?v=3ShYdeEGpss)
 - [Working with Java in Visual Studio Code [Video 5] | Java for Beginners](https://www.youtube.com/watch?v=ZHHUZyy_fOo)
-- [Working with Numeric Data Types in Java [Video 9] | Java for Beginners](https://www.youtube.com/watch?v=nVpz41c-lfg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
