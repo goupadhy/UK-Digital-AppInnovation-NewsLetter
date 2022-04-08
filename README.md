@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Java Classes and Packages Part 2 [Video 22] | Java for Beginners](https://www.youtube.com/watch?v=kPS2H9CdBlY)
+- [Java Classes and Packages Part 1 [Video 21] | Java for Beginners](https://www.youtube.com/watch?v=La2dU4uNxJ4)
+- [Prototype your Java with JShell [Video 4] | Java for Beginners](https://www.youtube.com/watch?v=201IpTSRIGs)
+- [Java Classes and Packages Part 3 [Video 23] | Java for Beginners](https://www.youtube.com/watch?v=BvDbRYK1lj8)
 - [Learn Live - Deploy child and extension resources by using Bicep](https://www.youtube.com/watch?v=8EmUJ8RSGyY)
-- [All about Java Records – Part 2 [Video 13] | Java for Beginners](https://www.youtube.com/watch?v=_DSDKiqd2lU)
-- [Java Methods Part 2 [Video 25] | Java for Beginners](https://www.youtube.com/watch?v=rc0zn0XmwTQ)
-- [Java Methods part 1 [Video 24] | Java for Beginners](https://www.youtube.com/watch?v=3ShYdeEGpss)
-- [Working with Java in Visual Studio Code [Video 5] | Java for Beginners](https://www.youtube.com/watch?v=ZHHUZyy_fOo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
