@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Handle events with Azure Functions and Azure Cosmos DB SQL API change feed](https://www.youtube.com/watch?v=cXztOak3iuk)
 - [Java Classes and Packages Part 2 | Java for Beginners](https://www.youtube.com/watch?v=kPS2H9CdBlY)
 - [Java Classes and Packages Part 1 | Java for Beginners](https://www.youtube.com/watch?v=La2dU4uNxJ4)
 - [Prototype your Java with JShell | Java for Beginners](https://www.youtube.com/watch?v=201IpTSRIGs)
 - [Java Classes and Packages Part 3 | Java for Beginners](https://www.youtube.com/watch?v=BvDbRYK1lj8)
-- [Learn Live - Deploy child and extension resources by using Bicep](https://www.youtube.com/watch?v=8EmUJ8RSGyY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
