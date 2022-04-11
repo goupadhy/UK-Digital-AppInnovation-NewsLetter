@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Unlock cloud savings on the fly with autoscale on Azure](https://azure.microsoft.com/blog/unlock-cloud-savings-on-the-fly-with-autoscale-on-azure/)
 - [Optimize your cloud investment with Azure Reservations](https://azure.microsoft.com/blog/optimize-your-cloud-investment-with-azure-reservations/)
 - [Accelerate your AI applications with Azure NC A100 v4 virtual machines](https://azure.microsoft.com/blog/accelerate-your-ai-applications-with-azure-nc-a100-v4-virtual-machines/)
 - [Azure delivers strong MLPerf inferencing v2.0 results from 1 to 8 GPUs](https://azure.microsoft.com/blog/azure-delivers-strong-mlperf-inferencing-v20-results-from-1-to-8-gpus/)
 - [The future is on FHIR for SAS and Microsoft Azure](https://azure.microsoft.com/blog/the-future-is-on-fhir-for-sas-and-microsoft-azure/)
-- [Increase remote storage performance with Azure Ebsv5 VMs—now generally available](https://azure.microsoft.com/blog/increase-remote-storage-performance-with-azure-ebsv5-vms-now-generally-available/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
