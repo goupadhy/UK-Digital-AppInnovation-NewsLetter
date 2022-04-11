@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What does career movement look like at Microsoft? #Shorts](https://www.youtube.com/watch?v=KeBdz00pMUU)
 - [Learn Live - Introduction to Azure Arc](https://www.youtube.com/watch?v=rNa74yxwhU0)
 - [Learn Live - Introduction to Azure Stack](https://www.youtube.com/watch?v=Oxwn8112loo)
 - [Learn Live - Handle events with Azure Functions and Azure Cosmos DB SQL API change feed](https://www.youtube.com/watch?v=cXztOak3iuk)
 - [Java Classes and Packages Part 2 | Java for Beginners](https://www.youtube.com/watch?v=kPS2H9CdBlY)
-- [Java Classes and Packages Part 1 | Java for Beginners](https://www.youtube.com/watch?v=La2dU4uNxJ4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
