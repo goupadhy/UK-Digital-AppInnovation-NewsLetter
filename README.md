@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Deploy child and extension resources by using Bicep](https://www.youtube.com/watch?v=8EmUJ8RSGyY)
+- [How Does Azure Work?](https://www.youtube.com/watch?v=Y7g516y7zDQ)
 - [What I learned creating Postgres monitoring metrics for Citus on Azure | Citus Con 2022](https://www.youtube.com/watch?v=f5f1XXYrx4I)
 - [Why Postgres Is Better Than MySQL for Automated Knob Tuning | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=J_3NHB5bQgM)
 - [NO ARRAY OF SUNSHINE: an introduction to data types from a data quality perspective | Citus Con 2022](https://www.youtube.com/watch?v=TbX1CAHO1Ks)
-- [Build Your Business Based On PostgreSQL Databases | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=x_mLeAcBDHI)
-- [Django with PostgreSQL superpowers | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=u8F7bTJVe_4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
