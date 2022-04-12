@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Understanding Chaos Engineering](https://www.youtube.com/watch?v=mfEMXKSFtaQ)
-- [Getting started with Chaos Studio](https://www.youtube.com/watch?v=LhI1lniofU0)
-- [What does career movement look like at Microsoft? #Shorts](https://www.youtube.com/watch?v=KeBdz00pMUU)
-- [Learn Live - Introduction to Azure Arc](https://www.youtube.com/watch?v=rNa74yxwhU0)
-- [Learn Live - Introduction to Azure Stack](https://www.youtube.com/watch?v=Oxwn8112loo)
+- [What I learned creating Postgres monitoring metrics for Citus on Azure | Citus Con 2022](https://www.youtube.com/watch?v=f5f1XXYrx4I)
+- [Why Postgres Is Better Than MySQL for Automated Knob Tuning | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=J_3NHB5bQgM)
+- [NO ARRAY OF SUNSHINE: an introduction to data types from a data quality perspective | Citus Con 2022](https://www.youtube.com/watch?v=TbX1CAHO1Ks)
+- [Build Your Business Based On PostgreSQL Databases | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=x_mLeAcBDHI)
+- [Django with PostgreSQL superpowers | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=u8F7bTJVe_4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
