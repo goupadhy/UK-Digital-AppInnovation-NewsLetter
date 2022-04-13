@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The AI Show: Ep 55 | Audio analytics with Azure Automated ML](https://www.youtube.com/watch?v=iHL9RmOejdo)
 - [20220504-Web Wednesday - Azure ML on Github Codespaces with Beatriz Stollnitz](https://www.youtube.com/watch?v=9P3LYFoaFpY)
 - [Citus Con: An Event for Postgres &lpar;EMEA livestream&rpar;](https://www.youtube.com/watch?v=pbZR1QPOvX4)
 - [Citus Con: An Event for Postgres &lpar;APAC livestream&rpar;](https://www.youtube.com/watch?v=FBoAtpN8pg4)
 - [Citus Con: An Event for Postgres &lpar;AMERICAS livestream&rpar;](https://www.youtube.com/watch?v=JHhMRwkCnLM)
-- [Learn Live - Deploy child and extension resources by using Bicep](https://www.youtube.com/watch?v=8EmUJ8RSGyY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
