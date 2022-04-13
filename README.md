@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Drive Focus on Technology Innovation with Cloud Functionality | Migration Minded](https://www.youtube.com/watch?v=yavopKSZvnk)
 - [Power Automate Community AMA](https://www.youtube.com/watch?v=7BYSdohYsOw)
 - [Using AI Builder&#39;s Business Card Reader in Power Automate](https://www.youtube.com/watch?v=UoNOrV8a5To)
 - [Modern Advanced Find - Power CAT Live](https://www.youtube.com/watch?v=ZZd-Iy_cGxU)
 - [Power Platform Community Support Form](https://www.youtube.com/watch?v=_RL36zslKF8)
-- [Inspire Digital Transformation Buy-In Across Your Organization | Migration Minded](https://www.youtube.com/watch?v=4Kwk_BoTc6I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
