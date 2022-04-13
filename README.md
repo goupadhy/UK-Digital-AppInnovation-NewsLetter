@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Citus Con: An Event for Postgres &lpar;APAC livestream&rpar;](https://www.youtube.com/watch?v=FBoAtpN8pg4)
 - [Citus Con: An Event for Postgres &lpar;AMERICAS livestream&rpar;](https://www.youtube.com/watch?v=JHhMRwkCnLM)
 - [Learn Live - Deploy child and extension resources by using Bicep](https://www.youtube.com/watch?v=8EmUJ8RSGyY)
 - [How Does Azure Work?](https://www.youtube.com/watch?v=Y7g516y7zDQ)
 - [What I learned creating Postgres monitoring metrics for Citus on Azure | Citus Con 2022](https://www.youtube.com/watch?v=f5f1XXYrx4I)
-- [Why Postgres Is Better Than MySQL for Automated Knob Tuning | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=J_3NHB5bQgM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
