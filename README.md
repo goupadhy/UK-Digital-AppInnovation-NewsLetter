@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Introduction to Azure Arc](https://www.youtube.com/watch?v=rNa74yxwhU0)
 - [MR Speaker Series: Documenting a Mixed Reality Engine](https://www.youtube.com/watch?v=hmMlXQcHeFo)
 - [Learn Live - Introduction to Azure Stack](https://www.youtube.com/watch?v=Oxwn8112loo)
 - [Improve your database performance with Azure Database for MySQL – Flexible Server | Data Exposed](https://www.youtube.com/watch?v=HrNgG6MSTLU)
 - [Learn Live - Handle events with Azure Functions and Azure Cosmos DB SQL API change feed](https://www.youtube.com/watch?v=cXztOak3iuk)
-- [The AI Show: Ep 55 | Audio analytics with Azure Automated ML](https://www.youtube.com/watch?v=iHL9RmOejdo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
