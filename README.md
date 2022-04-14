@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Easily add active directory Users to your records using the AADUser Virtual Table](https://www.youtube.com/watch?v=GHlecOwrx0A)
 - [Drive Focus on Technology Innovation with Cloud Functionality | Migration Minded](https://www.youtube.com/watch?v=yavopKSZvnk)
 - [Power Automate Community AMA](https://www.youtube.com/watch?v=7BYSdohYsOw)
 - [Using AI Builder&#39;s Business Card Reader in Power Automate](https://www.youtube.com/watch?v=UoNOrV8a5To)
 - [Modern Advanced Find - Power CAT Live](https://www.youtube.com/watch?v=ZZd-Iy_cGxU)
-- [Power Platform Community Support Form](https://www.youtube.com/watch?v=_RL36zslKF8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
