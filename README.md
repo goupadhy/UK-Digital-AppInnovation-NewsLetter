@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to Azure Stack](https://www.youtube.com/watch?v=Oxwn8112loo)
 - [Improve your database performance with Azure Database for MySQL – Flexible Server | Data Exposed](https://www.youtube.com/watch?v=HrNgG6MSTLU)
 - [Learn Live - Handle events with Azure Functions and Azure Cosmos DB SQL API change feed](https://www.youtube.com/watch?v=cXztOak3iuk)
 - [The AI Show: Ep 55 | Audio analytics with Azure Automated ML](https://www.youtube.com/watch?v=iHL9RmOejdo)
 - [20220504-Web Wednesday - Azure ML on Github Codespaces with Beatriz Stollnitz](https://www.youtube.com/watch?v=9P3LYFoaFpY)
-- [Citus Con: An Event for Postgres &lpar;EMEA livestream&rpar;](https://www.youtube.com/watch?v=pbZR1QPOvX4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
