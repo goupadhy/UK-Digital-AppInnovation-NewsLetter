@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure Purview is now Microsoft Purview](https://azure.microsoft.com/blog/azure-purview-is-now-microsoft-purview/)
 - [Enhance your data visualizations with Azure Managed Grafana—now in preview](https://azure.microsoft.com/blog/enhance-your-data-visualizations-with-azure-managed-grafana-now-in-preview/)
 - [Feathr: LinkedIn’s feature store is now available on Azure](https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/)
 - [Unlock cloud savings on the fly with autoscale on Azure](https://azure.microsoft.com/blog/unlock-cloud-savings-on-the-fly-with-autoscale-on-azure/)
 - [Optimize your cloud investment with Azure Reservations](https://azure.microsoft.com/blog/optimize-your-cloud-investment-with-azure-reservations/)
-- [Accelerate your AI applications with Azure NC A100 v4 virtual machines](https://azure.microsoft.com/blog/accelerate-your-ai-applications-with-azure-nc-a100-v4-virtual-machines/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
