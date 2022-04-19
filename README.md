@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=aksujgKkht8)
 - [Learn Live - Manage changes to your Bicep code by using Git](https://www.youtube.com/watch?v=MTWPxWK8ZUM)
 - [All Around Azure | Unlocked: Cloud Scale Analytics](https://www.youtube.com/watch?v=TE8gFOirLe0)
 - [Learn Live - Search Azure Cosmos DB SQL API data with Azure Cognitive Search](https://www.youtube.com/watch?v=O-RzAiXYrt4)
 - [Learn Live - Introduction to Azure Arc](https://www.youtube.com/watch?v=rNa74yxwhU0)
-- [MR Speaker Series: Documenting a Mixed Reality Engine](https://www.youtube.com/watch?v=hmMlXQcHeFo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
