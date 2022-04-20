@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Ask the Expert: Containers on Azure](https://www.youtube.com/watch?v=UtqKileIV3w)
-- [Ask the Expert: From Padawan to Jedi in Azure IoT](https://www.youtube.com/watch?v=sD-LDy5IBvI)
-- [Learn Live - Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
-- [Learn Live - Introduction to Azure Stack HCI core technologies](https://www.youtube.com/watch?v=dvX0P6lxt1Q)
-- [Azure Cosmos DB Conf 2022 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=W3EBzYIooBk)
+- [Dependent Breakpoints](https://www.youtube.com/watch?v=ZEpnI_l-mjA)
+- [Indexed Find in Files](https://www.youtube.com/watch?v=xR8W3Mc51zs)
+- [Targeting macOS from Visual Studio](https://www.youtube.com/watch?v=HOLU-32_evQ)
+- [MSVC C++20/23 Update](https://www.youtube.com/watch?v=DAl37n2XOwk)
+- [Stay calm and stress-free by using a package manager: an overview of vcpkg](https://www.youtube.com/watch?v=zsXAHNlYKw4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
