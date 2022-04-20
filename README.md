@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Containers on Azure](https://www.youtube.com/watch?v=UtqKileIV3w)
+- [Ask the Expert: From Padawan to Jedi in Azure IoT](https://www.youtube.com/watch?v=sD-LDy5IBvI)
 - [Learn Live - Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
 - [Learn Live - Introduction to Azure Stack HCI core technologies](https://www.youtube.com/watch?v=dvX0P6lxt1Q)
 - [Azure Cosmos DB Conf 2022 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=W3EBzYIooBk)
-- [Azure Cosmos DB Conf 2022 &lpar;APAC&rpar;](https://www.youtube.com/watch?v=qkDrE6iyIuE)
-- [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=aksujgKkht8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
