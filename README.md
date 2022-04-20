@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Creating Actionable Financial Reports w/Power Platform and Azure Synapse | The Low Code Revolution](https://www.youtube.com/watch?v=5Os1klYB8t4)
 - [Happy Anniversary from the Microsoft Power Platform &amp; Community Success Teams](https://www.youtube.com/watch?v=MKTshEJCR8A)
 - [Change how visuals interact in a Power BI report | Power Platform Shorts](https://www.youtube.com/watch?v=gcCs44BYB_0)
 - [Command Line Interface for Power Platform - Power CAT Live](https://www.youtube.com/watch?v=GUmn-cxSomE)
 - [Easily add active directory Users to your records using the AADUser Virtual Table](https://www.youtube.com/watch?v=GHlecOwrx0A)
-- [Drive Focus on Technology Innovation with Cloud Functionality | Migration Minded](https://www.youtube.com/watch?v=yavopKSZvnk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
