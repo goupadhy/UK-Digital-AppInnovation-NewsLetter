@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
+- [Learn Live - Introduction to Azure Stack HCI core technologies](https://www.youtube.com/watch?v=dvX0P6lxt1Q)
 - [Azure Cosmos DB Conf 2022 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=W3EBzYIooBk)
 - [Azure Cosmos DB Conf 2022 &lpar;APAC&rpar;](https://www.youtube.com/watch?v=qkDrE6iyIuE)
 - [Azure Cosmos DB Conf 2022 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=aksujgKkht8)
-- [Learn Live - Manage changes to your Bicep code by using Git](https://www.youtube.com/watch?v=MTWPxWK8ZUM)
-- [All Around Azure | Unlocked: Cloud Scale Analytics](https://www.youtube.com/watch?v=TE8gFOirLe0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
