@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to Azure Stack HCI core technologies](https://www.youtube.com/watch?v=dvX0P6lxt1Q)
 - [20220420-Web Wednesday: WebXR Hand Interactions with Ada Rose Cannon](https://www.youtube.com/watch?v=lsNkuFH8dtM)
 - [Learn Live - Search Azure Cosmos DB SQL API data with Azure Cognitive Search](https://www.youtube.com/watch?v=O-RzAiXYrt4)
 - [Dependent Breakpoints](https://www.youtube.com/watch?v=ZEpnI_l-mjA)
 - [Indexed Find in Files](https://www.youtube.com/watch?v=xR8W3Mc51zs)
-- [Targeting macOS from Visual Studio](https://www.youtube.com/watch?v=HOLU-32_evQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
