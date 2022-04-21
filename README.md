@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [clang-tidy in Visual Studio Code](https://www.youtube.com/watch?v=8RSxQ8sluG0)
+- [Data Breakpoints in Visual Studio Code](https://www.youtube.com/watch?v=xiE7ebXOqlY)
+- [Hot Reload for C++](https://www.youtube.com/watch?v=4NtQTwWREQk)
+- [Productivity in Visual Studio](https://www.youtube.com/watch?v=S2KUHl8adT8)
 - [All Around Azure | Unlocked: Cloud Scale Analytics](https://www.youtube.com/watch?v=TE8gFOirLe0)
-- [Assess, Get Recommendations &amp; Migrate SQL Server to Azure using Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=nbchlsoBR7s)
-- [Learn Live - Introduction to Azure Stack HCI core technologies](https://www.youtube.com/watch?v=dvX0P6lxt1Q)
-- [20220420-Web Wednesday: WebXR Hand Interactions with Ada Rose Cannon](https://www.youtube.com/watch?v=lsNkuFH8dtM)
-- [Learn Live - Search Azure Cosmos DB SQL API data with Azure Cognitive Search](https://www.youtube.com/watch?v=O-RzAiXYrt4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
