@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Structure your Bicep code for collaboration](https://www.youtube.com/watch?v=ME2w8Ndp9sQ)
 - [Learn Live - Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
 - [clang-tidy in Visual Studio Code](https://www.youtube.com/watch?v=8RSxQ8sluG0)
 - [Data Breakpoints in Visual Studio Code](https://www.youtube.com/watch?v=xiE7ebXOqlY)
 - [Hot Reload for C++](https://www.youtube.com/watch?v=4NtQTwWREQk)
-- [Productivity in Visual Studio](https://www.youtube.com/watch?v=S2KUHl8adT8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
