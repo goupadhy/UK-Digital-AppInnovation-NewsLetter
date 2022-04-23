@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The Download has a new home!](https://www.youtube.com/watch?v=OceOFLik28Q)
 - [Learn Live - Implement a non-relational data model](https://www.youtube.com/watch?v=XTtwp5KXix8)
 - [Learn Live - Structure your Bicep code for collaboration](https://www.youtube.com/watch?v=ME2w8Ndp9sQ)
 - [Learn Live - Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
 - [clang-tidy in Visual Studio Code](https://www.youtube.com/watch?v=8RSxQ8sluG0)
-- [Data Breakpoints in Visual Studio Code](https://www.youtube.com/watch?v=xiE7ebXOqlY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
