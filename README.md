@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙](https://github.blog/2022-04-23-zx-spectrum-40th-birthday/)
 - [Removing the stigma of a CVE](https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/)
 - [5 simple things every developer can do to ship more secure code](https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/)
 - [Your guide to GitHub InFocus: Improving the way software development teams work in 2022](https://github.blog/2022-04-21-guide-to-github-infocus-2022/)
 - [Improving Git push times through faster server side hooks](https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/)
-- [Organization profiles leading the way](https://github.blog/2022-04-20-organization-profiles-leading-the-way/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
