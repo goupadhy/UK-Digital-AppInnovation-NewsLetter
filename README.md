@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Plan and deploy Azure Stack HCI](https://www.youtube.com/watch?v=6pdwG3cQn00)
 - [Learn Live - Plan and deploy Azure Arc-enabled servers at scale](https://www.youtube.com/watch?v=xjb-SoXEn2Q)
 - [The Download has a new home!](https://www.youtube.com/watch?v=OceOFLik28Q)
 - [Learn Live - Implement a non-relational data model](https://www.youtube.com/watch?v=XTtwp5KXix8)
 - [Learn Live - Structure your Bicep code for collaboration](https://www.youtube.com/watch?v=ME2w8Ndp9sQ)
-- [Learn Live - Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
