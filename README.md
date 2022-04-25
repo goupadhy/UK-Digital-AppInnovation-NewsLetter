@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Platform Samples | Power Platform Shorts](https://www.youtube.com/watch?v=87NinnSzx-0)
 - [Power BI Community Show Ep 3](https://www.youtube.com/watch?v=bx1NH7DviU0)
 - [Inside Dataverse Data Storage - Power CAT Live](https://www.youtube.com/watch?v=bSscrGddctI)
 - [Multi - Factor Authentication Setup &amp; Troubleshooting | Dynamics GP](https://www.youtube.com/watch?v=81YZ8B6bHPk)
 - [Creating Actionable Financial Reports w/Power Platform and Azure Synapse | The Low Code Revolution](https://www.youtube.com/watch?v=5Os1klYB8t4)
-- [Happy Anniversary from the Microsoft Power Platform &amp; Community Success Teams](https://www.youtube.com/watch?v=MKTshEJCR8A)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
