@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Exploring the relationship between Cost and Architecture](https://www.youtube.com/watch?v=yiUAZrR9lek)
 - [Unreal Engine and Game Development in Visual Studio](https://www.youtube.com/watch?v=posMVUCxiY0)
 - [Learn Live - Plan and deploy Azure Stack HCI](https://www.youtube.com/watch?v=6pdwG3cQn00)
 - [Learn Live - Plan and deploy Azure Arc-enabled servers at scale](https://www.youtube.com/watch?v=xjb-SoXEn2Q)
 - [The Download has a new home!](https://www.youtube.com/watch?v=OceOFLik28Q)
-- [Learn Live - Implement a non-relational data model](https://www.youtube.com/watch?v=XTtwp5KXix8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
