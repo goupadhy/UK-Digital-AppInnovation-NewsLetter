@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Armchair Architects: Exploring the relationship between Cost and Architecture](https://www.youtube.com/watch?v=yiUAZrR9lek)
-- [Unreal Engine and Game Development in Visual Studio](https://www.youtube.com/watch?v=posMVUCxiY0)
-- [Learn Live - Plan and deploy Azure Stack HCI](https://www.youtube.com/watch?v=6pdwG3cQn00)
-- [Learn Live - Plan and deploy Azure Arc-enabled servers at scale](https://www.youtube.com/watch?v=xjb-SoXEn2Q)
-- [The Download has a new home!](https://www.youtube.com/watch?v=OceOFLik28Q)
+- [New features of the Odyssey connection pooler | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=xlDIqTW079s)
+- [Fibonacci Spirals and Ways to Contribute to Postgres—Beyond Code | Citus Con 2022](https://www.youtube.com/watch?v=lkRUy6BBiU0)
+- [Queues in PostgreSQL | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=WIRy1Ws47ic)
+- [Localization on PostgreSQL | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=-4oEeHanx9c)
+- [Explaining the Postgres Query Optimizer | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=wLpcVM9qxV0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
