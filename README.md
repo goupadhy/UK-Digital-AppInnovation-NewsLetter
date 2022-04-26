@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Pure Virtual C++ 2022](https://www.youtube.com/watch?v=2CshUe_cwWI)
 - [New features of the Odyssey connection pooler | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=xlDIqTW079s)
 - [Fibonacci Spirals and Ways to Contribute to Postgres—Beyond Code | Citus Con 2022](https://www.youtube.com/watch?v=lkRUy6BBiU0)
 - [Queues in PostgreSQL | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=WIRy1Ws47ic)
 - [Localization on PostgreSQL | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=-4oEeHanx9c)
-- [Explaining the Postgres Query Optimizer | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=wLpcVM9qxV0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
