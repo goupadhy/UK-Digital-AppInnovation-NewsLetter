@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [JDCONF &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=ctOsE64DCws)
 - [Learn Live - Structure your Bicep code for collaboration](https://www.youtube.com/watch?v=ME2w8Ndp9sQ)
 - [Pure Virtual C++ 2022](https://www.youtube.com/watch?v=2CshUe_cwWI)
 - [New features of the Odyssey connection pooler | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=xlDIqTW079s)
 - [Fibonacci Spirals and Ways to Contribute to Postgres—Beyond Code | Citus Con 2022](https://www.youtube.com/watch?v=lkRUy6BBiU0)
-- [Queues in PostgreSQL | Citus Con: An Event for Postgres 2022](https://www.youtube.com/watch?v=WIRy1Ws47ic)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
