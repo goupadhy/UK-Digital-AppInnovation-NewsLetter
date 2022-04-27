@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Data Loss Prevention Policies - Default Environment](https://www.youtube.com/watch?v=cFxOF6eXdF4)
 - [The Power BI Community Show Ep 4 - Incremental Refresh, Hybrid Tables, and Charticulator](https://www.youtube.com/watch?v=CXXyYZX1oyE)
 - [Happy Anniversary from the Business Applications MVPs](https://www.youtube.com/watch?v=PeOrKQO5WUg)
 - [Power Platform Samples | Power Platform Shorts](https://www.youtube.com/watch?v=87NinnSzx-0)
 - [Power BI Community Show Ep 3 - Known Issues, Reports &amp; Visuals, and Power BI Certifications](https://www.youtube.com/watch?v=bx1NH7DviU0)
-- [Inside Dataverse Data Storage - Power CAT Live](https://www.youtube.com/watch?v=bSscrGddctI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
