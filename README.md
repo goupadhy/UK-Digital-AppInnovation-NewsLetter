@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Implement a non-relational data model](https://www.youtube.com/watch?v=XTtwp5KXix8)
 - [JDConf &lpar;EMEA&rpar; PRODUCTION](https://www.youtube.com/watch?v=FO-Q7yqVElI)
 - [JDConf &lpar;APAC&rpar; PRODUCTION](https://www.youtube.com/watch?v=EBywddp-KLw)
 - [JDCONF &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=ctOsE64DCws)
 - [Learn Live - Structure your Bicep code for collaboration](https://www.youtube.com/watch?v=ME2w8Ndp9sQ)
-- [Pure Virtual C++ 2022](https://www.youtube.com/watch?v=2CshUe_cwWI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
