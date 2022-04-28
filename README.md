@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The JAM BAM - Azure Static Web Apps One Year Bash!!](https://www.youtube.com/watch?v=1e6k5HNK4F8)
 - [How to Accelerate Oracle to Azure Database Migration | Data Exposed](https://www.youtube.com/watch?v=vdBQPN3lKQc)
 - [Learn Live - Plan and deploy Azure Stack HCI](https://www.youtube.com/watch?v=6pdwG3cQn00)
 - [Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=iInbtInEwS8)
 - [Learn Live - Implement a non-relational data model](https://www.youtube.com/watch?v=XTtwp5KXix8)
-- [JDConf &lpar;EMEA&rpar; PRODUCTION](https://www.youtube.com/watch?v=FO-Q7yqVElI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
