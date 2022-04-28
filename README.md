@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Plan and deploy Azure Stack HCI](https://www.youtube.com/watch?v=6pdwG3cQn00)
 - [Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=iInbtInEwS8)
 - [Learn Live - Implement a non-relational data model](https://www.youtube.com/watch?v=XTtwp5KXix8)
 - [JDConf &lpar;EMEA&rpar; PRODUCTION](https://www.youtube.com/watch?v=FO-Q7yqVElI)
 - [JDConf &lpar;APAC&rpar; PRODUCTION](https://www.youtube.com/watch?v=EBywddp-KLw)
-- [JDCONF &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=ctOsE64DCws)
 <!-- YOUTUBEAPPMOD:END -->
 
 
