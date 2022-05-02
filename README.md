@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Arranging Dax Measures | Power Platform Shorts](https://www.youtube.com/watch?v=Htxs0hO2Rns)
 - [Meet professional developers using Microsoft Power Platform to go faster](https://www.youtube.com/watch?v=wOXPTopTK4U)
 - [Power Platform Tenant Isolation - Power CAT Live](https://www.youtube.com/watch?v=7qrj942KV-Q)
 - [SQL Server Reporting Services](https://www.youtube.com/watch?v=y40hFnXiG-o)
 - [Data Loss Prevention Policies - Default Environment](https://www.youtube.com/watch?v=cFxOF6eXdF4)
-- [The Power BI Community Show Ep 4 - Incremental Refresh, Hybrid Tables, and Charticulator](https://www.youtube.com/watch?v=CXXyYZX1oyE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
