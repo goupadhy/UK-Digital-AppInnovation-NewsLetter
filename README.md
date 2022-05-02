@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Design a data partitioning strategy](https://www.youtube.com/watch?v=aLCxxJr39Zw)
 - [Learn Live - Preview Azure deployment changes by using what-if](https://www.youtube.com/watch?v=njcJM6Rb5Qk)
 - [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=OGlM5CgCwwc)
 - [Learn Live - Plan and deploy Azure Arc-enabled servers at scale](https://www.youtube.com/watch?v=xjb-SoXEn2Q)
 - [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=1e6k5HNK4F8)
-- [How to Accelerate Oracle to Azure Database Migration | Data Exposed](https://www.youtube.com/watch?v=vdBQPN3lKQc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
