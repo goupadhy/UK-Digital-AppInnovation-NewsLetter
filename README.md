@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Learn Live - Design a data partitioning strategy](https://www.youtube.com/watch?v=aLCxxJr39Zw)
-- [Learn Live - Preview Azure deployment changes by using what-if](https://www.youtube.com/watch?v=njcJM6Rb5Qk)
-- [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=OGlM5CgCwwc)
-- [Learn Live - Plan and deploy Azure Arc-enabled servers at scale](https://www.youtube.com/watch?v=xjb-SoXEn2Q)
-- [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=1e6k5HNK4F8)
+- [Persistent Representation of C++ for Fun and Profit](https://www.youtube.com/watch?v=jNA1VkLKTH4)
+- [Everything I learned about static analysis and program safety in C++](https://www.youtube.com/watch?v=uHEbW1Z00zE)
+- [Embedded development with VS and VS Code](https://www.youtube.com/watch?v=t0S81gwUGpo)
+- [Cute C++ Tricks, Part 2 of N: More code you should learn from and never write](https://www.youtube.com/watch?v=5Gv9jfBY2fA)
+- [What&#39;s New In C++23](https://www.youtube.com/watch?v=mQzijnbnTO4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
