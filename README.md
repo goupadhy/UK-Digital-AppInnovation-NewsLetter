@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Announcing new investments to help accelerate your move to Azure](https://azure.microsoft.com/blog/announcing-new-investments-to-help-accelerate-your-move-to-azure/)
 - [Azure Cost Management and Billing updates – April 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-april-2022/)
 - [Enhance your classroom experience with Azure Lab Services—April 2022 update](https://azure.microsoft.com/blog/enhance-your-classroom-experience-with-azure-lab-services-april-2022-update/)
 - [Microsoft announces new collaboration with Red Button for attack simulation testing](https://azure.microsoft.com/blog/microsoft-announces-new-collaboration-with-red-button-for-attack-simulation-testing/)
 - [How Microsoft measures datacenter water and energy use to improve Azure Cloud sustainability](https://azure.microsoft.com/blog/how-microsoft-measures-datacenter-water-and-energy-use-to-improve-azure-cloud-sustainability/)
-- [Azure Purview is now Microsoft Purview](https://azure.microsoft.com/blog/azure-purview-is-now-microsoft-purview/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
