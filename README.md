@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Preview Azure deployment changes by using what-if](https://www.youtube.com/watch?v=njcJM6Rb5Qk)
 - [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=OGlM5CgCwwc)
 - [Learn Live - Plan and deploy Azure Arc-enabled servers at scale](https://www.youtube.com/watch?v=xjb-SoXEn2Q)
 - [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=1e6k5HNK4F8)
 - [How to Accelerate Oracle to Azure Database Migration | Data Exposed](https://www.youtube.com/watch?v=vdBQPN3lKQc)
-- [Learn Live - Plan and deploy Azure Stack HCI](https://www.youtube.com/watch?v=6pdwG3cQn00)
 <!-- YOUTUBEAPPMOD:END -->
 
 
