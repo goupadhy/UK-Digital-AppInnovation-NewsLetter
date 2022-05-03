@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Deploy disaster recovery using VMware Site Recovery Manager and Azure VMware Solution](https://www.youtube.com/watch?v=KiOwkBv92lU)
 - [Learn Live - Introduction to Azure Arc enabled Kubernetes](https://www.youtube.com/watch?v=3DhEJnFOdXA)
 - [Learn Live - Integrate Azure Arc and Azure Stack HCI](https://www.youtube.com/watch?v=wfmQoAeXL_o)
 - [Persistent Representation of C++ for Fun and Profit](https://www.youtube.com/watch?v=jNA1VkLKTH4)
 - [Everything I learned about static analysis and program safety in C++](https://www.youtube.com/watch?v=uHEbW1Z00zE)
-- [Embedded development with VS and VS Code](https://www.youtube.com/watch?v=t0S81gwUGpo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
