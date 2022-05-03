@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to Azure Arc enabled Kubernetes](https://www.youtube.com/watch?v=3DhEJnFOdXA)
 - [Learn Live - Integrate Azure Arc and Azure Stack HCI](https://www.youtube.com/watch?v=wfmQoAeXL_o)
 - [Persistent Representation of C++ for Fun and Profit](https://www.youtube.com/watch?v=jNA1VkLKTH4)
 - [Everything I learned about static analysis and program safety in C++](https://www.youtube.com/watch?v=uHEbW1Z00zE)
 - [Embedded development with VS and VS Code](https://www.youtube.com/watch?v=t0S81gwUGpo)
-- [Cute C++ Tricks, Part 2 of N: More code you should learn from and never write](https://www.youtube.com/watch?v=5Gv9jfBY2fA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
