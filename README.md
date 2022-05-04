@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create a Virtual Table for SQL with the Virtual Connector Provider](https://www.youtube.com/watch?v=3KJdBe3BkM4)
+- [Create a Virtual Table for Excel with the Virtual Connector Provider](https://www.youtube.com/watch?v=9rxYzF5h7k8)
+- [Create a Virtual Table for SharePoint with the Virtual Connector Provider](https://www.youtube.com/watch?v=Jj7bWCV5Pu4)
 - [The Power BI Community Show Ep 5 - DAX Language &amp; Modeling](https://www.youtube.com/watch?v=Ijnh3c1Zxz8)
 - [Dynamics GP General Email Troubleshooting](https://www.youtube.com/watch?v=MWQhWDNQ6jc)
-- [Arranging Dax Measures | Power Platform Shorts](https://www.youtube.com/watch?v=Htxs0hO2Rns)
-- [Meet professional developers using Microsoft Power Platform to go faster](https://www.youtube.com/watch?v=wOXPTopTK4U)
-- [Power Platform Tenant Isolation - Power CAT Live](https://www.youtube.com/watch?v=7qrj942KV-Q)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
