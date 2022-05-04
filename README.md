@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [May the 4th be with Azure SQL | Data Exposed Live](https://www.youtube.com/watch?v=1a8wiDg5MOs)
+- [Microsoft JDConf 2022 - Americas](https://www.youtube.com/watch?v=ctOsE64DCws)
 - [Build .NET applications with C# Introduction, with Bob Tabor](https://www.youtube.com/watch?v=5J-TYdOg9LQ)
 - [Measuring Long Term Productivity with the Developer&#39;s Legacy Index Americas #2](https://www.youtube.com/watch?v=kvn3NY5_ITQ)
 - [Zero to Hero in Azure Functions with Java Americas #1](https://www.youtube.com/watch?v=xwF1TvapsT8)
-- [Micro Frontends with Webpack&#39;s Module Federation Plugin APAC #2](https://www.youtube.com/watch?v=iop1v2OFPr8)
-- [The Polyglot Cloud Native Debugger Going Beyond APMs and Logs](https://www.youtube.com/watch?v=OXRyzIK5VuE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
