@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Developer Tech Minutes: Evolution of Haptic Controllers for MR/VR](https://www.youtube.com/watch?v=EF3DeqYLbow)
-- [Introduction to the Beginners Series [1 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=TcPpNu45p78)
-- [Introduction to Azure Database for MySQL [2 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=TMBtQ2VDG-w)
-- [Flexible Server - Features and Concepts [3 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=VXDUS5j1qhc)
-- [Demo: Getting Started [4 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=kfhSih8mRAo)
+- [Measuring Long Term Productivity with the Developer&#39;s Legacy Index Americas #2](https://www.youtube.com/watch?v=kvn3NY5_ITQ)
+- [Zero to Hero in Azure Functions with Java Americas #1](https://www.youtube.com/watch?v=xwF1TvapsT8)
+- [Micro Frontends with Webpack&#39;s Module Federation Plugin APAC #2](https://www.youtube.com/watch?v=iop1v2OFPr8)
+- [The Polyglot Cloud Native Debugger Going Beyond APMs and Logs](https://www.youtube.com/watch?v=OXRyzIK5VuE)
+- [Getting the most out of your APIs with API Management](https://www.youtube.com/watch?v=ScWU8K4XH1c)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
