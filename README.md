@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Learn Live - Design a data partitioning strategy](https://www.youtube.com/watch?v=aLCxxJr39Zw)
-- [Ask the Expert: From Padawan to Jedi in Azure IoT](https://www.youtube.com/watch?v=sD-LDy5IBvI)
-- [GlobalAzure 2022 Saturday May 7th](https://www.youtube.com/watch?v=CCKDxCGtN1A)
-- [GlobalAzure 2022 Friday May 6th](https://www.youtube.com/watch?v=_Kjahwmti_A)
-- [GlobalAzure 2022 Thursday May 5th](https://www.youtube.com/watch?v=AixDbC8PAcY)
+- [Web Wednesday - 30 Days of Static Web Apps with Nitya Narasimhan](https://www.youtube.com/watch?v=9P3LYFoaFpY)
+- [Leverage Azure Cosmos DB for time-series  for IoT Applications](https://www.youtube.com/watch?v=zsTro_H1f6U)
+- [Adding Intelligence to your Java applications with Azure Cosmos DB](https://www.youtube.com/watch?v=wyl4vClqBm8)
+- [Keyless Connections to Azure Cosmos DB &lpar;RBAC auth for data&rpar;](https://www.youtube.com/watch?v=pENvLW28nDk)
+- [Architecture patterns of Azure Cosmos DB &amp; Azure Synapse Analytics](https://www.youtube.com/watch?v=0N3bnwa66VE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
