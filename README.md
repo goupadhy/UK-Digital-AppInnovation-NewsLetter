@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Work with data in C# Introduction, with Bob Tabor](https://www.youtube.com/watch?v=PgseEGJyD5U)
-- [Learn Live - Preview Azure deployment changes by using what-if](https://www.youtube.com/watch?v=njcJM6Rb5Qk)
-- [Learn Live - Deploy disaster recovery using VMware Site Recovery Manager and Azure VMware Solution](https://www.youtube.com/watch?v=KiOwkBv92lU)
-- [Learn Live - Introduction to Azure Arc enabled Kubernetes](https://www.youtube.com/watch?v=3DhEJnFOdXA)
-- [Learn Live - Integrate Azure Arc and Azure Stack HCI](https://www.youtube.com/watch?v=wfmQoAeXL_o)
+- [Introduction to the Beginners Series [1 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=TcPpNu45p78)
+- [Introduction to Azure Database for MySQL [2 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=TMBtQ2VDG-w)
+- [Flexible Server - Features and Concepts [3 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=VXDUS5j1qhc)
+- [Demo: Getting Started [4 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=kfhSih8mRAo)
+- [Compute and Storage Options [5 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=vfpg6TOh1Hc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
