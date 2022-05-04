@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Developer Tech Minutes: Evolution of Haptic Controllers for MR/VR](https://www.youtube.com/watch?v=EF3DeqYLbow)
 - [Introduction to the Beginners Series [1 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=TcPpNu45p78)
 - [Introduction to Azure Database for MySQL [2 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=TMBtQ2VDG-w)
 - [Flexible Server - Features and Concepts [3 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=VXDUS5j1qhc)
 - [Demo: Getting Started [4 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=kfhSih8mRAo)
-- [Compute and Storage Options [5 of 16] | Azure Database for MySQL - Beginners Series](https://www.youtube.com/watch?v=vfpg6TOh1Hc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
