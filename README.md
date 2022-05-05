@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft JDConf 2022 - APAC](https://www.youtube.com/watch?v=EBywddp-KLw)
 - [Web Wednesday - 30 Days of Static Web Apps with Nitya Narasimhan](https://www.youtube.com/watch?v=9P3LYFoaFpY)
 - [Leverage Azure Cosmos DB for time-series  for IoT Applications](https://www.youtube.com/watch?v=zsTro_H1f6U)
 - [Adding Intelligence to your Java applications with Azure Cosmos DB](https://www.youtube.com/watch?v=wyl4vClqBm8)
 - [Keyless Connections to Azure Cosmos DB &lpar;RBAC auth for data&rpar;](https://www.youtube.com/watch?v=pENvLW28nDk)
-- [Architecture patterns of Azure Cosmos DB &amp; Azure Synapse Analytics](https://www.youtube.com/watch?v=0N3bnwa66VE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
