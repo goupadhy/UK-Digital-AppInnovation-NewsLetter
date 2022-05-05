@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure Health Data Services: Engineering product for partners](https://azure.microsoft.com/blog/azure-health-data-services-engineering-product-for-partners/)
 - [Streamline Azure workloads with ExpressRoute BGP community support](https://azure.microsoft.com/blog/streamline-azure-workloads-with-expressroute-bgp-community-support/)
 - [Customize your secure VM session experience with native client support on Azure Bastion](https://azure.microsoft.com/blog/customize-your-secure-vm-session-experience-with-native-client-support-on-azure-bastion/)
 - [Intelligent application protection from edge to cloud with Azure Web Application Firewall](https://azure.microsoft.com/blog/intelligent-application-protection-from-edge-to-cloud-with-azure-web-application-firewall/)
 - [Announcing new investments to help accelerate your move to Azure](https://azure.microsoft.com/blog/announcing-new-investments-to-help-accelerate-your-move-to-azure/)
-- [Azure Cost Management and Billing updates – April 2022](https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-april-2022/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
