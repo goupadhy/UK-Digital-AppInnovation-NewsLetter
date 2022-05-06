@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The Future of Low Code With Ryan Cunningham - Power CAT Live](https://www.youtube.com/watch?v=RT-LWZif3Zw)
 - [Process CSV files easily with Power Automate and Dataflows](https://www.youtube.com/watch?v=8IvHxRnwJ7Q)
 - [Create a Virtual Table for SQL with the Virtual Connector Provider](https://www.youtube.com/watch?v=3KJdBe3BkM4)
 - [Create a Virtual Table for Excel with the Virtual Connector Provider](https://www.youtube.com/watch?v=9rxYzF5h7k8)
 - [Create a Virtual Table for SharePoint with the Virtual Connector Provider](https://www.youtube.com/watch?v=Jj7bWCV5Pu4)
-- [The Power BI Community Show Ep 5 - DAX Language &amp; Modeling](https://www.youtube.com/watch?v=Ijnh3c1Zxz8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
