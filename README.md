@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Today’s most common security vulnerabilities explained](https://github.blog/2022-05-06-todays-most-common-security-vulnerabilities-explained/)
 - [20 of our favorite games + source code from Ludum Dare 50](https://github.blog/2022-05-05-ludum-dare-50/)
 - [The ReadME Project Q&#038;A: What you need to know about teaching technical skills](https://github.blog/2022-05-05-the-readme-project-qa-what-you-need-to-know-about-teaching-technical-skills/)
 - [GitHub Availability Report: April 2022](https://github.blog/2022-05-04-github-availability-report-april-2022/)
 - [Software security starts with the developer: Securing developer accounts with 2FA](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/)
-- [Being friendly: Strategies for friendly fork management](https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
