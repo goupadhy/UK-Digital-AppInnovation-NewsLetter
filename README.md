@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [GlobalAzure 2022 Saturday May 7th](https://www.youtube.com/watch?v=CCKDxCGtN1A)
 - [GlobalAzure 2022 Friday May 6th](https://www.youtube.com/watch?v=_Kjahwmti_A)
 - [Learn Live - Introduction to Azure Arc enabled Kubernetes](https://www.youtube.com/watch?v=3DhEJnFOdXA)
 - [GlobalAzure 2022 Thursday May 5th](https://www.youtube.com/watch?v=AixDbC8PAcY)
 - [Capabilities of the Microsoft Dynamics 365 customer engagement apps introduction](https://www.youtube.com/watch?v=FqI1lGf2GiM)
-- [How to Scale Your Apps in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=8LOXo6nrSR8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
