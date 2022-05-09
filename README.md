@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Functional Reactive with Core JDK](https://www.youtube.com/watch?v=PHH2WG8lTW0)
-- [API Gateway Plugin in Java](https://www.youtube.com/watch?v=VLK-zu43ClA)
-- [Froporec and Beyond](https://www.youtube.com/watch?v=lKBURyfHNZE)
-- [Profiling a Pod in Kubernetes with Kube-flame](https://www.youtube.com/watch?v=vHTWdkCUAoI)
-- [Protecting your applications against attacks](https://www.youtube.com/watch?v=lTiD5rr6QvY)
+- [Keynote: What Keeps Chief Data Officers Awake At Night?](https://www.youtube.com/watch?v=N0kXWsNjxKw)
+- [Scalable Data Management and Analytics](https://www.youtube.com/watch?v=OeAXC7DJrfg)
+- [A Microsoft Hybrid Approach to Data Mesh and Data Fabric](https://www.youtube.com/watch?v=otyM9kzv4xQ)
+- [Applying Data Mesh to Your Organization](https://www.youtube.com/watch?v=8ZcuLj_d1k8)
+- [Building out Tailwind Traders Data Mesh](https://www.youtube.com/watch?v=aPzk9u9B3SQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
