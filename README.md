@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Migrate Azure resources and JSON ARM templates to use Bicep](https://www.youtube.com/watch?v=dXQSuVvLSAM)
 - [Armchair Architects: So, you want to be an Architect?](https://www.youtube.com/watch?v=sWcoNuIDSZI)
 - [Ask the Expert: Containers on Azure](https://www.youtube.com/watch?v=UtqKileIV3w)
 - [How to deploy a small Java Application to Azure Spring Cloud](https://www.youtube.com/watch?v=UYmvuFab8_g)
 - [Use managed identity for authentication among Azure App ServiceFunctions](https://www.youtube.com/watch?v=Sz-jAsrfvpg)
-- [New Java Tooling at LinkedIn   JSuite](https://www.youtube.com/watch?v=5tj_9PVcrto)
 <!-- YOUTUBEAPPMOD:END -->
 
 
