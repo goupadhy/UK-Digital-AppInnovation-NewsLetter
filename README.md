@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Containers on Azure](https://www.youtube.com/watch?v=UtqKileIV3w)
 - [How to deploy a small Java Application to Azure Spring Cloud](https://www.youtube.com/watch?v=UYmvuFab8_g)
 - [Use managed identity for authentication among Azure App ServiceFunctions](https://www.youtube.com/watch?v=Sz-jAsrfvpg)
 - [New Java Tooling at LinkedIn   JSuite](https://www.youtube.com/watch?v=5tj_9PVcrto)
 - [Accelerating open cloud native development with Azure, Open Liberty and Kubernetes](https://www.youtube.com/watch?v=kjRDUUagxoc)
-- [Keynote: What Keeps Chief Data Officers Awake At Night?](https://www.youtube.com/watch?v=N0kXWsNjxKw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
