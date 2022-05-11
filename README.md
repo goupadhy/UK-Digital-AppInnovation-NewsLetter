@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The AI Show - 2022 Build Recap](https://www.youtube.com/watch?v=-D3anLkChtk)
+- [The AI Show- 2022 Build Recap | Part 2](https://www.youtube.com/watch?v=H1_14Bkteqk)
+- [Learn Live - Configure replication and manage failovers in Azure Cosmos DB](https://www.youtube.com/watch?v=AdOUbyny_M4)
 - [Getting ready for MS Build 2022 with Microsoft CTO Kevin Scott &lpar;and friends&rpar;](https://www.youtube.com/watch?v=4PxfljMOtlQ)
 - [Learn Live - Migrate Azure resources and JSON ARM templates to use Bicep](https://www.youtube.com/watch?v=dXQSuVvLSAM)
-- [Armchair Architects: So, you want to be an Architect?](https://www.youtube.com/watch?v=sWcoNuIDSZI)
-- [Ask the Expert: Containers on Azure](https://www.youtube.com/watch?v=UtqKileIV3w)
-- [How to deploy a small Java Application to Azure Spring Cloud](https://www.youtube.com/watch?v=UYmvuFab8_g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
