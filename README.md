@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Web Wednesday: Static Web Apps is 1 years old!](https://www.youtube.com/watch?v=8SPGneTG28s)
 - [05232022-The AI Show-Build Recap | Combining OpenAI models with the power of Azure &lpar;PRODUCTION&rpar;](https://www.youtube.com/watch?v=qAAmlxub_9s)
 - [20220520-The AI Show- Build Recap | Managed online endpoints GA &lpar;PRODUCTION&rpar;](https://www.youtube.com/watch?v=pLPg6CxuGx0)
 - [20220516-The AI Show- Build Recap | Introduction to Azure ML CLI v2 and SDK v2](https://www.youtube.com/watch?v=IR8kS_S0f5o)
 - [20220517-Build Recap- What’s new in Azure Machine Learning Automated ML](https://www.youtube.com/watch?v=f7DySivp6xo)
-- [The AI Show - 2022 Build Recap](https://www.youtube.com/watch?v=-D3anLkChtk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
