@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Project CRaC Coordinated Restore at Checkpoint](https://www.youtube.com/watch?v=GZ-uxWoFr6w)
 - [SQL Insider Series: Restoring a backup from LTR in Azure SQL DB | Data Exposed](https://www.youtube.com/watch?v=XFtAkf2DrmQ)
 - [Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=jFR2TINWrdw)
 - [Learn Live - Configure replication and manage failovers in Azure Cosmos DB](https://www.youtube.com/watch?v=AdOUbyny_M4)
 - [Web Wednesday: Static Web Apps is 1 years old!](https://www.youtube.com/watch?v=8SPGneTG28s)
-- [05232022-The AI Show-Build Recap | Combining OpenAI models with the power of Azure &lpar;PRODUCTION&rpar;](https://www.youtube.com/watch?v=qAAmlxub_9s)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
