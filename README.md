@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft session highlights from SAP Sapphire 2022](https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/)
 - [Manage Red Hat workloads seamlessly on Azure](https://azure.microsoft.com/blog/manage-red-hat-workloads-seamlessly-on-azure/)
 - [Accelerating innovation in the diabetic foot market with Azure Health Data Services](https://azure.microsoft.com/blog/accelerating-innovation-in-the-diabetic-foot-market-with-azure-health-data-services/)
 - [Join us and the developer community to celebrate Azure Static Web Apps](https://azure.microsoft.com/blog/join-us-and-the-developer-community-to-celebrate-azure-static-web-apps/)
 - [Announcing new voices and emotions to Azure Neural Text to Speech](https://azure.microsoft.com/blog/announcing-new-voices-and-emotions-to-azure-neural-text-to-speech/)
-- [Azure Health Data Services: Engineering product for partners](https://azure.microsoft.com/blog/azure-health-data-services-engineering-product-for-partners/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
