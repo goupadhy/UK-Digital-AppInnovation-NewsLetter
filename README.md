@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Web Wednesday: 30 Days of Static Web Apps &lpar;#30DaysOfSWA&rpar; with Nitya Narasimhan](https://www.youtube.com/watch?v=Y5jN5stiShI)
+- [Learn Live - Azure Hybrid Cloud Study Hall Ep08 Integrate Azure Arc and Azure Stack HCI](https://www.youtube.com/watch?v=cymeSnTwpac)
+- [Learn Live - Azure Hybrid Cloud Study Hall Ep07 Introduction to Azure Arc enabled Kubernetes](https://www.youtube.com/watch?v=fHFygnOmmsI)
 - [Take your first steps with F# introduction, with Jeff Fritz](https://www.youtube.com/watch?v=7DVengMND2U)
 - [Infrastructure as code with Pulumi and Microsoft](https://www.youtube.com/watch?v=Ns7TXrm4bP0)
-- [Kafka Streams with Quarkus](https://www.youtube.com/watch?v=2lDezyo_Tdk)
-- [Collecting logs, metrics, traces from Azure Cloud Platform](https://www.youtube.com/watch?v=qFvqKVvQyZ8)
-- [Cloud-native Java development on Visual Studio Code](https://www.youtube.com/watch?v=F3Uc4YBHFJI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
