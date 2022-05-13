@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How Power Platform Is Secured - Power CAT Live](https://www.youtube.com/watch?v=bJcovu-jXxE)
 - [Happy Anniversary from the Power BI &amp; Community Success Teams](https://www.youtube.com/watch?v=4FoWU_H9dlA)
 - [The Power of the Cloud : Transforming Business through Dynamics 365](https://www.youtube.com/watch?v=zcoMLP2-EbU)
 - [SmartList Designer SQL View](https://www.youtube.com/watch?v=Zp1HOMDTVhs)
 - [The Power BI Community Show Ep 4 - Incremental Refresh, Hybrid Tables, and Charticulator](https://www.youtube.com/watch?v=CXXyYZX1oyE)
-- [Calculated Tables in Power BI | Power Platform Shorts](https://www.youtube.com/watch?v=NnVyI9PPltE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
