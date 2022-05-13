@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Take your first steps with F# introduction, with Jeff Fritz](https://www.youtube.com/watch?v=7DVengMND2U)
 - [Infrastructure as code with Pulumi and Microsoft](https://www.youtube.com/watch?v=Ns7TXrm4bP0)
 - [Kafka Streams with Quarkus](https://www.youtube.com/watch?v=2lDezyo_Tdk)
 - [Collecting logs, metrics, traces from Azure Cloud Platform](https://www.youtube.com/watch?v=qFvqKVvQyZ8)
 - [Cloud-native Java development on Visual Studio Code](https://www.youtube.com/watch?v=F3Uc4YBHFJI)
-- [Getting Started with Java: The JBang Way](https://www.youtube.com/watch?v=u0kWB9S_np0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
