@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Do I have to use all Microsoft products if I join Microsoft? #Shorts](https://www.youtube.com/watch?v=AmZ99qAVyww)
-- [Project CRaC Coordinated Restore at Checkpoint](https://www.youtube.com/watch?v=GZ-uxWoFr6w)
-- [SQL Insider Series: Restoring a backup from LTR in Azure SQL DB | Data Exposed](https://www.youtube.com/watch?v=XFtAkf2DrmQ)
-- [Web Wednesday: WebAssembly for Browser Desktop Environment with Dustin Brett](https://www.youtube.com/watch?v=jFR2TINWrdw)
-- [Learn Live - Configure replication and manage failovers in Azure Cosmos DB](https://www.youtube.com/watch?v=AdOUbyny_M4)
+- [Infrastructure as code with Pulumi and Microsoft](https://www.youtube.com/watch?v=Ns7TXrm4bP0)
+- [Kafka Streams with Quarkus](https://www.youtube.com/watch?v=2lDezyo_Tdk)
+- [Collecting logs, metrics, traces from Azure Cloud Platform](https://www.youtube.com/watch?v=qFvqKVvQyZ8)
+- [Cloud-native Java development on Visual Studio Code](https://www.youtube.com/watch?v=F3Uc4YBHFJI)
+- [Getting Started with Java: The JBang Way](https://www.youtube.com/watch?v=u0kWB9S_np0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
