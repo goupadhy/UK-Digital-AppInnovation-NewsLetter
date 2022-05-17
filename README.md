@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes: S1E4 - Microsoft Build 2022 Recap &amp; Panel](https://www.youtube.com/watch?v=KDKa1sOxuSA)
+- [What is Azure Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=oKNdeUvoy_k)
 - [Azure AD for Mixed Reality Apps - Taking Identity &amp; Security to the next level](https://www.youtube.com/watch?v=FTfhz4V2bQE)
 - [SQL Insider Series: Restoring a backup from LTR in Azure SQL DB | Data Exposed](https://www.youtube.com/watch?v=LWpO2BRGgGo)
 - [WinUI May Community Call](https://www.youtube.com/watch?v=nwKMAHcz0QI)
-- [Journey into XR Development - Episode 8 - 3D Modeling &amp; World Building](https://www.youtube.com/watch?v=mfWmW0hudyw)
-- [Journey into XR Development - Episode 7 -  The Structural Elements of XR](https://www.youtube.com/watch?v=HycWMJgjnOE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
