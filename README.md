@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Create Apps with Ampere-based Azure VMs](https://www.youtube.com/watch?v=SKug49tmStA)
+- [Build Modern Apps with Azure Front Door](https://www.youtube.com/watch?v=strVFJmihlY)
 - [TitletownTech &amp; Strive MedTech Part 3 | Microsoft &amp; Green Bay Packers spark startups in the Midwest](https://www.youtube.com/watch?v=GowMt76w1-c)
 - [Oracle WebLogic Server on Azure Kubernetes Service](https://www.youtube.com/watch?v=OcnjgQuLACg)
 - [LunchBytes: S1E4 - Microsoft Build 2022 Recap &amp; Panel](https://www.youtube.com/watch?v=KDKa1sOxuSA)
-- [What is Azure Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=oKNdeUvoy_k)
-- [Azure AD for Mixed Reality Apps - Taking Identity &amp; Security to the next level](https://www.youtube.com/watch?v=FTfhz4V2bQE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
