@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Ask the Expert: Microsoft Sentinel: A Modern SEIM with SOAR, TI, and UEBA](https://www.youtube.com/watch?v=i76BUUdqNec)
-- [Ask the Expert: Implementing Passwordless for Secure Hybrid Work](https://www.youtube.com/watch?v=fA-JFFuuCjA)
-- [Ask the Expert: Protect Sensitive Data in the Hybrid Workplace](https://www.youtube.com/watch?v=tL7dMoQkcGU)
-- [Ask the Expert: Strengthen Your Multicloud Security](https://www.youtube.com/watch?v=DDfgxJAVxV0)
-- [Ask the Expert: Create Apps with Ampere-based Azure VMs](https://www.youtube.com/watch?v=SKug49tmStA)
+- [Connecting SQL Server 2016 to Azure - SQL Managed Instance link | Data Exposed](https://www.youtube.com/watch?v=6kbJJJTekXg)
+- [Ask the Expert: Zero Trust and Threat Protection](https://www.youtube.com/watch?v=1ZfIbvQcd5I)
+- [Ask the Expert: Mitigating risks with Insider Risk Management](https://www.youtube.com/watch?v=KLm4AQgnSMI)
+- [Ask the Expert: What’s New in XDR and Microsoft 365 Defender](https://www.youtube.com/watch?v=hnOTzrxqoUM)
+- [Ask the Expert: Achieve Least Privilege Across your Multicloud Infrastructure](https://www.youtube.com/watch?v=cvFJsA3gv8w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
