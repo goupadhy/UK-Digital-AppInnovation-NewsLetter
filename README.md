@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Microsoft Sentinel: A Modern SEIM with SOAR, TI, and UEBA](https://www.youtube.com/watch?v=i76BUUdqNec)
+- [Ask the Expert: Implementing Passwordless for Secure Hybrid Work](https://www.youtube.com/watch?v=fA-JFFuuCjA)
+- [Ask the Expert: Protect Sensitive Data in the Hybrid Workplace](https://www.youtube.com/watch?v=tL7dMoQkcGU)
+- [Ask the Expert: Strengthen Your Multicloud Security](https://www.youtube.com/watch?v=DDfgxJAVxV0)
 - [Ask the Expert: Create Apps with Ampere-based Azure VMs](https://www.youtube.com/watch?v=SKug49tmStA)
-- [Build Modern Apps with Azure Front Door](https://www.youtube.com/watch?v=strVFJmihlY)
-- [TitletownTech &amp; Strive MedTech Part 3 | Microsoft &amp; Green Bay Packers spark startups in the Midwest](https://www.youtube.com/watch?v=GowMt76w1-c)
-- [Oracle WebLogic Server on Azure Kubernetes Service](https://www.youtube.com/watch?v=OcnjgQuLACg)
-- [LunchBytes: S1E4 - Microsoft Build 2022 Recap &amp; Panel](https://www.youtube.com/watch?v=KDKa1sOxuSA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
