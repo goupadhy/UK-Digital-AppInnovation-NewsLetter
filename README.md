@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=T4R9NZZa0-o)
 - [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=1e6k5HNK4F8)
 - [How can VS Code support you in Azure Machine Learning?](https://www.youtube.com/watch?v=CNmzbylahvk)
 - [Microsoft Security Summit: After the Show](https://www.youtube.com/watch?v=jiBPzLoMjsM)
 - [Connecting SQL Server 2016 to Azure - SQL Managed Instance link | Data Exposed](https://www.youtube.com/watch?v=6kbJJJTekXg)
-- [Ask the Expert: Zero Trust and Threat Protection](https://www.youtube.com/watch?v=1ZfIbvQcd5I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
