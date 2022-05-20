@@ -27,9 +27,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBECNA:START -->
 - [Run, build and deploy your apps with the new Azure Static Web Apps CLI [18 of 20]](https://www.youtube.com/watch?v=zchTNKmay6M)
 - [End-to-end browser debugging of your Azure Static Web Apps with Visual Studio Code [19 of 20]](https://www.youtube.com/watch?v=l39cjaosxKw)
+- [Microsoft Build Day 2](https://www.youtube.com/watch?v=CViMXsPE2k0)
+- [Microsoft Build Day 1](https://www.youtube.com/watch?v=vL7aFxkTYEU)
 - [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=1e6k5HNK4F8)
-- [How can VS Code support you in Azure Machine Learning?](https://www.youtube.com/watch?v=CNmzbylahvk)
-- [Microsoft Security Summit: After the Show](https://www.youtube.com/watch?v=jiBPzLoMjsM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
