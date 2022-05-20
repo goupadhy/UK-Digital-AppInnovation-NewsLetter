@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=T4R9NZZa0-o)
+- [Run, build and deploy your apps with the new Azure Static Web Apps CLI [18 of 20]](https://www.youtube.com/watch?v=zchTNKmay6M)
+- [End-to-end browser debugging of your Azure Static Web Apps with Visual Studio Code [19 of 20]](https://www.youtube.com/watch?v=l39cjaosxKw)
 - [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=1e6k5HNK4F8)
 - [How can VS Code support you in Azure Machine Learning?](https://www.youtube.com/watch?v=CNmzbylahvk)
 - [Microsoft Security Summit: After the Show](https://www.youtube.com/watch?v=jiBPzLoMjsM)
-- [Connecting SQL Server 2016 to Azure - SQL Managed Instance link | Data Exposed](https://www.youtube.com/watch?v=6kbJJJTekXg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
