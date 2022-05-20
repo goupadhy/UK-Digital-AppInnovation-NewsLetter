@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The AI Show: Ep 56 | Create a Custom Neural Voice &quot;Lite&quot; for Brands and Characters with Veritone](https://www.youtube.com/watch?v=nijflt8YBLQ)
 - [Run, build and deploy your apps with the new Azure Static Web Apps CLI [18 of 20]](https://www.youtube.com/watch?v=zchTNKmay6M)
 - [End-to-end browser debugging of your Azure Static Web Apps with Visual Studio Code [19 of 20]](https://www.youtube.com/watch?v=l39cjaosxKw)
 - [Microsoft Build Day 2](https://www.youtube.com/watch?v=CViMXsPE2k0)
 - [Microsoft Build Day 1](https://www.youtube.com/watch?v=vL7aFxkTYEU)
-- [Azure Static Web Apps Anniversary](https://www.youtube.com/watch?v=1e6k5HNK4F8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
