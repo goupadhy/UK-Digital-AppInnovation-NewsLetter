@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Manage tables in Dataverse](https://www.youtube.com/watch?v=9E6PlRFsh1M)
 - [Learn Live - Review Azure infrastructure changes by using Bicep and pull requests](https://www.youtube.com/watch?v=yx48q0gNerA)
 - [The AI Show: Ep 56 | Create a Custom Neural Voice &quot;Lite&quot; for Brands and Characters with Veritone](https://www.youtube.com/watch?v=nijflt8YBLQ)
 - [Run, build and deploy your apps with the new Azure Static Web Apps CLI [18 of 20]](https://www.youtube.com/watch?v=zchTNKmay6M)
 - [End-to-end browser debugging of your Azure Static Web Apps with Visual Studio Code [19 of 20]](https://www.youtube.com/watch?v=l39cjaosxKw)
-- [Microsoft Build Day 2](https://www.youtube.com/watch?v=CViMXsPE2k0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
