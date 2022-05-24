@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introduction to the Arc-enabled Kubernetes landing zone accelerator](https://www.youtube.com/watch?v=MC4bCzM_XCs)
 - [Armchair Architects: Architecting on the Edge](https://www.youtube.com/watch?v=rRuDNiBV6NE)
 - [Ask the Expert: Conversational AI and Power Virtual Agents](https://www.youtube.com/watch?v=IUTTDdtoV80)
 - [Ask the Expert: Azure Monitor Agent Migration](https://www.youtube.com/watch?v=5NIJAfch_rI)
 - [AI Show Live - Episode 57 - Microsoft Build 2022 Recap](https://www.youtube.com/watch?v=IbmDyIAoDcc)
-- [What are managed endpoints in Azure ML?](https://www.youtube.com/watch?v=x-7vGlDnAMY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
