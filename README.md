@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Platform Tenant-level Analytics - Power CAT Live](https://www.youtube.com/watch?v=iafitJNF4cM)
 - [Calling All Speakers | Power Platform Conference](https://www.youtube.com/watch?v=QlSe8pWDGCA)
 - [Power Platform Resources | Power Platform Shorts](https://www.youtube.com/watch?v=-jrxunpjNH0)
 - [The Power BI Community Show Ep 5 - The Importance of Data Modeling](https://www.youtube.com/watch?v=Ijnh3c1Zxz8)
 - [On-premises to Online: BPS Capital Management’s Migration Story](https://www.youtube.com/watch?v=SxNj7Fizkkg)
-- [Using Power Automate Desktop as a web scraper | Power Platform Shorts](https://www.youtube.com/watch?v=xtKNqv9CIEo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
