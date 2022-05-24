@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI for Beginners Curriculum](https://www.youtube.com/watch?v=m2KrAk0cC1c)
+- [Microsoft Build Day 1](https://www.youtube.com/watch?v=vL7aFxkTYEU)
 - [Imagine Cup 20th anniversary &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=_0bDV_XatME)
 - [Ferrovial, Highways of the Future &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=HKKC-yukUnk)
 - [Kawasaki Heavy Industries &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=kFIM6vPLO9Y)
-- [Ukraine Live Aid- Power Pages &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=iqyMT8lez2o)
-- [Introducing Project Volterra &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=yICVNta8jMU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
