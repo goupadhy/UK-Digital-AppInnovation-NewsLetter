@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Low-Code Trend Report 2022: Building a learning culture on a low-code platform](https://cloudblogs.microsoft.com/powerplatform/2022/05/24/low-code-trend-report-2022-building-a-learning-culture-on-a-low-code-platform/)
+- [Announcing Microsoft Power Pages: Build secure, low-code websites](https://powerpages.microsoft.com/blog/announcing-microsoft-power-pages-build-secure-low-code-websites/)
 - [Power Platform redefines low-code with new products and features at Microsoft Build ](https://cloudblogs.microsoft.com/powerplatform/2022/05/24/power-platform-redefines-low-code-with-new-products-and-features-at-microsoft-build/)
 - [Your guide to Power Platform at Microsoft Build](https://cloudblogs.microsoft.com/powerplatform/2022/05/17/your-guide-to-power-platform-at-microsoft-build/)
 - [Protect your data with Power Platform’s latest Data Loss Prevention (DLP) capabilities, now generally available](https://cloudblogs.microsoft.com/powerplatform/2022/04/11/protect-your-data-with-power-platforms-latest-data-loss-prevention-dlp-capabilities-now-generally-available/)
-- [See what’s new for Microsoft Power Platform at the Microsoft Business Applications Launch Event](https://cloudblogs.microsoft.com/powerplatform/2022/03/30/see-whats-new-for-microsoft-power-platform-at-the-microsoft-business-applications-launch-event/)
-- [Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-analytics-and-bi-platforms/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
