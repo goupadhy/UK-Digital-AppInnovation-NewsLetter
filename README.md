@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Introduction to the Arc-enabled Kubernetes landing zone accelerator](https://www.youtube.com/watch?v=MC4bCzM_XCs)
-- [Armchair Architects: Architecting on the Edge](https://www.youtube.com/watch?v=rRuDNiBV6NE)
-- [Ask the Expert: Conversational AI and Power Virtual Agents](https://www.youtube.com/watch?v=IUTTDdtoV80)
-- [Ask the Expert: Azure Monitor Agent Migration](https://www.youtube.com/watch?v=5NIJAfch_rI)
-- [AI Show Live - Episode 57 - Microsoft Build 2022 Recap](https://www.youtube.com/watch?v=IbmDyIAoDcc)
+- [Imagine Cup 20th anniversary &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=_0bDV_XatME)
+- [Ferrovial, Highways of the Future &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=HKKC-yukUnk)
+- [Kawasaki Heavy Industries &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=kFIM6vPLO9Y)
+- [Ukraine Live Aid- Power Pages &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=iqyMT8lez2o)
+- [Introducing Project Volterra &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=yICVNta8jMU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
