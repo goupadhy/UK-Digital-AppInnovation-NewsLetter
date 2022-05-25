@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [The Low Code Revolution - Governance and ALM](https://www.youtube.com/watch?v=p6KzSSnet-s)
+- [Governance and ALM | The Low Code Revolution](https://www.youtube.com/watch?v=p6KzSSnet-s)
 - [Turn a sketch into an app with express design in Power Apps](https://www.youtube.com/watch?v=LCCZ_kW14T4)
 - [Say hello to Microsoft Power Pages - the newest member of the Power Platform](https://www.youtube.com/watch?v=cLeBAMldDOA)
 - [Introducing Microsoft Power Pages](https://www.youtube.com/watch?v=SG382TuFIaQ)
