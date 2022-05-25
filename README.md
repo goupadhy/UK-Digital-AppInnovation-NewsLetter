@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Assess your cloud environment with the Azure Landing Zone Review](https://www.youtube.com/watch?v=w40bNYb1s1o)
 - [Ask the Expert: Use your Web APIs in Power Apps](https://www.youtube.com/watch?v=386ke6BfJT0)
 - [Ask the Expert: Develop and Deploy Java Apps with your Favorite Tools](https://www.youtube.com/watch?v=GfvrsrXKXl4)
 - [Ask the Expert: Building AI-Infused Document Processing Applications](https://www.youtube.com/watch?v=uXWxqTa5jlM)
 - [Ask the Expert: Data Privacy with Azure Confidential Computing](https://www.youtube.com/watch?v=JMzLfj3LszI)
-- [AI for Beginners Curriculum](https://www.youtube.com/watch?v=m2KrAk0cC1c)
 <!-- YOUTUBEAPPMOD:END -->
 
 
