@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The Low Code Revolution - Governance and ALM](https://www.youtube.com/watch?v=p6KzSSnet-s)
 - [Turn a sketch into an app with express design in Power Apps](https://www.youtube.com/watch?v=LCCZ_kW14T4)
 - [Say hello to Microsoft Power Pages - the newest member of the Power Platform](https://www.youtube.com/watch?v=cLeBAMldDOA)
 - [Introducing Microsoft Power Pages](https://www.youtube.com/watch?v=SG382TuFIaQ)
 - [Power Platform Tenant-level Analytics - Power CAT Live](https://www.youtube.com/watch?v=iafitJNF4cM)
-- [Calling All Speakers | Power Platform Conference](https://www.youtube.com/watch?v=QlSe8pWDGCA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
