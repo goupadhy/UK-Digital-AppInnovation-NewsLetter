@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Use your Web APIs in Power Apps](https://www.youtube.com/watch?v=386ke6BfJT0)
+- [Ask the Expert: Develop and Deploy Java Apps with your Favorite Tools](https://www.youtube.com/watch?v=GfvrsrXKXl4)
+- [Ask the Expert: Building AI-Infused Document Processing Applications](https://www.youtube.com/watch?v=uXWxqTa5jlM)
+- [Ask the Expert: Data Privacy with Azure Confidential Computing](https://www.youtube.com/watch?v=JMzLfj3LszI)
 - [AI for Beginners Curriculum](https://www.youtube.com/watch?v=m2KrAk0cC1c)
-- [Microsoft Build Day 1](https://www.youtube.com/watch?v=vL7aFxkTYEU)
-- [Imagine Cup 20th anniversary &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=_0bDV_XatME)
-- [Ferrovial, Highways of the Future &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=HKKC-yukUnk)
-- [Kawasaki Heavy Industries &lpar;Satya Nadella 2022 Build Keynote&rpar;](https://www.youtube.com/watch?v=kFIM6vPLO9Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
