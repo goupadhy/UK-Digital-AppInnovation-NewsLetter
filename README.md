@@ -26,7 +26,7 @@ We hope that these resources will help you innovate and address the real-world n
  
 <!-- YOUTUBECNA:START -->
 - [Azure SQL New Updates @ Data Platform Summit | Data Exposed Live](https://www.youtube.com/watch?v=Lkm19E7uFG8)
-- [Microsoft //Build 2022​: The aftermath for SQL | Data Exposed](https://www.youtube.com/watch?v=BE-V3LwvMsY)
+- [Build Announcements: SQL Server 2022 public preview and Azure SQL updates | Data Exposed](https://www.youtube.com/watch?v=BE-V3LwvMsY)
 - [Microsoft Build Day 2](https://www.youtube.com/watch?v=CViMXsPE2k0)
 - [Assess your cloud environment with the Azure Landing Zone Review](https://www.youtube.com/watch?v=w40bNYb1s1o)
 - [Ask the Expert: Use your Web APIs in Power Apps](https://www.youtube.com/watch?v=386ke6BfJT0)
