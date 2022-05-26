@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL August 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=iaelwvd_xIc)
 - [Azure SQL New Updates @ Data Platform Summit | Data Exposed Live](https://www.youtube.com/watch?v=Lkm19E7uFG8)
 - [Build Announcements: SQL Server 2022 public preview and Azure SQL updates | Data Exposed](https://www.youtube.com/watch?v=BE-V3LwvMsY)
 - [Microsoft Build Day 2](https://www.youtube.com/watch?v=CViMXsPE2k0)
 - [Assess your cloud environment with the Azure Landing Zone Review](https://www.youtube.com/watch?v=w40bNYb1s1o)
-- [Ask the Expert: Use your Web APIs in Power Apps](https://www.youtube.com/watch?v=386ke6BfJT0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
