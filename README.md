@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Key Dynamics 365 Enhancements | Customer Service](https://www.youtube.com/watch?v=iBRh6QsElSU)
 - [Governance and ALM | The Low Code Revolution](https://www.youtube.com/watch?v=p6KzSSnet-s)
 - [Turn a sketch into an app with express design in Power Apps](https://www.youtube.com/watch?v=LCCZ_kW14T4)
 - [Say hello to Microsoft Power Pages - the newest member of the Power Platform](https://www.youtube.com/watch?v=cLeBAMldDOA)
 - [Introducing Microsoft Power Pages](https://www.youtube.com/watch?v=SG382TuFIaQ)
-- [Power Platform Tenant-level Analytics - Power CAT Live](https://www.youtube.com/watch?v=iafitJNF4cM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
