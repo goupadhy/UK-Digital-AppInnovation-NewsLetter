@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [私たちはこうして Microsoft Teams でプレゼンやってます | JPCTT14](https://www.youtube.com/watch?v=4KALgR3eADE)
-- [Web3.0、NFTそして分散型ID | JPCTT16](https://www.youtube.com/watch?v=ZNcaU_8ADfk)
-- [Microsoft の テクニカルサポートを効果的に利用するには？ テクニカルサポートからほしい回答をもらうための問題の説明の仕方、質問の設定を考える。 | JPCTT17](https://www.youtube.com/watch?v=8bxSJ3oRq6o)
-- [Mixed Reality 開発技術と現場活用の最新動向 - Developing Deploying MR Applications | JPCTT19](https://www.youtube.com/watch?v=H33_w4HLE6E)
-- [Pregunta a los expertos: Certificación de Microsoft | ESCATE10](https://www.youtube.com/watch?v=mDuFMIWYSFc)
+- [The new Microsoft Store built for your success | BRK31](https://www.youtube.com/watch?v=3V73mhzcSkE)
+- [Develop Windows apps on and for a rich ecosystem of platforms and devices | BRK32](https://www.youtube.com/watch?v=KbeD9XUI3d0)
+- [Ask the Experts: Delivering developer velocity through the entire engineering system | CATE01](https://www.youtube.com/watch?v=wUfcdbI0wn0)
+- [Ask the Experts: Accelerate and secure your code to cloud development | CATE02](https://www.youtube.com/watch?v=hg00QPTfrKM)
+- [Ask the Experts: .NET and Visual Studio | CATE03](https://www.youtube.com/watch?v=jEledJlLtxQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
