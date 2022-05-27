@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Azure RTOS Product Updates | OD135](https://www.youtube.com/watch?v=-IMl30PW0vs)
-- [Improving remote work with game production in the cloud with Azure - Microsoft Game Dev | OD41](https://www.youtube.com/watch?v=GPOh2dO1cTI)
-- [Enhance Your Productivity with Visual Studio 2022 - Microsoft Game Dev | OD40](https://www.youtube.com/watch?v=Uk1XDG450nw)
-- [Connecting MCU-IoT Devices to the Cloud | OD134](https://www.youtube.com/watch?v=Mn7lZQ9pwpI)
-- [Create and Connect Secure and Trustworthy IoT Devices | OD133](https://www.youtube.com/watch?v=GZs7HL8r8hI)
+- [私たちはこうして Microsoft Teams でプレゼンやってます | JPCTT14](https://www.youtube.com/watch?v=4KALgR3eADE)
+- [Web3.0、NFTそして分散型ID | JPCTT16](https://www.youtube.com/watch?v=ZNcaU_8ADfk)
+- [Microsoft の テクニカルサポートを効果的に利用するには？ テクニカルサポートからほしい回答をもらうための問題の説明の仕方、質問の設定を考える。 | JPCTT17](https://www.youtube.com/watch?v=8bxSJ3oRq6o)
+- [Mixed Reality 開発技術と現場活用の最新動向 - Developing Deploying MR Applications | JPCTT19](https://www.youtube.com/watch?v=H33_w4HLE6E)
+- [Pregunta a los expertos: Certificación de Microsoft | ESCATE10](https://www.youtube.com/watch?v=mDuFMIWYSFc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
