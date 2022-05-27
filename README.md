@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [What&#39;s Next in C# 11 | OD103](https://www.youtube.com/watch?v=ChAu226eUNo)
-- [What’s new for Microsoft’s Conversational AI and Power Virtual Agents | ODBRK43](https://www.youtube.com/watch?v=2AHd4gPdkyA)
-- [Building Real-time Collaborative Apps with Azure Microsoft 365 and Power Platform | OD102](https://www.youtube.com/watch?v=krU4mGatclU)
-- [GitHub + Azure: Better Together | OD101](https://www.youtube.com/watch?v=0wLXMVxICL4)
-- [Azure PaaS and Cloud Native Development | OD100](https://www.youtube.com/watch?v=sInYSDl47zw)
+- [Azure RTOS Product Updates | OD135](https://www.youtube.com/watch?v=-IMl30PW0vs)
+- [Improving remote work with game production in the cloud with Azure - Microsoft Game Dev | OD41](https://www.youtube.com/watch?v=GPOh2dO1cTI)
+- [Enhance Your Productivity with Visual Studio 2022 - Microsoft Game Dev | OD40](https://www.youtube.com/watch?v=Uk1XDG450nw)
+- [Connecting MCU-IoT Devices to the Cloud | OD134](https://www.youtube.com/watch?v=Mn7lZQ9pwpI)
+- [Create and Connect Secure and Trustworthy IoT Devices | OD133](https://www.youtube.com/watch?v=GZs7HL8r8hI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
