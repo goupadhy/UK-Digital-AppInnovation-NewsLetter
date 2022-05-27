@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [How to build Codex solutions | OD45](https://www.youtube.com/watch?v=_m7aHYeFy_Q)
-- [Avoid these 3 mistakes to ensure your model reaches production | ODBRK52](https://www.youtube.com/watch?v=TjWyU8XEDNM)
-- [Output Caching in ASP.NET Core 7 | OD114](https://www.youtube.com/watch?v=RYw2pyG74YM)
-- [Minimal APIs: Past Present and Future | OD107](https://www.youtube.com/watch?v=PJzWsQ0y-X4)
-- [Best practices for deploying and scaling Power BI Embedded Analytics | OD28](https://www.youtube.com/watch?v=UyOavXcNVQE)
+- [What&#39;s Next in C# 11 | OD103](https://www.youtube.com/watch?v=ChAu226eUNo)
+- [What’s new for Microsoft’s Conversational AI and Power Virtual Agents | ODBRK43](https://www.youtube.com/watch?v=2AHd4gPdkyA)
+- [Building Real-time Collaborative Apps with Azure Microsoft 365 and Power Platform | OD102](https://www.youtube.com/watch?v=krU4mGatclU)
+- [GitHub + Azure: Better Together | OD101](https://www.youtube.com/watch?v=0wLXMVxICL4)
+- [Azure PaaS and Cloud Native Development | OD100](https://www.youtube.com/watch?v=sInYSDl47zw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
