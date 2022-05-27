@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Azure SQL August 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=iaelwvd_xIc)
-- [Azure SQL New Updates @ Data Platform Summit | Data Exposed Live](https://www.youtube.com/watch?v=Lkm19E7uFG8)
-- [Build Announcements: SQL Server 2022 public preview and Azure SQL updates | Data Exposed](https://www.youtube.com/watch?v=BE-V3LwvMsY)
-- [Microsoft Build Day 2](https://www.youtube.com/watch?v=CViMXsPE2k0)
-- [Assess your cloud environment with the Azure Landing Zone Review](https://www.youtube.com/watch?v=w40bNYb1s1o)
+- [How to build Codex solutions | OD45](https://www.youtube.com/watch?v=_m7aHYeFy_Q)
+- [Avoid these 3 mistakes to ensure your model reaches production | ODBRK52](https://www.youtube.com/watch?v=TjWyU8XEDNM)
+- [Output Caching in ASP.NET Core 7 | OD114](https://www.youtube.com/watch?v=RYw2pyG74YM)
+- [Minimal APIs: Past Present and Future | OD107](https://www.youtube.com/watch?v=PJzWsQ0y-X4)
+- [Best practices for deploying and scaling Power BI Embedded Analytics | OD28](https://www.youtube.com/watch?v=UyOavXcNVQE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
