@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [The new Microsoft Store built for your success | BRK31](https://www.youtube.com/watch?v=3V73mhzcSkE)
-- [Develop Windows apps on and for a rich ecosystem of platforms and devices | BRK32](https://www.youtube.com/watch?v=KbeD9XUI3d0)
-- [Ask the Experts: Delivering developer velocity through the entire engineering system | CATE01](https://www.youtube.com/watch?v=wUfcdbI0wn0)
-- [Ask the Experts: Accelerate and secure your code to cloud development | CATE02](https://www.youtube.com/watch?v=hg00QPTfrKM)
-- [Ask the Experts: .NET and Visual Studio | CATE03](https://www.youtube.com/watch?v=jEledJlLtxQ)
+- [Tech for Good: US innovators making an impact | CLC12](https://www.youtube.com/watch?v=G8b06Hi-YZM)
+- [เรื่องราวการสร้างโซลูชันสำหรับธุรกิจในประเทศไทยด้วย Integrated Data Platform | CLC05](https://www.youtube.com/watch?v=vuzOcyBmd3Y)
+- [Ask the Experts: Microsoft Edge for Developers and IT Pros  | CATE102](https://www.youtube.com/watch?v=J7nvRBy66RM)
+- [DevSecOps and cloud developer environment | GBCATE01](https://www.youtube.com/watch?v=ithT4atXjZE)
+- [Les outils qui facilitent le travail du développeur IoT | FRCTT07](https://www.youtube.com/watch?v=wXnLs2wLz50)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
