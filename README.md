@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Modern Data Warehouse - Designing, making &amp; operating](https://www.youtube.com/watch?v=ui8r3IUdXFY)
 - [Tech for Good: US innovators making an impact | CLC12](https://www.youtube.com/watch?v=G8b06Hi-YZM)
 - [เรื่องราวการสร้างโซลูชันสำหรับธุรกิจในประเทศไทยด้วย Integrated Data Platform | CLC05](https://www.youtube.com/watch?v=vuzOcyBmd3Y)
 - [Ask the Experts: Microsoft Edge for Developers and IT Pros  | CATE102](https://www.youtube.com/watch?v=J7nvRBy66RM)
 - [DevSecOps and cloud developer environment | GBCATE01](https://www.youtube.com/watch?v=ithT4atXjZE)
-- [Les outils qui facilitent le travail du développeur IoT | FRCTT07](https://www.youtube.com/watch?v=wXnLs2wLz50)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
