@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Migrating your database to Azure SQL - Preparation is everything | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=chReaITQNtA)
 - [Learn Live - Deploy resources to subscriptions, management groups, and tenants by using Bicep](https://www.youtube.com/watch?v=jtj7xAINceo)
 - [Learn Live - Use consistency models in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=4rVUPqUqrKc)
 - [Learn Live - Modern Data Warehouse - Designing, making &amp; operating](https://www.youtube.com/watch?v=ui8r3IUdXFY)
 - [Tech for Good: US innovators making an impact | CLC12](https://www.youtube.com/watch?v=G8b06Hi-YZM)
-- [เรื่องราวการสร้างโซลูชันสำหรับธุรกิจในประเทศไทยด้วย Integrated Data Platform | CLC05](https://www.youtube.com/watch?v=vuzOcyBmd3Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
