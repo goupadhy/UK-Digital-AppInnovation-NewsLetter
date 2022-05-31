@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [How developers can benefit from the new 5G paradigm](https://azure.microsoft.com/blog/how-developers-can-benefit-from-the-new-5g-paradigm/)
 - [Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration](https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/)
 - [Code, test, and ship your next app quickly and securely with Microsoft developer tools](https://azure.microsoft.com/blog/code-test-and-ship-your-next-app-quickly-and-securely-with-microsoft-developer-tools/)
 - [Scale your cloud-native apps and accelerate app modernization with Azure, the best cloud for your apps](https://azure.microsoft.com/blog/scale-your-cloudnative-apps-and-accelerate-app-modernization-with-azure-the-best-cloud-for-your-apps/)
 - [Introducing the Microsoft Intelligent Data Platform](https://azure.microsoft.com/blog/introducing-the-microsoft-intelligent-data-platform/)
-- [Announcing Azure DNS Private Resolver: Now in preview](https://azure.microsoft.com/blog/announcing-azure-dns-private-resolver-now-in-preview/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
