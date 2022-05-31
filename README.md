@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Review Azure infrastructure changes by using Bicep and pull requests](https://www.youtube.com/watch?v=yx48q0gNerA)
 - [What is Azure Automated Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=sekoudX7jJs)
 - [Ask the Expert: Strengthen Your Multicloud Security](https://www.youtube.com/watch?v=DDfgxJAVxV0)
 - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI)
 - [Learn Live - Manage Azure Stack HCI clusters](https://www.youtube.com/watch?v=Eze4LNOXte0)
-- [Migrating your database to Azure SQL - Preparation is everything | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=chReaITQNtA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
