@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What did you build at the Microsoft Build 2022 AI Session? | One Dev Question](https://www.youtube.com/watch?v=Mwav303BwxM)
+- [Learn Live - Manage tables in Dataverse](https://www.youtube.com/watch?v=9E6PlRFsh1M)
 - [Learn Live - Review Azure infrastructure changes by using Bicep and pull requests](https://www.youtube.com/watch?v=yx48q0gNerA)
 - [What is Azure Automated Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=sekoudX7jJs)
 - [Ask the Expert: Strengthen Your Multicloud Security](https://www.youtube.com/watch?v=DDfgxJAVxV0)
-- [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI)
-- [Learn Live - Manage Azure Stack HCI clusters](https://www.youtube.com/watch?v=Eze4LNOXte0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
