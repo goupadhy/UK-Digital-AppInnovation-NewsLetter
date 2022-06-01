@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL June 2022 Updates | Data Exposed Live](https://www.youtube.com/watch?v=_GBwnEyND6M)
+- [Build Recap | Combining OpenAI models with the power of Azure](https://www.youtube.com/watch?v=K3x0VT4ncaE)
 - [What are Azure Cognitive Services? | One Dev Question](https://www.youtube.com/watch?v=qHyhvPuSjDQ)
 - [LunchBytes: S1E4 - Microsoft Build 2022 Recap &amp; Panel](https://www.youtube.com/watch?v=KDKa1sOxuSA)
 - [Learn Live - Modern Data Warehouse - Designing, making &amp; operating](https://www.youtube.com/watch?v=ui8r3IUdXFY)
-- [Ask the Expert: Build Modern Apps with Azure Front Door](https://www.youtube.com/watch?v=strVFJmihlY)
-- [What did you build at the Microsoft Build 2022 AI Session? | One Dev Question](https://www.youtube.com/watch?v=Mwav303BwxM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
