@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Integrate Azure services with Azure Stack HCI](https://www.youtube.com/watch?v=8hb4o-iUX6g)
 - [Learn Live - Azure Cosmos DB: How to design and implement for SQL API](https://www.youtube.com/watch?v=Se9zedGMt08)
 - [Learn Live - Use consistency models in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=4rVUPqUqrKc)
 - [AI Show Live - Episode 58 - Microsoft Build 2022 Recap &lpar;Part Deux&rpar;](https://www.youtube.com/watch?v=_1cdsD3tjjk)
 - [Learn Live - Enhance IoT solution security by using Azure Defender for IoT](https://www.youtube.com/watch?v=oFBklDSIsUs)
-- [Ask the Expert: Protect Sensitive Data in the Hybrid Workplace](https://www.youtube.com/watch?v=tL7dMoQkcGU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
