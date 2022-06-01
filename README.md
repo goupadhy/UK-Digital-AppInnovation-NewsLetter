@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Azure Cosmos DB: How to design and implement for SQL API](https://www.youtube.com/watch?v=Se9zedGMt08)
+- [Learn Live - Use consistency models in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=4rVUPqUqrKc)
+- [AI Show Live - Episode 58 - Microsoft Build 2022 Recap &lpar;Part Deux&rpar;](https://www.youtube.com/watch?v=_1cdsD3tjjk)
 - [Learn Live - Enhance IoT solution security by using Azure Defender for IoT](https://www.youtube.com/watch?v=oFBklDSIsUs)
 - [Ask the Expert: Protect Sensitive Data in the Hybrid Workplace](https://www.youtube.com/watch?v=tL7dMoQkcGU)
-- [Azure SQL June 2022 Updates | Data Exposed Live](https://www.youtube.com/watch?v=_GBwnEyND6M)
-- [Build Recap | Combining OpenAI models with the power of Azure](https://www.youtube.com/watch?v=K3x0VT4ncaE)
-- [What are Azure Cognitive Services? | One Dev Question](https://www.youtube.com/watch?v=qHyhvPuSjDQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
