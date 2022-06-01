@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Enhance IoT solution security by using Azure Defender for IoT](https://www.youtube.com/watch?v=oFBklDSIsUs)
 - [Ask the Expert: Protect Sensitive Data in the Hybrid Workplace](https://www.youtube.com/watch?v=tL7dMoQkcGU)
 - [Azure SQL June 2022 Updates | Data Exposed Live](https://www.youtube.com/watch?v=_GBwnEyND6M)
 - [Build Recap | Combining OpenAI models with the power of Azure](https://www.youtube.com/watch?v=K3x0VT4ncaE)
 - [What are Azure Cognitive Services? | One Dev Question](https://www.youtube.com/watch?v=qHyhvPuSjDQ)
-- [LunchBytes: S1E4 - Microsoft Build 2022 Recap &amp; Panel](https://www.youtube.com/watch?v=KDKa1sOxuSA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
