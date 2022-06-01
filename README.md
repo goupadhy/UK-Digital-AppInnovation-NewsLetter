@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Build Modern Apps with Azure Front Door](https://www.youtube.com/watch?v=strVFJmihlY)
 - [What did you build at the Microsoft Build 2022 AI Session? | One Dev Question](https://www.youtube.com/watch?v=Mwav303BwxM)
 - [Learn Live - Manage tables in Dataverse](https://www.youtube.com/watch?v=9E6PlRFsh1M)
 - [Learn Live - Review Azure infrastructure changes by using Bicep and pull requests](https://www.youtube.com/watch?v=yx48q0gNerA)
 - [What is Azure Automated Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=sekoudX7jJs)
-- [Ask the Expert: Strengthen Your Multicloud Security](https://www.youtube.com/watch?v=DDfgxJAVxV0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
