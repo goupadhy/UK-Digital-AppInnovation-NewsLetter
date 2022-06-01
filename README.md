@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes: S1E4 - Microsoft Build 2022 Recap &amp; Panel](https://www.youtube.com/watch?v=KDKa1sOxuSA)
 - [Learn Live - Modern Data Warehouse - Designing, making &amp; operating](https://www.youtube.com/watch?v=ui8r3IUdXFY)
 - [Ask the Expert: Build Modern Apps with Azure Front Door](https://www.youtube.com/watch?v=strVFJmihlY)
 - [What did you build at the Microsoft Build 2022 AI Session? | One Dev Question](https://www.youtube.com/watch?v=Mwav303BwxM)
 - [Learn Live - Manage tables in Dataverse](https://www.youtube.com/watch?v=9E6PlRFsh1M)
-- [Learn Live - Review Azure infrastructure changes by using Bicep and pull requests](https://www.youtube.com/watch?v=yx48q0gNerA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
