@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Power hybrid and multicloud environments with Azure Arc data solutions](https://azure.microsoft.com/blog/power-hybrid-and-multicloud-environments-with-azure-arc-data-solutions/)
 - [Azure NC A100 v4 VMs for AI now generally available](https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/)
 - [Microsoft Cost Management updates – May 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-may-2022/)
 - [How developers can benefit from the new 5G paradigm](https://azure.microsoft.com/blog/how-developers-can-benefit-from-the-new-5g-paradigm/)
 - [Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration](https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/)
-- [Code, test, and ship your next app quickly and securely with Microsoft developer tools](https://azure.microsoft.com/blog/code-test-and-ship-your-next-app-quickly-and-securely-with-microsoft-developer-tools/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
