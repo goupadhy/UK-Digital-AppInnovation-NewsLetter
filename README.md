@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What frameworks are supported in Azure Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=K4HaMaAo2lU)
+- [SQL Insider Series: Exporting Azure SQL DB BACPAC file to Azure with Azure Automation | Data Exposed](https://www.youtube.com/watch?v=jZu6n5xUw5A)
 - [Learn Live - Manage Azure Stack HCI clusters](https://www.youtube.com/watch?v=Eze4LNOXte0)
 - [After Hours Promo | Microsoft Build 2022](https://www.youtube.com/watch?v=PqN0-IBdACI)
 - [Learn Live - Integrate Azure services with Azure Stack HCI](https://www.youtube.com/watch?v=8hb4o-iUX6g)
-- [Learn Live - Azure Cosmos DB: How to design and implement for SQL API](https://www.youtube.com/watch?v=Se9zedGMt08)
-- [Learn Live - Use consistency models in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=4rVUPqUqrKc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
