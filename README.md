@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What are the career paths at Microsoft?  #Shorts](https://www.youtube.com/watch?v=9zUTYqO3x-Y)
 - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI)
 - [Ask the Expert: Create Apps with Ampere-based Azure VMs](https://www.youtube.com/watch?v=SKug49tmStA)
 - [Learn Live - Configure multi-region write in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=wmWCNKi1PbI)
 - [What frameworks are supported in Azure Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=K4HaMaAo2lU)
-- [SQL Insider Series: Exporting Azure SQL DB BACPAC file to Azure with Azure Automation | Data Exposed](https://www.youtube.com/watch?v=jZu6n5xUw5A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
