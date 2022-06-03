@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Automate across Microsoft 365 using Power Automate](https://www.youtube.com/watch?v=cQ54hbkt_DU)
 - [Power Pages: the new addition to the Power Platform Family | The Low Code Revolution](https://www.youtube.com/watch?v=_FVxPhJEgiU)
 - [Easy Power Fx Command Bar Customizations - Power CAT Live](https://www.youtube.com/watch?v=4C2b0DDJPhk)
 - [Introduction to Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=BKG9m9Dgr-4)
 - [Power Apps Creator Kit - Power CAT Live](https://www.youtube.com/watch?v=UzHghqwaVC4)
-- [Migrate SharePoint Data To Dataverse - Part 2](https://www.youtube.com/watch?v=5MZjYcApBSs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
