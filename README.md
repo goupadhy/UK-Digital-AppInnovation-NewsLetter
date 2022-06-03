@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build Recap | What’s new in Azure Machine Learning Automated ML](https://www.youtube.com/watch?v=tXrDscVaF4Q)
 - [Ask the Expert: Implementing Passwordless for Secure Hybrid Work](https://www.youtube.com/watch?v=fA-JFFuuCjA)
 - [What are the career paths at Microsoft?  #Shorts](https://www.youtube.com/watch?v=9zUTYqO3x-Y)
 - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI)
 - [Ask the Expert: Create Apps with Ampere-based Azure VMs](https://www.youtube.com/watch?v=SKug49tmStA)
-- [Learn Live - Configure multi-region write in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=wmWCNKi1PbI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
