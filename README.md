@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Journey into XR Development - Episode 9 - Careers in Mixed Reality](https://www.youtube.com/watch?v=AK17DUhPHGQ)
 - [Learn Live - Enhance IoT solution security by using Azure Defender for IoT](https://www.youtube.com/watch?v=oFBklDSIsUs)
 - [Migrate an ASP.NET web application to Azure with Visual Studio](https://www.youtube.com/watch?v=oZNvwAIrNtU)
 - [Armchair Architects: How do architects think about IoT?](https://www.youtube.com/watch?v=3akBa9mVo-U)
 - [AI Show Live - Episode 58 - Microsoft Build 2022 Recap &lpar;Part Deux&rpar;](https://www.youtube.com/watch?v=_1cdsD3tjjk)
-- [Build Recap | What’s new in Azure Machine Learning Automated ML](https://www.youtube.com/watch?v=tXrDscVaF4Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
