@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Deploy resources to subscriptions, management groups, and tenants by using Bicep](https://www.youtube.com/watch?v=jtj7xAINceo)
 - [Ask the Expert: Azure Monitor Agent Migration](https://www.youtube.com/watch?v=5NIJAfch_rI)
 - [Join the Mixed Reality Dev Days 2022 Hackathon](https://www.youtube.com/watch?v=bdZ2jdrC_Ds)
 - [Journey into XR Development - Episode 9 - Careers in Mixed Reality](https://www.youtube.com/watch?v=AK17DUhPHGQ)
 - [Learn Live - Enhance IoT solution security by using Azure Defender for IoT](https://www.youtube.com/watch?v=oFBklDSIsUs)
-- [Migrate an ASP.NET web application to Azure with Visual Studio](https://www.youtube.com/watch?v=oZNvwAIrNtU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
