@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Power your file storage-intensive workloads with Azure VMware Solution](https://azure.microsoft.com/blog/power-your-file-storageintensive-workloads-with-azure-vmware-solution/)
 - [Start skilling on Azure with these helpful guides](https://azure.microsoft.com/blog/start-skilling-on-azure-with-these-helpful-guides/)
 - [Find out why your SQL Server data belongs on Azure](https://azure.microsoft.com/blog/find-out-why-your-sql-server-data-belongs-on-azure/)
 - [Power hybrid and multicloud environments with Azure Arc data solutions](https://azure.microsoft.com/blog/power-hybrid-and-multicloud-environments-with-azure-arc-data-solutions/)
 - [Azure NC A100 v4 VMs for AI now generally available](https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/)
-- [Microsoft Cost Management updates – May 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-may-2022/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
