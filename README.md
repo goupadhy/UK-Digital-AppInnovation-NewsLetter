@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Virtual desktop infrastructure security best practices](https://azure.microsoft.com/blog/virtual-desktop-infrastructure-security-best-practices/)
 - [Unlocking innovative at-home patient care solutions with Azure](https://azure.microsoft.com/blog/unlocking-innovative-athome-patient-care-solutions-with-azure/)
 - [Power your file storage-intensive workloads with Azure VMware Solution](https://azure.microsoft.com/blog/power-your-file-storageintensive-workloads-with-azure-vmware-solution/)
 - [Start skilling on Azure with these helpful guides](https://azure.microsoft.com/blog/start-skilling-on-azure-with-these-helpful-guides/)
 - [Find out why your SQL Server data belongs on Azure](https://azure.microsoft.com/blog/find-out-why-your-sql-server-data-belongs-on-azure/)
-- [Power hybrid and multicloud environments with Azure Arc data solutions](https://azure.microsoft.com/blog/power-hybrid-and-multicloud-environments-with-azure-arc-data-solutions/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
