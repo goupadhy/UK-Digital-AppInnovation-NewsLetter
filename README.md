@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [One developer’s journey bringing Dependabot to GitHub Enterprise Server](https://github.blog/2022-06-07-one-developers-journey-bringing-dependabot-to-github-enterprise-server/)
 - [Introducing GitHub Skills](https://github.blog/2022-06-06-introducing-github-skills/)
 - [GitHub brings supply chain security features to the Rust community](https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/)
 - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [Making technical interviews better for everyone](https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/)
-- [What&#8217;s new in security and user management for GitHub Enterprise](https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
