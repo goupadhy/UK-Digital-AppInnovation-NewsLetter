@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The Power BI Community Show Ep 6 - Synapse and Power BI](https://www.youtube.com/watch?v=BZ9vjGBO6VY)
 - [Key Dynamics 365 Enhancements | Finance](https://www.youtube.com/watch?v=t1szPdGlnvQ)
 - [New Dataverse Security App For Citizen Admins - Power CAT Live](https://www.youtube.com/watch?v=jBwPdiX7rMI)
 - [The Power BI Community Show Ep 6 - Power BI Event Updates](https://www.youtube.com/watch?v=IrssN8YZEPo)
 - [String Interpolation in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=2Jf52cMiIV4)
-- [Automate across Microsoft 365 using Power Automate](https://www.youtube.com/watch?v=cQ54hbkt_DU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
