@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mixed Reality Dev Days](https://www.youtube.com/watch?v=xQW0WTOOggQ)
 - [Learn Live - Configure multi-region write in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=wmWCNKi1PbI)
 - [Introducing Mixed Reality Toolkit 3.0](https://www.youtube.com/watch?v=X_2jYhAk4G8)
 - [Learn Live - Azure Cosmos DB: How to design and implement for SQL API](https://www.youtube.com/watch?v=Se9zedGMt08)
 - [Learn Live - Deploy resources to subscriptions, management groups, and tenants by using Bicep](https://www.youtube.com/watch?v=jtj7xAINceo)
-- [Ask the Expert: Azure Monitor Agent Migration](https://www.youtube.com/watch?v=5NIJAfch_rI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
