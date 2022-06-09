@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Learn what’s new in Azure Firewall](https://azure.microsoft.com/blog/learn-what-s-new-in-azure-firewall/)
 - [Find the clarity and guidance you need to realize cloud value](https://azure.microsoft.com/blog/find-the-clarity-and-guidance-you-need-to-realize-cloud-value/)
 - [Improve outbound connectivity with Azure Virtual Network NAT](https://azure.microsoft.com/blog/improve-outbound-connectivity-with-azure-virtual-network-nat/)
 - [Top 5 reasons to attend Azure Hybrid, Multicloud, and Edge Day](https://azure.microsoft.com/blog/top-5-reasons-to-attend-azure-hybrid-multicloud-and-edge-day/)
 - [SUSECON 2022: Powering Business Critical Linux workloads on Azure](https://azure.microsoft.com/blog/susecon-2022-powering-business-critical-linux-workloads-on-azure/)
-- [Virtual desktop infrastructure security best practices](https://azure.microsoft.com/blog/virtual-desktop-infrastructure-security-best-practices/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
