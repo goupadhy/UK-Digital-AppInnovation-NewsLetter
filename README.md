@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Implementing a robust digital identity](https://github.blog/2022-06-10-implementing-a-robust-digital-identity/)
 - [How we think about browsers](https://github.blog/2022-06-10-how-we-think-about-browsers/)
 - [Dependabot Updates hit GA in GHES](https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/)
 - [Introducing Entitlements: GitHub&#8217;s open source Identity and Access Management solution](https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/)
 - [Introducing Achievements: recognizing the many stages of a developer’s coding journey](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
-- [Sunsetting Atom](https://github.blog/2022-06-08-sunsetting-atom/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
