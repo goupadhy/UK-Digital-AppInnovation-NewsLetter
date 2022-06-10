@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Supporting openEHR with Azure Health Data Services](https://azure.microsoft.com/blog/supporting-openehr-with-azure-health-data-services/)
 - [Achieve seamless observability with Dynatrace for Azure](https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/)
 - [Learn what’s new in Azure Firewall](https://azure.microsoft.com/blog/learn-what-s-new-in-azure-firewall/)
 - [Find the clarity and guidance you need to realize cloud value](https://azure.microsoft.com/blog/find-the-clarity-and-guidance-you-need-to-realize-cloud-value/)
 - [Improve outbound connectivity with Azure Virtual Network NAT](https://azure.microsoft.com/blog/improve-outbound-connectivity-with-azure-virtual-network-nat/)
-- [Top 5 reasons to attend Azure Hybrid, Multicloud, and Edge Day](https://azure.microsoft.com/blog/top-5-reasons-to-attend-azure-hybrid-multicloud-and-edge-day/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
