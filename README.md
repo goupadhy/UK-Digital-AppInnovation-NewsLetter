@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Implement Azure Functions](https://www.youtube.com/watch?v=AW4K8fpVlUo)
 - [Build Recap | Introduction to Azure ML CLI v2 and SDK v2](https://www.youtube.com/watch?v=unbzStG3IVY)
 - [Mixed Reality Dev Days &lpar;Day 2&rpar;](https://www.youtube.com/watch?v=kCwwaQhJqQs)
 - [Ask the Expert: Conversational AI and Power Virtual Agents](https://www.youtube.com/watch?v=IUTTDdtoV80)
 - [How does Azure Machine Learning CLI v2 enable easy development &amp; collaboration?](https://www.youtube.com/watch?v=wDKZK-XSqD0)
-- [Learn Live - Integrate Azure services with Azure Stack HCI](https://www.youtube.com/watch?v=8hb4o-iUX6g)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
