@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Express Design | Power Platform Shorts](https://www.youtube.com/watch?v=JoUzwp8rS2g)
 - [Affordable Care Act with Dynamics GP](https://www.youtube.com/watch?v=ocx23LFlmyU)
 - [The Evolution of Power Virtual Agents - Taking Fusion Teams to the Next Level | Low Code Revolution](https://www.youtube.com/watch?v=KgILe3mIHD0)
 - [The Power BI Community Show Ep 6 - Synapse and Power BI](https://www.youtube.com/watch?v=BZ9vjGBO6VY)
 - [Key Dynamics 365 Enhancements | Finance](https://www.youtube.com/watch?v=t1szPdGlnvQ)
-- [New Dataverse Security App For Citizen Admins - Power CAT Live](https://www.youtube.com/watch?v=jBwPdiX7rMI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
