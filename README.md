@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=a2MFRzOGSg0)
 - [Ask the Expert: Release Management Monitoring for Azure DevOps with Datadog](https://www.youtube.com/watch?v=_rdxzMPoRkc)
 - [LunchBytes: S1E5 - See Clearly with Application Insights](https://www.youtube.com/watch?v=FR0m1Oe95g0)
 - [Learn Live - Implement Azure Functions](https://www.youtube.com/watch?v=AW4K8fpVlUo)
 - [Build Recap | Introduction to Azure ML CLI v2 and SDK v2](https://www.youtube.com/watch?v=unbzStG3IVY)
-- [Mixed Reality Dev Days &lpar;Day 2&rpar;](https://www.youtube.com/watch?v=kCwwaQhJqQs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
