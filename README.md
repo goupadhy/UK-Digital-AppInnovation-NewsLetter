@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Microsoft Sentinel: A Modern SIEM with SOAR, TI, and UEBA](https://www.youtube.com/watch?v=i76BUUdqNec)
 - [Learn the fundamentals of Microsoft Dynamics 365 Marketing](https://www.youtube.com/watch?v=sc4_Vw-btGA)
 - [Learn Live - Extend ARM templates by using deployment scripts](https://www.youtube.com/watch?v=jEhljeh95KE)
 - [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=a2MFRzOGSg0)
 - [Ask the Expert: Release Management Monitoring for Azure DevOps with Datadog](https://www.youtube.com/watch?v=_rdxzMPoRkc)
-- [LunchBytes: S1E5 - See Clearly with Application Insights](https://www.youtube.com/watch?v=FR0m1Oe95g0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
