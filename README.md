@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Customize an indexing policy in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=bK9qSa3lSN8)
 - [Learn Live - Choosing Your Application Modernization Approach in Azure](https://www.youtube.com/watch?v=n5Y0IhkXYys)
 - [AI Show Live - Episode 59 - 2022 OpenVC Hackathon Winners and More!](https://www.youtube.com/watch?v=IbstdpFIHYE)
 - [Learn Live - Implement Azure Functions](https://www.youtube.com/watch?v=AW4K8fpVlUo)
 - [Ask the Expert: Microsoft Sentinel: A Modern SIEM with SOAR, TI, and UEBA](https://www.youtube.com/watch?v=i76BUUdqNec)
-- [Learn the fundamentals of Microsoft Dynamics 365 Marketing](https://www.youtube.com/watch?v=sc4_Vw-btGA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
