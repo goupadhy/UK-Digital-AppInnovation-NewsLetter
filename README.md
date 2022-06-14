@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Data Privacy with Azure Confidential Computing](https://www.youtube.com/watch?v=JMzLfj3LszI)
 - [How can you use Data Labeling in Azure Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=JHtIufSqYD0)
 - [Learn Live - Customize an indexing policy in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=bK9qSa3lSN8)
 - [Learn Live - Choosing Your Application Modernization Approach in Azure](https://www.youtube.com/watch?v=n5Y0IhkXYys)
 - [AI Show Live - Episode 59 - 2022 OpenCV Hackathon Winners and More!](https://www.youtube.com/watch?v=IbstdpFIHYE)
-- [Learn Live - Implement Azure Functions](https://www.youtube.com/watch?v=AW4K8fpVlUo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
