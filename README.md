@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 59 - 2022 OpenVC Hackathon Winners and More!](https://www.youtube.com/watch?v=IbstdpFIHYE)
 - [Learn Live - Implement Azure Functions](https://www.youtube.com/watch?v=AW4K8fpVlUo)
 - [Ask the Expert: Microsoft Sentinel: A Modern SIEM with SOAR, TI, and UEBA](https://www.youtube.com/watch?v=i76BUUdqNec)
 - [Learn the fundamentals of Microsoft Dynamics 365 Marketing](https://www.youtube.com/watch?v=sc4_Vw-btGA)
 - [Learn Live - Extend ARM templates by using deployment scripts](https://www.youtube.com/watch?v=jEhljeh95KE)
-- [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=a2MFRzOGSg0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
