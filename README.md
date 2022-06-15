@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Customize an indexing policy in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=bK9qSa3lSN8)
 - [What are Azure Applied AI Services? | One Dev Question](https://www.youtube.com/watch?v=seQtKMdgiOY)
 - [Ask the Expert: Build a Privacy-Resilient Workplace](https://www.youtube.com/watch?v=OLKxL9sNmUU)
 - [Learn Live - Manage Azure Kubernetes Service on Azure Stack HCI](https://www.youtube.com/watch?v=TxmkgnCDvRQ)
 - [Infrastructure as Code on Azure with Microsoft and Octopus Deploy &lpar;EU&rpar;](https://www.youtube.com/watch?v=cY6vZxkVNHg)
-- [Learn Live - Manage Azure Stack HCI virtual machine workloads](https://www.youtube.com/watch?v=VbYx2F81YiI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
