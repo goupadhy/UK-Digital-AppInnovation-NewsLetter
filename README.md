@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Manage Azure Stack HCI virtual machine workloads](https://www.youtube.com/watch?v=VbYx2F81YiI)
 - [LunchBytes: S1E5 - See Clearly with Application Insights](https://www.youtube.com/watch?v=FR0m1Oe95g0)
 - [Infrastructure as Code on Azure with Microsoft and Octopus Deploy &lpar;EU&rpar;](https://www.youtube.com/watch?v=cY6vZxkVNHg)
 - [Infrastructure as Code on Azure with Microsoft and Octopus Deploy &lpar;APAC&rpar;](https://www.youtube.com/watch?v=PqdkxcMdBHY)
 - [Learn Live - Choosing Your Application Modernization Approach in Azure](https://www.youtube.com/watch?v=n5Y0IhkXYys)
-- [Learn Live - Extend ARM templates by using deployment scripts](https://www.youtube.com/watch?v=jEhljeh95KE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
