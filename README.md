@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Choosing Your Application Modernization Approach in Azure](https://www.youtube.com/watch?v=n5Y0IhkXYys)
 - [Learn Live - Extend ARM templates by using deployment scripts](https://www.youtube.com/watch?v=jEhljeh95KE)
 - [Ask the Expert: Data Privacy with Azure Confidential Computing](https://www.youtube.com/watch?v=JMzLfj3LszI)
 - [How can you use Data Labeling in Azure Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=JHtIufSqYD0)
 - [Learn Live - Customize an indexing policy in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=bK9qSa3lSN8)
-- [Learn Live - Choosing Your Application Modernization Approach in Azure](https://www.youtube.com/watch?v=n5Y0IhkXYys)
 <!-- YOUTUBEAPPMOD:END -->
 
 
