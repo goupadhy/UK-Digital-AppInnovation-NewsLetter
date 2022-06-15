@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Simplify and centralize network security management with Azure Firewall Manager](https://azure.microsoft.com/blog/simplify-and-centralize-network-security-management-with-azure-firewall-manager/)
 - [Discover how you can innovate anywhere with Azure Arc ](https://azure.microsoft.com/blog/discover-how-you-can-innovate-anywhere-with-azure-arc/)
 - [Azure powers rapid deployment of private 4G and 5G networks](https://azure.microsoft.com/blog/azure-powers-rapid-deployment-of-private-4g-and-5g-networks/)
 - [MLOps Blog Series Part 1: The art of testing machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-1-the-art-of-testing-machine-learning-systems-using-mlops/)
 - [Supporting openEHR with Azure Health Data Services](https://azure.microsoft.com/blog/supporting-openehr-with-azure-health-data-services/)
-- [Achieve seamless observability with Dynatrace for Azure](https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
