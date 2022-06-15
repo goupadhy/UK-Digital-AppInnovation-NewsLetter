@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Infrastructure as Code on Azure with Microsoft and Octopus Deploy &lpar;EU&rpar;](https://www.youtube.com/watch?v=cY6vZxkVNHg)
 - [Infrastructure as Code on Azure with Microsoft and Octopus Deploy &lpar;APAC&rpar;](https://www.youtube.com/watch?v=PqdkxcMdBHY)
 - [Learn Live - Choosing Your Application Modernization Approach in Azure](https://www.youtube.com/watch?v=n5Y0IhkXYys)
 - [Learn Live - Extend ARM templates by using deployment scripts](https://www.youtube.com/watch?v=jEhljeh95KE)
 - [Ask the Expert: Data Privacy with Azure Confidential Computing](https://www.youtube.com/watch?v=JMzLfj3LszI)
-- [How can you use Data Labeling in Azure Machine Learning? | One Dev Question](https://www.youtube.com/watch?v=JHtIufSqYD0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
