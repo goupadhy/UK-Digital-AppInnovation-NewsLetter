@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do you define Responsible AI? What tools does Microsoft provide?](https://www.youtube.com/watch?v=MTcrEJM3mW0)
 - [Learn Live - Manage Azure Stack HCI virtual machine workloads](https://www.youtube.com/watch?v=VbYx2F81YiI)
 - [Azure Arc and Octopus Deploy &lpar;APAC&rpar;](https://www.youtube.com/watch?v=5hYOC8DIrTg)
 - [Learn Live - Customize an indexing policy in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=bK9qSa3lSN8)
 - [What are Azure Applied AI Services? | One Dev Question](https://www.youtube.com/watch?v=seQtKMdgiOY)
-- [Ask the Expert: Build a Privacy-Resilient Workplace](https://www.youtube.com/watch?v=OLKxL9sNmUU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
