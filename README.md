@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Manage Azure Kubernetes Service on Azure Stack HCI](https://www.youtube.com/watch?v=TxmkgnCDvRQ)
 - [SQL Insider Series: SQL Migration tools, which one and when?  | Data Exposed](https://www.youtube.com/watch?v=1kxagyNpvyY)
 - [Ask the Expert: Building AI-Infused Document Processing Applications](https://www.youtube.com/watch?v=uXWxqTa5jlM)
 - [How do you define Responsible AI? What tools does Microsoft provide?](https://www.youtube.com/watch?v=MTcrEJM3mW0)
 - [Learn Live - Manage Azure Stack HCI virtual machine workloads](https://www.youtube.com/watch?v=VbYx2F81YiI)
-- [Azure Arc and Octopus Deploy &lpar;APAC&rpar;](https://www.youtube.com/watch?v=5hYOC8DIrTg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
