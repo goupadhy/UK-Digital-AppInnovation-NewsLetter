@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 59 - 2022 OpenCV Hackathon Winners and More!](https://www.youtube.com/watch?v=IbstdpFIHYE)
 - [Build Recap | The Newest Features from Azure Form Recognizer](https://www.youtube.com/watch?v=o1dEJMoFeus)
 - [Ask the Expert: Achieve Least Privilege Across your Multicloud Infrastructure](https://www.youtube.com/watch?v=cvFJsA3gv8w)
 - [What sort of things do you look for on a resume for an internship?   #Shorts](https://www.youtube.com/watch?v=jpMuMrASTvQ)
 - [Learn Live - Create web apps and services with ASP.NET Core, minimal API, and .NET 6](https://www.youtube.com/watch?v=Z-rF8LWtj1w)
-- [Learn Live - Manage Azure Kubernetes Service on Azure Stack HCI](https://www.youtube.com/watch?v=TxmkgnCDvRQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
