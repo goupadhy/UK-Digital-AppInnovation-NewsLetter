@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Share Bicep modules by using private registries](https://www.youtube.com/watch?v=_43a8JS8_vs)
 - [AI Show Live - Episode 59 - 2022 OpenCV Hackathon Winners and More!](https://www.youtube.com/watch?v=IbstdpFIHYE)
 - [Build Recap | The Newest Features from Azure Form Recognizer](https://www.youtube.com/watch?v=o1dEJMoFeus)
 - [Ask the Expert: Achieve Least Privilege Across your Multicloud Infrastructure](https://www.youtube.com/watch?v=cvFJsA3gv8w)
 - [What sort of things do you look for on a resume for an internship?   #Shorts](https://www.youtube.com/watch?v=jpMuMrASTvQ)
-- [Learn Live - Create web apps and services with ASP.NET Core, minimal API, and .NET 6](https://www.youtube.com/watch?v=Z-rF8LWtj1w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
