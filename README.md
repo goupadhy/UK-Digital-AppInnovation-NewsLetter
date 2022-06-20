@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps UI Creating a Pop Up Dialog | Power Platform Shorts](https://www.youtube.com/watch?v=ZPQ74TL7lT0)
 - [Solving your SmartList dilemmas | Dynamics GP](https://www.youtube.com/watch?v=prgpfStKIH4)
 - [Easily Move From SharePoint to Dataverse - Power CAT Live](https://www.youtube.com/watch?v=MMIbww_sw5Y)
 - [Power Apps Express Design | Power Platform Shorts](https://www.youtube.com/watch?v=JoUzwp8rS2g)
 - [Affordable Care Act with Dynamics GP](https://www.youtube.com/watch?v=ocx23LFlmyU)
-- [The Evolution of Power Virtual Agents - Taking Fusion Teams to the Next Level | Low Code Revolution](https://www.youtube.com/watch?v=KgILe3mIHD0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
