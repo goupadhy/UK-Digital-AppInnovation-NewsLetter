@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Microsoft Power Platform Conference 2022](https://www.youtube.com/watch?v=P07FpBNcokg)
 - [The Power BI Community Show Ep 7 - Synapse and Power BI](https://www.youtube.com/watch?v=BZ9vjGBO6VY)
 - [Power Apps UI Creating a Pop Up Dialog | Power Platform Shorts](https://www.youtube.com/watch?v=ZPQ74TL7lT0)
 - [Solving your SmartList dilemmas | Dynamics GP](https://www.youtube.com/watch?v=prgpfStKIH4)
 - [Easily Move From SharePoint to Dataverse - Power CAT Live](https://www.youtube.com/watch?v=MMIbww_sw5Y)
-- [Power Apps Express Design | Power Platform Shorts](https://www.youtube.com/watch?v=JoUzwp8rS2g)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
