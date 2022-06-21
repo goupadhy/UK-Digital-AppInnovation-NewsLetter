@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure IoT increases enterprise-level intelligent edge and cloud capabilities](https://azure.microsoft.com/blog/azure-iot-increases-enterpriselevel-intelligent-edge-and-cloud-capabilities/)
 - [Simplify and centralize network security management with Azure Firewall Manager](https://azure.microsoft.com/blog/simplify-and-centralize-network-security-management-with-azure-firewall-manager/)
 - [Discover how you can innovate anywhere with Azure Arc ](https://azure.microsoft.com/blog/discover-how-you-can-innovate-anywhere-with-azure-arc/)
 - [Azure powers rapid deployment of private 4G and 5G networks](https://azure.microsoft.com/blog/azure-powers-rapid-deployment-of-private-4g-and-5g-networks/)
 - [MLOps Blog Series Part 1: The art of testing machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-1-the-art-of-testing-machine-learning-systems-using-mlops/)
-- [Supporting openEHR with Azure Health Data Services](https://azure.microsoft.com/blog/supporting-openehr-with-azure-health-data-services/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
