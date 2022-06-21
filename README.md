@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT](https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/)
 - [Responsible AI investments and safeguards for facial recognition](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/)
 - [Azure IoT increases enterprise-level intelligent edge and cloud capabilities](https://azure.microsoft.com/blog/azure-iot-increases-enterpriselevel-intelligent-edge-and-cloud-capabilities/)
 - [Simplify and centralize network security management with Azure Firewall Manager](https://azure.microsoft.com/blog/simplify-and-centralize-network-security-management-with-azure-firewall-manager/)
 - [Discover how you can innovate anywhere with Azure Arc ](https://azure.microsoft.com/blog/discover-how-you-can-innovate-anywhere-with-azure-arc/)
-- [Azure powers rapid deployment of private 4G and 5G networks](https://azure.microsoft.com/blog/azure-powers-rapid-deployment-of-private-4g-and-5g-networks/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
