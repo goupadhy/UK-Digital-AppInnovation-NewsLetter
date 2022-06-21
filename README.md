@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Armchair Architects: Using Chaos Engineering to plan for specific failure conditions](https://www.youtube.com/watch?v=a0NNwStZPZY)
-- [How can you automate hyperparameter tuning in Azure Machine Learning?](https://www.youtube.com/watch?v=iC5ZEr2GYo8)
-- [StereoKit - Mixed Reality using .NET](https://www.youtube.com/watch?v=NxE3zUzxqXE)
-- [StereoKit - Building a Mixed Reality App](https://www.youtube.com/watch?v=XrDqOKDZFGQ)
-- [StereoKit - Architecture and Internals](https://www.youtube.com/watch?v=nicwMuhYNR8)
+- [Ask the Expert: Develop and Deploy Java Apps with your Favorite Tools](https://www.youtube.com/watch?v=GfvrsrXKXl4)
+- [Using AI to tackle carbon emissions at airports](https://www.youtube.com/watch?v=poFf8SkYQIo)
+- [Creating a natural language command-line interface using OpenAI’s Codex](https://www.youtube.com/watch?v=p_1UYlPf5s4)
+- [With Codex, creators can use natural language to build 3D scenes](https://www.youtube.com/watch?v=8Ci8eZQI2Cc)
+- [OpenAI’s DALL·E 2 helps kids bring their world-changing ideas to life](https://www.youtube.com/watch?v=y9y22D7zNAI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
