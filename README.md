@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Using Chaos Engineering to plan for specific failure conditions](https://www.youtube.com/watch?v=a0NNwStZPZY)
+- [How can you automate hyperparameter tuning in Azure Machine Learning?](https://www.youtube.com/watch?v=iC5ZEr2GYo8)
 - [StereoKit - Mixed Reality using .NET](https://www.youtube.com/watch?v=NxE3zUzxqXE)
 - [StereoKit - Building a Mixed Reality App](https://www.youtube.com/watch?v=XrDqOKDZFGQ)
 - [StereoKit - Architecture and Internals](https://www.youtube.com/watch?v=nicwMuhYNR8)
-- [Unity XR Interaction Toolkit](https://www.youtube.com/watch?v=MIoGBoC1txM)
-- [Updates on OpenXR for Mixed Reality](https://www.youtube.com/watch?v=RkWeRmtWyVo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
