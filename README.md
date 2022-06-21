@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Share Bicep modules by using private registries](https://www.youtube.com/watch?v=_43a8JS8_vs)
 - [Learn Live - Measure index performance in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=S94DghuhIcI)
 - [Ask the Expert: Develop and Deploy Java Apps with your Favorite Tools](https://www.youtube.com/watch?v=GfvrsrXKXl4)
 - [Using AI to tackle carbon emissions at airports](https://www.youtube.com/watch?v=poFf8SkYQIo)
 - [Creating a natural language command-line interface using OpenAI’s Codex](https://www.youtube.com/watch?v=p_1UYlPf5s4)
-- [With Codex, creators can use natural language to build 3D scenes](https://www.youtube.com/watch?v=8Ci8eZQI2Cc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
