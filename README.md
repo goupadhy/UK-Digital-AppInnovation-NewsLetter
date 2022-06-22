@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Measure index performance in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=S94DghuhIcI)
 - [Ask the Expert: Mitigating risks with Insider Risk Management](https://www.youtube.com/watch?v=KLm4AQgnSMI)
 - [What are Azure Language Services?](https://www.youtube.com/watch?v=LkTc9ztN3x4)
 - [Community and Remote Working](https://www.youtube.com/watch?v=yZVofBFN3Jo)
 - [Creating Courses and Writing Books](https://www.youtube.com/watch?v=yBEEKGs6uVg)
-- [Offering Enterprise Grade Services in the Azure Marketplace](https://www.youtube.com/watch?v=zF4NbWVxTsQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
