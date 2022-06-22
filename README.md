@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Mitigating risks with Insider Risk Management](https://www.youtube.com/watch?v=KLm4AQgnSMI)
+- [What are Azure Language Services?](https://www.youtube.com/watch?v=LkTc9ztN3x4)
 - [Community and Remote Working](https://www.youtube.com/watch?v=yZVofBFN3Jo)
 - [Creating Courses and Writing Books](https://www.youtube.com/watch?v=yBEEKGs6uVg)
 - [Offering Enterprise Grade Services in the Azure Marketplace](https://www.youtube.com/watch?v=zF4NbWVxTsQ)
-- [Running Community Events](https://www.youtube.com/watch?v=95qBCAg_ROY)
-- [Top Pitfalls of Microsoft Azure Security and How to Avoid Them](https://www.youtube.com/watch?v=gH8-cKgrNHA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
