@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [MLOPs Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https://azure.microsoft.com/blog/mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops/)
 - [See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT](https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/)
 - [Responsible AI investments and safeguards for facial recognition](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/)
 - [Azure IoT increases enterprise-level intelligent edge and cloud capabilities](https://azure.microsoft.com/blog/azure-iot-increases-enterpriselevel-intelligent-edge-and-cloud-capabilities/)
 - [Simplify and centralize network security management with Azure Firewall Manager](https://azure.microsoft.com/blog/simplify-and-centralize-network-security-management-with-azure-firewall-manager/)
-- [Discover how you can innovate anywhere with Azure Arc ](https://azure.microsoft.com/blog/discover-how-you-can-innovate-anywhere-with-azure-arc/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
