@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Arc-enabled data services Jumpstart scenarios updates | Data Exposed](https://www.youtube.com/watch?v=sCmWIQmUGh4)
+- [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=a2MFRzOGSg0)
 - [Learn Live - Measure index performance in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=S94DghuhIcI)
 - [Ask the Expert: Mitigating risks with Insider Risk Management](https://www.youtube.com/watch?v=KLm4AQgnSMI)
 - [What are Azure Language Services?](https://www.youtube.com/watch?v=LkTc9ztN3x4)
-- [Community and Remote Working](https://www.youtube.com/watch?v=yZVofBFN3Jo)
-- [Creating Courses and Writing Books](https://www.youtube.com/watch?v=yBEEKGs6uVg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
