@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [2022 OpenCV Hackathon Winners | Team B-AROL-O and the ARNEIS project](https://www.youtube.com/watch?v=vPrqPb3A7aQ)
+- [Build Recap | Managed online endpoints GA](https://www.youtube.com/watch?v=jXezfeZI7aQ)
 - [Azure Remote Rendering](https://www.youtube.com/watch?v=R6SoCL25nCY)
 - [Azure Arc-enabled data services Jumpstart scenarios updates | Data Exposed](https://www.youtube.com/watch?v=sCmWIQmUGh4)
 - [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=a2MFRzOGSg0)
-- [Learn Live - Measure index performance in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=S94DghuhIcI)
-- [Ask the Expert: Mitigating risks with Insider Risk Management](https://www.youtube.com/watch?v=KLm4AQgnSMI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
