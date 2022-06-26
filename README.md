@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Lowlands 2022](https://www.youtube.com/watch?v=7uMmLjkmyWQ)
 - [2022 OpenCV Hackathon Winners | Team B-AROL-O and the ARNEIS project](https://www.youtube.com/watch?v=vPrqPb3A7aQ)
 - [Build Recap | Managed online endpoints GA](https://www.youtube.com/watch?v=jXezfeZI7aQ)
 - [Azure Remote Rendering](https://www.youtube.com/watch?v=R6SoCL25nCY)
 - [Azure Arc-enabled data services Jumpstart scenarios updates | Data Exposed](https://www.youtube.com/watch?v=sCmWIQmUGh4)
-- [Ask the Expert: Microsoft Certifications](https://www.youtube.com/watch?v=a2MFRzOGSg0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
