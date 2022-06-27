@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Take your first steps with C#](https://www.youtube.com/watch?v=MdfdIlHH7Bo)
 - [Azure Arc and Octopus Deploy](https://www.youtube.com/watch?v=zeTdfiqZAes)
 - [Azure Lowlands 2022](https://www.youtube.com/watch?v=7uMmLjkmyWQ)
 - [2022 OpenCV Hackathon Winners | Team B-AROL-O and the ARNEIS project](https://www.youtube.com/watch?v=vPrqPb3A7aQ)
 - [Build Recap | Managed online endpoints GA](https://www.youtube.com/watch?v=jXezfeZI7aQ)
-- [Azure Remote Rendering](https://www.youtube.com/watch?v=R6SoCL25nCY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
