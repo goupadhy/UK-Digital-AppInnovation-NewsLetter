@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dataverse Business Events - Power CAT Live](https://www.youtube.com/watch?v=1L5ErpKNK50)
 - [Index Function for Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=SgVKir9tLdc)
 - [Key Dynamics 365 Enhancements | Sales](https://www.youtube.com/watch?v=eiV5RQKngkA)
 - [Damien Bird | Community Connections](https://www.youtube.com/watch?v=5ViJeGBuasA)
 - [How Microsoft Measures Business Value - Power CAT Live](https://www.youtube.com/watch?v=cOkJI_e0Ni0)
-- [Microsoft Power Platform Conference 2022](https://www.youtube.com/watch?v=P07FpBNcokg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
