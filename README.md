@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Implement integrated cache in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=84B5_QYgv-A)
 - [Learn Live - Migrate your Data Centre with Azure](https://www.youtube.com/watch?v=JIevEq6dcP0)
 - [Learn Live - Take your first steps with C#](https://www.youtube.com/watch?v=MdfdIlHH7Bo)
 - [Learn Live - Publish libraries of reusable infrastructure code by using template specs](https://www.youtube.com/watch?v=apGROwhd5nY)
 - [Azure SQL Security: Database Protection with Defender for Cloud &lpar;Ep. 5&rpar; | Data Exposed](https://www.youtube.com/watch?v=lqVO_jVARkY)
-- [GitBurger Track: GitHub and Open-Source &amp; Co-Pilot](https://www.youtube.com/watch?v=1tRya6IvaPw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
