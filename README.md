@@ -29,7 +29,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Learn Live - Publish libraries of reusable infrastructure code by using template specs](https://www.youtube.com/watch?v=apGROwhd5nY)
 - [Seven tips in seven minutes for the SQL Developer | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=lwlRI-IpGLA)
 - [Learn Live - Implement integrated cache in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=84B5_QYgv-A)
-- [Learn Live - Migrate your Data Centre with Azure](https://www.youtube.com/watch?v=JIevEq6dcP0)
+- [Learn Live - Building and Deploying to Azure with GitHub Actions](https://www.youtube.com/watch?v=JIevEq6dcP0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
