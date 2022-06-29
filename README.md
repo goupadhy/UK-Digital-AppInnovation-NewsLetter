@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Implement integrated cache in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=84B5_QYgv-A)
 - [Learn Live - Building and Deploying to Azure with GitHub Actions](https://www.youtube.com/watch?v=JIevEq6dcP0)
 - [What can a JavaScript developer do with Speech Services?](https://www.youtube.com/watch?v=W1KW_o-4c6s)
 - [Ask the Expert: Use your Web APIs in Power Apps](https://www.youtube.com/watch?v=nKHu97XV29A)
 - [Azure Arc and Octopus Deploy](https://www.youtube.com/watch?v=zeTdfiqZAes)
-- [Azure Arc and Octopus Deploy &lpar;APAC&rpar;](https://www.youtube.com/watch?v=5hYOC8DIrTg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
