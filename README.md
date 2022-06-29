@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What can a JavaScript developer do with Speech Services?](https://www.youtube.com/watch?v=W1KW_o-4c6s)
 - [Ask the Expert: Use your Web APIs in Power Apps](https://www.youtube.com/watch?v=nKHu97XV29A)
 - [Azure Arc and Octopus Deploy](https://www.youtube.com/watch?v=zeTdfiqZAes)
 - [Azure Arc and Octopus Deploy &lpar;APAC&rpar;](https://www.youtube.com/watch?v=5hYOC8DIrTg)
 - [Learn Live - Publish libraries of reusable infrastructure code by using template specs](https://www.youtube.com/watch?v=apGROwhd5nY)
-- [Seven tips in seven minutes for the SQL Developer | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=lwlRI-IpGLA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
