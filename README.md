@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Arc and Octopus Deploy](https://www.youtube.com/watch?v=zeTdfiqZAes)
 - [Azure Arc and Octopus Deploy &lpar;APAC&rpar;](https://www.youtube.com/watch?v=5hYOC8DIrTg)
 - [Learn Live - Publish libraries of reusable infrastructure code by using template specs](https://www.youtube.com/watch?v=apGROwhd5nY)
 - [Seven tips in seven minutes for the SQL Developer | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=lwlRI-IpGLA)
 - [Learn Live - Implement integrated cache in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=84B5_QYgv-A)
-- [Learn Live - Building and Deploying to Azure with GitHub Actions](https://www.youtube.com/watch?v=JIevEq6dcP0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
