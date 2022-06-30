@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 60 -](https://www.youtube.com/watch?v=lMZr64_uz4g)
 - [Azure Lowlands 2022](https://www.youtube.com/watch?v=7uMmLjkmyWQ)
 - [Learn Live - Implement integrated cache in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=84B5_QYgv-A)
 - [Learn Live - Building and Deploying to Azure with GitHub Actions](https://www.youtube.com/watch?v=JIevEq6dcP0)
 - [What can a JavaScript developer do with Speech Services?](https://www.youtube.com/watch?v=W1KW_o-4c6s)
-- [Ask the Expert: Use your Web APIs in Power Apps](https://www.youtube.com/watch?v=nKHu97XV29A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
