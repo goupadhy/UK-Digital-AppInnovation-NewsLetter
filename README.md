@@ -71,10 +71,10 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
-- [MLOPs Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops/)
+- [MLOps Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops/)
 - [Microsoft Cost Management updates – June 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-june-2022/)
 - [Azure Orbital Ground Station as Service extends life and reduces costs for satellite operators](https://azure.microsoft.com/blog/azure-orbital-ground-station-as-service-extends-life-and-reduces-costs-for-satellite-operators/)
-- [MLOPs Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https://azure.microsoft.com/blog/mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops/)
+- [MLOps Blog Series Part 2: Testing robustness of secure machine learning systems using machine learning ops](https://azure.microsoft.com/blog/mlops-blog-series-part-2-testing-robustness-of-secure-machine-learning-systems-using-machine-learning-ops/)
 - [See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT](https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
