@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Çağlayan Arkan presents the Art of Possible: Breaking free of scale purgatory in manufacturing](https://www.youtube.com/watch?v=ae4MnQKviHE)
 - [Grupo Bimbo accelerates its sustainability journey with Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=DEXuXW2OaFc)
 - [Wolverine Worldwide boosts business performance and employee experience using RISE with SAP on Azure](https://www.youtube.com/watch?v=NjwsD_TGhIU)
 - [Wolverine Worldwide activates a digital shift to spark innovation with Azure Arc](https://www.youtube.com/watch?v=gt5jGGaKDiI)
 - [Inspired by circularity, powered by innovation– Microsoft Circular Centers scale sustainability](https://www.youtube.com/watch?v=IcWg7F85puY)
-- [Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=HDYRb-8HXgE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
