@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Managing a game dev community with GitHub Actions](https://github.blog/2022-07-06-managing-a-game-dev-community/)
 - [Extend your dependency information in the GitHub Dependency Graph with new GitHub Actions](https://github.blog/2022-07-01-extend-your-dependency-information-in-the-github-dependency-graph-with-new-github-actions/)
 - [How the GitHub Security Team uses projects and GitHub Actions for planning, tracking, and more](https://github.blog/2022-07-01-how-the-github-security-team-uses-projects-and-github-actions-for-planning-tracking-and-more/)
 - [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
 - [What to do when your open source project becomes a community?](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/)
-- [Announcing the summer 2022 MLH Fellowship GitHub Contributors](https://github.blog/2022-06-30-announcing-the-summer-2022-mlh-fellowship-github-contributors/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
