@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Scott Hanselman invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=TSqkdRkudZM)
 - [David Warner invites you to the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=Fn6q19TmwyI)
 - [Quick start Guide | Intelligent Recommendations](https://www.youtube.com/watch?v=mB0CSOYlFnA)
 - [Microsoft Power Platform and Dynamics 365 User Groups](https://www.youtube.com/watch?v=DNQmU1ECW1A)
 - [Heather Newman invites you to the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=DHAwk-PcDto)
-- [Dataverse Business Events - Power CAT Live](https://www.youtube.com/watch?v=1L5ErpKNK50)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
