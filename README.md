@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Learn Live - Measure performance in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=XbgnxNlgNiE)
 - [AI Show Live - Episode 60 👊 ✋ ✌](https://www.youtube.com/watch?v=lMZr64_uz4g)
 - [Build Recap | The Evolution of Power Virtual Agents](https://www.youtube.com/watch?v=Ntfb_GOGPbg)
 - [Azure Lowlands 2022](https://www.youtube.com/watch?v=7uMmLjkmyWQ)
 - [Learn Live - Implement integrated cache in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=84B5_QYgv-A)
+- [Learn Live - Building and Deploying to Azure with GitHub Actions](https://www.youtube.com/watch?v=JIevEq6dcP0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
