@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Release Management Monitoring for Azure DevOps with Datadog](https://www.youtube.com/watch?v=_rdxzMPoRkc)
+- [SQL Insider Series: Azure SQL DB – Automating scale up and down | Data Exposed](https://www.youtube.com/watch?v=gPVeG27e3hs)
 - [AI Show Live - Episode 60 👊 ✋ ✌](https://www.youtube.com/watch?v=lMZr64_uz4g)
 - [Build Recap | The Evolution of Power Virtual Agents](https://www.youtube.com/watch?v=Ntfb_GOGPbg)
 - [Azure Lowlands 2022](https://www.youtube.com/watch?v=7uMmLjkmyWQ)
-- [Learn Live - Implement integrated cache in Azure Cosmos DB SQL API](https://www.youtube.com/watch?v=84B5_QYgv-A)
-- [Learn Live - Building and Deploying to Azure with GitHub Actions](https://www.youtube.com/watch?v=JIevEq6dcP0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
