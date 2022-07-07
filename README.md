@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Digital transformation for manufacturers requires additional IT/OT security](https://azure.microsoft.com/blog/digital-transformation-for-manufacturers-requires-additional-itot-security/)
 - [How to choose the right Azure services for your applications—It’s not A or B](https://azure.microsoft.com/blog/how-to-choose-the-right-azure-services-for-your-applications-it-s-not-a-or-b/)
 - [Choose the right size for your workload with NVads A10 v5 virtual machines, now generally available](https://azure.microsoft.com/blog/choose-the-right-size-for-your-workload-with-nvads-a10-v5-virtual-machines-now-generally-available/)
 - [MLOps Blog Series Part 3: Testing scalability of secure machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-3-testing-scalability-of-secure-machine-learning-systems-using-mlops/)
 - [Microsoft Cost Management updates – June 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-june-2022/)
-- [Azure Orbital Ground Station as Service extends life and reduces costs for satellite operators](https://azure.microsoft.com/blog/azure-orbital-ground-station-as-service-extends-life-and-reduces-costs-for-satellite-operators/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
