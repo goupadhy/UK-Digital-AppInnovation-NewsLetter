@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Management Reporter stuck in queue as Processing or Cancelling | Dynamics GP](https://www.youtube.com/watch?v=PQt3lAg1SlI)
 - [Sangya Singh invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=nezHh39q4sc)
 - [Scott Hanselman invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=TSqkdRkudZM)
 - [David Warner invites you to the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=Fn6q19TmwyI)
 - [Quick start Guide | Intelligent Recommendations](https://www.youtube.com/watch?v=mB0CSOYlFnA)
-- [Microsoft Power Platform and Dynamics 365 User Groups](https://www.youtube.com/watch?v=DNQmU1ECW1A)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
