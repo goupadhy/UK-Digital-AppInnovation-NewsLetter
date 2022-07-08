@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build Recap | Responsible AI Dashboard and Scorecard in Azure Machine Learning](https://www.youtube.com/watch?v=1AYQBW11jXE)
 - [Ask the Expert: Release Management Monitoring for Azure DevOps with Datadog](https://www.youtube.com/watch?v=_rdxzMPoRkc)
 - [SQL Insider Series: Azure SQL DB – Automating scale up and down | Data Exposed](https://www.youtube.com/watch?v=gPVeG27e3hs)
 - [AI Show Live - Episode 60 👊 ✋ ✌](https://www.youtube.com/watch?v=lMZr64_uz4g)
 - [Build Recap | The Evolution of Power Virtual Agents](https://www.youtube.com/watch?v=Ntfb_GOGPbg)
-- [Azure Lowlands 2022](https://www.youtube.com/watch?v=7uMmLjkmyWQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
