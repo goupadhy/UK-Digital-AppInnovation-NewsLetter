@@ -44,10 +44,10 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The Power BI Community Show Ep 8 - Power BI, Dynamics 365 &amp; Dataverse](https://www.youtube.com/watch?v=WLlB5d2AbRE)
 - [Store Commerce App | Dynamics 365 Commerce](https://www.youtube.com/watch?v=7B332XH_zfs)
 - [Dona Sarkar invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=gP2bTLGl-ls)
 - [Management Reporter stuck in queue as Processing or Cancelling | Dynamics GP](https://www.youtube.com/watch?v=PQt3lAg1SlI)
-- [The Power BI Community Show Ep 8 - Power BI, Dynamics 365 &amp; Dataverse](https://www.youtube.com/watch?v=WLlB5d2AbRE)
 - [Sangya Singh invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=nezHh39q4sc)
 <!-- YOUTUBEPOWER:END -->
 
