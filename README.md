@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Join us for the first-ever Microsoft Power Platform Conference](https://cloudblogs.microsoft.com/powerplatform/2022/07/12/join-us-for-the-first-ever-microsoft-power-platform-conference/)
 - [Microsoft Build recap: Power Platform announcements you may have missed](https://cloudblogs.microsoft.com/powerplatform/2022/05/31/microsoft-build-recap-power-platform-announcements-you-may-have-missed/)
 - [Discover how Power Platform helps make fusion development faster and easier](https://cloudblogs.microsoft.com/powerplatform/2022/05/25/discover-how-power-platform-helps-make-fusion-development-faster-and-easier/)
 - [Low-Code Trend Report 2022: Building a learning culture on a low-code platform](https://cloudblogs.microsoft.com/powerplatform/2022/05/24/low-code-trend-report-2022-building-a-learning-culture-on-a-low-code-platform/)
 - [Announcing Microsoft Power Pages: Build secure, low-code websites](https://powerpages.microsoft.com/blog/announcing-microsoft-power-pages-build-secure-low-code-websites/)
-- [Power Platform redefines low-code with new products and features at Microsoft Build ](https://cloudblogs.microsoft.com/powerplatform/2022/05/24/power-platform-redefines-low-code-with-new-products-and-features-at-microsoft-build/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
