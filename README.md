@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Karuana Gatimu Goggin invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=gtxsGY17qGA)
+- [Karuana Gatimu invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=gtxsGY17qGA)
 - [The Power BI Community Show Ep 8 - Power BI, Dynamics 365 &amp; Dataverse](https://www.youtube.com/watch?v=WLlB5d2AbRE)
 - [Store Commerce App | Dynamics 365 Commerce](https://www.youtube.com/watch?v=7B332XH_zfs)
 - [Dona Sarkar invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=gP2bTLGl-ls)
