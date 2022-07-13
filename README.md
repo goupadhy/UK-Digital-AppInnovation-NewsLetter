@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL July 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=F61w5Bpjyzo)
 - [What can I do with Azure Form Recognizer?](https://www.youtube.com/watch?v=3v6OjVYYWe0)
 - [LunchBytes - Fusion Development with Power Apps](https://www.youtube.com/watch?v=lh4yj4TANxs)
 - [Armchair Architects: Architecting Mission Critical Apps](https://www.youtube.com/watch?v=xn01p6aZtSI)
 - [Armchair Architects: Architecting Mission Critical Apps &lpar;bonus episode&rpar;](https://www.youtube.com/watch?v=fKiOZZL71iA)
-- [AI Show Live - Episode 61 - MLOps &lpar;v2&rpar; - Unifying MLOps at Microsoft](https://www.youtube.com/watch?v=xaW_A0sV6PU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
