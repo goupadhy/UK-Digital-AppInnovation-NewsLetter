@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Armchair Architects: Architecting Mission Critical Apps](https://www.youtube.com/watch?v=xn01p6aZtSI)
+- [Armchair Architects: Architecting Mission Critical Apps &lpar;bonus episode&rpar;](https://www.youtube.com/watch?v=fKiOZZL71iA)
+- [LunchBytes - Fusion Development with Power Apps](https://www.youtube.com/watch?v=lh4yj4TANxs)
 - [AI Show Live - Episode 61 - MLOps &lpar;v2&rpar; - Unifying MLOps at Microsoft](https://www.youtube.com/watch?v=xaW_A0sV6PU)
 - [Build Recap | Responsible AI Dashboard and Scorecard in Azure Machine Learning](https://www.youtube.com/watch?v=1AYQBW11jXE)
-- [Ask the Expert: Release Management Monitoring for Azure DevOps with Datadog](https://www.youtube.com/watch?v=_rdxzMPoRkc)
-- [SQL Insider Series: Azure SQL DB – Automating scale up and down | Data Exposed](https://www.youtube.com/watch?v=gPVeG27e3hs)
-- [AI Show Live - Episode 60 👊 ✋ ✌](https://www.youtube.com/watch?v=lMZr64_uz4g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
