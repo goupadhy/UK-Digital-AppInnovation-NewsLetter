@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Modernize with Azure Migrate](https://azure.microsoft.com/blog/modernize-with-azure-migrate/)
 - [MLOps Blog Series Part 4: Testing security of secure machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-4-testing-security-of-secure-machine-learning-systems-using-mlops/)
 - [How Microsoft Azure Cross-region Load Balancer helps create region redundancy and low latency](https://azure.microsoft.com/blog/how-microsoft-azure-crossregion-load-balancer-helps-create-region-redundancy-and-low-latency/)
 - [What is desktop as a service (DaaS) and how can it help your organization?](https://azure.microsoft.com/blog/what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization/)
 - [Digital transformation for manufacturers requires additional IT/OT security](https://azure.microsoft.com/blog/digital-transformation-for-manufacturers-requires-additional-itot-security/)
-- [How to choose the right Azure services for your applications—It’s not A or B](https://azure.microsoft.com/blog/how-to-choose-the-right-azure-services-for-your-applications-it-s-not-a-or-b/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
