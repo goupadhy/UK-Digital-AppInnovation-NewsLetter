@@ -25,9 +25,9 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes - Fusion Development with Power Apps](https://www.youtube.com/watch?v=lh4yj4TANxs)
 - [Armchair Architects: Architecting Mission Critical Apps](https://www.youtube.com/watch?v=xn01p6aZtSI)
 - [Armchair Architects: Architecting Mission Critical Apps &lpar;bonus episode&rpar;](https://www.youtube.com/watch?v=fKiOZZL71iA)
-- [LunchBytes - Fusion Development with Power Apps](https://www.youtube.com/watch?v=lh4yj4TANxs)
 - [AI Show Live - Episode 61 - MLOps &lpar;v2&rpar; - Unifying MLOps at Microsoft](https://www.youtube.com/watch?v=xaW_A0sV6PU)
 - [Build Recap | Responsible AI Dashboard and Scorecard in Azure Machine Learning](https://www.youtube.com/watch?v=1AYQBW11jXE)
 <!-- YOUTUBECNA:END -->
