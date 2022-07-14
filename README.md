@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Gateway Load Balancer now generally available in all regions](https://azure.microsoft.com/blog/gateway-load-balancer-now-generally-available-in-all-regions/)
 - [Microsoft joins Jakarta EE and MicroProfile Working Groups at Eclipse Foundation](https://azure.microsoft.com/blog/microsoft-joins-jakarta-ee-and-microprofile-working-groups-at-eclipse-foundation/)
 - [Accelerating capital markets workloads for Murex on Azure](https://azure.microsoft.com/blog/accelerating-capital-markets-workloads-for-murex-on-azure/)
 - [Modernize with Azure Migrate](https://azure.microsoft.com/blog/modernize-with-azure-migrate/)
 - [MLOps Blog Series Part 4: Testing security of secure machine learning systems using MLOps](https://azure.microsoft.com/blog/mlops-blog-series-part-4-testing-security-of-secure-machine-learning-systems-using-mlops/)
-- [How Microsoft Azure Cross-region Load Balancer helps create region redundancy and low latency](https://azure.microsoft.com/blog/how-microsoft-azure-crossregion-load-balancer-helps-create-region-redundancy-and-low-latency/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
