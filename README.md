@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What didn&#39;t college prepare you for?   #shorts](https://www.youtube.com/watch?v=DAvgaDeMpa4)
 - [Bringing the power of blockchain to Azure SQL Database and SQL Server with ledger | Data Exposed](https://www.youtube.com/watch?v=82nb8_0N8PM)
 - [Azure SQL July 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=F61w5Bpjyzo)
 - [What can I do with Azure Form Recognizer?](https://www.youtube.com/watch?v=3v6OjVYYWe0)
 - [LunchBytes - Fusion Development with Power Apps](https://www.youtube.com/watch?v=lh4yj4TANxs)
-- [Armchair Architects: Architecting Mission Critical Apps](https://www.youtube.com/watch?v=xn01p6aZtSI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
