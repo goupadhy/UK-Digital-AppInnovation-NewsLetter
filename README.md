@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Celebrate the Low-Code Revolution at the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=UUUtJMUfRjk)
+- [Discover What&#39;s New and Next at Microsoft Power Platform Conference](https://www.youtube.com/watch?v=UUUtJMUfRjk)
 - [How Accenture Transformed with Power Platform – Power CAT Live](https://www.youtube.com/watch?v=SbtAoJywjM4)
 - [Jeff Teper invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=K6LUz1Iw7Bg)
 - [Results Explorer Tutorial | Intelligent Recommendations](https://www.youtube.com/watch?v=tkYeGy0mGlE)
