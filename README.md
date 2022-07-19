@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MR Speaker Series: Ask Us Anything about MRTK3 Public Preview](https://www.youtube.com/watch?v=dlwDkOfM-ps)
+- [Journey into XR Development - Episode 10 - Careers in Mixed Reality](https://www.youtube.com/watch?v=T-KCBNEIgac)
 - [AI Show Live - Episode 61 - MLOps &lpar;v2&rpar; - Unifying MLOps at Microsoft](https://www.youtube.com/watch?v=xaW_A0sV6PU)
 - [What didn&#39;t college prepare you for?   #shorts](https://www.youtube.com/watch?v=DAvgaDeMpa4)
 - [Bringing the power of blockchain to Azure SQL Database and SQL Server with ledger | Data Exposed](https://www.youtube.com/watch?v=82nb8_0N8PM)
-- [Azure SQL July 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=F61w5Bpjyzo)
-- [What can I do with Azure Form Recognizer?](https://www.youtube.com/watch?v=3v6OjVYYWe0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
