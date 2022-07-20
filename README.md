@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Webinar: Discover the new Microsoft Sustainability Manager](https://www.youtube.com/watch?v=az1Zkv6fFMc)
 - [Microsoft and Leonardo collaborating to help government customers in Italy](https://www.youtube.com/watch?v=FPigM91F4vU)
 - [Royal Bank of Canada speeds innovation with Azure Arc-enabled data services](https://www.youtube.com/watch?v=lYvzrMgdReI)
 - [Çağlayan Arkan presents the Art of Possible: Breaking free of scale purgatory in manufacturing](https://www.youtube.com/watch?v=ae4MnQKviHE)
 - [Grupo Bimbo accelerates its sustainability journey with Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=DEXuXW2OaFc)
-- [Wolverine Worldwide boosts business performance and employee experience using RISE with SAP on Azure](https://www.youtube.com/watch?v=NjwsD_TGhIU)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
