@@ -81,9 +81,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEAPPMOD:START -->
 - [Creating context for your Advisor Recommendations](https://www.youtube.com/watch?v=oPBQ19gmcJ4)
 - [MR Speaker Series: Ask Us Anything about MRTK3 Public Preview](https://www.youtube.com/watch?v=dlwDkOfM-ps)
-- [Journey into XR Development - Episode 10 - Careers in Mixed Reality](https://www.youtube.com/watch?v=T-KCBNEIgac)
 - [AI Show Live - Episode 61 - MLOps &lpar;v2&rpar; - Unifying MLOps at Microsoft](https://www.youtube.com/watch?v=xaW_A0sV6PU)
 - [What didn&#39;t college prepare you for?   #shorts](https://www.youtube.com/watch?v=DAvgaDeMpa4)
+- [Bringing the power of blockchain to Azure SQL Database and SQL Server with ledger | Data Exposed](https://www.youtube.com/watch?v=82nb8_0N8PM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
