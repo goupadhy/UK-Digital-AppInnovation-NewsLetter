@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 62 - Multiplatform Inference with the ONNX Runtime](https://www.youtube.com/watch?v=CDtF2aYdFvw)
 - [Backup and Restore your Azure Database for MySQL - Flexible Server workload | Data Exposed](https://www.youtube.com/watch?v=Deo4qIlXZkw)
 - [Fluent UI Insights: Positioning](https://www.youtube.com/watch?v=yhzAn4A1gbk)
 - [What can a JavaScript developer do with Azure Vision Services?](https://www.youtube.com/watch?v=jgGFdXed190)
 - [Creating context for your Advisor Recommendations](https://www.youtube.com/watch?v=oPBQ19gmcJ4)
-- [MR Speaker Series: Ask Us Anything about MRTK3 Public Preview](https://www.youtube.com/watch?v=dlwDkOfM-ps)
 <!-- YOUTUBEAPPMOD:END -->
 
 
