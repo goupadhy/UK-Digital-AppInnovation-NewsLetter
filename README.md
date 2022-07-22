@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Track your data supply chain using Azure Purview | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ISiAuGEfN9Q)
 - [Ep 61 | MLOps &lpar;v2&rpar; - Unifying MLOps at Microsoft](https://www.youtube.com/watch?v=mYKGm5LeqFg)
 - [When should students start thinking about applying for an internship?  #Shorts](https://www.youtube.com/watch?v=La6e2H3V35k)
 - [AI Show Live - Episode 62 - Multiplatform Inference with the ONNX Runtime](https://www.youtube.com/watch?v=CDtF2aYdFvw)
 - [Backup and Restore your Azure Database for MySQL - Flexible Server workload | Data Exposed](https://www.youtube.com/watch?v=Deo4qIlXZkw)
-- [Fluent UI Insights: Positioning](https://www.youtube.com/watch?v=yhzAn4A1gbk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
