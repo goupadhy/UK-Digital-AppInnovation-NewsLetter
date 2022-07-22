@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Automate Community AMA](https://www.youtube.com/watch?v=Rjzhn4nfGFA)
 - [Introduction to Table Permissions, Web Roles, User Identity | Microsoft Power Pages](https://www.youtube.com/watch?v=AhHe-yRdU_I)
 - [Faster Installs With The CoE Command Line Interface - Power CAT Live](https://www.youtube.com/watch?v=UD-ueP1NvLk)
 - [Power Automate Pay-as-you-go plan](https://www.youtube.com/watch?v=mu8lv_lK0KI)
 - [Discover What&#39;s New and Next at Microsoft Power Platform Conference](https://www.youtube.com/watch?v=UUUtJMUfRjk)
-- [How Accenture Transformed with Power Platform – Power CAT Live](https://www.youtube.com/watch?v=SbtAoJywjM4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
