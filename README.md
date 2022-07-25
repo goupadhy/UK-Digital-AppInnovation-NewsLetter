@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [LunchBytes - Build Cloud Native High-Scale Apps with Microsoft Orleans](https://www.youtube.com/watch?v=lFKEp4FrnV8)
 - [Build Your Own Pocket-Sized Altair 8800!](https://www.youtube.com/watch?v=2yyBfw3CARc)
 - [Track your data supply chain using Azure Purview | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ISiAuGEfN9Q)
 - [Ep 61 | MLOps &lpar;v2&rpar; - Unifying MLOps at Microsoft](https://www.youtube.com/watch?v=mYKGm5LeqFg)
 - [When should students start thinking about applying for an internship?  #Shorts](https://www.youtube.com/watch?v=La6e2H3V35k)
-- [AI Show Live - Episode 62 - Multiplatform Inference with the ONNX Runtime](https://www.youtube.com/watch?v=CDtF2aYdFvw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
