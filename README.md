@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Well-Architected mission-critical workloads on Azure](https://www.youtube.com/watch?v=vLY48KCktII)
 - [LunchBytes - Build Cloud Native High-Scale Apps with Microsoft Orleans](https://www.youtube.com/watch?v=lFKEp4FrnV8)
 - [Create and Publish custom GitHub Actions | #AzureHappyHours](https://www.youtube.com/watch?v=UO4qGXD-O1o)
 - [Microsoft Student Developer Day | @MSDevDay](https://www.youtube.com/watch?v=bNbCsmHNYrY)
 - [SWA se Swaagat with Reshmi Sriram | #SamosaChai.NET](https://www.youtube.com/watch?v=qW-2zs9RnQc)
-- [Build Your Own Pocket-Sized Altair 8800!](https://www.youtube.com/watch?v=2yyBfw3CARc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
