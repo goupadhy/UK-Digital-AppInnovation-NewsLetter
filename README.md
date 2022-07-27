@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What are Azure Decision Services?](https://www.youtube.com/watch?v=xx32t2e2OMY)
 - [Microsoft Well-Architected mission-critical workloads on Azure](https://www.youtube.com/watch?v=vLY48KCktII)
 - [LunchBytes - Build Cloud Native High-Scale Apps with Microsoft Orleans](https://www.youtube.com/watch?v=lFKEp4FrnV8)
 - [Create and Publish custom GitHub Actions | #AzureHappyHours](https://www.youtube.com/watch?v=UO4qGXD-O1o)
 - [Microsoft Student Developer Day | @MSDevDay](https://www.youtube.com/watch?v=bNbCsmHNYrY)
-- [SWA se Swaagat with Reshmi Sriram | #SamosaChai.NET](https://www.youtube.com/watch?v=qW-2zs9RnQc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
