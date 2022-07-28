@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to explore your data estate using the Microsoft Purview data catalog | Data Exposed](https://www.youtube.com/watch?v=a8HWPtg8yqY)
 - [SWA se Swaagat with Reshmi Sriram | #SamosaChai.NET](https://www.youtube.com/watch?v=qW-2zs9RnQc)
 - [Learnathon - Learn .NET MAUI | #LearnAtReactor](https://www.youtube.com/watch?v=F9VcnI_AXnU)
 - [Welcome to .NET MAUI &lpar;Multi-platform App UI&rpar; | #SamosaChai.NET](https://www.youtube.com/watch?v=xZwNFB4hx5s)
 - [What are Azure Decision Services?](https://www.youtube.com/watch?v=xx32t2e2OMY)
-- [Microsoft Well-Architected mission-critical workloads on Azure](https://www.youtube.com/watch?v=vLY48KCktII)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
