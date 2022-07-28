@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SWA se Swaagat with Reshmi Sriram | #SamosaChai.NET](https://www.youtube.com/watch?v=qW-2zs9RnQc)
 - [Learnathon - Learn .NET MAUI | #LearnAtReactor](https://www.youtube.com/watch?v=F9VcnI_AXnU)
 - [Welcome to .NET MAUI &lpar;Multi-platform App UI&rpar; | #SamosaChai.NET](https://www.youtube.com/watch?v=xZwNFB4hx5s)
 - [What are Azure Decision Services?](https://www.youtube.com/watch?v=xx32t2e2OMY)
 - [Microsoft Well-Architected mission-critical workloads on Azure](https://www.youtube.com/watch?v=vLY48KCktII)
-- [LunchBytes - Build Cloud Native High-Scale Apps with Microsoft Orleans](https://www.youtube.com/watch?v=lFKEp4FrnV8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
