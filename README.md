@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Student Developer Day | @MSDevDay](https://www.youtube.com/watch?v=bNbCsmHNYrY)
 - [Armchair Architects: The role of Simplicity in Architecture](https://www.youtube.com/watch?v=oE9Md2KPBnA)
 - [How to explore your data estate using the Microsoft Purview data catalog | Data Exposed](https://www.youtube.com/watch?v=a8HWPtg8yqY)
 - [SWA se Swaagat with Reshmi Sriram | #SamosaChai.NET](https://www.youtube.com/watch?v=qW-2zs9RnQc)
 - [Learnathon - Learn .NET MAUI | #LearnAtReactor](https://www.youtube.com/watch?v=F9VcnI_AXnU)
-- [Welcome to .NET MAUI &lpar;Multi-platform App UI&rpar; | #SamosaChai.NET](https://www.youtube.com/watch?v=xZwNFB4hx5s)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
