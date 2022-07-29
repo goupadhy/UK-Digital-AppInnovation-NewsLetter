@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Overview of Microsoft Dataverse](https://www.youtube.com/watch?v=47YS2liNf6E)
 - [Join us at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=wQGThTyIAyM)
 - [Easily edit sites in Power Pages Design Studio](https://www.youtube.com/watch?v=IjpL2y8Rdj0)
 - [Getting started with Power Pages](https://www.youtube.com/watch?v=8r1_HMIko94)
 - [Discover Power Pages for website creation](https://www.youtube.com/watch?v=64Ixoswt6vQ)
-- [Canvas Components &amp; Component Libraries - Power CAT Live](https://www.youtube.com/watch?v=grTdm_JSasU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
