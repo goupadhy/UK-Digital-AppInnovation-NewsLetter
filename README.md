@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Johnson Controls takes a smart approach to manufacturing with Microsoft Teams and Power Platform](https://www.youtube.com/watch?v=GsK8p34Z6Zs)
 - [Power BI Community Show Episode 9 - Datamarts &amp; New Power BI Community Features](https://www.youtube.com/watch?v=EuAPh56GWs4)
 - [Overview of Microsoft Dataverse](https://www.youtube.com/watch?v=47YS2liNf6E)
 - [Join us at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=wQGThTyIAyM)
 - [Easily edit sites in Power Pages Design Studio](https://www.youtube.com/watch?v=IjpL2y8Rdj0)
-- [Getting started with Power Pages](https://www.youtube.com/watch?v=8r1_HMIko94)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
