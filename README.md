@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [5 steps to prepare developers for cloud modernization](https://azure.microsoft.com/blog/5-steps-to-prepare-developers-for-cloud-modernization/)
 - [Microsoft Cost Management updates – July 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-july-2022/)
 - [Track adversaries and improve posture with Microsoft threat intelligence solutions ](https://azure.microsoft.com/blog/track-adversaries-and-improve-posture-with-microsoft-threat-intelligence-solutions/)
 - [Azure empowers easy-to-use, high-performance, and hyperscale model training using DeepSpeed](https://azure.microsoft.com/blog/azure-empowers-easytouse-highperformance-and-hyperscale-model-training-using-deepspeed/)
 - [Microsoft Cost Details API now generally available for EA and MCA customers](https://azure.microsoft.com/blog/microsoft-cost-details-api-now-generally-available-for-ea-and-mca-customers/)
-- [Migrate and modernize with Azure to power innovation across the entire digital estate](https://azure.microsoft.com/blog/migrate-and-modernize-with-azure-to-power-innovation-across-the-entire-digital-estate/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
