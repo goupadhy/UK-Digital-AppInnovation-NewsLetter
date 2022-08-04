@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Add a Power App to Teams in 30 Seconds | Power Platform Shorts](https://www.youtube.com/watch?v=dEWjMMDEUU0)
 - [Celebrate the Low-Code Revolution at Microsoft Power Platform Conference](https://www.youtube.com/watch?v=niWxKkmZ2Ic)
 - [Microsoft Power Platform 2022 Release Wave 2 Release Highlights](https://www.youtube.com/watch?v=M1ZuBBZEg2M)
 - [Power Apps Ratings - Power CAT Live](https://www.youtube.com/watch?v=OAEov0NozJg)
 - [Johnson Controls takes a smart approach to manufacturing with Microsoft Teams and Power Platform](https://www.youtube.com/watch?v=GsK8p34Z6Zs)
-- [Power BI Community Show Episode 9 - Datamarts &amp; New Power BI Community Features](https://www.youtube.com/watch?v=EuAPh56GWs4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
