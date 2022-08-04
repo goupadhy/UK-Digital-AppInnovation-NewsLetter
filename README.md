@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Synapse Link for SQL | Data Exposed](https://www.youtube.com/watch?v=9xdoMrhDDP8)
 - [What does it mean to train a custom AI model?](https://www.youtube.com/watch?v=dY-ACRYHPhM)
 - [Can I switch teams at Microsoft? How hard is it to switch teams?  #Shorts](https://www.youtube.com/watch?v=5hl-NC0x3Uo)
 - [AI Show Live - Episode 62 - Multiplatform Inference with the ONNX Runtime](https://www.youtube.com/watch?v=CDtF2aYdFvw)
 - [How to Build a Bionic Hand - Open Source Prosthetics](https://www.youtube.com/watch?v=60XyevlK2GI)
-- [Microsoft Student Developer Day | @MSDevDay](https://www.youtube.com/watch?v=bNbCsmHNYrY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
