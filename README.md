@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What was the most unexpected thing that happened to you when working at Microsoft?   #Shorts](https://www.youtube.com/watch?v=tsxxcu-NTOY)
 - [A glimpse into our startup&#39;s challenges &amp; success with Azure | #ScaleUpThursday](https://www.youtube.com/watch?v=Vegy5F6dRuA)
 - [Azure Synapse Link for SQL | Data Exposed](https://www.youtube.com/watch?v=9xdoMrhDDP8)
 - [What does it mean to train a custom AI model?](https://www.youtube.com/watch?v=dY-ACRYHPhM)
 - [Can I switch teams at Microsoft? How hard is it to switch teams?  #Shorts](https://www.youtube.com/watch?v=5hl-NC0x3Uo)
-- [AI Show Live - Episode 62 - Multiplatform Inference with the ONNX Runtime](https://www.youtube.com/watch?v=CDtF2aYdFvw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
