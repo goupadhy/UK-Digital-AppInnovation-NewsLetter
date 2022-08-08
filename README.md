@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure Lab Services August 2022 update—Improved classroom and training experience](https://azure.microsoft.com/blog/azure-lab-services-august-2022-update-improved-classroom-and-training-experience/)
 - [Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major](https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/)
 - [5 steps to prepare developers for cloud modernization](https://azure.microsoft.com/blog/5-steps-to-prepare-developers-for-cloud-modernization/)
 - [Microsoft Cost Management updates – July 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-july-2022/)
 - [Track adversaries and improve posture with Microsoft threat intelligence solutions ](https://azure.microsoft.com/blog/track-adversaries-and-improve-posture-with-microsoft-threat-intelligence-solutions/)
-- [Azure empowers easy-to-use, high-performance, and hyperscale model training using DeepSpeed](https://azure.microsoft.com/blog/azure-empowers-easytouse-highperformance-and-hyperscale-model-training-using-deepspeed/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
