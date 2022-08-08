@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Hugo Bernier at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=_K66oG7wta4)
 - [Improving MORE App UI in 60 Seconds | Power Platform Shorts](https://www.youtube.com/watch?v=d-TZu04icUE)
 - [Stephen Siciliano invites you to the Microsoft Power Platform Conference](https://www.youtube.com/watch?v=tB0wHYpat-0)
 - [Add a Power App to Teams in 30 Seconds | Power Platform Shorts](https://www.youtube.com/watch?v=dEWjMMDEUU0)
 - [Celebrate the Low-Code Revolution at Microsoft Power Platform Conference](https://www.youtube.com/watch?v=niWxKkmZ2Ic)
-- [Microsoft Power Platform 2022 Release Wave 2 Release Highlights](https://www.youtube.com/watch?v=M1ZuBBZEg2M)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
