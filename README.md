@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Security for next generation telecommunication networks](https://azure.microsoft.com/blog/security-for-next-generation-telecommunication-networks/)
 - [Azure Lab Services August 2022 update—Improved classroom and training experience](https://azure.microsoft.com/blog/azure-lab-services-august-2022-update-improved-classroom-and-training-experience/)
 - [Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major](https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/)
 - [5 steps to prepare developers for cloud modernization](https://azure.microsoft.com/blog/5-steps-to-prepare-developers-for-cloud-modernization/)
 - [Microsoft Cost Management updates – July 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-july-2022/)
-- [Track adversaries and improve posture with Microsoft threat intelligence solutions ](https://azure.microsoft.com/blog/track-adversaries-and-improve-posture-with-microsoft-threat-intelligence-solutions/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
