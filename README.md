@@ -26,10 +26,10 @@ We hope that these resources will help you innovate and address the real-world n
  
 <!-- YOUTUBECNA:START -->
 - [LunchBytes - Power Platform Governance with COE Starter Kit](https://www.youtube.com/watch?v=_m4Zw1cBBx0)
+- [LunchBytes - Cloud Native Load Testing](https://www.youtube.com/watch?v=zov1VjGcJ2w)
 - [What was the most unexpected thing that happened to you when working at Microsoft?   #Shorts](https://www.youtube.com/watch?v=tsxxcu-NTOY)
 - [A glimpse into our startup&#39;s challenges &amp; success with Azure | #ScaleUpThursday](https://www.youtube.com/watch?v=Vegy5F6dRuA)
 - [Azure Synapse Link for SQL | Data Exposed](https://www.youtube.com/watch?v=9xdoMrhDDP8)
-- [What does it mean to train a custom AI model?](https://www.youtube.com/watch?v=dY-ACRYHPhM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
