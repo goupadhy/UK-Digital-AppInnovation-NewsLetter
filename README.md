@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL August 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=iaelwvd_xIc)
+- [Application development scenarios on Azure](https://www.youtube.com/watch?v=rB30J_xjAa4)
 - [What is TitletownTech?](https://www.youtube.com/watch?v=YtJCWdOuK2A)
 - [LunchBytes - Power Platform Governance with COE Starter Kit](https://www.youtube.com/watch?v=_m4Zw1cBBx0)
 - [LunchBytes - Cloud Native Load Testing](https://www.youtube.com/watch?v=zov1VjGcJ2w)
-- [What was the most unexpected thing that happened to you when working at Microsoft?   #Shorts](https://www.youtube.com/watch?v=tsxxcu-NTOY)
-- [A glimpse into our startup&#39;s challenges &amp; success with Azure | #ScaleUpThursday](https://www.youtube.com/watch?v=Vegy5F6dRuA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
