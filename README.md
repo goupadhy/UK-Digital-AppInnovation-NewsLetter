@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Heidi Jordan at the First-Ever Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=UQ-yZwSX__Y)
 - [Call2Recycle drives innovation in battery recycling with Business Central and Power Platform](https://www.youtube.com/watch?v=d6BQbhyXdYU)
 - [Malin Martnes | Community Connections](https://www.youtube.com/watch?v=2L-kCWimgyk)
 - [Administer Power Pages with the CoE Kit - Power CAT Live](https://www.youtube.com/watch?v=FrHSIqTRbg8)
 - [Join Hugo Bernier at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=_K66oG7wta4)
-- [Improving MORE App UI in 60 Seconds | Power Platform Shorts](https://www.youtube.com/watch?v=d-TZu04icUE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
