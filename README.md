@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL Insiders Series: Azure Advisor Signals – What are they | Data Exposed](https://www.youtube.com/watch?v=LmQz7JmoiQs)
 - [AI Show Live - Episode 63 - Deep Dive into Responsible AI Dashboard and Scorecard Description](https://www.youtube.com/watch?v=lVc187J25ig)
 - [Azure SQL August 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=iaelwvd_xIc)
 - [Application development scenarios on Azure](https://www.youtube.com/watch?v=rB30J_xjAa4)
 - [What is TitletownTech?](https://www.youtube.com/watch?v=YtJCWdOuK2A)
-- [LunchBytes - Power Platform Governance with COE Starter Kit](https://www.youtube.com/watch?v=_m4Zw1cBBx0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
