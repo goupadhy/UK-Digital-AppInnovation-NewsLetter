@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Serverless September: Azure Functions](https://www.youtube.com/watch?v=wB5Va1a-MeY)
 - [SQL Insiders Series: Azure Advisor Signals – What are they | Data Exposed](https://www.youtube.com/watch?v=LmQz7JmoiQs)
 - [AI Show Live - Episode 63 - Deep Dive into Responsible AI Dashboard and Scorecard Description](https://www.youtube.com/watch?v=lVc187J25ig)
 - [Azure SQL August 2022 New Updates | Data Exposed Live](https://www.youtube.com/watch?v=iaelwvd_xIc)
 - [Application development scenarios on Azure](https://www.youtube.com/watch?v=rB30J_xjAa4)
-- [What is TitletownTech?](https://www.youtube.com/watch?v=YtJCWdOuK2A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
