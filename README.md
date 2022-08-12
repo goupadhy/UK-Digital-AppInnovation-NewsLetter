@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Blue Radix helps solve the greenhouse aging crisis with Azure automation](https://www.youtube.com/watch?v=RbmGSPMHY_s)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Nina Holdaway | Part 1](https://www.youtube.com/watch?v=TlcNW_K9k4s)
 - [Webinar: Discover the new Microsoft Sustainability Manager](https://www.youtube.com/watch?v=az1Zkv6fFMc)
 - [Microsoft and Leonardo collaborating to help government customers in Italy](https://www.youtube.com/watch?v=FPigM91F4vU)
 - [Royal Bank of Canada speeds innovation with Azure Arc-enabled data services](https://www.youtube.com/watch?v=lYvzrMgdReI)
-- [Çağlayan Arkan presents the Art of Possible: Breaking free of scale purgatory in manufacturing](https://www.youtube.com/watch?v=ae4MnQKviHE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
