@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [If I’m a startup, how do I submit to get funding from TitleTownTech?](https://www.youtube.com/watch?v=4EfbQ3KL09k)
 - [Define a health model to monitor your mission-critical workloads on Azure](https://www.youtube.com/watch?v=9C4RUuqZG8w)
 - [AI Show Live - Episode 63 - Deep Dive into Responsible AI Dashboard and Scorecard Description](https://www.youtube.com/watch?v=lVc187J25ig)
 - [Ask the Expert: Serverless September: Azure Container Apps](https://www.youtube.com/watch?v=KiArpit1-s8)
 - [Create and Publish custom GitHub Actions | #AzureHappyHours](https://www.youtube.com/watch?v=UO4qGXD-O1o)
-- [Ask the Expert: Serverless September: Azure Functions](https://www.youtube.com/watch?v=wB5Va1a-MeY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
