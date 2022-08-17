@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [We Want to Hear YOUR Story](https://www.youtube.com/watch?v=bV7M1FiGlPM)
 - [Automate Power Platform With Admin APIs - Power CAT Live](https://www.youtube.com/watch?v=TwEd5r7TJJs)
 - [Join Luise Freese at the First-Ever Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=huFWor5ZkB8)
 - [Using Dataverse Dependent Assemblies](https://www.youtube.com/watch?v=-UkyyCranTk)
 - [Join Heidi Jordan at the First-Ever Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=UQ-yZwSX__Y)
-- [Call2Recycle drives innovation in battery recycling with Business Central and Power Platform](https://www.youtube.com/watch?v=d6BQbhyXdYU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
