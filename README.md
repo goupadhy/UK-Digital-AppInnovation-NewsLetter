@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [No Code Micro Workshop Part 4: How to create an Azure Boards Chatbot with Power Virtual Agents](https://www.youtube.com/watch?v=tkLVJ3DoWkI)
+- [No Code Micro Workshop Pt 3: How to Create a Scheduled Azure Boards Status Email w/ Azure Logic Apps](https://www.youtube.com/watch?v=9OUqp-0L0Dw)
+- [No Code Micro Workshop Pt 2: How to Create Azure Logic Apps to Auto-create Multiple Work Items](https://www.youtube.com/watch?v=e7X51cpumDE)
+- [No Code Micro Workshop Pt 1: How to Create a Pre-Populated Azure DevOps Project](https://www.youtube.com/watch?v=hClhzxf7ePk)
 - [If I’m a startup, how do I submit to get funding from TitleTownTech?](https://www.youtube.com/watch?v=4EfbQ3KL09k)
-- [Define a health model to monitor your mission-critical workloads on Azure](https://www.youtube.com/watch?v=9C4RUuqZG8w)
-- [AI Show Live - Episode 63 - Deep Dive into Responsible AI Dashboard and Scorecard Description](https://www.youtube.com/watch?v=lVc187J25ig)
-- [Ask the Expert: Serverless September: Azure Container Apps](https://www.youtube.com/watch?v=KiArpit1-s8)
-- [Create and Publish custom GitHub Actions | #AzureHappyHours](https://www.youtube.com/watch?v=UO4qGXD-O1o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
