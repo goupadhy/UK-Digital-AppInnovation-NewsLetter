@@ -80,10 +80,10 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
 - [No Code Micro Workshop Using Azure DevOps, Azure Logic Apps, Power Automate, &amp;Power Virtual Agents](https://www.youtube.com/watch?v=h3emQ3Bzdv0)
-- [No Code Micro Workshop Part 4: How to create an Azure Boards Chatbot with Power Virtual Agents](https://www.youtube.com/watch?v=tkLVJ3DoWkI)
-- [No Code Micro Workshop Pt 3: How to Create a Scheduled Azure Boards Status Email w/ Azure Logic Apps](https://www.youtube.com/watch?v=9OUqp-0L0Dw)
-- [No Code Micro Workshop Pt 2: How to Create Azure Logic Apps to Auto-create Multiple Work Items](https://www.youtube.com/watch?v=e7X51cpumDE)
-- [No Code Micro Workshop Pt 1: How to Create a Pre-Populated Azure DevOps Project](https://www.youtube.com/watch?v=hClhzxf7ePk)
+- [How to create an Azure Boards Chatbot with Power Virtual Agents - No Code Micro Workshop Part 4](https://www.youtube.com/watch?v=tkLVJ3DoWkI)
+- [How to Create a Scheduled Azure Boards Status Email w/ Azure Logic Apps  No Code Micro Workshop Pt 3](https://www.youtube.com/watch?v=9OUqp-0L0Dw)
+- [How to Create Azure Logic Apps to Auto-create Multiple Work Items - No Code Micro Workshop Pt 2](https://www.youtube.com/watch?v=e7X51cpumDE)
+- [How to Create a Pre-Populated Azure DevOps Project - No Code Micro Workshop Pt 1](https://www.youtube.com/watch?v=hClhzxf7ePk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
