@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Insider Series: Protect your sensitive data using Azure SQL DB | Data Exposed](https://www.youtube.com/watch?v=5ajazSyWA2I)
 - [No Code Micro Workshop Using Azure DevOps, Azure Logic Apps, Power Automate, &amp;Power Virtual Agents](https://www.youtube.com/watch?v=h3emQ3Bzdv0)
 - [How to create an Azure Boards Chatbot with Power Virtual Agents - No Code Micro Workshop Part 4](https://www.youtube.com/watch?v=tkLVJ3DoWkI)
 - [How to Create a Scheduled Azure Boards Status Email w/ Azure Logic Apps  No Code Micro Workshop Pt 3](https://www.youtube.com/watch?v=9OUqp-0L0Dw)
 - [How to Create Azure Logic Apps to Auto-create Multiple Work Items - No Code Micro Workshop Pt 2](https://www.youtube.com/watch?v=e7X51cpumDE)
-- [How to Create a Pre-Populated Azure DevOps Project - No Code Micro Workshop Pt 1](https://www.youtube.com/watch?v=hClhzxf7ePk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
