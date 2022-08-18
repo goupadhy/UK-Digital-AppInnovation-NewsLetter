@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to automate invoice data copy to Excel in 1 minute](https://www.youtube.com/watch?v=PD2eKTzkZ70)
 - [We Want to Hear YOUR Story](https://www.youtube.com/watch?v=bV7M1FiGlPM)
 - [Automate Power Platform With Admin APIs - Power CAT Live](https://www.youtube.com/watch?v=TwEd5r7TJJs)
 - [Join Luise Freese at the First-Ever Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=huFWor5ZkB8)
 - [Using Dataverse Dependent Assemblies](https://www.youtube.com/watch?v=-UkyyCranTk)
-- [Join Heidi Jordan at the First-Ever Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=UQ-yZwSX__Y)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
