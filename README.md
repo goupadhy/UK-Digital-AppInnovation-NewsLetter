@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [High availability solutions on Microsoft Azure by SLES for SAP Applications](https://azure.microsoft.com/blog/high-availability-solutions-on-microsoft-azure-by-sles-for-sap-applications/)
 - [Dive deep into NAT gateway’s SNAT port behavior](https://azure.microsoft.com/blog/dive-deep-into-nat-gateway-s-snat-port-behavior/)
 - [Gain Deeper Insights with Microsoft Intelligent Data Platform](https://azure.microsoft.com/blog/gain-deeper-insights-with-microsoft-intelligent-data-platform/)
 - [Azure Data Explorer: Log and telemetry analytics benchmark](https://azure.microsoft.com/blog/azure-data-explorer-log-and-telemetry-analytics-benchmark/)
 - [Announcing Microsoft Dev Box Preview](https://azure.microsoft.com/blog/announcing-microsoft-dev-box-preview/)
-- [Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services](https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
