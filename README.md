@@ -26,7 +26,7 @@ We hope that these resources will help you innovate and address the real-world n
  
 <!-- YOUTUBECNA:START -->
 - [Fluent UI Insights: Styling](https://www.youtube.com/watch?v=a8TFywbXBt0)
-- [Using For Loops in Azure Logic Apps retrieve Azure DevOps Work Items - No Code Micro Workshop Clip](https://www.youtube.com/watch?v=13JvIktVZfs)
+- [Using For Loops in Azure Logic Apps To Retrieve Azure DevOps Work Items - No Code Micro Workshop](https://www.youtube.com/watch?v=13JvIktVZfs)
 - [Ep 63 | Deep Dive into Responsible AI Dashboard and Scorecard](https://www.youtube.com/watch?v=2ZK9X7YSg20)
 - [Serverless pe Charcha with Aditya Oberai | #SamosaChai.NET](https://www.youtube.com/watch?v=dyuyehNDMaI)
 - [Build an IoT Solution in Under 5 Minutes](https://www.youtube.com/watch?v=XPK3RUUPbjA)
