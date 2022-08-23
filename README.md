@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Shane Young at the first ever Power Platform Conference!](https://www.youtube.com/watch?v=-Leo9NIrf0Y)
 - [Environment Capacity Management in the CoE Starter Kit - Power CAT Live](https://www.youtube.com/watch?v=urHYfMnWFM8)
 - [Join Scott Hanselman at the Power Platform Conference in just one month!](https://www.youtube.com/watch?v=YecdjPXBV9c)
 - [How to automate invoice data copy to Excel in 1 minute](https://www.youtube.com/watch?v=PD2eKTzkZ70)
 - [We Want to Hear YOUR Story](https://www.youtube.com/watch?v=bV7M1FiGlPM)
-- [Automate Power Platform With Admin APIs - Power CAT Live](https://www.youtube.com/watch?v=TwEd5r7TJJs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
