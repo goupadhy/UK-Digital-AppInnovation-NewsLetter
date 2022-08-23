@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Terminating an Azure Logic App when a Condition is Not Met](https://www.youtube.com/watch?v=iPN5wmEeots)
 - [Comparing Data in Azure Logic Apps using a Condition Connector](https://www.youtube.com/watch?v=aki5Do_-mY8)
 - [Fluent UI Insights: Styling](https://www.youtube.com/watch?v=a8TFywbXBt0)
 - [Using For Loops in Azure Logic Apps To Retrieve Azure DevOps Work Items - No Code Micro Workshop](https://www.youtube.com/watch?v=13JvIktVZfs)
 - [Ep 63 | Deep Dive into Responsible AI Dashboard and Scorecard](https://www.youtube.com/watch?v=2ZK9X7YSg20)
-- [Serverless pe Charcha with Aditya Oberai | #SamosaChai.NET](https://www.youtube.com/watch?v=dyuyehNDMaI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
