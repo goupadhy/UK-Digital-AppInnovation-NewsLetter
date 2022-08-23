@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Triggering a Logic App to Retrieve Results from an Azure Boards Query](https://www.youtube.com/watch?v=SBovYWvrgYw)
 - [Adding a Field to an Azure Boards Query to Use with a Logic App](https://www.youtube.com/watch?v=oxRcGHogz08)
 - [Do you have any interview tips for internships?](https://www.youtube.com/watch?v=vlU9hc2vaUY)
 - [Azure Landing Zones Bicep – Enabling landing zones](https://www.youtube.com/watch?v=cZ7IN3zGbyM)
 - [Azure Landing Zones Bicep – Enabling platform services](https://www.youtube.com/watch?v=FNT0ZtUxYKQ)
-- [Introduction to Azure Landing Zones Bicep](https://www.youtube.com/watch?v=-pZNrH1GOxs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
