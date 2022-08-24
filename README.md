@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Low Code Revolution - Using MS Power Platform, AI builder, DataVerse and Power BI](https://www.youtube.com/watch?v=vZSWU41IKHM)
 - [Confirming Work Item Template Automation](https://www.youtube.com/watch?v=CVWKEvLtuzA)
 - [Testing the Azure Logic App and Azure Boards Work Item Template Automation](https://www.youtube.com/watch?v=B4OdbCfZnn8)
 - [Triggering a Logic App to Retrieve Results from an Azure Boards Query](https://www.youtube.com/watch?v=SBovYWvrgYw)
 - [Adding a Field to an Azure Boards Query to Use with a Logic App](https://www.youtube.com/watch?v=oxRcGHogz08)
-- [Do you have any interview tips for internships?](https://www.youtube.com/watch?v=vlU9hc2vaUY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
