@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 64 - Applied AI: Computer Vision and OCR](https://www.youtube.com/watch?v=vecXPWlRaLw)
 - [Querying Azure Boards for an Automated Custom Status Email](https://www.youtube.com/watch?v=I8-QbzHLy6o)
 - [LunchBytes - Cloud Native Load Testing](https://www.youtube.com/watch?v=zov1VjGcJ2w)
 - [Low Code Revolution - Using MS Power Platform, AI builder, DataVerse and Power BI](https://www.youtube.com/watch?v=vZSWU41IKHM)
 - [Confirming Work Item Template Automation](https://www.youtube.com/watch?v=CVWKEvLtuzA)
-- [Testing the Azure Logic App and Azure Boards Work Item Template Automation](https://www.youtube.com/watch?v=B4OdbCfZnn8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
