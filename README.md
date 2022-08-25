@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [A glimpse into our startup&#39;s challenges &amp; success with Azure | #ScaleUpThursday](https://www.youtube.com/watch?v=Vegy5F6dRuA)
 - [What kinds of ventures does TitletownTech invest in?](https://www.youtube.com/watch?v=3x-beLchZ7A)
 - [AI Show Live - Episode 64 - Applied AI: Computer Vision and OCR](https://www.youtube.com/watch?v=vecXPWlRaLw)
 - [Querying Azure Boards for an Automated Custom Status Email](https://www.youtube.com/watch?v=I8-QbzHLy6o)
 - [LunchBytes - Cloud Native Load Testing](https://www.youtube.com/watch?v=zov1VjGcJ2w)
-- [Low Code Revolution - Using MS Power Platform, AI builder, DataVerse and Power BI](https://www.youtube.com/watch?v=vZSWU41IKHM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
