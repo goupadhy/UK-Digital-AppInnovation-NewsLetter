@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Open Source Monthly: August 2022 Edition](https://github.blog/2022-08-25-open-source-monthly-august-2022-edition/)
 - [The full lineup for Git Merge 2022 revealed](https://github.blog/2022-08-23-the-full-lineup-for-git-merge-2022-revealed/)
 - [GitHub Discussions is now available on GitHub Enterprise Server](https://github.blog/2022-08-17-github-discussions-is-now-available-on-github-enterprise-server/)
 - [GitHub Enterprise Server 3.6 is now generally available](https://github.blog/2022-08-17-github-enterprise-server-3-6-is-now-generally-available/)
 - [2022 Transparency Report: January to June](https://github.blog/2022-08-16-2022-transparency-report-january-to-june/)
-- [The next step for LGTM.com: GitHub code scanning!](https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
