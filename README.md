@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Creating a Trigger Phrase for My Power Virtual Agent Chatbot](https://www.youtube.com/watch?v=Yq5muqbFXHg)
 - [Lessons Learned from the Azure Database Support Blog Series | Data Exposed](https://www.youtube.com/watch?v=JJ1CyL3xwGY)
 - [A glimpse into our startup&#39;s challenges &amp; success with Azure | #ScaleUpThursday](https://www.youtube.com/watch?v=Vegy5F6dRuA)
 - [What kinds of ventures does TitletownTech invest in?](https://www.youtube.com/watch?v=3x-beLchZ7A)
 - [AI Show Live - Episode 64 - Applied AI: Computer Vision and OCR](https://www.youtube.com/watch?v=vecXPWlRaLw)
-- [Querying Azure Boards for an Automated Custom Status Email](https://www.youtube.com/watch?v=I8-QbzHLy6o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
