@@ -75,7 +75,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Microsoft named a Leader in 2022 Gartner® Magic Quadrant™ for Data Integration Tools](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-data-integration-tools/)
 - [High availability solutions on Microsoft Azure by SLES for SAP Applications](https://azure.microsoft.com/blog/high-availability-solutions-on-microsoft-azure-by-sles-for-sap-applications/)
 - [Dive deep into NAT gateway’s SNAT port behavior](https://azure.microsoft.com/blog/dive-deep-into-nat-gateway-s-snat-port-behavior/)
-- [Gain Deeper Insights with Microsoft Intelligent Data Platform](https://azure.microsoft.com/blog/gain-deeper-insights-with-microsoft-intelligent-data-platform/)
+- [Gain deeper insights with Microsoft Intelligent Data Platform](https://azure.microsoft.com/blog/gain-deeper-insights-with-microsoft-intelligent-data-platform/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
