@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Performing One Final Test of the Power Virtual Agent Chatbot](https://www.youtube.com/watch?v=1XPTkoJH-ng)
 - [Build Your Own Retro Toy Robot - Meet Omnibot](https://www.youtube.com/watch?v=oG8SLTT2NLg)
 - [Finding a Bug in the Power Automate Flow and Correcting it](https://www.youtube.com/watch?v=GOKlNaAKR3Y)
 - [Returning a String Variable from Power Automate to a Power Virtual Agent Bot](https://www.youtube.com/watch?v=B12gyaN_AFA)
 - [Using Apply to Each in a Power Automate Flow to Loop Through Azure DevOps Query Results](https://www.youtube.com/watch?v=DwOL0QQY6jg)
-- [Creating a Logic App to Retrieve Azure DevOps Query Results on a Schedule](https://www.youtube.com/watch?v=Dx1Jbhbko7o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
