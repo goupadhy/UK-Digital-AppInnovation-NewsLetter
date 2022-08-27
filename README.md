@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learnathon - Learn .NET MAUI | #LearnAtReactor](https://www.youtube.com/watch?v=F9VcnI_AXnU)
 - [AI Show Live - Episode 64 - Applied AI: Computer Vision and OCR](https://www.youtube.com/watch?v=vecXPWlRaLw)
 - [Welcome to .NET MAUI &lpar;Multi-platform App UI&rpar; | #SamosaChai.NET](https://www.youtube.com/watch?v=xZwNFB4hx5s)
 - [Performing One Final Test of the Power Virtual Agent Chatbot](https://www.youtube.com/watch?v=1XPTkoJH-ng)
 - [Build Your Own Retro Toy Robot - Meet Omnibot](https://www.youtube.com/watch?v=oG8SLTT2NLg)
-- [Finding a Bug in the Power Automate Flow and Correcting it](https://www.youtube.com/watch?v=GOKlNaAKR3Y)
 <!-- YOUTUBEAPPMOD:END -->
 
 
