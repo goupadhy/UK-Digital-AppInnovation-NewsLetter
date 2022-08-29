@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to Get Started with Jupyter notebooks in Azure Quantum](https://www.youtube.com/watch?v=oBtLn7AY_ns)
+- [How to Create an Azure Quantum Workspace](https://www.youtube.com/watch?v=NvKJRfq3cUs)
+- [Introduction to Azure Quantum](https://www.youtube.com/watch?v=0VGYPj4v-r8)
 - [Learnathon - Learn .NET MAUI | #LearnAtReactor](https://www.youtube.com/watch?v=F9VcnI_AXnU)
 - [AI Show Live - Episode 64 - Applied AI: Computer Vision and OCR](https://www.youtube.com/watch?v=vecXPWlRaLw)
-- [Welcome to .NET MAUI &lpar;Multi-platform App UI&rpar; | #SamosaChai.NET](https://www.youtube.com/watch?v=xZwNFB4hx5s)
-- [Performing One Final Test of the Power Virtual Agent Chatbot](https://www.youtube.com/watch?v=1XPTkoJH-ng)
-- [Build Your Own Retro Toy Robot - Meet Omnibot](https://www.youtube.com/watch?v=oG8SLTT2NLg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
