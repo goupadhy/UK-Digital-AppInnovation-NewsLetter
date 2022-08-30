@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Announcing new enhancements for Azure VMware Solution](https://azure.microsoft.com/blog/announcing-new-enhancements-for-azure-vmware-solution/)
 - [Azure Virtual Machines with Ampere Altra Arm–based processors—generally available](https://azure.microsoft.com/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/)
 - [Enhance Azure Firewall policy management with Tufin SecureTrack integration](https://azure.microsoft.com/blog/enhance-azure-firewall-policy-management-with-tufin-securetrack-integration/)
 - [Microsoft named a Leader in 2022 Gartner® Magic Quadrant™ for Data Integration Tools](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-data-integration-tools/)
 - [High availability solutions on Microsoft Azure by SLES for SAP Applications](https://azure.microsoft.com/blog/high-availability-solutions-on-microsoft-azure-by-sles-for-sap-applications/)
-- [Dive deep into NAT gateway’s SNAT port behavior](https://azure.microsoft.com/blog/dive-deep-into-nat-gateway-s-snat-port-behavior/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
