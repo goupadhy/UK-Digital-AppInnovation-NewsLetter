@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Low Code Revolution - Inside the New RPA Developer Certification](https://www.youtube.com/watch?v=MW-NfZC2jds)
+- [Start using EF Core with your existing Azure SQL Database in 5 minutes | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=1g79ZbeEeL8)
+- [AI Show Live - Episode 65 - Azure Form Recognizer, Deep Learning Container with PyTorch and AzureML](https://www.youtube.com/watch?v=U5G5YH0WTAA)
 - [LunchBytes - Using Terraform with Azure DevOps](https://www.youtube.com/watch?v=PM2MBTP7_-A)
 - [How to Get Started with Jupyter notebooks in Azure Quantum](https://www.youtube.com/watch?v=oBtLn7AY_ns)
-- [How to Create an Azure Quantum Workspace](https://www.youtube.com/watch?v=NvKJRfq3cUs)
-- [Introduction to Azure Quantum](https://www.youtube.com/watch?v=0VGYPj4v-r8)
-- [Learnathon - Learn .NET MAUI | #LearnAtReactor](https://www.youtube.com/watch?v=F9VcnI_AXnU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
