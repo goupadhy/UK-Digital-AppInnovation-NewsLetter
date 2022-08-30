@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes - Using Terraform with Azure DevOps](https://www.youtube.com/watch?v=PM2MBTP7_-A)
 - [How to Get Started with Jupyter notebooks in Azure Quantum](https://www.youtube.com/watch?v=oBtLn7AY_ns)
 - [How to Create an Azure Quantum Workspace](https://www.youtube.com/watch?v=NvKJRfq3cUs)
 - [Introduction to Azure Quantum](https://www.youtube.com/watch?v=0VGYPj4v-r8)
 - [Learnathon - Learn .NET MAUI | #LearnAtReactor](https://www.youtube.com/watch?v=F9VcnI_AXnU)
-- [AI Show Live - Episode 64 - Applied AI: Computer Vision and OCR](https://www.youtube.com/watch?v=vecXPWlRaLw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
