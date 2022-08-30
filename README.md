@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Power CAT Automation Maturity Model – Power CAT Live](https://www.youtube.com/watch?v=a-JevFJ_O5Q)
-- [Join Kristine Kolodziejski at the first Power Platform Conference](https://www.youtube.com/watch?v=iIyIZ9fC0Dc)
-- [Join Shane Young at the first ever Power Platform Conference!](https://www.youtube.com/watch?v=-Leo9NIrf0Y)
-- [Environment Capacity Management in the CoE Starter Kit - Power CAT Live](https://www.youtube.com/watch?v=urHYfMnWFM8)
-- [Join Scott Hanselman at the Power Platform Conference in just one month!](https://www.youtube.com/watch?v=YecdjPXBV9c)
+- [Environment Request Management - CoE Starter Kit](https://www.youtube.com/watch?v=16mspbGz1zA)
+- [Compliance process - CoE Starter Kit](https://www.youtube.com/watch?v=WXXFjHLt5ss)
+- [Managing apps and flows when the owner has left the organization - CoE Starter Kit](https://www.youtube.com/watch?v=0zptiBppTNo)
+- [Setup Instructions - CoE Starter Kit](https://www.youtube.com/watch?v=Lsooi7xp6eA)
+- [Inactivity notifications - CoE Starter Kit](https://www.youtube.com/watch?v=PZ5u_2E9uUI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
