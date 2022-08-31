@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Java Testing | Java for Beginners](https://www.youtube.com/watch?v=nu-Xu1Fz10Q)
+- [Introduction to Java Modules | Java for Beginners](https://www.youtube.com/watch?v=3KP5YiKLkeo)
 - [Learn Live - Explore and analyze data with R](https://www.youtube.com/watch?v=ALQEVEuTXis)
 - [2023-02-Develop in the Cloud](https://www.youtube.com/watch?v=sihXl4_uuUQ)
 - [Low Code Revolution - Inside the New RPA Developer Certification](https://www.youtube.com/watch?v=MW-NfZC2jds)
-- [Start using EF Core with your existing Azure SQL Database in 5 minutes | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=1g79ZbeEeL8)
-- [AI Show Live - Episode 65 - Azure Form Recognizer, Deep Learning Container with PyTorch and AzureML](https://www.youtube.com/watch?v=U5G5YH0WTAA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
