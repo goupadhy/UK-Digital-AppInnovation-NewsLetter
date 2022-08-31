@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Elevate your visualizations with Azure Managed Grafana—now generally available](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
 - [Microsoft Cost Management updates – August 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-august-2022/)
 - [Azure private MEC—A thriving partner ecosystem](https://azure.microsoft.com/blog/azure-private-mec-a-thriving-partner-ecosystem/)
 - [Announcing new enhancements for Azure VMware Solution](https://azure.microsoft.com/blog/announcing-new-enhancements-for-azure-vmware-solution/)
 - [Azure Virtual Machines with Ampere Altra Arm–based processors—generally available](https://azure.microsoft.com/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/)
-- [Enhance Azure Firewall policy management with Tufin SecureTrack integration](https://azure.microsoft.com/blog/enhance-azure-firewall-policy-management-with-tufin-securetrack-integration/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
