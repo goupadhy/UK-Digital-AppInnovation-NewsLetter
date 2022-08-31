@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [Git&#8217;s Database Internals III: File History Queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
+- [What you can expect at GitHub Universe 2022: cloud, security, community, and AI](https://github.blog/2022-08-31-what-you-can-expect-at-github-universe-2022-cloud-security-community-and-ai/)
+- [Git&#8217;s database internals III: file history queries](https://github.blog/2022-08-31-gits-database-internals-iii-file-history-queries/)
 - [Git&#8217;s database internals II: commit history queries](https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/)
 - [Git&#8217;s database internals I: packed object store](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 - [3 ways every company can get started with an open-source software strategy](https://github.blog/2022-08-26-3-ways-every-company-can-get-started-with-an-open-source-software-strategy/)
-- [Keeping your skillset fresh as a developer](https://github.blog/2022-08-25-keeping-your-skillset-fresh-as-a-developer/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
