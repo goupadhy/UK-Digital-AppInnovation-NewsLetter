@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Dian Taylor at the first ever Power Platform Conference!](https://www.youtube.com/watch?v=Kez5a4fAdXQ)
 - [Environment Request Management - CoE Starter Kit](https://www.youtube.com/watch?v=16mspbGz1zA)
 - [Compliance process - CoE Starter Kit](https://www.youtube.com/watch?v=WXXFjHLt5ss)
 - [Managing apps and flows when the owner has left the organization - CoE Starter Kit](https://www.youtube.com/watch?v=0zptiBppTNo)
 - [Setup Instructions - CoE Starter Kit](https://www.youtube.com/watch?v=Lsooi7xp6eA)
-- [Inactivity notifications - CoE Starter Kit](https://www.youtube.com/watch?v=PZ5u_2E9uUI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
