@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Overview of the Table Designer feature in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=178Fl5pm4dY)
 - [Java Testing | Java for Beginners](https://www.youtube.com/watch?v=nu-Xu1Fz10Q)
 - [Introduction to Java Modules | Java for Beginners](https://www.youtube.com/watch?v=3KP5YiKLkeo)
 - [Learn Live - Explore and analyze data with R](https://www.youtube.com/watch?v=ALQEVEuTXis)
 - [2023-02-Develop in the Cloud](https://www.youtube.com/watch?v=sihXl4_uuUQ)
-- [Low Code Revolution - Inside the New RPA Developer Certification](https://www.youtube.com/watch?v=MW-NfZC2jds)
 <!-- YOUTUBEAPPMOD:END -->
 
 
