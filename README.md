@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Overview of the Table Designer feature in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=178Fl5pm4dY)
-- [Java Testing | Java for Beginners](https://www.youtube.com/watch?v=nu-Xu1Fz10Q)
-- [Introduction to Java Modules | Java for Beginners](https://www.youtube.com/watch?v=3KP5YiKLkeo)
-- [Learn Live - Explore and analyze data with R](https://www.youtube.com/watch?v=ALQEVEuTXis)
-- [2023-02-Develop in the Cloud](https://www.youtube.com/watch?v=sihXl4_uuUQ)
+- [Visual Studio Live! - Azure SQL Database Development Inner and Outer Loops](https://www.youtube.com/watch?v=qS40PHYPiR8)
+- [Visual Studio Live! - Choose Azure SQL Database and Learn What Every Developer Should Know](https://www.youtube.com/watch?v=pNBp7KAqs8Q)
+- [Visual Studio Live! - Developing Sophisticated Conversational Experiences w/ Microsoft AI Platform](https://www.youtube.com/watch?v=LH5HoRlxiek)
+- [Visual Studio Live! - Native Cross-Platform Mobile &amp; Desktop Apps with .NET MAUI](https://www.youtube.com/watch?v=X0M9t8o_ezQ)
+- [Visual Studio Live! - Latest Innovations for SQL and Operational Databases for Developers](https://www.youtube.com/watch?v=PA1RCSvoMWI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
