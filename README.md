@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ep 64 | Applied AI: Computer Vision and Optical Character Recognition &lpar;OCR&rpar;](https://www.youtube.com/watch?v=PrjlfdFRUrc)
+- [Build an Augmented Reality App to Shoot Hoops Anywhere](https://www.youtube.com/watch?v=iKnMvYOsyyY)
 - [Visual Studio Live! - Azure SQL Database Development Inner and Outer Loops](https://www.youtube.com/watch?v=qS40PHYPiR8)
 - [Visual Studio Live! - Choose Azure SQL Database and Learn What Every Developer Should Know](https://www.youtube.com/watch?v=pNBp7KAqs8Q)
 - [Visual Studio Live! - Developing Sophisticated Conversational Experiences w/ Microsoft AI Platform](https://www.youtube.com/watch?v=LH5HoRlxiek)
-- [Visual Studio Live! - Native Cross-Platform Mobile &amp; Desktop Apps with .NET MAUI](https://www.youtube.com/watch?v=X0M9t8o_ezQ)
-- [Visual Studio Live! - Latest Innovations for SQL and Operational Databases for Developers](https://www.youtube.com/watch?v=PA1RCSvoMWI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
