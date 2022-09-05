@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learnathon - Azure Functions | #LearnAtReactor](https://www.youtube.com/watch?v=XrIYqBpOdbM)
 - [LunchBytes - Application Modernization for .NET &amp; Java Apps](https://www.youtube.com/watch?v=L5MMV43TR9U)
 - [LunchBytes - Identity in Integration](https://www.youtube.com/watch?v=nw_tRekmijE)
 - [Ep 64 | Applied AI: Computer Vision and Optical Character Recognition &lpar;OCR&rpar;](https://www.youtube.com/watch?v=PrjlfdFRUrc)
 - [Build an Augmented Reality App to Shoot Hoops Anywhere](https://www.youtube.com/watch?v=iKnMvYOsyyY)
-- [Visual Studio Live! - Azure SQL Database Development Inner and Outer Loops](https://www.youtube.com/watch?v=qS40PHYPiR8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
