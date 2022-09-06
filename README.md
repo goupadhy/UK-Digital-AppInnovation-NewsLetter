@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Create a cross-platform app with .NET MAUI](https://www.youtube.com/watch?v=Z7V2DfT9KW4)
 - [Containers, Serverless &amp; IoT Meetup | #AzureHappyHours](https://www.youtube.com/watch?v=qsVTCAd6I7g)
 - [Building a FinTech Platform on Azure | #ScaleUpThursday](https://www.youtube.com/watch?v=uU2LNkqGBPg)
 - [Learnathon - Azure Functions | #LearnAtReactor](https://www.youtube.com/watch?v=XrIYqBpOdbM)
 - [LunchBytes - Application Modernization for .NET &amp; Java Apps](https://www.youtube.com/watch?v=L5MMV43TR9U)
-- [LunchBytes - Identity in Integration](https://www.youtube.com/watch?v=nw_tRekmijE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
