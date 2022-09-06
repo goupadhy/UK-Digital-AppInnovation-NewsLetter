@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Taking Stock Live - a conversation with Shelley Bransten &amp; Francesco Tinto | Part 1](https://www.youtube.com/watch?v=-6vQdsHuruI)
 - [Fortinet grows their business exponentially through the commercial marketplace](https://www.youtube.com/watch?v=a7KEsmrEXz8)
 - [Satya Nadella keynote on Microsoft Cloud for Sovereignty and Azure confidential computing](https://www.youtube.com/watch?v=L35eKUN4ZZ8)
 - [Azure helps Eshgro to grow their business faster and quickly scale to other countries](https://www.youtube.com/watch?v=z59bPOjthHU)
 - [Ingredion aims to make the world a better place for all using powerful sustainability data](https://www.youtube.com/watch?v=II1lM5fmV-o)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Nina Holdaway | Part 2](https://www.youtube.com/watch?v=3aRvzn4ChlE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
