@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Administration Task Planner for Power Platform - Power CAT Live](https://www.youtube.com/watch?v=q6738IKJW1Q)
 - [Join Azure McFarlane at the first ever Power Platform Conference!](https://www.youtube.com/watch?v=c_-MSXhoLRs)
 - [Record your podcast at the Power Platform Community Conference!](https://www.youtube.com/watch?v=_FzZzBNIgoA)
 - [Join Dian Taylor at the first ever Power Platform Conference!](https://www.youtube.com/watch?v=Kez5a4fAdXQ)
 - [Environment Request Management - CoE Starter Kit](https://www.youtube.com/watch?v=16mspbGz1zA)
-- [Compliance process - CoE Starter Kit](https://www.youtube.com/watch?v=WXXFjHLt5ss)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
