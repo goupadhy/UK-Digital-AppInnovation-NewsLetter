@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Caching made easy in Azure SQL DB with FusionCache | Data Exposed](https://www.youtube.com/watch?v=V2fCUoJgVAo)
+- [Continuously validate your mission-critical workload](https://www.youtube.com/watch?v=pJsVwbBR1jE)
 - [Learn Live - Create a cross-platform app with .NET MAUI](https://www.youtube.com/watch?v=Z7V2DfT9KW4)
 - [Learn Live - Introduction to regression models by using R and tidymodels](https://www.youtube.com/watch?v=RY9vp1rNwZU)
 - [LunchBytes - Using Terraform with Azure DevOps](https://www.youtube.com/watch?v=PM2MBTP7_-A)
-- [How can students get involved in the Dev Community?   #Shorts](https://www.youtube.com/watch?v=D4TViOi5Xfw)
-- [Containers, Serverless &amp; IoT Meetup | #AzureHappyHours](https://www.youtube.com/watch?v=qsVTCAd6I7g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
