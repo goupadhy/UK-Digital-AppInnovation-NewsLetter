@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introduction to Java for Beginners | Java for Beginners](https://www.youtube.com/watch?v=LQbfmH8gTZo)
 - [Learn Live - Introduction to regression models by using R and tidymodels](https://www.youtube.com/watch?v=RY9vp1rNwZU)
 - [Learn Live - AKS Security Best Practices](https://www.youtube.com/watch?v=WLgt3kobCxY)
 - [Caching made easy in Azure SQL DB with FusionCache | Data Exposed](https://www.youtube.com/watch?v=V2fCUoJgVAo)
 - [Continuously validate your mission-critical workload](https://www.youtube.com/watch?v=pJsVwbBR1jE)
-- [Learn Live - Create a cross-platform app with .NET MAUI](https://www.youtube.com/watch?v=Z7V2DfT9KW4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
