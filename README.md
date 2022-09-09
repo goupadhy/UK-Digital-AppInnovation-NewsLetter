@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - Episode 65 - Azure Form Recognizer, Deep Learning Container with PyTorch and AzureML](https://www.youtube.com/watch?v=U5G5YH0WTAA)
 - [The Latest from Azure Form Recognizer](https://www.youtube.com/watch?v=7KKoYSqYV7Y)
 - [Introduction to Java for Beginners | Java for Beginners](https://www.youtube.com/watch?v=LQbfmH8gTZo)
 - [Learn Live - Introduction to regression models by using R and tidymodels](https://www.youtube.com/watch?v=RY9vp1rNwZU)
 - [Learn Live - AKS Security Best Practices](https://www.youtube.com/watch?v=WLgt3kobCxY)
-- [Caching made easy in Azure SQL DB with FusionCache | Data Exposed](https://www.youtube.com/watch?v=V2fCUoJgVAo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
