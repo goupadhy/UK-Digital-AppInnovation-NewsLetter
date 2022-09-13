@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Create a UI in a .NET MAUI app by using XAML](https://www.youtube.com/watch?v=l58nO0Hi7W0)
 - [Do you want to be a Developer or a Program Manager?  #Shorts](https://www.youtube.com/watch?v=XANfmDL-pgw)
 - [AI Show Live - Episode 65 - Azure Form Recognizer, Deep Learning Container with PyTorch and AzureML](https://www.youtube.com/watch?v=U5G5YH0WTAA)
 - [The Latest from Azure Form Recognizer](https://www.youtube.com/watch?v=7KKoYSqYV7Y)
 - [Introduction to Java for Beginners | Java for Beginners](https://www.youtube.com/watch?v=LQbfmH8gTZo)
-- [Learn Live - Introduction to regression models by using R and tidymodels](https://www.youtube.com/watch?v=RY9vp1rNwZU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
