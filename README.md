@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How far along in product/idea development do I have to be for TitletownTech to invest?](https://www.youtube.com/watch?v=0GfiW362cL0)
 - [Subscription structure for mission-critical workloads](https://www.youtube.com/watch?v=UkVqvkz_89k)
 - [Learn Live - AKS Security Best Practices](https://www.youtube.com/watch?v=WLgt3kobCxY)
 - [What free developer resources are available to students?   #Shorts](https://www.youtube.com/watch?v=2lGc5dyJ2cs)
 - [Learn Live - Create a UI in a .NET MAUI app by using XAML](https://www.youtube.com/watch?v=l58nO0Hi7W0)
-- [Do you want to be a Developer or a Program Manager?  #Shorts](https://www.youtube.com/watch?v=XANfmDL-pgw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
