@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [New Azure Space products enable digital resiliency and empower the industry](https://azure.microsoft.com/blog/new-azure-space-products-enable-digital-resiliency-and-empower-the-industry/)
 - [Azure API for FHIR and Microsoft’s Power Platform help universities tackle COVID-19](https://azure.microsoft.com/blog/azure-api-for-fhir-and-microsoft-s-power-platform-help-universities-tackle-covid19/)
 - [Elevate your visualizations with Azure Managed Grafana—now generally available](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
 - [Microsoft Cost Management updates – August 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-august-2022/)
 - [Azure private MEC—A thriving partner ecosystem](https://azure.microsoft.com/blog/azure-private-mec-a-thriving-partner-ecosystem/)
-- [Announcing new enhancements for Azure VMware Solution](https://azure.microsoft.com/blog/announcing-new-enhancements-for-azure-vmware-solution/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
