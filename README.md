@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Serverless September: Azure Functions](https://www.youtube.com/watch?v=wB5Va1a-MeY)
 - [How to use Windows Auth with Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=SXBHtE_eXdI)
 - [Azure SQL Security: The What, Why &amp; How of Securing your Data with Azure SQL &lpar;Ep. 6&rpar; | Data Exposed](https://www.youtube.com/watch?v=w39gvf2rTa8)
 - [Learn Live - Introduction to classification models by using R and tidymodels](https://www.youtube.com/watch?v=4nOPout6mv0)
 - [Microsoft Student Summit –Bengaluru India](https://www.youtube.com/watch?v=dV-PacrEg6o)
-- [Developing &#39;GetEmployee&#39; [33 of 37] A Full Stack Application with Azure SQL &amp; Prisma for Beginners](https://www.youtube.com/watch?v=s1mkUR9-A5k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
