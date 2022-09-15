@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Learn Live - Create a UI in a .NET MAUI app by using XAML](https://www.youtube.com/watch?v=l58nO0Hi7W0)
-- [Java Collections | Java for Beginners](https://www.youtube.com/watch?v=cNqIbhYXprk)
-- [Working with Java Maps | Java for Beginners](https://www.youtube.com/watch?v=1mGWMiT6j6c)
-- [Arrays in Java | Java for Beginners](https://www.youtube.com/watch?v=oWzCvL35d0c)
-- [How far along in product/idea development do I have to be for TitletownTech to invest?](https://www.youtube.com/watch?v=0GfiW362cL0)
+- [Developing &#39;GetEmployee&#39; [33 of 37] A Full Stack Application with Azure SQL &amp; Prisma for Beginners](https://www.youtube.com/watch?v=s1mkUR9-A5k)
+- [Important Resources &amp; Recap [11 of 37]| Full Stack Application with Azure SQL &amp; Prisma for Beginners](https://www.youtube.com/watch?v=x1s8BEsLEo4)
+- [Why should we use Azure SQL? [9 of 37]| Full Stack Application with Azure SQL &amp; Prisma for Beginners](https://www.youtube.com/watch?v=sKI0IDSNlKU)
+- [Azure SQL Support in Prisma [10 of 37]| Full Stack Application with Azure SQL &amp; Prisma for Beginners](https://www.youtube.com/watch?v=sFk5G_U025Q)
+- [Forking the Front-End Application [22of37] Full Stack Application w/ Azure SQL &amp;Prisma for Beginners](https://www.youtube.com/watch?v=tVeKgwwwg7E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
