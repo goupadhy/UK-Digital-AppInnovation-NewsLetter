@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Customize layout in .NET MAUI XAML pages](https://www.youtube.com/watch?v=p9Oo3aT8wyk)
 - [Ask the Expert: Serverless September: Azure Functions &lpar;APAC Replay&rpar;](https://www.youtube.com/watch?v=aBADqtkCZKs)
 - [Ask the Expert: Serverless September: Azure Functions](https://www.youtube.com/watch?v=wB5Va1a-MeY)
 - [How to use Windows Auth with Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=SXBHtE_eXdI)
 - [Azure SQL Security: The What, Why &amp; How of Securing your Data with Azure SQL &lpar;Ep. 6&rpar; | Data Exposed](https://www.youtube.com/watch?v=w39gvf2rTa8)
-- [Learn Live - Introduction to classification models by using R and tidymodels](https://www.youtube.com/watch?v=4nOPout6mv0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
