@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Automatically create Technical Documentation for your Power Apps and Power Automate Flows](https://www.youtube.com/watch?v=jpPsngS8rww)
+- [Learn Live - Introduction to classification models by using R and tidymodels](https://www.youtube.com/watch?v=4nOPout6mv0)
 - [Containers, Serverless &amp; IoT Meetup | #AzureHappyHours](https://www.youtube.com/watch?v=qsVTCAd6I7g)
 - [Learn Live - Customize layout in .NET MAUI XAML pages](https://www.youtube.com/watch?v=p9Oo3aT8wyk)
 - [Ask the Expert: Serverless September: Azure Functions &lpar;APAC Replay&rpar;](https://www.youtube.com/watch?v=aBADqtkCZKs)
-- [Ask the Expert: Serverless September: Azure Functions](https://www.youtube.com/watch?v=wB5Va1a-MeY)
-- [How to use Windows Auth with Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=SXBHtE_eXdI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
