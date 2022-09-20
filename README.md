@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Transform your software engineering practices with GitHub Enterprise](https://github.blog/2022-09-20-transform-your-software-engineering-practices-with-github-enterprise/)
 - [“If you don’t make it beautiful, it’s for sure doomed”: putting the Vault in GitHub’s Arctic Code Vault](https://github.blog/2022-09-20-if-you-dont-make-it-beautiful-its-for-sure-doomed-putting-the-vault-in-githubs-arctic-code-vault/)
 - [Meet the GitHub Campus Experts selected for the fall 2022 MLH Fellowship Cohort, powered by GitHub](https://github.blog/2022-09-19-meet-the-github-campus-experts-selected-for-the-fall-2022-mlh-fellowship-cohort-powered-by-github/)
 - [5 steps to convince your boss to send you to GitHub Universe](https://github.blog/2022-09-19-5-steps-to-convince-your-boss-to-send-you-to-github-universe/)
 - [5 tips for prioritizing Dependabot alerts](https://github.blog/2022-09-19-5-tips-for-prioritizing-dependabot-alerts/)
-- [How we tripled max concurrent jobs to boost performance of GitHub Actions](https://github.blog/2022-09-16-how-we-tripled-max-concurrent-jobs-to-boost-performance-of-github-actions/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
