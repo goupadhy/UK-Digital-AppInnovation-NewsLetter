@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Successful Career Switcher - Dawn Peacock](https://www.youtube.com/watch?v=wK1dOZh8iNU)
+- [Successful Career Switcher – Liane Powell](https://www.youtube.com/watch?v=rAD1Z9TCrFE)
+- [Power Platform Career Switchers’ stories](https://www.youtube.com/watch?v=0t60-MRQzRw)
 - [Just one week until the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=Xz1ecvE7nOY)
 - [Azure App Insights For Power Apps - Power CAT Live](https://www.youtube.com/watch?v=nokrKJ2SfsE)
-- [Join Uday Adhikari at the first ever Power Platform Conference!](https://www.youtube.com/watch?v=Tl-Ka6bgm0I)
-- [Administration Task Planner for Power Platform - Power CAT Live](https://www.youtube.com/watch?v=q6738IKJW1Q)
-- [Join Azure McFarlane at the first ever Power Platform Conference!](https://www.youtube.com/watch?v=c_-MSXhoLRs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
