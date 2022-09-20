@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Wipro and Microsoft partner on services and accelerators for the new Microsoft Energy Data Services](https://azure.microsoft.com/blog/wipro-and-microsoft-partner-on-services-and-accelerators-for-the-new-microsoft-energy-data-services/)
 - [Microsoft shares what's next in machine learning at NVIDIA GTC](https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/)
 - [New Azure Space products enable digital resiliency and empower the industry](https://azure.microsoft.com/blog/new-azure-space-products-enable-digital-resiliency-and-empower-the-industry/)
 - [Azure API for FHIR and Microsoft’s Power Platform help universities tackle COVID-19](https://azure.microsoft.com/blog/azure-api-for-fhir-and-microsoft-s-power-platform-help-universities-tackle-covid19/)
 - [Elevate your visualizations with Azure Managed Grafana—now generally available](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
-- [Microsoft Cost Management updates – August 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-august-2022/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
