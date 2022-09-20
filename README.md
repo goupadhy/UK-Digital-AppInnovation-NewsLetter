@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to clustering models by using R and tidymodels](https://www.youtube.com/watch?v=zGY71q-Sujk)
 - [Fluent UI Insights: Griffel](https://www.youtube.com/watch?v=edyW7t-rIUU)
 - [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=livDgr-1oRU)
 - [Build a Work-of-Art Developer PC 10x Faster Than a Laptop](https://www.youtube.com/watch?v=7wKSrZDwimU)
 - [Deep Learning Container with PyTorch and Azure ML](https://www.youtube.com/watch?v=vmkLC1etVQA)
-- [Automatically create Technical Documentation for your Power Apps and Power Automate Flows](https://www.youtube.com/watch?v=jpPsngS8rww)
 <!-- YOUTUBEAPPMOD:END -->
 
 
