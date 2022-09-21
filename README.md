@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes - Identity in Integration](https://www.youtube.com/watch?v=nw_tRekmijE)
 - [Ask the Expert: Serverless September: Azure Functions &lpar;APAC&rpar;](https://www.youtube.com/watch?v=aBADqtkCZKs)
 - [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=livDgr-1oRU)
 - [Learn Live - Introduction to clustering models by using R and tidymodels](https://www.youtube.com/watch?v=zGY71q-Sujk)
 - [Fluent UI Insights: Griffel](https://www.youtube.com/watch?v=edyW7t-rIUU)
-- [Build a Work-of-Art Developer PC 10x Faster Than a Laptop](https://www.youtube.com/watch?v=7wKSrZDwimU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
