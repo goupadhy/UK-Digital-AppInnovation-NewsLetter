@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [WSL: Partnering with Canonical to support systemd](https://www.youtube.com/watch?v=Ja3qikzd-as)
 - [Where did the idea for TitletownTech originate?](https://www.youtube.com/watch?v=LWRlbqA1MXs)
 - [Azure SQL New Updates @ Data Platform Summit, September 2022 | Data Exposed Live](https://www.youtube.com/watch?v=Lkm19E7uFG8)
 - [LunchBytes - Identity in Integration](https://www.youtube.com/watch?v=nw_tRekmijE)
 - [Ask the Expert: Serverless September: Azure Functions &lpar;APAC&rpar;](https://www.youtube.com/watch?v=aBADqtkCZKs)
-- [Microsoft Tech Days: Putting the Ops into DevOps](https://www.youtube.com/watch?v=livDgr-1oRU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
