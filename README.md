@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Future-ready IoT implementations on Microsoft Azure](https://azure.microsoft.com/blog/futureready-iot-implementations-on-microsoft-azure/)
 - [Cegal and Microsoft break down data silos and offer open collaboration with Microsoft Energy Data Services](https://azure.microsoft.com/blog/cegal-and-microsoft-break-down-data-silos-and-offer-open-collaboration-with-microsoft-energy-data-services/)
 - [Azure Payment HSM achieves PCI PIN certification offering customers secure digital payments solutions in the cloud](https://azure.microsoft.com/blog/azure-payment-hsm-achieves-pci-pin-certification-offering-customers-secure-digital-payments-solutions-in-the-cloud/)
 - [Wipro and Microsoft partner on services and accelerators for the new Microsoft Energy Data Services](https://azure.microsoft.com/blog/wipro-and-microsoft-partner-on-services-and-accelerators-for-the-new-microsoft-energy-data-services/)
 - [Microsoft shares what's next in machine learning at NVIDIA GTC](https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/)
-- [New Azure Space products enable digital resiliency and empower the industry](https://azure.microsoft.com/blog/new-azure-space-products-enable-digital-resiliency-and-empower-the-industry/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
