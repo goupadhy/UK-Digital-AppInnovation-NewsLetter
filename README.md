@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL Server 2022 @ PASS Data Community Summit | Data Exposed Exclusive](https://www.youtube.com/watch?v=m3S816ls17Q)
 - [Learn Live - Customize layout in .NET MAUI XAML pages](https://www.youtube.com/watch?v=p9Oo3aT8wyk)
 - [WSL: Partnering with Canonical to support systemd](https://www.youtube.com/watch?v=Ja3qikzd-as)
 - [Where did the idea for TitletownTech originate?](https://www.youtube.com/watch?v=LWRlbqA1MXs)
 - [Azure SQL New Updates @ Data Platform Summit, September 2022 | Data Exposed Live](https://www.youtube.com/watch?v=Lkm19E7uFG8)
-- [LunchBytes - Identity in Integration](https://www.youtube.com/watch?v=nw_tRekmijE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
