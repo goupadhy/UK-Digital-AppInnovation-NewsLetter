@@ -80,10 +80,10 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
 - [Learn Live - Introduction to clustering models by using R and tidymodels](https://www.youtube.com/watch?v=zGY71q-Sujk)
-- [AI Show Live - Episode 66 - Intelligent Recommendations and Roshambo](https://www.youtube.com/watch?v=y2fNWMNqP_Q)
 - [SQL Server 2022 @ PASS Data Community Summit | Data Exposed Exclusive](https://www.youtube.com/watch?v=m3S816ls17Q)
 - [Learn Live - Customize layout in .NET MAUI XAML pages](https://www.youtube.com/watch?v=p9Oo3aT8wyk)
 - [WSL: Partnering with Canonical to support systemd](https://www.youtube.com/watch?v=Ja3qikzd-as)
+- [Where did the idea for TitletownTech originate?](https://www.youtube.com/watch?v=LWRlbqA1MXs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
