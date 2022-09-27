@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Azure Governance](https://www.youtube.com/watch?v=sCvGsURsoKY)
 - [AI Show Live - Episode 66 - Intelligent Recommendations and Roshambo](https://www.youtube.com/watch?v=y2fNWMNqP_Q)
 - [Learn Live - Introduction to clustering models by using R and tidymodels](https://www.youtube.com/watch?v=zGY71q-Sujk)
 - [SQL Server 2022 @ PASS Data Community Summit | Data Exposed Exclusive](https://www.youtube.com/watch?v=m3S816ls17Q)
 - [Learn Live - Customize layout in .NET MAUI XAML pages](https://www.youtube.com/watch?v=p9Oo3aT8wyk)
-- [WSL: Partnering with Canonical to support systemd](https://www.youtube.com/watch?v=Ja3qikzd-as)
 <!-- YOUTUBEAPPMOD:END -->
 
 
