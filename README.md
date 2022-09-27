@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Cosmos DB: Liftoff](https://www.youtube.com/watch?v=R68fY6VR--Q)
 - [Full Text Indexing Basics with Azure SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=WhCslE_viAs)
 - [Why should I participate in a hackathon?   #Shorts](https://www.youtube.com/watch?v=mgcCQ4pvP_0)
 - [Learn Live - Azure Governance](https://www.youtube.com/watch?v=sCvGsURsoKY)
 - [AI Show Live - Episode 66 - Intelligent Recommendations and Roshambo](https://www.youtube.com/watch?v=y2fNWMNqP_Q)
-- [Learn Live - Introduction to clustering models by using R and tidymodels](https://www.youtube.com/watch?v=zGY71q-Sujk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
