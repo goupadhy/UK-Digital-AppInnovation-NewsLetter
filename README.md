@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Student Summit –Bengaluru India](https://www.youtube.com/watch?v=BL-mYWxsSvs)
 - [Microsoft Teams App Camp](https://www.youtube.com/watch?v=jIOx6oWiPg8)
 - [Azure Cosmos DB: Liftoff](https://www.youtube.com/watch?v=R68fY6VR--Q)
 - [Full Text Indexing Basics with Azure SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=WhCslE_viAs)
 - [Why should I participate in a hackathon?   #Shorts](https://www.youtube.com/watch?v=mgcCQ4pvP_0)
-- [Learn Live - Azure Governance](https://www.youtube.com/watch?v=sCvGsURsoKY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
