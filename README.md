@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [RoQC and Microsoft simplify cloud migration with Microsoft Energy Data Services](https://azure.microsoft.com/blog/roqc-and-microsoft-simplify-cloud-migration-with-microsoft-energy-data-services/)
 - [New Azure for Operators solution accelerator offers a fast path to network insights](https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/)
 - [EPAM and Microsoft partner on data governance solutions with Microsoft Energy Data Services](https://azure.microsoft.com/blog/epam-and-microsoft-partner-on-data-governance-solutions-with-microsoft-energy-data-services/)
 - [Future-ready IoT implementations on Microsoft Azure](https://azure.microsoft.com/blog/futureready-iot-implementations-on-microsoft-azure/)
 - [Cegal and Microsoft break down data silos and offer open collaboration with Microsoft Energy Data Services](https://azure.microsoft.com/blog/cegal-and-microsoft-break-down-data-silos-and-offer-open-collaboration-with-microsoft-energy-data-services/)
-- [Azure Payment HSM achieves PCI PIN certification offering customers secure digital payments solutions in the cloud](https://azure.microsoft.com/blog/azure-payment-hsm-achieves-pci-pin-certification-offering-customers-secure-digital-payments-solutions-in-the-cloud/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
