@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Document intelligence streamlines and expedites onboarding for Financial institutions](https://www.youtube.com/watch?v=KeNmo7qdnms)
+- [Missed appointments, an Industry AI solution for Healthcare](https://www.youtube.com/watch?v=WBXzK4YlqtU)
 - [Introducing Microsoft Energy Data Services](https://www.youtube.com/watch?v=2dv-iXQgaq4)
 - [Equinor targets data efficiency and a low-carbon future with Microsoft Energy Data Services](https://www.youtube.com/watch?v=cs-qek0Aqmc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Francesco Tinto | Part 1](https://www.youtube.com/watch?v=-6vQdsHuruI)
-- [Fortinet grows their business exponentially through the commercial marketplace](https://www.youtube.com/watch?v=a7KEsmrEXz8)
-- [Satya Nadella keynote on Microsoft Cloud for Sovereignty and Azure confidential computing](https://www.youtube.com/watch?v=L35eKUN4ZZ8)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
