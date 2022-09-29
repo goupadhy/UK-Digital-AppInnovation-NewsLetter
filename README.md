@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Taking Stock Live - a conversation with Shelley Bransten &amp; Francesco Tinto | Part 2](https://www.youtube.com/watch?v=XudJjR5pWFc)
 - [Document intelligence streamlines and expedites onboarding for Financial institutions](https://www.youtube.com/watch?v=KeNmo7qdnms)
 - [Missed appointments, an Industry AI solution for Healthcare](https://www.youtube.com/watch?v=WBXzK4YlqtU)
 - [Introducing Microsoft Energy Data Services](https://www.youtube.com/watch?v=2dv-iXQgaq4)
 - [Equinor targets data efficiency and a low-carbon future with Microsoft Energy Data Services](https://www.youtube.com/watch?v=cs-qek0Aqmc)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Francesco Tinto | Part 1](https://www.youtube.com/watch?v=-6vQdsHuruI)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
