@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Strengthen your security with Policy Analytics for Azure Firewall](https://azure.microsoft.com/blog/strengthen-your-security-with-policy-analytics-for-azure-firewall/)
 - [Ensure zone resilient outbound connectivity with NAT gateway](https://azure.microsoft.com/blog/ensure-zone-resilient-outbound-connectivity-with-nat-gateway/)
 - [Cost Management updates—September 2022](https://azure.microsoft.com/blog/cost-management-updates-september-2022/)
 - [RoQC and Microsoft simplify cloud migration with Microsoft Energy Data Services](https://azure.microsoft.com/blog/roqc-and-microsoft-simplify-cloud-migration-with-microsoft-energy-data-services/)
 - [New Azure for Operators solution accelerator offers a fast path to network insights](https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/)
-- [EPAM and Microsoft partner on data governance solutions with Microsoft Energy Data Services](https://azure.microsoft.com/blog/epam-and-microsoft-partner-on-data-governance-solutions-with-microsoft-energy-data-services/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
