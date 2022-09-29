@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Serverless September: Azure Container Apps](https://www.youtube.com/watch?v=KiArpit1-s8)
 - [What is the TechSpark program and how does TitletownTech fit into that strategy?](https://www.youtube.com/watch?v=qLrXo5sKx_4)
 - [Microsoft Student Summit –Bengaluru India](https://www.youtube.com/watch?v=BL-mYWxsSvs)
 - [Microsoft Teams App Camp](https://www.youtube.com/watch?v=jIOx6oWiPg8)
 - [Azure Cosmos DB: Liftoff](https://www.youtube.com/watch?v=R68fY6VR--Q)
-- [Full Text Indexing Basics with Azure SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=WhCslE_viAs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
