@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Ensure zone resilient outbound connectivity with NAT gateway](https://azure.microsoft.com/blog/ensure-zone-resilient-outbound-connectivity-with-nat-gateway/)
 - [Cost Management updates—September 2022](https://azure.microsoft.com/blog/cost-management-updates-september-2022/)
 - [RoQC and Microsoft simplify cloud migration with Microsoft Energy Data Services](https://azure.microsoft.com/blog/roqc-and-microsoft-simplify-cloud-migration-with-microsoft-energy-data-services/)
 - [New Azure for Operators solution accelerator offers a fast path to network insights](https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/)
 - [EPAM and Microsoft partner on data governance solutions with Microsoft Energy Data Services](https://azure.microsoft.com/blog/epam-and-microsoft-partner-on-data-governance-solutions-with-microsoft-energy-data-services/)
-- [Future-ready IoT implementations on Microsoft Azure](https://azure.microsoft.com/blog/futureready-iot-implementations-on-microsoft-azure/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
