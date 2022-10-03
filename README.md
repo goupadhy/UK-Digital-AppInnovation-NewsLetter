@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Azure Networking Fundamentals](https://www.youtube.com/watch?v=Rrc7TlH7G4g)
 - [Intelligent Recommendations](https://www.youtube.com/watch?v=iCFrgoEObBU)
 - [Ask the Expert: Serverless September: Azure Container Apps &lpar;APAC&rpar;](https://www.youtube.com/watch?v=LLMVKzL7xmU)
 - [Learn Live - Azure Governance](https://www.youtube.com/watch?v=sCvGsURsoKY)
 - [Ask the Expert: Serverless September: Azure Container Apps](https://www.youtube.com/watch?v=KiArpit1-s8)
-- [What is the TechSpark program and how does TitletownTech fit into that strategy?](https://www.youtube.com/watch?v=qLrXo5sKx_4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
