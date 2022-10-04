@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure Firewall Basic now in preview](https://azure.microsoft.com/blog/azure-firewall-basic-now-in-preview/)
 - [Microsoft and INT deploy IVAAP for OSDU Data Platform on Microsoft Energy Data Services](https://azure.microsoft.com/blog/microsoft-and-int-deploy-ivaap-for-osdu-data-platform-on-microsoft-energy-data-services/)
 - [Advancing anomaly detection with AIOps—introducing AiDice](https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/)
 - [Strengthen your security with Policy Analytics for Azure Firewall](https://azure.microsoft.com/blog/strengthen-your-security-with-policy-analytics-for-azure-firewall/)
 - [Ensure zone resilient outbound connectivity with NAT gateway](https://azure.microsoft.com/blog/ensure-zone-resilient-outbound-connectivity-with-nat-gateway/)
-- [Cost Management updates—September 2022](https://azure.microsoft.com/blog/cost-management-updates-september-2022/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
