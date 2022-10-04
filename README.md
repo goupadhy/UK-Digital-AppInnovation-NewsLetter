@@ -25,9 +25,9 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Azure Networking Fundamentals](https://www.youtube.com/watch?v=Rrc7TlH7G4g)
 - [How can students start learning about the Cloud?   #Shorts](https://www.youtube.com/watch?v=HsO-vQkaNVQ)
 - [Using OnPlatform and OnIdiom in XAML to create a UI in a .NET MAUI app](https://www.youtube.com/watch?v=kD9iyN5hyl0)
-- [Learn Live - Azure Networking Fundamentals](https://www.youtube.com/watch?v=Rrc7TlH7G4g)
 - [Intelligent Recommendations](https://www.youtube.com/watch?v=iCFrgoEObBU)
 - [Ask the Expert: Serverless September: Azure Container Apps &lpar;APAC&rpar;](https://www.youtube.com/watch?v=LLMVKzL7xmU)
 <!-- YOUTUBECNA:END -->
