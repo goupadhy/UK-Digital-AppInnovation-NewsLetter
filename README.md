@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Scalable management of virtualized RAN with Kubernetes](https://azure.microsoft.com/blog/scalable-management-of-virtualized-ran-with-kubernetes/)
 - [Cost optimization using Azure Migrate](https://azure.microsoft.com/blog/cost-optimization-using-azure-migrate/)
 - [Azure Firewall Basic now in preview](https://azure.microsoft.com/blog/azure-firewall-basic-now-in-preview/)
 - [Microsoft and INT deploy IVAAP for OSDU Data Platform on Microsoft Energy Data Services](https://azure.microsoft.com/blog/microsoft-and-int-deploy-ivaap-for-osdu-data-platform-on-microsoft-energy-data-services/)
 - [Advancing anomaly detection with AIOps—introducing AiDice](https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/)
-- [Strengthen your security with Policy Analytics for Azure Firewall](https://azure.microsoft.com/blog/strengthen-your-security-with-policy-analytics-for-azure-firewall/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
