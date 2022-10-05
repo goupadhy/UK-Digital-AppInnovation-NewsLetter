@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Ignite: What to expect, what to learn](https://www.youtube.com/watch?v=e9-pjZOUlyk)
 - [What are the open-source components required to run functions in Kubernetes?](https://www.youtube.com/watch?v=Z3WnKhHkBIo)
 - [What are you looking for when a company pitches TitletownTech for funding? | One Dev Question](https://www.youtube.com/watch?v=QvwoxzgxZlk)
 - [LunchBytes - Application Modernization for .NET &amp; Java Apps](https://www.youtube.com/watch?v=L5MMV43TR9U)
 - [Learn Live - Azure Networking Fundamentals](https://www.youtube.com/watch?v=Rrc7TlH7G4g)
-- [How can students start learning about the Cloud?   #Shorts](https://www.youtube.com/watch?v=HsO-vQkaNVQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
