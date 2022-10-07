@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Komatsu Automates Invoice Processing In 4 Weeks – Power CAT Live](https://www.youtube.com/watch?v=ra66ezFmZdg)
 - [Dataverse Group teams with Azure AD Dynamic user membership group](https://www.youtube.com/watch?v=9nLElUjh3Cg)
 - [Power BI Community Show Ep 10 - Amit Chandak](https://www.youtube.com/watch?v=qTxD5f7YVyY)
 - [Power Apps Express Design - Power CAT Live](https://www.youtube.com/watch?v=D83laFZKgZ4)
 - [Microsoft Power Platform Conference Event Recap](https://www.youtube.com/watch?v=IImjmEd9Yjc)
-- [Successful Career Switcher - Dawn Peacock](https://www.youtube.com/watch?v=wK1dOZh8iNU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
