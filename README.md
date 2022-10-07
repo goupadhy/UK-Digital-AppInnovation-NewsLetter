@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [LunchBytes - Panel Recap of Microsoft Ignite](https://www.youtube.com/watch?v=VjYbl-FW-p8)
 - [AI Show Live - Episode 67 - Nuance | Developing a Clinical Research Tool with Azure](https://www.youtube.com/watch?v=SkMFs-fQSK4)
 - [Develop Apps with Azure SQL Database for Free | Data Exposed](https://www.youtube.com/watch?v=rf0FvDMm0f0)
 - [Exploring the customization of .NET MAUI apps with XAML](https://www.youtube.com/watch?v=_k_4ZNLXHTs)
 - [Microsoft Ignite: What to expect, what to learn](https://www.youtube.com/watch?v=e9-pjZOUlyk)
-- [What are the open-source components required to run functions in Kubernetes?](https://www.youtube.com/watch?v=Z3WnKhHkBIo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
