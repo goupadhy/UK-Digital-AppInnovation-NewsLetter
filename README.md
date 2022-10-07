@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Komatsu Automates Invoice Processing In 4 Weeks – Power CAT Live](https://www.youtube.com/watch?v=ra66ezFmZdg)
-- [Dataverse Group teams with Azure AD Dynamic user membership group](https://www.youtube.com/watch?v=9nLElUjh3Cg)
-- [Power BI Community Show Ep 10 - Amit Chandak](https://www.youtube.com/watch?v=qTxD5f7YVyY)
-- [Power Apps Express Design - Power CAT Live](https://www.youtube.com/watch?v=D83laFZKgZ4)
-- [Microsoft Power Platform Conference Event Recap](https://www.youtube.com/watch?v=IImjmEd9Yjc)
+- [Setup Automation Kit satellite solution Part 1 | Automation Kit for Power Platform](https://www.youtube.com/watch?v=IlmcQaU5jBo)
+- [Setup Automation Kit Satellite solution part 2 | Automation Kit for Power Platform](https://www.youtube.com/watch?v=xWOi_A341T0)
+- [Configuration Data | Automation Kit for Power Platform](https://www.youtube.com/watch?v=QmNWtau4AAI)
+- [Private preview Dataverse unregister | Automation Kit for Power Platform](https://www.youtube.com/watch?v=W6X5U9g_wlo)
+- [Flow exception framework | Automation Kit for Power Platform](https://www.youtube.com/watch?v=NJ8OrO9miHk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
