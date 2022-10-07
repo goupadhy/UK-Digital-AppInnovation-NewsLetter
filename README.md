@@ -79,9 +79,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 67 - Nuance | Developing a Clinical Research Tool with Azure](https://www.youtube.com/watch?v=SkMFs-fQSK4)
 - [ATE Rehearsal &lpar;evergreen&rpar;](https://www.youtube.com/watch?v=7VywotsSTE4)
 - [LunchBytes - Panel Recap of Microsoft Ignite](https://www.youtube.com/watch?v=VjYbl-FW-p8)
-- [AI Show Live - Episode 67 - Nuance | Developing a Clinical Research Tool with Azure](https://www.youtube.com/watch?v=SkMFs-fQSK4)
 - [Develop Apps with Azure SQL Database for Free | Data Exposed](https://www.youtube.com/watch?v=rf0FvDMm0f0)
 - [Exploring the customization of .NET MAUI apps with XAML](https://www.youtube.com/watch?v=_k_4ZNLXHTs)
 <!-- YOUTUBEAPPMOD:END -->
