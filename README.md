@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Cleaning Up Sample Data with Janitor](https://www.youtube.com/watch?v=sQ45n-NqVXA)
 - [What’s an opportunity you wish you knew about as a student?   #Shorts](https://www.youtube.com/watch?v=bpUhfyeScak)
 - [Integrating Azure IoT with the Power Platform](https://www.youtube.com/watch?v=ZA1uwPvvDSA)
 - [Distribute your mission-critical workloads across Azure regions for maximum availability](https://www.youtube.com/watch?v=MSo0dKkWTGg)
 - [Enabling monitoring for Azure Kubernetes Services](https://www.youtube.com/watch?v=2AQTBFw8PMo)
-- [AI Show Live - Episode 67 - Nuance | Developing a Clinical Research Tool with Azure](https://www.youtube.com/watch?v=SkMFs-fQSK4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
