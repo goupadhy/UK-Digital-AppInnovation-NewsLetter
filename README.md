@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [How Microsoft Azure helps drive agility and optimization for your business](https://azure.microsoft.com/blog/how-microsoft-azure-helps-drive-agility-and-optimization-for-your-business/)
+- [Modernize with Microsoft Cloud, the most complete developer platform](https://azure.microsoft.com/blog/modernize-with-microsoft-cloud-the-most-complete-developer-platform/)
+- [Drive efficiency through automation and AI with the Microsoft Cloud](https://azure.microsoft.com/blog/drive-efficiency-through-automation-and-ai-with-the-microsoft-cloud/)
 - [Scalable management of virtualized RAN with Kubernetes](https://azure.microsoft.com/blog/scalable-management-of-virtualized-ran-with-kubernetes/)
 - [Cost optimization using Azure Migrate](https://azure.microsoft.com/blog/cost-optimization-using-azure-migrate/)
-- [Azure Firewall Basic now in preview](https://azure.microsoft.com/blog/azure-firewall-basic-now-in-preview/)
-- [Microsoft and INT deploy IVAAP for OSDU Data Platform on Microsoft Energy Data Services](https://azure.microsoft.com/blog/microsoft-and-int-deploy-ivaap-for-osdu-data-platform-on-microsoft-energy-data-services/)
-- [Advancing anomaly detection with AIOps—introducing AiDice](https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
