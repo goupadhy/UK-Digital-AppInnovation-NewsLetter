@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Automate: You Describe It, AI Builds It](https://www.youtube.com/watch?v=9lnDnxLcis4)
 - [Setup Azure DevOps projects for ALM Accelerator for Power Platform](https://www.youtube.com/watch?v=oe7zPIoSWpo)
 - [Setup Automation Kit satellite solution Part 1 | Automation Kit for Power Platform](https://www.youtube.com/watch?v=IlmcQaU5jBo)
 - [Setup Automation Kit Satellite solution part 2 | Automation Kit for Power Platform](https://www.youtube.com/watch?v=xWOi_A341T0)
 - [Configuration Data | Automation Kit for Power Platform](https://www.youtube.com/watch?v=QmNWtau4AAI)
-- [Private preview Dataverse unregister | Automation Kit for Power Platform](https://www.youtube.com/watch?v=W6X5U9g_wlo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
