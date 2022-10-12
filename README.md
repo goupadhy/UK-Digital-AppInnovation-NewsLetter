@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Sanofi gains speed and agility with Azure hybrid cloud strategy](https://www.youtube.com/watch?v=K3xEAvTFCk4)
 - [Bethesda Health Care puts patients first with the new Bethesda Clinic and Cloud for Healthcare](https://www.youtube.com/watch?v=F-YQspizp_Q)
 - [Microsoft Cloud for Financial Services Overview: Onboarding Application](https://www.youtube.com/watch?v=uRnm3Dff7B4)
 - [See how Tackle and the commercial marketplace helped Starburst to quickly grow and scale](https://www.youtube.com/watch?v=XoN_KliG72k)
 - [Announcing Tackle + Microsoft&#39;s strategic partnership](https://www.youtube.com/watch?v=aHdUjPbY4q4)
-- [Microsoft Cloud for Financial Services Overview: Intelligent Appointments](https://www.youtube.com/watch?v=CjqfCkxk2P4)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
