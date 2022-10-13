@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Insider Series: How and Why to Virtualize your Data in Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=hpQlVRPVM2g)
 - [Azure Arc-enabled SQL Managed Instance Landing zone accelerator](https://www.youtube.com/watch?v=CW2CVmEEL8M)
 - [Azure Savings Plan for Compute](https://www.youtube.com/watch?v=6tDAuY_SdsE)
 - [Cleaning Up Sample Data with Janitor](https://www.youtube.com/watch?v=sQ45n-NqVXA)
 - [What’s an opportunity you wish you knew about as a student?   #Shorts](https://www.youtube.com/watch?v=bpUhfyeScak)
-- [Integrating Azure IoT with the Power Platform](https://www.youtube.com/watch?v=ZA1uwPvvDSA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
