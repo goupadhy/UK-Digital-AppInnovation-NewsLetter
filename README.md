@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Introduction to the Microsoft Azure Well-Architected Framework](https://www.youtube.com/watch?v=BF1Tw9MNa5U)
 - [Nuance: Developing a Clinical Research Search tool with Azure Cognitive Search](https://www.youtube.com/watch?v=nd-YyzBYgcg)
 - [SQL Insider Series: How and Why to Virtualize your Data in Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=hpQlVRPVM2g)
 - [Azure Arc-enabled SQL Managed Instance Landing zone accelerator](https://www.youtube.com/watch?v=CW2CVmEEL8M)
 - [Azure Savings Plan for Compute](https://www.youtube.com/watch?v=6tDAuY_SdsE)
-- [Cleaning Up Sample Data with Janitor](https://www.youtube.com/watch?v=sQ45n-NqVXA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
