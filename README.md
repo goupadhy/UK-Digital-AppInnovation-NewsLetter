@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [I like art and coding.  What roles are there for me in tech?  #Shorts](https://www.youtube.com/watch?v=TH-72hKAko8)
-- [Building Performant Data Architecture for Multi-Tenant SaaS Apps](https://www.youtube.com/watch?v=vS6tDUqPXWY)
-- [Introduction to Azure savings plan for compute](https://www.youtube.com/watch?v=wsF4O5YonAA)
-- [Fusion Development Tips and Tricks](https://www.youtube.com/watch?v=kOucLCKULmo)
-- [Learn Live - Modern Service Operations](https://www.youtube.com/watch?v=tpN_SswYH0s)
+- [Azure Cosmos DB: Liftoff](https://www.youtube.com/watch?v=R68fY6VR--Q)
+- [Optimize for the Best Cost and Performance for Azure Cosmos DB NoSQL API](https://www.youtube.com/watch?v=hv0YnrEcWQE)
+- [Multi-Region Replication &amp; DR for Distributed Postgres in Azure Cosmos DB](https://www.youtube.com/watch?v=Z667X39KFUc)
+- [Online Scale-Out and Cloud Data Ingestion](https://www.youtube.com/watch?v=yJ6pwvsxEz4)
+- [Keynote: Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=Lz9ezhV0QiY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
