@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Announcing Azure DNS Private Resolver general availability](https://azure.microsoft.com/blog/announcing-azure-dns-private-resolver-general-availability/)
 - [How Microsoft Azure helps drive agility and optimization for your business](https://azure.microsoft.com/blog/how-microsoft-azure-helps-drive-agility-and-optimization-for-your-business/)
 - [Modernize with Microsoft Cloud, the most complete developer platform](https://azure.microsoft.com/blog/modernize-with-microsoft-cloud-the-most-complete-developer-platform/)
 - [Drive efficiency through automation and AI with the Microsoft Cloud](https://azure.microsoft.com/blog/drive-efficiency-through-automation-and-ai-with-the-microsoft-cloud/)
 - [Scalable management of virtualized RAN with Kubernetes](https://azure.microsoft.com/blog/scalable-management-of-virtualized-ran-with-kubernetes/)
-- [Cost optimization using Azure Migrate](https://azure.microsoft.com/blog/cost-optimization-using-azure-migrate/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
