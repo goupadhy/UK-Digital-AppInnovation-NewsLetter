@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introduction to Azure savings plan for compute](https://www.youtube.com/watch?v=wsF4O5YonAA)
 - [Fusion Development Tips and Tricks](https://www.youtube.com/watch?v=kOucLCKULmo)
 - [Learn Live - Modern Service Operations](https://www.youtube.com/watch?v=tpN_SswYH0s)
 - [Learn Live - Introduction to the Microsoft Azure Well-Architected Framework](https://www.youtube.com/watch?v=BF1Tw9MNa5U)
 - [Nuance: Developing a Clinical Research Search tool with Azure Cognitive Search](https://www.youtube.com/watch?v=nd-YyzBYgcg)
-- [SQL Insider Series: How and Why to Virtualize your Data in Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=hpQlVRPVM2g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
