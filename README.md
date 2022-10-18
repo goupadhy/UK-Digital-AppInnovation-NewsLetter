@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Introducing fine-grained personal access tokens for GitHub](https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/)
 - [GitHub at the 77th United Nations General Assembly](https://github.blog/2022-10-17-github-at-the-77th-united-nations-general-assembly/)
 - [5 tips for embedding security into your workflows](https://github.blog/2022-10-17-5-tips-for-embedding-security-into-your-workflows/)
 - [OSI’s Deep Dive is an essential discussion on the future of AI and open source](https://github.blog/2022-10-14-osis-deep-dive-is-an-essential-discussion-on-the-future-of-ai-and-open-source/)
 - [Introducing GitHub Advanced Security SIEM integrations for security professionals](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/)
-- [The Story of Scalar](https://github.blog/2022-10-13-the-story-of-scalar/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
