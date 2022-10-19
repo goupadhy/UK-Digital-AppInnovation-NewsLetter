@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Does a startup seeking TitletownTech investment have to use Microsoft products?](https://www.youtube.com/watch?v=-62MYi_3Y-E)
 - [LunchBytes - Panel Recap of Microsoft Ignite](https://www.youtube.com/watch?v=VjYbl-FW-p8)
 - [Learn Live - Train and evaluate classification models](https://www.youtube.com/watch?v=sgv1Q46Tdmw)
 - [Getting Started with Azure Cosmos DB](https://www.youtube.com/watch?v=tAHLnL0o4sQ)
 - [Azure Cosmos DB: Liftoff](https://www.youtube.com/watch?v=R68fY6VR--Q)
-- [Optimize for the Best Cost and Performance for Azure Cosmos DB NoSQL API](https://www.youtube.com/watch?v=hv0YnrEcWQE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
