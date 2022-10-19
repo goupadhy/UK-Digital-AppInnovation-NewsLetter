@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Visualize and monitor Azure & hybrid networks with Azure Network Watcher](https://azure.microsoft.com/blog/visualize-and-monitor-azure-hybrid-networks-with-azure-network-watcher/)
 - [Delivering consistency and transparency for cloud hardware security](https://azure.microsoft.com/blog/delivering-consistency-and-transparency-for-cloud-hardware-security/)
 - [Announcing Azure DNS Private Resolver general availability](https://azure.microsoft.com/blog/announcing-azure-dns-private-resolver-general-availability/)
 - [How Microsoft Azure helps drive agility and optimization for your business](https://azure.microsoft.com/blog/how-microsoft-azure-helps-drive-agility-and-optimization-for-your-business/)
 - [Modernize with Microsoft Cloud, the most complete developer platform](https://azure.microsoft.com/blog/modernize-with-microsoft-cloud-the-most-complete-developer-platform/)
-- [Drive efficiency through automation and AI with the Microsoft Cloud](https://azure.microsoft.com/blog/drive-efficiency-through-automation-and-ai-with-the-microsoft-cloud/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
