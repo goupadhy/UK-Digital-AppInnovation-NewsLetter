@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Leverage SFTP support for Azure Blob Storage to build a unified data lake](https://azure.microsoft.com/blog/leverage-sftp-support-for-azure-blob-storage-to-build-a-unified-data-lake/)
 - [Azure Virtual WAN simplifies networking needs](https://azure.microsoft.com/blog/networking-needs-simplified-with-azure-virtual-wan/)
 - [Enterprise-grade DDoS protection for SMBs now available in preview](https://azure.microsoft.com/blog/enterprisegrade-ddos-protection-for-smbs-now-available-in-preview/)
 - [Visualize and monitor Azure & hybrid networks with Azure Network Watcher](https://azure.microsoft.com/blog/visualize-and-monitor-azure-hybrid-networks-with-azure-network-watcher/)
 - [Delivering consistency and transparency for cloud hardware security](https://azure.microsoft.com/blog/delivering-consistency-and-transparency-for-cloud-hardware-security/)
-- [Announcing Azure DNS Private Resolver general availability](https://azure.microsoft.com/blog/announcing-azure-dns-private-resolver-general-availability/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
