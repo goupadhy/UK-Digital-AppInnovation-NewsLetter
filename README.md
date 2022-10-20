@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Start to customize the Azure landing zones Terraform module](https://www.youtube.com/watch?v=vFO_cyolUW0)
+- [Introduction to the Azure landing zones Terraform module](https://www.youtube.com/watch?v=PqfIeth62Yg)
+- [Advanced customization of the Azure landing zones Terraform module](https://www.youtube.com/watch?v=ct2KHaA7ekI)
+- [AI Show Live - Episode 68 - The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=I4tod-gJxqs)
 - [Azure SQL 2022 News Update: Year in Review | Data Exposed Live](https://www.youtube.com/watch?v=pRBfIsOTCRk)
-- [Does a startup seeking TitletownTech investment have to use Microsoft products?](https://www.youtube.com/watch?v=-62MYi_3Y-E)
-- [LunchBytes - Panel Recap of Microsoft Ignite](https://www.youtube.com/watch?v=VjYbl-FW-p8)
-- [Learn Live - Train and evaluate classification models](https://www.youtube.com/watch?v=sgv1Q46Tdmw)
-- [Getting Started with Azure Cosmos DB](https://www.youtube.com/watch?v=tAHLnL0o4sQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
