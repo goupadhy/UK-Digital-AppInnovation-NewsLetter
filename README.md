@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Teams App Camp](https://www.youtube.com/watch?v=jIOx6oWiPg8)
+- [AI Show Live - Episode 68 - The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=4iDIGD37tK0)
+- [Announcing Azure Arc-enabled SQL Managed Instance Landing Zone Accelerator | Data Exposed](https://www.youtube.com/watch?v=5aybjVccALY)
 - [Start to customize the Azure landing zones Terraform module](https://www.youtube.com/watch?v=vFO_cyolUW0)
 - [Introduction to the Azure landing zones Terraform module](https://www.youtube.com/watch?v=PqfIeth62Yg)
-- [Advanced customization of the Azure landing zones Terraform module](https://www.youtube.com/watch?v=ct2KHaA7ekI)
-- [AI Show Live - Episode 68 - The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=I4tod-gJxqs)
-- [Azure SQL 2022 News Update: Year in Review | Data Exposed Live](https://www.youtube.com/watch?v=pRBfIsOTCRk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
