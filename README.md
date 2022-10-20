@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Getting started with Java and Spring Cloud to build Reactive Java Apps.](https://www.youtube.com/watch?v=E3GI9a39uQU)
 - [Join the 30 Days of Microsoft Graph Challenge! 🦒](https://www.youtube.com/watch?v=IgLtVYWw4qE)
 - [Microsoft Teams App Camp](https://www.youtube.com/watch?v=jIOx6oWiPg8)
 - [AI Show Live - Episode 68 - The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=4iDIGD37tK0)
 - [Announcing Azure Arc-enabled SQL Managed Instance Landing Zone Accelerator | Data Exposed](https://www.youtube.com/watch?v=5aybjVccALY)
-- [Start to customize the Azure landing zones Terraform module](https://www.youtube.com/watch?v=vFO_cyolUW0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
