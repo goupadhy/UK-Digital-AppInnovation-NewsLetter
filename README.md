@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Supercharge your DevOps skills with Azure Load Testing](https://www.youtube.com/watch?v=FFng7ki_vI8)
+- [Learn Live - Design consistent .NET MAUI XAML pages by using shared resources](https://www.youtube.com/watch?v=zTY7ZcnBzeU)
 - [Learn Live - Implement compliance for Microsoft Teams](https://www.youtube.com/watch?v=8zJwa8yNdGc)
 - [Learn Live - Train and evaluate classification models](https://www.youtube.com/watch?v=sgv1Q46Tdmw)
 - [Getting started with Java and Spring Cloud to build Reactive Java Apps.](https://www.youtube.com/watch?v=E3GI9a39uQU)
-- [Join the 30 Days of Microsoft Graph Challenge! 🦒](https://www.youtube.com/watch?v=IgLtVYWw4qE)
-- [Microsoft Teams App Camp](https://www.youtube.com/watch?v=jIOx6oWiPg8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
