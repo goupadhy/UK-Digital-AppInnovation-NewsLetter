@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Create blazing-fast web apps with Next.js and Azure Static Web Apps [20 of 20]](https://www.youtube.com/watch?v=w6uH1CZEhcg)
 - [LunchBytes - Hands-on with Azure Container Apps](https://www.youtube.com/watch?v=OXA4pi5i740)
 - [Global AI Developer Days - The possibilities of AI](https://www.youtube.com/watch?v=wl6RWc7iaUs)
 - [AI Show Live - Episode 68 - The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=4iDIGD37tK0)
 - [Learn Live - Supercharge your DevOps skills with Azure Load Testing](https://www.youtube.com/watch?v=FFng7ki_vI8)
-- [Learn Live - Design consistent .NET MAUI XAML pages by using shared resources](https://www.youtube.com/watch?v=zTY7ZcnBzeU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
