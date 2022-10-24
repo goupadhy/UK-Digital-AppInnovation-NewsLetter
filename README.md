@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What was the largest software product Microsoft ever shipped?    #shorts](https://www.youtube.com/watch?v=1JXivQ3HgHg)
 - [Introducing Windows Dev Kit 2023 &lpar;Project Volterra&rpar;](https://www.youtube.com/watch?v=WMdc5tk_Wp0)
 - [Use ephemeral development environments for mission-critical workloads on Azure](https://www.youtube.com/watch?v=-KrodXD3lPc)
 - [Create blazing-fast web apps with Next.js and Azure Static Web Apps [20 of 20]](https://www.youtube.com/watch?v=w6uH1CZEhcg)
 - [LunchBytes - Hands-on with Azure Container Apps](https://www.youtube.com/watch?v=OXA4pi5i740)
-- [Global AI Developer Days - The possibilities of AI](https://www.youtube.com/watch?v=wl6RWc7iaUs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
