@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Supercharge your DevOps skills with Azure Load Testing](https://www.youtube.com/watch?v=FFng7ki_vI8)
 - [Build Confidence in Your Data with Ledger Databases and Tables | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=6BYnbGLYJ7c)
 - [Learn Live - Microsoft Identity Platform](https://www.youtube.com/watch?v=Ar3SberzNq8)
 - [Learn Live - Configure your Microsoft Sentinel environment](https://www.youtube.com/watch?v=cG18isM7occ)
 - [Learn Live - Implement compliance for Microsoft Teams](https://www.youtube.com/watch?v=8zJwa8yNdGc)
-- [What was the largest software product Microsoft ever shipped?    #shorts](https://www.youtube.com/watch?v=1JXivQ3HgHg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
