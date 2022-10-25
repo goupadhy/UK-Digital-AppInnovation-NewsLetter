@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Easy, Enterprise SAP Integration - Power CAT Live](https://www.youtube.com/watch?v=WPaODhTnNBU)
 - [Biz Apps 2022 Release Wave 2 Launch – coming soon!](https://www.youtube.com/watch?v=GfszaIHVdT8)
 - [The Future of IT with Charles Lamanna - Power CAT Live](https://www.youtube.com/watch?v=pvQYPmjiGmQ)
 - [Power Automate: You Describe It, AI Builds It](https://www.youtube.com/watch?v=9lnDnxLcis4)
 - [Setup Azure DevOps projects for ALM Accelerator for Power Platform](https://www.youtube.com/watch?v=oe7zPIoSWpo)
-- [Setup Automation Kit satellite solution Part 1 | Automation Kit for Power Platform](https://www.youtube.com/watch?v=IlmcQaU5jBo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
