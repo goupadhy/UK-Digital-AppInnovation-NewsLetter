@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Introducing Vision Studio, a UI-based demo interface for Computer Vision](https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/)
 - [Image Analysis 4.0 with new API endpoint and OCR model in preview](https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/)
 - [Azure Scales 530B Parameter GPT-3 Model with NVIDIA NeMo Megatron](https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/)
 - [Leverage SFTP support for Azure Blob Storage to build a unified data lake](https://azure.microsoft.com/blog/leverage-sftp-support-for-azure-blob-storage-to-build-a-unified-data-lake/)
 - [Azure Virtual WAN simplifies networking needs](https://azure.microsoft.com/blog/networking-needs-simplified-with-azure-virtual-wan/)
-- [Enterprise-grade DDoS protection for SMBs now available in preview](https://azure.microsoft.com/blog/enterprisegrade-ddos-protection-for-smbs-now-available-in-preview/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
