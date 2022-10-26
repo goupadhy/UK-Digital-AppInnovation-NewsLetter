@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to Get Multiple Container Apps to Work Together and Communicate](https://www.youtube.com/watch?v=Z5y08Ng76Q0)
 - [Windows Developer Kit 2023](https://www.youtube.com/watch?v=DUgC_d3Bru8)
 - [Learn Live - SQL Migrations - Part 2 - Plan, Migrate and Optimize](https://www.youtube.com/watch?v=cMStinxMBl4)
 - [Learn Live - SQL Migrations - Part 1 - Discovery, Assessment and Remediation](https://www.youtube.com/watch?v=8fPwpRFSe6o)
 - [Learn Live - Microsoft Purview Data Governance](https://www.youtube.com/watch?v=Sb9uJLtXDGo)
-- [Learn Live - Azure Monitoring](https://www.youtube.com/watch?v=0tikuxN2LAs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
