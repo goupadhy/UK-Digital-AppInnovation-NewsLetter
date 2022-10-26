@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - SQL Migrations - Part 1 - Discovery, Assessment and Remediation](https://www.youtube.com/watch?v=8fPwpRFSe6o)
+- [Learn Live - Microsoft Purview Data Governance](https://www.youtube.com/watch?v=Sb9uJLtXDGo)
+- [Learn Live - Azure Monitoring](https://www.youtube.com/watch?v=0tikuxN2LAs)
+- [Learn Live - AKS Operations Best Practices](https://www.youtube.com/watch?v=sWKxNmS5auw)
 - [Deploying Azure Resources using Azure DevOps](https://www.youtube.com/watch?v=pX6dikcOeRY)
-- [Ask The Expert: Get Excited for Github Universe](https://www.youtube.com/watch?v=Q8PHRTSgzyc)
-- [Learn Live - Supercharge your DevOps skills with Azure Load Testing](https://www.youtube.com/watch?v=FFng7ki_vI8)
-- [Build Confidence in Your Data with Ledger Databases and Tables | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=6BYnbGLYJ7c)
-- [Learn Live - Microsoft Identity Platform](https://www.youtube.com/watch?v=Ar3SberzNq8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
