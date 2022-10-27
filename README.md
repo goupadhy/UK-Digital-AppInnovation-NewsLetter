@@ -35,8 +35,8 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Leverage low-code to do more with less at Microsoft Ignite 2022 ](https://cloudblogs.microsoft.com/powerplatform/2022/10/12/leverage-low-code-to-do-more-with-less-at-microsoft-ignite-2022/)
 - [The future of low-code governance with Managed Environments for Power Platform](https://cloudblogs.microsoft.com/powerplatform/2022/10/12/the-future-of-low-code-governance-with-managed-environments-for-power-platform/)
-- [Leverage low-code to do more with less at Microsoft Ignite 2022](https://cloudblogs.microsoft.com/powerplatform/2022/10/12/leverage-low-code-to-do-more-with-less-at-microsoft-ignite-2022-test/)
 - [Your guide to Power Platform at Microsoft Ignite 2022](https://cloudblogs.microsoft.com/powerplatform/2022/10/05/your-guide-to-power-platform-at-microsoft-ignite-2022/)
 - [The Power Platform Conference: A celebration of community, collaboration, and career growth](https://cloudblogs.microsoft.com/powerplatform/2022/09/20/the-power-platform-conference-a-celebration-of-community-collaboration-and-career-growth/)
 - [Announcing the preview of pay-as-you-go for Power Automate](https://cloudblogs.microsoft.com/powerplatform/2022/07/21/announcing-the-preview-of-pay-as-you-go-for-power-automate/)
