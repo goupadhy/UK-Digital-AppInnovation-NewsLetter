@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How to Analyze Query Plans in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=pMVLs9oAPmk)
 - [Global AI Developer Days - The possibilities of AI](https://www.youtube.com/watch?v=wl6RWc7iaUs)
 - [Learn Live - Design consistent .NET MAUI XAML pages by using shared resources](https://www.youtube.com/watch?v=zTY7ZcnBzeU)
 - [How to Get Multiple Container Apps to Work Together and Communicate](https://www.youtube.com/watch?v=Z5y08Ng76Q0)
 - [Windows Developer Kit 2023](https://www.youtube.com/watch?v=DUgC_d3Bru8)
-- [Learn Live - SQL Migrations - Part 2 - Plan, Migrate and Optimize](https://www.youtube.com/watch?v=cMStinxMBl4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
