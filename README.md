@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Live Debugging of ZoomIt with Mark Russinovich and Scott Hanselman at Microsoft Ignite](https://www.youtube.com/watch?v=tGw8F2d7ans)
 - [The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=PICwbAfRWnk)
 - [Learn Live - Configure your Microsoft Sentinel environment](https://www.youtube.com/watch?v=cG18isM7occ)
 - [How to Analyze Query Plans in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=pMVLs9oAPmk)
 - [Global AI Developer Days - The possibilities of AI](https://www.youtube.com/watch?v=wl6RWc7iaUs)
-- [Learn Live - Design consistent .NET MAUI XAML pages by using shared resources](https://www.youtube.com/watch?v=zTY7ZcnBzeU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
