@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=PICwbAfRWnk)
 - [Learn Live - Configure your Microsoft Sentinel environment](https://www.youtube.com/watch?v=cG18isM7occ)
 - [How to Analyze Query Plans in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=pMVLs9oAPmk)
 - [Global AI Developer Days - The possibilities of AI](https://www.youtube.com/watch?v=wl6RWc7iaUs)
 - [Learn Live - Design consistent .NET MAUI XAML pages by using shared resources](https://www.youtube.com/watch?v=zTY7ZcnBzeU)
-- [How to Get Multiple Container Apps to Work Together and Communicate](https://www.youtube.com/watch?v=Z5y08Ng76Q0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
