@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [13 tiny, terrific, and terrifying games to hack, slay, and play this Halloween 🧛🏻‍♀️](https://github.blog/2022-10-29-thirteen-tiny-terrific-and-terrifying-games-to-hack-slay-and-play-this-halloween/)
 - [Cybersecurity spotlight on bug bounty researcher @ahacker1](https://github.blog/2022-10-28-cybersecurity-spotlight-on-bug-bounty-researcher-ahacker1/)
 - [Release Radar · September 2022 Edition](https://github.blog/2022-10-28-release-radar-sept-2022/)
 - [Choose your own GitHub Universe 2022 adventure](https://github.blog/2022-10-27-choose-your-own-github-universe-2022-adventure/)
 - [What we learned from the Security Lab’s Community Office Hours](https://github.blog/2022-10-27-what-we-learned-from-the-security-labs-community-office-hours/)
-- [Diversity, inclusion, and belonging at GitHub in 2022](https://github.blog/2022-10-27-diversity-inclusion-and-belonging-at-github-in-2022/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
