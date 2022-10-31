@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Accenture and Microsoft drive digital transformation with OnePlatform on Microsoft Energy Data Services for OSDU™](https://azure.microsoft.com/blog/accenture-and-microsoft-drive-digital-transformation-with-oneplatform-on-microsoft-energy-data-services-for-osdu/)
 - [Forrester Total Economic Impact study: Azure Arc delivers 206 percent ROI over 3 years](https://azure.microsoft.com/blog/forrester-total-economic-impact-study-azure-arc-delivers-206-percent-roi-over-3-years/)
 - [Microsoft Cost Management updates—October 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-october-2022/)
 - [Introducing Vision Studio, a UI-based demo interface for Computer Vision](https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/)
 - [Image Analysis 4.0 with new API endpoint and OCR model in preview](https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/)
-- [Azure Scales 530B Parameter GPT-3 Model with NVIDIA NeMo Megatron](https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
