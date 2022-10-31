@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Enable Real Time Notifications in Power Apps with Signal R, Azure Functions and PCF](https://www.youtube.com/watch?v=fNIFMBfHkUw)
-- [Achieve zero-downtime deployments for mission-critical workloads on Azure](https://www.youtube.com/watch?v=7Rp5ECGVl-A)
-- [Digging into the Zoomit64 Executable with Mark Russinovich and Scott Hanselman at Microsoft Ignite](https://www.youtube.com/watch?v=WLDSkzxqVxk)
-- [Learn Live - Design and make your Power App like a pro](https://www.youtube.com/watch?v=VRi6bbZ_d-o)
-- [Learn Live - Design a container build strategy](https://www.youtube.com/watch?v=tRvilI9AcG0)
+- [Azure AI Innovations at Microsoft](https://www.youtube.com/watch?v=j1qpuyEEtLQ)
+- [AI Skills Beyond Developing](https://www.youtube.com/watch?v=Y9_kVeGs1dU)
+- [MLOps for Continuous Learning](https://www.youtube.com/watch?v=2toh9hhkeI0)
+- [Improving the Fairness and Reliability of AI Solutions](https://www.youtube.com/watch?v=4ORX5p0pQDE)
+- [Panel: The Future of AI](https://www.youtube.com/watch?v=aSbgs5yyzJk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
