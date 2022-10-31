@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Store local data with SQLite in a .NET MAUI app](https://www.youtube.com/watch?v=nK0rtoU_D2Q)
+- [Learn Live - Consume REST web services in .NET MAUI apps](https://www.youtube.com/watch?v=MxImRQEWe_w)
+- [Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation](https://www.youtube.com/watch?v=7ZeZD-iJFQw)
 - [Live Debugging of ZoomIt with Mark Russinovich and Scott Hanselman at Microsoft Ignite](https://www.youtube.com/watch?v=tGw8F2d7ans)
 - [The Latest from Azure Video Indexer](https://www.youtube.com/watch?v=PICwbAfRWnk)
-- [Learn Live - Configure your Microsoft Sentinel environment](https://www.youtube.com/watch?v=cG18isM7occ)
-- [How to Analyze Query Plans in Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=pMVLs9oAPmk)
-- [Global AI Developer Days - The possibilities of AI](https://www.youtube.com/watch?v=wl6RWc7iaUs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
