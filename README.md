@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Digging into the Zoomit64 Executable with Mark Russinovich and Scott Hanselman at Microsoft Ignite](https://www.youtube.com/watch?v=WLDSkzxqVxk)
 - [Learn Live - Design and make your Power App like a pro](https://www.youtube.com/watch?v=VRi6bbZ_d-o)
 - [Learn Live - Design a container build strategy](https://www.youtube.com/watch?v=tRvilI9AcG0)
 - [Learn Live - Store local data with SQLite in a .NET MAUI app](https://www.youtube.com/watch?v=nK0rtoU_D2Q)
 - [Learn Live - Consume REST web services in .NET MAUI apps](https://www.youtube.com/watch?v=MxImRQEWe_w)
-- [Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation](https://www.youtube.com/watch?v=7ZeZD-iJFQw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
