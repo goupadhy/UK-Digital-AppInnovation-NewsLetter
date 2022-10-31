@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Automation Kit ROI Overview | Automation Kit for Power Platform](https://www.youtube.com/watch?v=VNC0PWBTRwA)
-- [Easy, Enterprise SAP Integration - Power CAT Live](https://www.youtube.com/watch?v=WPaODhTnNBU)
-- [Biz Apps 2022 Release Wave 2 Launch – coming soon!](https://www.youtube.com/watch?v=GfszaIHVdT8)
-- [The Future of IT with Charles Lamanna - Power CAT Live](https://www.youtube.com/watch?v=pvQYPmjiGmQ)
-- [Power Automate: You Describe It, AI Builds It](https://www.youtube.com/watch?v=9lnDnxLcis4)
+- [Dynamics 365 Supply Chain Management – 2022 Release Wave 2 Launch](https://www.youtube.com/watch?v=uLHTyCwu6z8)
+- [Dynamics 365 Field Service, Mixed Reality and Connected Spaces – 2022 Release Wave 2 Launch](https://www.youtube.com/watch?v=sB_k0Tpok60)
+- [Customer experience with Dynamics 365 – 2022 Release Wave 2 Launch](https://www.youtube.com/watch?v=Bt259-mywFU)
+- [Dynamics 365 Customer Service – 2022 Release Wave 2 Launch](https://www.youtube.com/watch?v=LUMsRutA77c)
+- [Power Platform – 2022 Release Wave 2 Launch](https://www.youtube.com/watch?v=BkatPW12Jf4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
