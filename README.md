@@ -25,7 +25,7 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What should students have on their resume to help them stand out?](https://www.youtube.com/watch?v=nwih3eD5w7Y)
+- [What should students have on their resume to help them stand out?](https://www.youtube.com/watch?v=zmd-SR1teJU)
 - [Exploring the Live.SysInternals.com file share w/ Mark Russinovich and Scott Hanselman @ Ignite 2022](https://www.youtube.com/watch?v=Uyg2rxT8sRY)
 - [Learn Live - Design a container build strategy](https://www.youtube.com/watch?v=tRvilI9AcG0)
 - [Azure AI Innovations at Microsoft](https://www.youtube.com/watch?v=j1qpuyEEtLQ)
