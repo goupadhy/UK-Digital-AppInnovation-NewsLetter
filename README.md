@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Describe the importance of place for TitletownTech?](https://www.youtube.com/watch?v=u-PpG7zXaN4)
 - [LunchBytes - Hands-on with Azure Container Apps](https://www.youtube.com/watch?v=OXA4pi5i740)
 - [AKS + Azure Stack HCI = A versatile application platform!](https://www.youtube.com/watch?v=1d4tvqbTo3M)
 - [What should students have on their resume to help them stand out?](https://www.youtube.com/watch?v=zmd-SR1teJU)
 - [Exploring the Live.SysInternals.com file share w/ Mark Russinovich and Scott Hanselman @ Ignite 2022](https://www.youtube.com/watch?v=Uyg2rxT8sRY)
-- [Learn Live - Design a container build strategy](https://www.youtube.com/watch?v=tRvilI9AcG0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
