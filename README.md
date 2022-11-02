@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation](https://www.youtube.com/watch?v=7ZeZD-iJFQw)
 - [Describe the importance of place for TitletownTech?](https://www.youtube.com/watch?v=u-PpG7zXaN4)
 - [LunchBytes - Hands-on with Azure Container Apps](https://www.youtube.com/watch?v=OXA4pi5i740)
 - [AKS + Azure Stack HCI = A versatile application platform!](https://www.youtube.com/watch?v=1d4tvqbTo3M)
 - [What should students have on their resume to help them stand out?](https://www.youtube.com/watch?v=zmd-SR1teJU)
-- [Exploring the Live.SysInternals.com file share w/ Mark Russinovich and Scott Hanselman @ Ignite 2022](https://www.youtube.com/watch?v=Uyg2rxT8sRY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
