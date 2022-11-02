@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Sharing the latest improvements to efficiency in Microsoft’s datacenters](https://azure.microsoft.com/blog/sharing-the-latest-improvements-to-efficiency-in-microsoft-s-datacenters/)
 - [Secure your digital payment system in the cloud with Azure Payment HSM—now generally available](https://azure.microsoft.com/blog/secure-your-digital-payment-system-in-the-cloud-with-azure-payment-hsm-now-generally-available/)
 - [Microsoft named a Leader in 2022 Gartner® Magic Quadrant™ for Cloud Infrastructure and Platform Services](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-cloud-infrastructure-and-platform-services/)
 - [Accenture and Microsoft drive digital transformation with OnePlatform on Microsoft Energy Data Services for OSDU™](https://azure.microsoft.com/blog/accenture-and-microsoft-drive-digital-transformation-with-oneplatform-on-microsoft-energy-data-services-for-osdu/)
 - [Forrester Total Economic Impact study: Azure Arc delivers 206 percent ROI over 3 years](https://azure.microsoft.com/blog/forrester-total-economic-impact-study-azure-arc-delivers-206-percent-roi-over-3-years/)
-- [Microsoft Cost Management updates—October 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-october-2022/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
