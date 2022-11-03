@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask The Expert: Get Excited for Github Universe &lpar;APAC&rpar;](https://www.youtube.com/watch?v=xlbkfaBhXxY)
+- [Ask The Expert: Get Excited for Github Universe](https://www.youtube.com/watch?v=Q8PHRTSgzyc)
 - [SQL Insider Series: Architect your Azure Data Estate with Well-Architected Framework | Data Exposed](https://www.youtube.com/watch?v=PauGfRszp-s)
 - [Learn Live - Create multi-page .NET MAUI apps with tab and flyout navigation](https://www.youtube.com/watch?v=7ZeZD-iJFQw)
 - [Describe the importance of place for TitletownTech?](https://www.youtube.com/watch?v=u-PpG7zXaN4)
-- [LunchBytes - Hands-on with Azure Container Apps](https://www.youtube.com/watch?v=OXA4pi5i740)
-- [AKS + Azure Stack HCI = A versatile application platform!](https://www.youtube.com/watch?v=1d4tvqbTo3M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
