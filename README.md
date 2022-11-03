@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How GitHub converts previously encrypted and unencrypted columns to ActiveRecord encrypted columns](https://github.blog/2022-11-03-how-github-converts-previously-encrypted-and-unencrypted-columns-to-activerecord-encrypted-columns/)
 - [GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/)
 - [GitHub Availability Report: October 2022](https://github.blog/2022-11-02-github-availability-report-october-2022/)
 - [Game Off 2022 theme announcement](https://github.blog/2022-11-01-game-off-2022-theme-announcement/)
 - [Preview: referencing public code in GitHub Copilot](https://github.blog/2022-11-01-preview-referencing-public-code-in-github-copilot/)
-- [All In for Students: expanding the next generation of open source leaders](https://github.blog/2022-11-01-all-in-for-students-expanding-the-next-generation-of-open-source-leaders/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
