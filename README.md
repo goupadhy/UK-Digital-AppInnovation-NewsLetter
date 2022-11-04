@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create An App from Figma - Demo](https://www.youtube.com/watch?v=nJmnLEWaHOA)
 - [The Power of Community](https://www.youtube.com/watch?v=HhKWfIjo8nE)
 - [Custom Connectors – Deep Dive &amp; Demo](https://www.youtube.com/watch?v=-RfyvImU1mw)
 - [Successful Career Switcher – Matthew Devaney](https://www.youtube.com/watch?v=o-dIRVcciTs)
 - [Dynamics 365 Supply Chain Management – 2022 Release Wave 2 Launch](https://www.youtube.com/watch?v=uLHTyCwu6z8)
-- [Dynamics 365 Field Service, Mixed Reality and Connected Spaces – 2022 Release Wave 2 Launch](https://www.youtube.com/watch?v=sB_k0Tpok60)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
