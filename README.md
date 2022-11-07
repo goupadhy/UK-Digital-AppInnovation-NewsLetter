@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Design and make your Power App like a pro](https://www.youtube.com/watch?v=VRi6bbZ_d-o)
 - [LunchBytes - GraphQL on Azure](https://www.youtube.com/watch?v=ejLlvADKdWc)
 - [Did Microsoft ever do an ad that included a door?   #shorts](https://www.youtube.com/watch?v=fMiZnnNNWFQ)
 - [What was Microsoft&#39;s first Integrated Development Environment &lpar;IDE&rpar;? #Shorts](https://www.youtube.com/watch?v=x4RjmDFBna4)
 - [AI Show Live - Episode 70 - AzureML Registries and Azure Multivariate Anomaly Detection](https://www.youtube.com/watch?v=eEbI83NxOgY)
-- [How does Windows manage to build new APIs without breaking existing ones?](https://www.youtube.com/watch?v=3saPF8QtQfk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
