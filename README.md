@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Scale Your Power Platform Community with the Power Platform Communication Site Template](https://www.youtube.com/watch?v=samn9411zBY)
 - [Learn Live - Design and make your Power App like a pro](https://www.youtube.com/watch?v=VRi6bbZ_d-o)
 - [LunchBytes - GraphQL on Azure](https://www.youtube.com/watch?v=ejLlvADKdWc)
 - [Did Microsoft ever do an ad that included a door?   #shorts](https://www.youtube.com/watch?v=fMiZnnNNWFQ)
 - [What was Microsoft&#39;s first Integrated Development Environment &lpar;IDE&rpar;? #Shorts](https://www.youtube.com/watch?v=x4RjmDFBna4)
-- [AI Show Live - Episode 70 - AzureML Registries and Azure Multivariate Anomaly Detection](https://www.youtube.com/watch?v=eEbI83NxOgY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
