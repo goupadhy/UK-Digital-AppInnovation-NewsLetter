@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [GitHub Enterprise Server 3.7 is now generally available](https://github.blog/2022-11-08-github-enterprise-server-3-7-is-now-generally-available/)
-- [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
-- [Advocating for developers to the US Copyright Office](https://github.blog/2022-11-03-advocating-for-developers-to-the-us-copyright-office/)
-- [How GitHub converts previously encrypted and unencrypted columns to ActiveRecord encrypted columns](https://github.blog/2022-11-03-how-github-converts-previously-encrypted-and-unencrypted-columns-to-activerecord-encrypted-columns/)
-- [GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/)
+- [Understanding the social impact of open source technologies](https://github.blog/2022-11-09-the-social-impact-of-open-source/)
+- [The changing nature of governmental policies around open source](https://github.blog/2022-11-09-open-source-government-policies/)
+- [Why more companies are investing in open source program offices](https://github.blog/2022-11-09-why-companies-are-starting-ospos/)
+- [The importance of improving supply chain security in open source](https://github.blog/2022-11-09-improving-open-source-supply-chain-security/)
+- [Bringing greater financial sustainability to open source communities](https://github.blog/2022-11-09-financial-sustainability-in-open-source/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
