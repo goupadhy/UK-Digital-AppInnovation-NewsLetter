@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Todas as novidades do GitHub Universe 2022](https://github.blog/2022-11-09-todas-as-novidades-do-github-universe-2022/)
+- [An open source economy–built by developers, for developers](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/)
+- [Everything new from GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)
 - [Understanding the social impact of open source technologies](https://github.blog/2022-11-09-the-social-impact-of-open-source/)
 - [The changing nature of governmental policies around open source](https://github.blog/2022-11-09-open-source-government-policies/)
-- [Why more companies are investing in open source program offices](https://github.blog/2022-11-09-why-companies-are-starting-ospos/)
-- [The importance of improving supply chain security in open source](https://github.blog/2022-11-09-improving-open-source-supply-chain-security/)
-- [Bringing greater financial sustainability to open source communities](https://github.blog/2022-11-09-financial-sustainability-in-open-source/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
