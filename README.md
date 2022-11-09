@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Test your Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=8g_70zP0QTw)
+- [Learn Live - Authenticate your Azure deployment workflow by using workload identities](https://www.youtube.com/watch?v=7_J0SeI_aa0)
+- [Learn Live - Build your first Bicep deployment workflow by using GitHub Actions](https://www.youtube.com/watch?v=-LhlIqYr3JI)
 - [Understanding Dockerfile core concepts on Learn Live](https://www.youtube.com/watch?v=JZ37uCu1gcw)
 - [Learn Live - AKS Operations Best Practices](https://www.youtube.com/watch?v=sWKxNmS5auw)
-- [Scale Your Power Platform Community with the Power Platform Communication Site Template](https://www.youtube.com/watch?v=samn9411zBY)
-- [Learn Live - Design and make your Power App like a pro](https://www.youtube.com/watch?v=VRi6bbZ_d-o)
-- [LunchBytes - GraphQL on Azure](https://www.youtube.com/watch?v=ejLlvADKdWc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
