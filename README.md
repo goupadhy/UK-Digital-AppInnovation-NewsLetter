@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Microsoft Dynamics 365 Community Overview](https://www.youtube.com/watch?v=gdROuZDo8qk)
 - [Successful Career Switcher – Peggy Ortiz](https://www.youtube.com/watch?v=aKfXLZK-u00)
 - [Create An App from Figma - Demo](https://www.youtube.com/watch?v=nJmnLEWaHOA)
 - [The Power of Community](https://www.youtube.com/watch?v=HhKWfIjo8nE)
 - [Custom Connectors – Deep Dive &amp; Demo](https://www.youtube.com/watch?v=-RfyvImU1mw)
-- [Successful Career Switcher – Matthew Devaney](https://www.youtube.com/watch?v=o-dIRVcciTs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
