@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Understanding Dockerfile core concepts on Learn Live](https://www.youtube.com/watch?v=JZ37uCu1gcw)
 - [Learn Live - AKS Operations Best Practices](https://www.youtube.com/watch?v=sWKxNmS5auw)
 - [Scale Your Power Platform Community with the Power Platform Communication Site Template](https://www.youtube.com/watch?v=samn9411zBY)
 - [Learn Live - Design and make your Power App like a pro](https://www.youtube.com/watch?v=VRi6bbZ_d-o)
 - [LunchBytes - GraphQL on Azure](https://www.youtube.com/watch?v=ejLlvADKdWc)
-- [Did Microsoft ever do an ad that included a door?   #shorts](https://www.youtube.com/watch?v=fMiZnnNNWFQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
