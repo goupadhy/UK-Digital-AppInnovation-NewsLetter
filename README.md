@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/)
 - [Accelerate your cloud-native journey with Azure Monitor](https://azure.microsoft.com/blog/accelerate-your-cloudnative-journey-with-azure-monitor/)
 - [Announcing more Azure VMware Solution enhancements](https://azure.microsoft.com/blog/announcing-more-azure-vmware-solution-enhancements/)
 - [Zero downtime migration for Azure Front Door—now in preview](https://azure.microsoft.com/blog/zero-downtime-migration-for-azure-front-door-now-in-preview/)
 - [Build a globally resilient architecture with Azure Load Balancer](https://azure.microsoft.com/blog/build-a-globally-resilient-architecture-with-azure-load-balancer-2/)
-- [Sharing the latest improvements to efficiency in Microsoft’s datacenters](https://azure.microsoft.com/blog/sharing-the-latest-improvements-to-efficiency-in-microsoft-s-datacenters/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
