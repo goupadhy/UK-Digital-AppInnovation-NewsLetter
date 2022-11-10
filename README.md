@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Do more with less using new Azure HX and HBv4 virtual machines for HPC](https://azure.microsoft.com/blog/do-more-with-less-using-new-azure-hx-and-hbv4-virtual-machines-for-hpc/)
 - [New Project Flash Update: Advancing Azure Virtual Machine availability monitoring](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-monitoring-with-project-flash-update/)
 - [Azure comes to Dallas for Supercomputing](https://azure.microsoft.com/blog/azure-comes-to-dallas-for-supercomputing/)
 - [Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/)
 - [Accelerate your cloud-native journey with Azure Monitor](https://azure.microsoft.com/blog/accelerate-your-cloudnative-journey-with-azure-monitor/)
-- [Announcing more Azure VMware Solution enhancements](https://azure.microsoft.com/blog/announcing-more-azure-vmware-solution-enhancements/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
