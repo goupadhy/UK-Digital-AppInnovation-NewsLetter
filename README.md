@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [New Project Flash Update: Advancing Azure Virtual Machine availability monitoring](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-monitoring-with-project-flash-update/)
 - [Azure comes to Dallas for Supercomputing](https://azure.microsoft.com/blog/azure-comes-to-dallas-for-supercomputing/)
 - [Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/)
 - [Accelerate your cloud-native journey with Azure Monitor](https://azure.microsoft.com/blog/accelerate-your-cloudnative-journey-with-azure-monitor/)
 - [Announcing more Azure VMware Solution enhancements](https://azure.microsoft.com/blog/announcing-more-azure-vmware-solution-enhancements/)
-- [Zero downtime migration for Azure Front Door—now in preview](https://azure.microsoft.com/blog/zero-downtime-migration-for-azure-front-door-now-in-preview/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
