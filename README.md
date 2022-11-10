@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Intro Assessment Tooling for Oracle Database Migrations to Azure Database for PostgreSQL &amp; Azure SQL](https://www.youtube.com/watch?v=tTbin4qcyUY)
 - [Learn Live - Consume REST web services in .NET MAUI apps](https://www.youtube.com/watch?v=MxImRQEWe_w)
 - [Exploring What&#39;s New in Visual Studio 17.3](https://www.youtube.com/watch?v=HMOAR5mOMOo)
 - [Learn Live - Test your Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=8g_70zP0QTw)
 - [Learn Live - Authenticate your Azure deployment workflow by using workload identities](https://www.youtube.com/watch?v=7_J0SeI_aa0)
-- [Learn Live - Build your first Bicep deployment workflow by using GitHub Actions](https://www.youtube.com/watch?v=-LhlIqYr3JI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
