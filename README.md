@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Sharding Data in Production on Azure Friday](https://www.youtube.com/watch?v=tfKbApiGwfU)
 - [How to create multi-page .NET MAUI apps with tab and flyout navigation](https://www.youtube.com/watch?v=OQ2buPFFOoI)
 - [Intro Assessment Tooling for Oracle Database Migrations to Azure Database for PostgreSQL &amp; Azure SQL](https://www.youtube.com/watch?v=tTbin4qcyUY)
 - [Learn Live - Consume REST web services in .NET MAUI apps](https://www.youtube.com/watch?v=MxImRQEWe_w)
 - [Exploring What&#39;s New in Visual Studio 17.3](https://www.youtube.com/watch?v=HMOAR5mOMOo)
-- [Learn Live - Test your Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=8g_70zP0QTw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
