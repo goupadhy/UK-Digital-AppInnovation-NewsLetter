@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Choose the right disk storage for your virtual machine workload](https://www.youtube.com/watch?v=aJ7xwvq1fSU)
 - [Learn Live - Create a Linux virtual machine in Azure](https://www.youtube.com/watch?v=1wUtEML4lIU)
 - [What is Pro Code and what does it have to do with Fusion Development?](https://www.youtube.com/watch?v=h09xSf2Tg6Q)
 - [Learn Live - Introduction to Azure virtual machines](https://www.youtube.com/watch?v=4bOTJaJA3DM)
 - [Taking a closer look at the Windows Dev Kit 2023](https://www.youtube.com/watch?v=sV9lQUPAkf8)
-- [Sharding Data in Production on Azure Friday](https://www.youtube.com/watch?v=tfKbApiGwfU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
