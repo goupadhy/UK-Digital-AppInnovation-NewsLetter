@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to Azure virtual machines](https://www.youtube.com/watch?v=4bOTJaJA3DM)
 - [Taking a closer look at the Windows Dev Kit 2023](https://www.youtube.com/watch?v=sV9lQUPAkf8)
 - [Sharding Data in Production on Azure Friday](https://www.youtube.com/watch?v=tfKbApiGwfU)
 - [How to create multi-page .NET MAUI apps with tab and flyout navigation](https://www.youtube.com/watch?v=OQ2buPFFOoI)
 - [Intro Assessment Tooling for Oracle Database Migrations to Azure Database for PostgreSQL &amp; Azure SQL](https://www.youtube.com/watch?v=tTbin4qcyUY)
-- [Learn Live - Consume REST web services in .NET MAUI apps](https://www.youtube.com/watch?v=MxImRQEWe_w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
