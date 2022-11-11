@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Create a Linux virtual machine in Azure](https://www.youtube.com/watch?v=1wUtEML4lIU)
+- [What is Pro Code and what does it have to do with Fusion Development?](https://www.youtube.com/watch?v=h09xSf2Tg6Q)
 - [Learn Live - Introduction to Azure virtual machines](https://www.youtube.com/watch?v=4bOTJaJA3DM)
 - [Taking a closer look at the Windows Dev Kit 2023](https://www.youtube.com/watch?v=sV9lQUPAkf8)
 - [Sharding Data in Production on Azure Friday](https://www.youtube.com/watch?v=tfKbApiGwfU)
-- [How to create multi-page .NET MAUI apps with tab and flyout navigation](https://www.youtube.com/watch?v=OQ2buPFFOoI)
-- [Intro Assessment Tooling for Oracle Database Migrations to Azure Database for PostgreSQL &amp; Azure SQL](https://www.youtube.com/watch?v=tTbin4qcyUY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
