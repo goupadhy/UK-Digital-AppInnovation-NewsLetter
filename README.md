@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
-- [FastTrack for Azure helps LifeBio to evolve and grow their product base](https://www.youtube.com/watch?v=2dmzv4R_Kls)
-- [Microsoft Cloud for Financial Services: Improving the customer journey](https://www.youtube.com/watch?v=CjUbQe1ys0c)
-- [Microsoft Cloud for Financial Services: Wealth Management](https://www.youtube.com/watch?v=5JW9F8g7_6s)
-- [Azure confidential computing announcements | Satya Nadella Keynote Ignite 2022](https://www.youtube.com/watch?v=ulNtbG_EZUI)
-- [FLSmidth plans industry-wide sustainability transformation and looks to Microsoft solutions for help](https://www.youtube.com/watch?v=V5Br8Xv4BNE)
+- [Introducing Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=wNrwLDgTOSA)
+- [iFit uses Supply Chain Center to optimize inventory and delight customers with rapid delivery times](https://www.youtube.com/watch?v=QBhjK4ZzO5c)
+- [Microsoft Supply Chain Center Demo](https://www.youtube.com/watch?v=CWxXOPWhYHI)
+- [Empowering business to reimagine supply chains](https://www.youtube.com/watch?v=0UfxJ81Z63s)
+- [Daimler looks to optimize supply chain processes with Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=5Il5aSGJ7Hk)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
