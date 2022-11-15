@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Empowering ISVs to build and sell with the Microsoft Cloud](https://azure.microsoft.com/blog/empowering-isvs-to-build-and-sell-with-the-microsoft-cloud/)
 - [How IoT, AI, and Digital Twins are helping achieve sustainability goals](https://azure.microsoft.com/blog/how-iot-ai-and-digital-twins-are-helping-achieve-sustainability-goals/)
 - [Do more with less using new Azure HX and HBv4 virtual machines for HPC](https://azure.microsoft.com/blog/do-more-with-less-using-new-azure-hx-and-hbv4-virtual-machines-for-hpc/)
 - [New Project Flash Update: Advancing Azure Virtual Machine availability monitoring](https://azure.microsoft.com/blog/advancing-azure-virtual-machine-availability-monitoring-with-project-flash-update/)
 - [Azure comes to Dallas for Supercomputing](https://azure.microsoft.com/blog/azure-comes-to-dallas-for-supercomputing/)
-- [Improve your energy and carbon efficiency with Azure sustainability guidance](https://azure.microsoft.com/blog/improve-your-energy-and-carbon-efficiency-with-azure-sustainability-guidance/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
