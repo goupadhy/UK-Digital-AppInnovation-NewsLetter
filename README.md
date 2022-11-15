@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How can you stay up to date on the latest tech?    #Shorts](https://www.youtube.com/watch?v=1F3pvMX7S8k)
 - [Learn Live - Microsoft Identity Platform](https://www.youtube.com/watch?v=Ar3SberzNq8)
 - [Armchair Architects: So, you want to build a platform … &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=pBfmTMpRlbk)
 - [Deploying Azure Resources using Azure DevOps](https://www.youtube.com/watch?v=pX6dikcOeRY)
 - [AzureML Registries - Enabling Better Collaboration and MLOps](https://www.youtube.com/watch?v=OuNoE5VDAPA)
-- [The Latest from Azure Multivariate Anomaly Detection](https://www.youtube.com/watch?v=3aKp6p89jQ4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
