@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Deploying Azure Resources using Azure DevOps](https://www.youtube.com/watch?v=pX6dikcOeRY)
 - [AzureML Registries - Enabling Better Collaboration and MLOps](https://www.youtube.com/watch?v=OuNoE5VDAPA)
 - [The Latest from Azure Multivariate Anomaly Detection](https://www.youtube.com/watch?v=3aKp6p89jQ4)
 - [Learn Live - Choose the right disk storage for your virtual machine workload](https://www.youtube.com/watch?v=aJ7xwvq1fSU)
 - [Learn Live - Create a Linux virtual machine in Azure](https://www.youtube.com/watch?v=1wUtEML4lIU)
-- [What is Pro Code and what does it have to do with Fusion Development?](https://www.youtube.com/watch?v=h09xSf2Tg6Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
