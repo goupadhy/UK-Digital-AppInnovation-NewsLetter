@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What makes Microsoft’s relationship with TitletownTech different?](https://www.youtube.com/watch?v=3VTduXtB1hE)
+- [Microsoft Tech Days: A Flight into IoT 2 - Long-Haul](https://www.youtube.com/watch?v=YcpAzAj-eRw)
+- [Is Azure Cosmos DB for NoSQL suitable for relational workloads?](https://www.youtube.com/watch?v=0AYMqWXz7v4)
 - [LunchBytes - GraphQL on Azure](https://www.youtube.com/watch?v=ejLlvADKdWc)
 - [How can you stay up to date on the latest tech?    #Shorts](https://www.youtube.com/watch?v=1F3pvMX7S8k)
-- [Learn Live - Microsoft Identity Platform](https://www.youtube.com/watch?v=Ar3SberzNq8)
-- [Armchair Architects: So, you want to build a platform … &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=pBfmTMpRlbk)
-- [Deploying Azure Resources using Azure DevOps](https://www.youtube.com/watch?v=pX6dikcOeRY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
