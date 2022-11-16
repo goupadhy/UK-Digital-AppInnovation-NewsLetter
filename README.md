@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Store local data with SQLite in a .NET MAUI app](https://www.youtube.com/watch?v=nK0rtoU_D2Q)
 - [What makes Microsoft’s relationship with TitletownTech different?](https://www.youtube.com/watch?v=3VTduXtB1hE)
 - [Microsoft Tech Days: A Flight into IoT 2 - Long-Haul](https://www.youtube.com/watch?v=YcpAzAj-eRw)
 - [Is Azure Cosmos DB for NoSQL suitable for relational workloads?](https://www.youtube.com/watch?v=0AYMqWXz7v4)
 - [LunchBytes - GraphQL on Azure](https://www.youtube.com/watch?v=ejLlvADKdWc)
-- [How can you stay up to date on the latest tech?    #Shorts](https://www.youtube.com/watch?v=1F3pvMX7S8k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
