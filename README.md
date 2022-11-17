@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Any developer can be a space developer with the new Azure Orbital Space SDK](https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/)
 - [Announcing new capabilities for Azure Firewall](https://azure.microsoft.com/blog/announcing-new-capabilities-for-azure-firewall/)
 - [AI and the need for purpose-built cloud infrastructure](https://azure.microsoft.com/blog/ai-and-the-need-for-purposebuilt-cloud-infrastructure/)
 - [NBA and Microsoft team up to transform fan experiences with cloud application modernization](https://azure.microsoft.com/blog/nba-and-microsoft-team-up-to-transform-fan-experiences-with-cloud-application-modernization/)
 - [Empowering ISVs to build and sell with the Microsoft Cloud](https://azure.microsoft.com/blog/empowering-isvs-to-build-and-sell-with-the-microsoft-cloud/)
-- [How IoT, AI, and Digital Twins are helping achieve sustainability goals](https://azure.microsoft.com/blog/how-iot-ai-and-digital-twins-are-helping-achieve-sustainability-goals/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
