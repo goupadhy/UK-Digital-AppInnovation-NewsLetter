@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL VM: SQL Server 2012/2008/2008R2 End of Support, What are Customers Options Now  &lpar;Ep. 9&rpar;](https://www.youtube.com/watch?v=MpeMiL9t_QU)
 - [Azure SQL New Updates @ PASS Summit, November 2022 | Data Exposed Live](https://www.youtube.com/watch?v=6m6L-pspVng)
 - [Learn Live - Store local data with SQLite in a .NET MAUI app](https://www.youtube.com/watch?v=nK0rtoU_D2Q)
 - [What makes Microsoft’s relationship with TitletownTech different?](https://www.youtube.com/watch?v=3VTduXtB1hE)
 - [Microsoft Tech Days: A Flight into IoT 2 - Long-Haul](https://www.youtube.com/watch?v=YcpAzAj-eRw)
-- [Is Azure Cosmos DB for NoSQL suitable for relational workloads?](https://www.youtube.com/watch?v=0AYMqWXz7v4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
