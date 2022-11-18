@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Manufacturing Overview](https://www.youtube.com/watch?v=dYqJPaehrQo)
 - [On the Go with Sanjay Ravi - Wayve and Autonomous Vehicles | Episode 1](https://www.youtube.com/watch?v=pjKNX1K0ZAo)
 - [Introducing Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=wNrwLDgTOSA)
 - [iFit uses Supply Chain Center to optimize inventory and delight customers with rapid delivery times](https://www.youtube.com/watch?v=QBhjK4ZzO5c)
 - [Microsoft Supply Chain Center Demo](https://www.youtube.com/watch?v=CWxXOPWhYHI)
-- [Empowering business to reimagine supply chains](https://www.youtube.com/watch?v=0UfxJ81Z63s)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
