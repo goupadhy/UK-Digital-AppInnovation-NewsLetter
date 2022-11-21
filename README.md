@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Updating a Node Image for Azure Kubernetes Service &lpar;AKS&rpar; on Learn Live](https://www.youtube.com/watch?v=uSXxsfUVhVM)
 - [AI Show Live - Episode 71 - Federated Learning with AzureML and Building Recommender Systems](https://www.youtube.com/watch?v=IhRn8X3h1SU)
 - [Introducing tooling for Oracle database migrations to Azure Database for PostgreSQL and Azure SQL](https://www.youtube.com/watch?v=_Wj_cKeJZDI)
 - [Live demo of automated cloud application testing using Azure and Playwright](https://www.youtube.com/watch?v=ye3r-1fzLgc)
 - [Live Demo of Chaos Studio at Microsoft Ignite with Jennifer Perret &amp; Scott Hanselman](https://www.youtube.com/watch?v=snGzF0ydFyo)
-- [Azure SQL VM: SQL Server 2012/2008/2008R2 End of Support, What are Customers Options Now  &lpar;Ep. 9&rpar;](https://www.youtube.com/watch?v=MpeMiL9t_QU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
