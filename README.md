@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Create &amp; Scale Azure WordPress site with Azure App Service | #AzureHappyHours](https://www.youtube.com/watch?v=EASnfNZoGk0)
 - [What are my options for running SQL Server 2012 on Premises?](https://www.youtube.com/watch?v=u53JgUSS7UY)
 - [Updating a Node Image for Azure Kubernetes Service &lpar;AKS&rpar; on Learn Live](https://www.youtube.com/watch?v=uSXxsfUVhVM)
 - [AI Show Live - Episode 71 - Federated Learning with AzureML and Building Recommender Systems](https://www.youtube.com/watch?v=IhRn8X3h1SU)
 - [Introducing tooling for Oracle database migrations to Azure Database for PostgreSQL and Azure SQL](https://www.youtube.com/watch?v=_Wj_cKeJZDI)
-- [Live demo of automated cloud application testing using Azure and Playwright](https://www.youtube.com/watch?v=ye3r-1fzLgc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
