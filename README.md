@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Festive Tech Calendar 2022 - the launch!](https://www.youtube.com/watch?v=-BgfoegP7vQ)
 - [Microsoft Tech Days: A Flight into IoT 2 - Long-Haul](https://www.youtube.com/watch?v=YcpAzAj-eRw)
 - [LunchBytes - Message Transformation &amp; Mapping Options in Azure](https://www.youtube.com/watch?v=KuuHsshdZJw)
 - [Showing off How to Compare Query Plans in Azure Data Studio](https://www.youtube.com/watch?v=egTmQYCHk0g)
 - [Create &amp; Scale Azure WordPress site with Azure App Service | #AzureHappyHours](https://www.youtube.com/watch?v=EASnfNZoGk0)
-- [What are my options for running SQL Server 2012 on Premises?](https://www.youtube.com/watch?v=u53JgUSS7UY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
