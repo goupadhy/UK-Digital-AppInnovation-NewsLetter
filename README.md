@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Announcing Microsoft Community Front Door &amp; Community Days](https://www.youtube.com/watch?v=kXicjWqrRHs)
 - [Exam Readiness Live: Preparing for PL-100](https://www.youtube.com/watch?v=Tyf7p8QTQ6o)
 - [Power Pages governance and administration](https://www.youtube.com/watch?v=AlklfPCJDmk)
 - [Power Virtual Agents - Easier, More Powerful Than Ever - Power CAT Live](https://www.youtube.com/watch?v=LzC2eShDpoY)
 - [Microsoft Dynamics 365 Community Overview](https://www.youtube.com/watch?v=gdROuZDo8qk)
-- [Successful Career Switcher – Peggy Ortiz](https://www.youtube.com/watch?v=aKfXLZK-u00)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
