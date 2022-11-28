@@ -54,7 +54,7 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [Exciting New GitHub Features Powering Machine Learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/)
+- [Exciting new GitHub features powering machine learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/)
 - [Octoverse 2022: 10 years of tracking open source](https://github.blog/2022-11-17-octoverse-2022-10-years-of-tracking-open-source/)
 - [The power of GitHub in the palm of your hand](https://github.blog/2022-11-15-the-power-of-github-in-the-palm-of-your-hand/)
 - [A better way to search, navigate, and understand code on GitHub](https://github.blog/2022-11-15-a-better-way-to-search-navigate-and-understand-code-on-github/)
