@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learning about Bicep on Learn Live with Donovan Brown](https://www.youtube.com/watch?v=tcA3rTQJBn8)
 - [Learn how to deploy mission-critical workloads in Azure Landing Zones](https://www.youtube.com/watch?v=cZwMLa-su1w)
 - [Fluent UI Insights: APIs in v9. Slots, JSX children &amp; triggers](https://www.youtube.com/watch?v=uxuIJlYmKGk)
 - [Building Recommender Systems](https://www.youtube.com/watch?v=Th5IHCbRyUk)
 - [Federated Learning with Azure Machine Learning](https://www.youtube.com/watch?v=aTj4AqbCWEA)
-- [Festive Tech Calendar 2022 - the launch!](https://www.youtube.com/watch?v=-BgfoegP7vQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
