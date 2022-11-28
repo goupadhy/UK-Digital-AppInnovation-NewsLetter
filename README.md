@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Fluent UI Insights: APIs in v9. Slots, JSX children &amp; triggers](https://www.youtube.com/watch?v=uxuIJlYmKGk)
 - [Building Recommender Systems](https://www.youtube.com/watch?v=Th5IHCbRyUk)
 - [Federated Learning with Azure Machine Learning](https://www.youtube.com/watch?v=aTj4AqbCWEA)
 - [Festive Tech Calendar 2022 - the launch!](https://www.youtube.com/watch?v=-BgfoegP7vQ)
 - [Microsoft Tech Days: A Flight into IoT 2 - Long-Haul](https://www.youtube.com/watch?v=YcpAzAj-eRw)
-- [LunchBytes - Message Transformation &amp; Mapping Options in Azure](https://www.youtube.com/watch?v=KuuHsshdZJw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
