@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Automating Azure Deployments with Bicep and GitHub Actions on Learn Live](https://www.youtube.com/watch?v=c4kNguDc3Nk)
+- [Armchair Architects: So, you want to build a platform … &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=_YL8wvON0-I)
 - [Ask the Expert: 2022 Octoverse report from GitHub](https://www.youtube.com/watch?v=GHXWgmLUykk)
 - [Learning about Bicep on Learn Live with Donovan Brown](https://www.youtube.com/watch?v=tcA3rTQJBn8)
 - [Learn how to deploy mission-critical workloads in Azure Landing Zones](https://www.youtube.com/watch?v=cZwMLa-su1w)
-- [Fluent UI Insights: APIs in v9. Slots, JSX children &amp; triggers](https://www.youtube.com/watch?v=uxuIJlYmKGk)
-- [Building Recommender Systems](https://www.youtube.com/watch?v=Th5IHCbRyUk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
