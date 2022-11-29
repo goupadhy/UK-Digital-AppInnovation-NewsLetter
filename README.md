@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Forrester TEI highlights 3 benefits of Power Platform premium capabilities](https://cloudblogs.microsoft.com/powerplatform/2022/11/28/forrester-tei-highlights-3-benefits-of-power-platform-premium-capabilities/)
 - [Bring agility, connectivity, and sustainability to the forefront—at Supply Chain Reimagined](https://cloudblogs.microsoft.com/dynamics365/bdm/2022/10/27/bring-agility-connectivity-and-sustainability-to-the-forefront-at-supply-chain-reimagined/)
 - [Leverage low-code to do more with less at Microsoft Ignite 2022 ](https://cloudblogs.microsoft.com/powerplatform/2022/10/12/leverage-low-code-to-do-more-with-less-at-microsoft-ignite-2022/)
 - [The future of low-code governance with Managed Environments for Power Platform](https://cloudblogs.microsoft.com/powerplatform/2022/10/12/the-future-of-low-code-governance-with-managed-environments-for-power-platform/)
 - [Your guide to Power Platform at Microsoft Ignite 2022](https://cloudblogs.microsoft.com/powerplatform/2022/10/05/your-guide-to-power-platform-at-microsoft-ignite-2022/)
+- [The Power Platform Conference: A celebration of community, collaboration, and career growth](https://cloudblogs.microsoft.com/powerplatform/2022/09/20/the-power-platform-conference-a-celebration-of-community-collaboration-and-career-growth/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
