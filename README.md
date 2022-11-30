@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Unity in Community](https://www.youtube.com/watch?v=mz96dhf3_EY)
 - [Create Flows With Natural Language - Power CAT Live](https://www.youtube.com/watch?v=0jPo2XdrKsg)
 - [Announcing Microsoft Community Front Door &amp; Community Days](https://www.youtube.com/watch?v=kXicjWqrRHs)
 - [Exam Readiness Live: Preparing for PL-100](https://www.youtube.com/watch?v=Tyf7p8QTQ6o)
 - [Power Pages governance and administration](https://www.youtube.com/watch?v=AlklfPCJDmk)
-- [Power Virtual Agents - Easier, More Powerful Than Ever - Power CAT Live](https://www.youtube.com/watch?v=LzC2eShDpoY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
