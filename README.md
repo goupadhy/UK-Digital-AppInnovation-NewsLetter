@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [LunchBytes - Message Transformation &amp; Mapping Options in Azure](https://www.youtube.com/watch?v=KuuHsshdZJw)
+- [Posting a Tweet with GitHub Copilot and Python](https://www.youtube.com/watch?v=Pg0ATtp1ERI)
 - [Learn Live - Azure Monitoring](https://www.youtube.com/watch?v=0tikuxN2LAs)
 - [Start your metadata driven adventure in Azure Data Factory | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=2vzTqIFVX78)
 - [Automating Azure Deployments with Bicep and GitHub Actions on Learn Live](https://www.youtube.com/watch?v=c4kNguDc3Nk)
-- [Armchair Architects: So, you want to build a platform … &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=_YL8wvON0-I)
-- [Ask the Expert: 2022 Octoverse report from GitHub](https://www.youtube.com/watch?v=GHXWgmLUykk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
