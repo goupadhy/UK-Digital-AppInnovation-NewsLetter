@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server 2022: Introducing SQL Server 2022 General Availability [Ep. 1] | Data Exposed](https://www.youtube.com/watch?v=7bV516JfVLs)
+- [Collecting and displaying telemetry automatically using Dapr with Donovan Brown at Microsoft Ignite](https://www.youtube.com/watch?v=nwmYV-9QaEc)
 - [Learn Live - Introduction to Azure virtual machines](https://www.youtube.com/watch?v=4bOTJaJA3DM)
 - [AI Show Live - Episode 72 - Visual Search Toolkit with Azure AI](https://www.youtube.com/watch?v=PY7BzwqMzjQ)
 - [Festive Tech Calendar 2022 - the launch!](https://www.youtube.com/watch?v=-BgfoegP7vQ)
-- [Learn Live - Build your first Bicep deployment workflow by using GitHub Actions](https://www.youtube.com/watch?v=-LhlIqYr3JI)
-- [Network Secured Global Ingress with Azure Front Door Premium](https://www.youtube.com/watch?v=mSnjxGxqJY8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
