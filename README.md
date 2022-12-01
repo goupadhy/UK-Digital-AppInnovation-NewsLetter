@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Festive Tech Calendar 2022 - the launch!](https://www.youtube.com/watch?v=-BgfoegP7vQ)
 - [Learn Live - Build your first Bicep deployment workflow by using GitHub Actions](https://www.youtube.com/watch?v=-LhlIqYr3JI)
 - [Network Secured Global Ingress with Azure Front Door Premium](https://www.youtube.com/watch?v=mSnjxGxqJY8)
 - [LunchBytes - Message Transformation &amp; Mapping Options in Azure](https://www.youtube.com/watch?v=KuuHsshdZJw)
 - [Posting a Tweet with GitHub Copilot and Python](https://www.youtube.com/watch?v=Pg0ATtp1ERI)
-- [Learn Live - Azure Monitoring](https://www.youtube.com/watch?v=0tikuxN2LAs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
