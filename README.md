@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to Azure virtual machines](https://www.youtube.com/watch?v=4bOTJaJA3DM)
 - [AI Show Live - Episode 72 - Visual Search Toolkit with Azure AI](https://www.youtube.com/watch?v=PY7BzwqMzjQ)
 - [Festive Tech Calendar 2022 - the launch!](https://www.youtube.com/watch?v=-BgfoegP7vQ)
 - [Learn Live - Build your first Bicep deployment workflow by using GitHub Actions](https://www.youtube.com/watch?v=-LhlIqYr3JI)
 - [Network Secured Global Ingress with Azure Front Door Premium](https://www.youtube.com/watch?v=mSnjxGxqJY8)
-- [LunchBytes - Message Transformation &amp; Mapping Options in Azure](https://www.youtube.com/watch?v=KuuHsshdZJw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
