@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Global AI Student Conference 2022](https://www.youtube.com/watch?v=NGtatwmtuzI)
 - [SQL Server 2022: Introducing SQL Server 2022 General Availability [Ep. 1] | Data Exposed](https://www.youtube.com/watch?v=7bV516JfVLs)
 - [Collecting and displaying telemetry automatically using Dapr with Donovan Brown at Microsoft Ignite](https://www.youtube.com/watch?v=nwmYV-9QaEc)
 - [Learn Live - Introduction to Azure virtual machines](https://www.youtube.com/watch?v=4bOTJaJA3DM)
 - [AI Show Live - Episode 72 - Visual Search Toolkit with Azure AI](https://www.youtube.com/watch?v=PY7BzwqMzjQ)
-- [Festive Tech Calendar 2022 - the launch!](https://www.youtube.com/watch?v=-BgfoegP7vQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
