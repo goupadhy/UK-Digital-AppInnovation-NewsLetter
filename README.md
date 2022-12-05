@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft and Isovalent partner to bring next generation eBPF dataplane for cloud-native applications in Azure](https://azure.microsoft.com/blog/microsoft-and-isovalent-partner-to-bring-next-generation-ebpf-dataplane-for-cloudnative-applications-in-azure/)
 - [Microsoft Cost Management updates—November 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-november-2022/)
 - [Voltus and Azure—no power integrity challenge too big to solve](https://azure.microsoft.com/blog/voltus-and-azure-no-power-integrity-challenge-too-big-to-solve/)
 - [Expanding AI technology for unstructured biomedical text beyond English](https://azure.microsoft.com/blog/expanding-ai-technology-for-unstructured-text-beyond-english/)
 - [Microsoft named a Leader in 2022 Gartner® Magic Quadrant™ for Full Life Cycle API Management](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-full-life-cycle-api-management/)
-- [Any developer can be a space developer with the new Azure Orbital Space SDK](https://azure.microsoft.com/blog/any-developer-can-be-a-space-developer-with-the-new-azure-orbital-space-sdk/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
