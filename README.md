@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: 2022 Octoverse report from GitHub &lpar;Replay&rpar;](https://www.youtube.com/watch?v=N00DbFymh7U)
+- [Ask the Expert: 2022 Octoverse report from GitHub](https://www.youtube.com/watch?v=GHXWgmLUykk)
 - [Referencing Polly in your C# Application to set RetryAsync with Scott Hunter @ Microsoft Ignite](https://www.youtube.com/watch?v=HmKPegypGSE)
 - [Setting up Rate Limiting in .NET 7 with Damien Edwards and David Fowler @ Microsoft Ignite](https://www.youtube.com/watch?v=DUS5R1i-UFg)
 - [LunchBytes - End-to-end innersourcing and secure development with GitHub](https://www.youtube.com/watch?v=03za5iRKf_8)
-- [Adding Async Connections with SQLite in a .NET MAUI App](https://www.youtube.com/watch?v=SZOOhpA2jbw)
-- [AI Show Live - Episode 72 - Visual Search Toolkit with Azure AI](https://www.youtube.com/watch?v=PY7BzwqMzjQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
