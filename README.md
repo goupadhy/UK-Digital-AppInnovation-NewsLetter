@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [See how the commercial marketplace has become central to Palo Alto&#39;s cloud strategy](https://www.youtube.com/watch?v=KRNlvN0wXD4)
 - [Orange County Superior Court Enhances Operations with Microsoft Azure](https://www.youtube.com/watch?v=647ZuMqlzXY)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Elisabeth Brinton](https://www.youtube.com/watch?v=iZx9ES45S-U)
 - [Microsoft Cloud for Manufacturing Overview](https://www.youtube.com/watch?v=dYqJPaehrQo)
 - [On the Go with Sanjay Ravi - Wayve and Autonomous Vehicles | Episode 1](https://www.youtube.com/watch?v=pjKNX1K0ZAo)
-- [Introducing Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=wNrwLDgTOSA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
