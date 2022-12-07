@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Authenticate your Azure deployment workflow by using workload identities](https://www.youtube.com/watch?v=7_J0SeI_aa0)
 - [How do you turn an idea into a venture-ready business?](https://www.youtube.com/watch?v=KPq1f8CB4Go)
 - [AKS + Azure Stack HCI = A versatile application platform!](https://www.youtube.com/watch?v=1d4tvqbTo3M)
 - [How to create a central catalog for MLOps models and pipelines](https://www.youtube.com/watch?v=fOGqgM8uiEQ)
 - [Ask the Expert: 2022 Octoverse report from GitHub &lpar;Replay&rpar;](https://www.youtube.com/watch?v=N00DbFymh7U)
-- [Learn Live - Microsoft Purview Data Governance](https://www.youtube.com/watch?v=Sb9uJLtXDGo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
