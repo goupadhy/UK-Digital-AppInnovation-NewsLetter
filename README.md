@@ -25,9 +25,9 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: 2022 Octoverse report from GitHub &lpar;Replay&rpar;](https://www.youtube.com/watch?v=N00DbFymh7U)
 - [Learn Live - Microsoft Purview Data Governance](https://www.youtube.com/watch?v=Sb9uJLtXDGo)
 - [I feel like others know more than me – will I be successful in tech?   #Shorts](https://www.youtube.com/watch?v=W8k73TU3I34)
-- [Ask the Expert: 2022 Octoverse report from GitHub &lpar;Replay&rpar;](https://www.youtube.com/watch?v=N00DbFymh7U)
 - [Ask the Expert: 2022 Octoverse report from GitHub](https://www.youtube.com/watch?v=GHXWgmLUykk)
 - [Referencing Polly in your C# Application to set RetryAsync with Scott Hunter @ Microsoft Ignite](https://www.youtube.com/watch?v=HmKPegypGSE)
 <!-- YOUTUBECNA:END -->
