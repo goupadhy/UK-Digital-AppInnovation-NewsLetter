@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AKS + Azure Stack HCI = A versatile application platform!](https://www.youtube.com/watch?v=1d4tvqbTo3M)
 - [How to create a central catalog for MLOps models and pipelines](https://www.youtube.com/watch?v=fOGqgM8uiEQ)
 - [Ask the Expert: 2022 Octoverse report from GitHub &lpar;Replay&rpar;](https://www.youtube.com/watch?v=N00DbFymh7U)
 - [Learn Live - Microsoft Purview Data Governance](https://www.youtube.com/watch?v=Sb9uJLtXDGo)
 - [I feel like others know more than me – will I be successful in tech?   #Shorts](https://www.youtube.com/watch?v=W8k73TU3I34)
-- [Ask the Expert: 2022 Octoverse report from GitHub](https://www.youtube.com/watch?v=GHXWgmLUykk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
