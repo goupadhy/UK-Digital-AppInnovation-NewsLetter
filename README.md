@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [3 key cloud adoption trends in migrating and modernizing workloads](https://azure.microsoft.com/blog/3-key-cloud-adoption-trends-in-migrating-and-modernizing-workloads/)
 - [Improve speech-to-text accuracy with Azure Custom Speech](https://azure.microsoft.com/blog/improve-speechtotext-accuracy-with-azure-custom-speech/)
 - [Microsoft and Isovalent partner to bring next generation eBPF dataplane for cloud-native applications in Azure](https://azure.microsoft.com/blog/microsoft-and-isovalent-partner-to-bring-next-generation-ebpf-dataplane-for-cloudnative-applications-in-azure/)
 - [Microsoft Cost Management updates—November 2022](https://azure.microsoft.com/blog/microsoft-cost-management-updates-november-2022/)
 - [Voltus and Azure—no power integrity challenge too big to solve](https://azure.microsoft.com/blog/voltus-and-azure-no-power-integrity-challenge-too-big-to-solve/)
-- [Expanding AI technology for unstructured biomedical text beyond English](https://azure.microsoft.com/blog/expanding-ai-technology-for-unstructured-text-beyond-english/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
