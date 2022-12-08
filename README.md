@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Create a Linux virtual machine in Azure](https://www.youtube.com/watch?v=1wUtEML4lIU)
 - [How to use GitHub Codespaces to Improve Student Learning](https://www.youtube.com/watch?v=5c_X-GC7Eds)
 - [Understanding Connectivity issues in SQL Database | Data Exposed](https://www.youtube.com/watch?v=BkDz9OTdypI)
 - [Training a data model for Visual Search and Azure AI using Python](https://www.youtube.com/watch?v=bPwHSGpPsqg)
 - [Dive into Azure VMs and Storage](https://www.youtube.com/watch?v=OsKVu_h4cog)
-- [Learn Live - Authenticate your Azure deployment workflow by using workload identities](https://www.youtube.com/watch?v=7_J0SeI_aa0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
