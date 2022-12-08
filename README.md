@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Training a data model for Visual Search and Azure AI using Python](https://www.youtube.com/watch?v=bPwHSGpPsqg)
 - [Dive into Azure VMs and Storage](https://www.youtube.com/watch?v=OsKVu_h4cog)
 - [Learn Live - Authenticate your Azure deployment workflow by using workload identities](https://www.youtube.com/watch?v=7_J0SeI_aa0)
 - [How do you turn an idea into a venture-ready business?](https://www.youtube.com/watch?v=KPq1f8CB4Go)
 - [AKS + Azure Stack HCI = A versatile application platform!](https://www.youtube.com/watch?v=1d4tvqbTo3M)
-- [How to create a central catalog for MLOps models and pipelines](https://www.youtube.com/watch?v=fOGqgM8uiEQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
