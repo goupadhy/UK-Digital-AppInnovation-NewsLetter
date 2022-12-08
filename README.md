@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Understanding Connectivity issues in SQL Database | Data Exposed](https://www.youtube.com/watch?v=BkDz9OTdypI)
 - [Training a data model for Visual Search and Azure AI using Python](https://www.youtube.com/watch?v=bPwHSGpPsqg)
 - [Dive into Azure VMs and Storage](https://www.youtube.com/watch?v=OsKVu_h4cog)
 - [Learn Live - Authenticate your Azure deployment workflow by using workload identities](https://www.youtube.com/watch?v=7_J0SeI_aa0)
 - [How do you turn an idea into a venture-ready business?](https://www.youtube.com/watch?v=KPq1f8CB4Go)
-- [AKS + Azure Stack HCI = A versatile application platform!](https://www.youtube.com/watch?v=1d4tvqbTo3M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
