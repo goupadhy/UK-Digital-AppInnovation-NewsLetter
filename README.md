@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What are the fastest growing programming languages on GitHub?](https://www.youtube.com/watch?v=pdtOm-j8Dg4)
 - [Execute an Exe in Azure](https://www.youtube.com/watch?v=I0iheDwm5Ac)
 - [What are the most popular programming languages according to GitHub?](https://www.youtube.com/watch?v=8GWIKlqQLlg)
 - [Visual Search Toolkit with Azure AI](https://www.youtube.com/watch?v=ZEwaqkMkLUY)
 - [Learn Live - Create a Linux virtual machine in Azure](https://www.youtube.com/watch?v=1wUtEML4lIU)
-- [How to use GitHub Codespaces to Improve Student Learning](https://www.youtube.com/watch?v=5c_X-GC7Eds)
 <!-- YOUTUBEAPPMOD:END -->
 
 
