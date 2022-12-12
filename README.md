@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [What are the top open source projects on GitHub?](https://www.youtube.com/watch?v=6aLHOUapVvY)
-- [Bringing app development to one compact device with Windows Dev Kit 2023 &lpar;Project Volterra&rpar;](https://www.youtube.com/watch?v=zbjPN2eXKIY)
-- [What are the fastest growing programming languages on GitHub?](https://www.youtube.com/watch?v=pdtOm-j8Dg4)
-- [Execute an Exe in Azure](https://www.youtube.com/watch?v=I0iheDwm5Ac)
-- [What are the most popular programming languages according to GitHub?](https://www.youtube.com/watch?v=8GWIKlqQLlg)
+- [Microsoft SQL Server 2022 Platform Improvements | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=i3GGdkFXGqI)
+- [Manage your SQL Server data estate from Azure | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=rvlQxHbc99g)
+- [Azure SQL Managed Instance new platform features | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=nB_ZwIlq0fY)
+- [Cloud connected SQL Server 2022 | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=2jI-E-Fnr5k)
+- [SQL bindings for Azure Functions | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=01nhp4OAk0c)
 <!-- YOUTUBEAPPMOD:END -->
 
 
