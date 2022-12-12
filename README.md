@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Start learning Azure today with new role-based skill guides](https://azure.microsoft.com/blog/start-learning-azure-today-with-new-rolebased-skill-guides/)
 - [Azure Storage Mover–A managed migration service for Azure Storage](https://azure.microsoft.com/blog/azure-storage-mover-a-managed-migration-service-for-azure-storage-2/)
 - [Microsoft Azure's defense in depth approach to cloud vulnerabilities](https://azure.microsoft.com/blog/microsoft-azures-defense-in-depth-approach-to-cloud-vulnerabilities/)
 - [3 key cloud adoption trends in migrating and modernizing workloads](https://azure.microsoft.com/blog/3-key-cloud-adoption-trends-in-migrating-and-modernizing-workloads/)
 - [Improve speech-to-text accuracy with Azure Custom Speech](https://azure.microsoft.com/blog/improve-speechtotext-accuracy-with-azure-custom-speech/)
-- [Microsoft and Isovalent partner to bring next generation eBPF dataplane for cloud-native applications in Azure](https://azure.microsoft.com/blog/microsoft-and-isovalent-partner-to-bring-next-generation-ebpf-dataplane-for-cloudnative-applications-in-azure/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
