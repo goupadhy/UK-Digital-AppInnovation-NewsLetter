@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Live Demo of Azure Managed Grafana](https://www.youtube.com/watch?v=VqYmtFCJF7Q)
 - [Learn Live - SQL Migrations - Part 1 - Discovery, Assessment and Remediation](https://www.youtube.com/watch?v=8fPwpRFSe6o)
 - [Microsoft SQL Server 2022 Platform Improvements | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=i3GGdkFXGqI)
 - [Manage your SQL Server data estate from Azure | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=rvlQxHbc99g)
 - [Azure SQL Managed Instance new platform features | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=nB_ZwIlq0fY)
-- [Cloud connected SQL Server 2022 | Data Exposed @ PASS Summit](https://www.youtube.com/watch?v=2jI-E-Fnr5k)
 <!-- YOUTUBEAPPMOD:END -->
 
 
