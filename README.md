@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Map Any Process &lpar;Even SAP&rpar; With Process Advisor - Power CAT Live](https://www.youtube.com/watch?v=SNLtyi_ZZOQ)
 - [How to permanently delete a user in Power Platform](https://www.youtube.com/watch?v=FaTetIyhSes)
 - [Why SharePoint Experts Choose Dataverse - Power CAT Live](https://www.youtube.com/watch?v=fbKZlF1WMBk)
 - [Optimize year end close | Dynamics 365 Finance](https://www.youtube.com/watch?v=G_AFxWZddYs)
 - [Pipelines for Power Platform - Power CAT Live](https://www.youtube.com/watch?v=uILb28j4lso)
-- [Unity in Community](https://www.youtube.com/watch?v=mz96dhf3_EY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
