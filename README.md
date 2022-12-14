@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [LunchBytes - End-to-end innersourcing and secure development with GitHub](https://www.youtube.com/watch?v=03za5iRKf_8)
+- [Armchair Architects: Architects vs. The Ivory Tower](https://www.youtube.com/watch?v=2ezIiYHLXhc)
 - [Creating Classifications in Microsoft Purview](https://www.youtube.com/watch?v=n_GyHRljjeU)
 - [Global AI Student Conference 2022](https://www.youtube.com/watch?v=NGtatwmtuzI)
 - [Microsoft’s Mixed Reality Toolkit &lpar;MRTK&rpar; at Qualcomm’s Snapdragon Summit](https://www.youtube.com/watch?v=V1d_FRnU70g)
-- [What’s an unknown skill I need to succeed in tech?](https://www.youtube.com/watch?v=cTkjZbTUB_0)
-- [3 tools to help you move to Azure | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=RNyNqK0gERM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
