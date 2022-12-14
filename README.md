@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Global AI Student Conference 2022](https://www.youtube.com/watch?v=NGtatwmtuzI)
 - [Microsoft’s Mixed Reality Toolkit &lpar;MRTK&rpar; at Qualcomm’s Snapdragon Summit](https://www.youtube.com/watch?v=V1d_FRnU70g)
 - [What’s an unknown skill I need to succeed in tech?](https://www.youtube.com/watch?v=cTkjZbTUB_0)
 - [3 tools to help you move to Azure | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=RNyNqK0gERM)
 - [Live Demo of Azure Managed Grafana](https://www.youtube.com/watch?v=VqYmtFCJF7Q)
-- [Learn Live - SQL Migrations - Part 1 - Discovery, Assessment and Remediation](https://www.youtube.com/watch?v=8fPwpRFSe6o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
