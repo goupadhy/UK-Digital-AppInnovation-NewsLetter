@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Test your Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=8g_70zP0QTw)
 - [Azure SQL 2022 News Update: Year in Review | Data Exposed Live](https://www.youtube.com/watch?v=pRBfIsOTCRk)
 - [What have TitletownTech portfolio companies been able to achieve by partnering with Microsoft?](https://www.youtube.com/watch?v=__tTI76tbsM)
 - [LunchBytes - End-to-end innersourcing and secure development with GitHub](https://www.youtube.com/watch?v=03za5iRKf_8)
 - [Armchair Architects: Architects vs. The Ivory Tower](https://www.youtube.com/watch?v=2ezIiYHLXhc)
-- [Creating Classifications in Microsoft Purview](https://www.youtube.com/watch?v=n_GyHRljjeU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
