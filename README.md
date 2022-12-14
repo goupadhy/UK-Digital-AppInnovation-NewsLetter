@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft Azure CLX: A personalized program to learn Azure](https://azure.microsoft.com/blog/microsoft-azure-clx-a-personalized-program-to-learn-azure/)
 - [Forrester study finds 228 percent ROI when modernizing applications on Azure PaaS](https://azure.microsoft.com/blog/forrester-study-finds-228-percent-roi-when-modernizing-applications-on-azure-paas/)
 - [Microsoft sponsors OWASP ModSecurity CRS to improve application security](https://azure.microsoft.com/blog/microsoft-sponsors-owasp-modsecurity-crs-to-improve-application-security/)
 - [Start learning Azure today with new role-based skill guides](https://azure.microsoft.com/blog/start-learning-azure-today-with-new-rolebased-skill-guides/)
 - [Azure Storage Mover–A managed migration service for Azure Storage](https://azure.microsoft.com/blog/azure-storage-mover-a-managed-migration-service-for-azure-storage-2/)
-- [Microsoft Azure's defense in depth approach to cloud vulnerabilities](https://azure.microsoft.com/blog/microsoft-azures-defense-in-depth-approach-to-cloud-vulnerabilities/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
