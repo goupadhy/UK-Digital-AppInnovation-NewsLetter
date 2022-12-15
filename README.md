@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Choose the right disk storage for your virtual machine workload](https://www.youtube.com/watch?v=aJ7xwvq1fSU)
+- [AI Show Live - Episode 73 - A World of AI at Your Fingertips](https://www.youtube.com/watch?v=1EFg4pa6VKY)
 - [How to migrate SQL Server to Azure SQL Database offline using Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=fugG63rRWp8)
 - [Creating a workload identity and linking it to a GitHub Actions deployment workflow](https://www.youtube.com/watch?v=eiauHPMAxFY)
 - [Learn Live - SQL Migrations - Part 2 - Plan, Migrate and Optimize](https://www.youtube.com/watch?v=cMStinxMBl4)
-- [Learn Live - Test your Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=8g_70zP0QTw)
-- [Azure SQL 2022 News Update: Year in Review | Data Exposed Live](https://www.youtube.com/watch?v=pRBfIsOTCRk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
