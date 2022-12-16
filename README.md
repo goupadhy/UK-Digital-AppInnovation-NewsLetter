@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Updating an application in real-time with zero downtime using Azure Kubernetes Service and GitOps](https://www.youtube.com/watch?v=bhdMoSwFWRg)
 - [Learn Live - Choose the right disk storage for your virtual machine workload](https://www.youtube.com/watch?v=aJ7xwvq1fSU)
 - [AI Show Live - Episode 73 - A World of AI at Your Fingertips](https://www.youtube.com/watch?v=1EFg4pa6VKY)
 - [How to migrate SQL Server to Azure SQL Database offline using Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=fugG63rRWp8)
 - [Creating a workload identity and linking it to a GitHub Actions deployment workflow](https://www.youtube.com/watch?v=eiauHPMAxFY)
-- [Learn Live - SQL Migrations - Part 2 - Plan, Migrate and Optimize](https://www.youtube.com/watch?v=cMStinxMBl4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
