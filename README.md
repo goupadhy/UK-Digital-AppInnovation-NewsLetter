@@ -79,10 +79,10 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live - Episode 73 - A World of AI at Your Fingertips](https://www.youtube.com/watch?v=1EFg4pa6VKY)
 - [Tell us about the fancy conference room | One Dev Question](https://www.youtube.com/watch?v=TzyACiSuOeA)
 - [Updating an application in real-time with zero downtime using Azure Kubernetes Service and GitOps](https://www.youtube.com/watch?v=bhdMoSwFWRg)
 - [Learn Live - Choose the right disk storage for your virtual machine workload](https://www.youtube.com/watch?v=aJ7xwvq1fSU)
-- [AI Show Live - Episode 73 - A World of AI at Your Fingertips](https://www.youtube.com/watch?v=1EFg4pa6VKY)
 - [How to migrate SQL Server to Azure SQL Database offline using Azure Data Studio | Data Exposed](https://www.youtube.com/watch?v=fugG63rRWp8)
 <!-- YOUTUBEAPPMOD:END -->
 
