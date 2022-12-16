@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Grupo Bimbo and Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=ml6PI8vDmHs)
 - [ZF and the Future of Mobility | On the Go with Sanjay Ravi Ep2](https://www.youtube.com/watch?v=X8WD9vbiqPg)
 - [Empowering business to reimagine supply chains | Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=DCMvdOWKy_c)
 - [See how the commercial marketplace has become central to Palo Alto&#39;s cloud strategy](https://www.youtube.com/watch?v=KRNlvN0wXD4)
 - [Orange County Superior Court Enhances Operations with Microsoft Azure](https://www.youtube.com/watch?v=647ZuMqlzXY)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Elisabeth Brinton](https://www.youtube.com/watch?v=iZx9ES45S-U)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
