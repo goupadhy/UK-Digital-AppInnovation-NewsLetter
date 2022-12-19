@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/)
 - [Learn how Microsoft datacenter operations prepare for energy issues](https://azure.microsoft.com/blog/learn-how-microsoft-datacenter-operations-prepare-for-energy-issues/)
 - [Microsoft Azure CLX: A personalized program to learn Azure](https://azure.microsoft.com/blog/microsoft-azure-clx-a-personalized-program-to-learn-azure/)
 - [Forrester study finds 228 percent ROI when modernizing applications on Azure PaaS](https://azure.microsoft.com/blog/forrester-study-finds-228-percent-roi-when-modernizing-applications-on-azure-paas/)
 - [Microsoft sponsors OWASP ModSecurity CRS to improve application security](https://azure.microsoft.com/blog/microsoft-sponsors-owasp-modsecurity-crs-to-improve-application-security/)
-- [Start learning Azure today with new role-based skill guides](https://azure.microsoft.com/blog/start-learning-azure-today-with-new-rolebased-skill-guides/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
