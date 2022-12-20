@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Connecting to an Azure Virtual Machine using RDP](https://www.youtube.com/watch?v=5XXEIAI37JM)
 - [Importing SQL data using a metadata approach with Azure Data Factory](https://www.youtube.com/watch?v=gGNDTfFmlXk)
 - [Accessing a GitHub Repository using the VS Code web editor](https://www.youtube.com/watch?v=46FIe6-cMTc)
 - [AI Show Live - Episode 73 - A World of AI at Your Fingertips](https://www.youtube.com/watch?v=1EFg4pa6VKY)
 - [Tell us about the fancy conference room | One Dev Question](https://www.youtube.com/watch?v=TzyACiSuOeA)
-- [Updating an application in real-time with zero downtime using Azure Kubernetes Service and GitOps](https://www.youtube.com/watch?v=bhdMoSwFWRg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
