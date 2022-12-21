@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft Innovation in RAN Analytics and Control](https://azure.microsoft.com/blog/microsoft-innovation-in-ran-analytics-and-control/)
 - [Microsoft Cost Management 2022 year in review](https://azure.microsoft.com/blog/microsoft-cost-management-2022-year-in-review/)
 - [Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/)
 - [Learn how Microsoft datacenter operations prepare for energy issues](https://azure.microsoft.com/blog/learn-how-microsoft-datacenter-operations-prepare-for-energy-issues/)
 - [Microsoft Azure CLX: A personalized program to learn Azure](https://azure.microsoft.com/blog/microsoft-azure-clx-a-personalized-program-to-learn-azure/)
-- [Forrester study finds 228 percent ROI when modernizing applications on Azure PaaS](https://azure.microsoft.com/blog/forrester-study-finds-228-percent-roi-when-modernizing-applications-on-azure-paas/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
