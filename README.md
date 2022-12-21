@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Currency revaluation posting profile | Dynamics 365](https://www.youtube.com/watch?v=DGUtkt576wU)
 - [Custom Multi-Table &lpar;Polymorphic&rpar; Lookups and Virtual Tables](https://www.youtube.com/watch?v=Yo6HD7smbUs)
 - [SharePoint Virtual Tables and Multi-Select Option Sets](https://www.youtube.com/watch?v=qO9BCbI3EqI)
 - [AAD User Table – Customizable Forms and Views](https://www.youtube.com/watch?v=ICFbeap2o9g)
 - [How to link an MR report to Excel | Dynamics GP](https://www.youtube.com/watch?v=yGxskeWBOfM)
-- [Delegate the mailbox approval process in Dynamics 365 and Power Apps](https://www.youtube.com/watch?v=TPS5KvFvy88)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
