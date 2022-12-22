@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to build a real-time leaderboard for the Soccer World Cup with Azure SQL &amp; Redis | Data Exposed](https://www.youtube.com/watch?v=SmvP2W2seYI)
 - [Talking about cloud-connected scenarios with SQL Server 2022 to build a hybrid solution](https://www.youtube.com/watch?v=OVwuogVvYmo)
 - [Connecting to an Azure Virtual Machine using RDP](https://www.youtube.com/watch?v=5XXEIAI37JM)
 - [Importing SQL data using a metadata approach with Azure Data Factory](https://www.youtube.com/watch?v=gGNDTfFmlXk)
 - [Accessing a GitHub Repository using the VS Code web editor](https://www.youtube.com/watch?v=46FIe6-cMTc)
-- [AI Show Live - Episode 73 - A World of AI at Your Fingertips](https://www.youtube.com/watch?v=1EFg4pa6VKY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
