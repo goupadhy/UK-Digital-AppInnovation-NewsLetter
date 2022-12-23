@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What advice do you have for migrating data?](https://www.youtube.com/watch?v=uB0U3Cybk08)
 - [AI Builder | A World of AI at Your Fingertips](https://www.youtube.com/watch?v=sZCHUNm4Khw)
 - [Learning about all of the new updates for SQL Managed Instance](https://www.youtube.com/watch?v=qBX62XS-I34)
 - [How to build a real-time leaderboard for the Soccer World Cup with Azure SQL &amp; Redis | Data Exposed](https://www.youtube.com/watch?v=SmvP2W2seYI)
 - [Talking about cloud-connected scenarios with SQL Server 2022 to build a hybrid solution](https://www.youtube.com/watch?v=OVwuogVvYmo)
-- [Connecting to an Azure Virtual Machine using RDP](https://www.youtube.com/watch?v=5XXEIAI37JM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
