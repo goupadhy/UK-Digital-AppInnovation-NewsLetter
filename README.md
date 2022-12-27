@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learning how to build a hybrid solution with Arc-enabled SQL server](https://www.youtube.com/watch?v=Luubsq3EAMY)
 - [Experiencing MRTK3&#39;s hand tracking and world body locked hologram](https://www.youtube.com/watch?v=NdEfWxKp0sw)
 - [What advice do you have for migrating data?](https://www.youtube.com/watch?v=uB0U3Cybk08)
 - [AI Builder | A World of AI at Your Fingertips](https://www.youtube.com/watch?v=sZCHUNm4Khw)
 - [Learning about all of the new updates for SQL Managed Instance](https://www.youtube.com/watch?v=qBX62XS-I34)
-- [How to build a real-time leaderboard for the Soccer World Cup with Azure SQL &amp; Redis | Data Exposed](https://www.youtube.com/watch?v=SmvP2W2seYI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
