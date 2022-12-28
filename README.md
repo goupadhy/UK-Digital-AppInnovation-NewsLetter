@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Migrating offline data with Azure SQL Database](https://www.youtube.com/watch?v=Cbhk7KFzmaI)
 - [Learning how to build a hybrid solution with Arc-enabled SQL server](https://www.youtube.com/watch?v=Luubsq3EAMY)
 - [Experiencing MRTK3&#39;s hand tracking and world body locked hologram](https://www.youtube.com/watch?v=NdEfWxKp0sw)
 - [What advice do you have for migrating data?](https://www.youtube.com/watch?v=uB0U3Cybk08)
 - [AI Builder | A World of AI at Your Fingertips](https://www.youtube.com/watch?v=sZCHUNm4Khw)
-- [Learning about all of the new updates for SQL Managed Instance](https://www.youtube.com/watch?v=qBX62XS-I34)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
