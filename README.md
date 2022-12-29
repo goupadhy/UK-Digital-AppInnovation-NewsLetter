@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learning about SQL Server data platform improvements](https://www.youtube.com/watch?v=7gzWRTeR5E8)
 - [Azure App Modernization with Power Apps](https://www.youtube.com/watch?v=8poBsYeGMJs)
 - [Migrating offline data with Azure SQL Database](https://www.youtube.com/watch?v=Cbhk7KFzmaI)
 - [Learning how to build a hybrid solution with Arc-enabled SQL server](https://www.youtube.com/watch?v=Luubsq3EAMY)
 - [Experiencing MRTK3&#39;s hand tracking and world body locked hologram](https://www.youtube.com/watch?v=NdEfWxKp0sw)
-- [What advice do you have for migrating data?](https://www.youtube.com/watch?v=uB0U3Cybk08)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
