@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Architecture and Ambiguity](https://www.youtube.com/watch?v=FStbpGwhT8M)
 - [Power Platform CLI Exposed: PAC CLI Overview](https://www.youtube.com/watch?v=NkoWGF8a4aQ)
 - [Building Your Own Containers - The Reactor Code Lab](https://www.youtube.com/watch?v=0gj7N0wrhGo)
 - [Learning about SQL Server data platform improvements](https://www.youtube.com/watch?v=7gzWRTeR5E8)
 - [Azure App Modernization with Power Apps](https://www.youtube.com/watch?v=8poBsYeGMJs)
-- [Migrating offline data with Azure SQL Database](https://www.youtube.com/watch?v=Cbhk7KFzmaI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
