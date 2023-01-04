@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Azure migration helps TomTom achieve high availability](https://www.youtube.com/watch?v=BE9MO9WvZFc)
 - [On the Go with Sanjay Ravi--Episode 3--Touchcast and the Metaverse](https://www.youtube.com/watch?v=2uA-YPrRWhw)
 - [Grupo Bimbo and Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=ml6PI8vDmHs)
 - [ZF and the Future of Mobility | On the Go with Sanjay Ravi Ep2](https://www.youtube.com/watch?v=X8WD9vbiqPg)
 - [Empowering business to reimagine supply chains | Microsoft Supply Chain Platform](https://www.youtube.com/watch?v=DCMvdOWKy_c)
-- [See how the commercial marketplace has become central to Palo Alto&#39;s cloud strategy](https://www.youtube.com/watch?v=KRNlvN0wXD4)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
