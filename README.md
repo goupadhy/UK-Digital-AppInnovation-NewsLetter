@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Integrate Virtual Tables with Dataverse Data](https://www.youtube.com/watch?v=gjum546ycpg)
 - [Create Virtual Tables](https://www.youtube.com/watch?v=ttw4bF1mT3g)
 - [Virtual Tables Overview](https://www.youtube.com/watch?v=weyEDIKhi18)
 - [Currency revaluation posting profile | Dynamics 365](https://www.youtube.com/watch?v=DGUtkt576wU)
 - [Custom Multi-Table &lpar;Polymorphic&rpar; Lookups and Virtual Tables](https://www.youtube.com/watch?v=Yo6HD7smbUs)
-- [SharePoint Virtual Tables and Multi-Select Option Sets](https://www.youtube.com/watch?v=qO9BCbI3EqI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
