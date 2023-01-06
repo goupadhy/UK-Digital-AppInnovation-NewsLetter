@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Exam Readiness Live: Preparing for PL-100](https://www.youtube.com/watch?v=xe_dv4w0IVw)
 - [Azure SQL VM: Azure Backup &amp; restore for SQL Server on Azure Virtual Machines - Ep10 | Data Exposed](https://www.youtube.com/watch?v=ebb5ifHfHQg)
 - [Armchair Architects: Architecture and Ambiguity](https://www.youtube.com/watch?v=FStbpGwhT8M)
 - [Power Platform CLI Exposed: PAC CLI Overview](https://www.youtube.com/watch?v=NkoWGF8a4aQ)
 - [Building Your Own Containers - The Reactor Code Lab](https://www.youtube.com/watch?v=0gj7N0wrhGo)
-- [Learning about SQL Server data platform improvements](https://www.youtube.com/watch?v=7gzWRTeR5E8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
