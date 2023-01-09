@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [There is nothing like the Power Platform community | Power Platform Short](https://www.youtube.com/watch?v=nGKkM58kGVo)
+- [Sheryl Netley | Community Connections](https://www.youtube.com/watch?v=cIyQLM8UT-s)
 - [Integrate Virtual Tables with Dataverse Data](https://www.youtube.com/watch?v=gjum546ycpg)
 - [Create Virtual Tables](https://www.youtube.com/watch?v=ttw4bF1mT3g)
 - [Virtual Tables Overview](https://www.youtube.com/watch?v=weyEDIKhi18)
-- [Currency revaluation posting profile | Dynamics 365](https://www.youtube.com/watch?v=DGUtkt576wU)
-- [Custom Multi-Table &lpar;Polymorphic&rpar; Lookups and Virtual Tables](https://www.youtube.com/watch?v=Yo6HD7smbUs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
