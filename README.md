@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Preparing for the PL-100 Power Platform App Maker Certification Exam](https://www.youtube.com/watch?v=i_f8aUhmvDk)
 - [Learn Live - Configure the network for your virtual machines](https://www.youtube.com/watch?v=P8-PKz4jWOs)
 - [Learn Live - Manage multiple environments by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=sZ0Z-4r08so)
 - [Exam Readiness Live: Preparing for PL-100](https://www.youtube.com/watch?v=xe_dv4w0IVw)
 - [Azure SQL VM: Azure Backup &amp; restore for SQL Server on Azure Virtual Machines - Ep10 | Data Exposed](https://www.youtube.com/watch?v=ebb5ifHfHQg)
-- [Armchair Architects: Architecture and Ambiguity](https://www.youtube.com/watch?v=FStbpGwhT8M)
 <!-- YOUTUBEAPPMOD:END -->
 
 
