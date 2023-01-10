@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure Confidential Computing on 4th Gen Intel Xeon Scalable Processors with Intel TDX](https://azure.microsoft.com/blog/azure-confidential-computing-on-4th-gen-intel-xeon-scalable-processors-with-intel-tdx/)
 - [Microsoft named a Leader in The Forrester Wave™: Public Cloud Development and Infrastructure Platforms, 2022](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-public-cloud-development-and-infrastructure-platforms-2022/)
 - [Microsoft named a Leader in 2022 Gartner® Magic Quadrant™ for Insight Engines](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-insight-engines/)
 - [Microsoft Innovation in RAN Analytics and Control](https://azure.microsoft.com/blog/microsoft-innovation-in-ran-analytics-and-control/)
 - [Microsoft Cost Management 2022 year in review](https://azure.microsoft.com/blog/microsoft-cost-management-2022-year-in-review/)
-- [Microsoft named a Leader in the 2022 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-2022-gartner-magic-quadrant-for-industrial-iot-platforms/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
