@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Creating videos programmatically with Remotion on The Download](https://www.youtube.com/watch?v=CC6J8y6-hG4)
 - [Learn Live - Manage multiple environments by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=sZ0Z-4r08so)
 - [Exam Readiness Live: Preparing for PL-100](https://www.youtube.com/watch?v=xe_dv4w0IVw)
 - [Power Platform CLI Exposed: Solutions](https://www.youtube.com/watch?v=2gVCsFutUFo)
 - [Preparing for the PL-100 Power Platform App Maker Certification Exam](https://www.youtube.com/watch?v=i_f8aUhmvDk)
-- [Learn Live - Configure the network for your virtual machines](https://www.youtube.com/watch?v=P8-PKz4jWOs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
