@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Configure the network for your virtual machines](https://www.youtube.com/watch?v=P8-PKz4jWOs)
 - [How to easily teach yourself Azure Arc-enabled data services | Data Exposed](https://www.youtube.com/watch?v=G7QWr3sMREI)
 - [Creating videos programmatically with Remotion on The Download](https://www.youtube.com/watch?v=CC6J8y6-hG4)
 - [Learn Live - Manage multiple environments by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=sZ0Z-4r08so)
 - [Exam Readiness Live: Preparing for PL-100](https://www.youtube.com/watch?v=xe_dv4w0IVw)
-- [Power Platform CLI Exposed: Solutions](https://www.youtube.com/watch?v=2gVCsFutUFo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
