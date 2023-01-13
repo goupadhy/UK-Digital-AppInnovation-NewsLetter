@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Welcome to Microsoft Cloud for Retail](https://www.youtube.com/watch?v=1ZG9IRJ8eEM)
 - [Żabka Group launches autonomous Nano stores powered by Microsoft Cloud for Retail](https://www.youtube.com/watch?v=BJpwE4YLYD0)
 - [Microsoft Azure LATAM educating its developer community on AI and accessibility](https://www.youtube.com/watch?v=P-JQl5MbUsY)
 - [Azure migration helps TomTom achieve high availability](https://www.youtube.com/watch?v=BE9MO9WvZFc)
 - [On the Go with Sanjay Ravi--Episode 3--Touchcast and the Metaverse](https://www.youtube.com/watch?v=2uA-YPrRWhw)
-- [Grupo Bimbo and Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=ml6PI8vDmHs)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
