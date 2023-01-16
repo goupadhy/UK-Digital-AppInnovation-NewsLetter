@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What is ChatGPT and why is it important? From the Download](https://www.youtube.com/watch?v=Nf4YjH6LsXc)
+- [Getting started with Azure Arc-enabled data services and the Jumpstart ArcBox flavor](https://www.youtube.com/watch?v=PQSdWOzhSUY)
 - [Learning what is new with GitHub Codespaces on The Download](https://www.youtube.com/watch?v=aX2tuweXiAs)
 - [Bringing the Atari 2600 development environment to VS Code on The Download](https://www.youtube.com/watch?v=TbYaYbsxyzU)
 - [Learn Live - Configure the network for your virtual machines](https://www.youtube.com/watch?v=P8-PKz4jWOs)
-- [How to easily teach yourself Azure Arc-enabled data services | Data Exposed](https://www.youtube.com/watch?v=G7QWr3sMREI)
-- [Creating videos programmatically with Remotion on The Download](https://www.youtube.com/watch?v=CC6J8y6-hG4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
