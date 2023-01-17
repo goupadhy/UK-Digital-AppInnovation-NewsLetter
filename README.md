@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Understanding the different Microsoft Power Platform certifications](https://www.youtube.com/watch?v=MpJoqSl_m0k)
 - [Learn Live - Manage end-to-end deployment scenarios by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=NaZvL6ejW34)
 - [What is ChatGPT and why is it important? From the Download](https://www.youtube.com/watch?v=Nf4YjH6LsXc)
 - [Getting started with Azure Arc-enabled data services and the Jumpstart ArcBox flavor](https://www.youtube.com/watch?v=PQSdWOzhSUY)
 - [Learning what is new with GitHub Codespaces on The Download](https://www.youtube.com/watch?v=aX2tuweXiAs)
-- [Bringing the Atari 2600 development environment to VS Code on The Download](https://www.youtube.com/watch?v=TbYaYbsxyzU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
