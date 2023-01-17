@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value](https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/)
 - [General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
 - [Azure Confidential Computing on 4th Gen Intel Xeon Scalable Processors with Intel TDX](https://azure.microsoft.com/blog/azure-confidential-computing-on-4th-gen-intel-xeon-scalable-processors-with-intel-tdx/)
 - [Microsoft named a Leader in The Forrester Wave™: Public Cloud Development and Infrastructure Platforms, 2022](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-public-cloud-development-and-infrastructure-platforms-2022/)
 - [Microsoft named a Leader in 2022 Gartner® Magic Quadrant™ for Insight Engines](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2022-gartner-magic-quadrant-for-insight-engines/)
-- [Microsoft Innovation in RAN Analytics and Control](https://azure.microsoft.com/blog/microsoft-innovation-in-ran-analytics-and-control/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
