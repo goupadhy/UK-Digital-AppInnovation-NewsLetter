@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Manage end-to-end deployment scenarios by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=NaZvL6ejW34)
 - [What is ChatGPT and why is it important? From the Download](https://www.youtube.com/watch?v=Nf4YjH6LsXc)
 - [Getting started with Azure Arc-enabled data services and the Jumpstart ArcBox flavor](https://www.youtube.com/watch?v=PQSdWOzhSUY)
 - [Learning what is new with GitHub Codespaces on The Download](https://www.youtube.com/watch?v=aX2tuweXiAs)
 - [Bringing the Atari 2600 development environment to VS Code on The Download](https://www.youtube.com/watch?v=TbYaYbsxyzU)
-- [Learn Live - Configure the network for your virtual machines](https://www.youtube.com/watch?v=P8-PKz4jWOs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
