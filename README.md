@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Passwordless Cloud Deployments](https://www.youtube.com/watch?v=wywliqNxIRA)
 - [Building a Power Automate Flow using Artificial Intelligence to prepare for the PL-100](https://www.youtube.com/watch?v=hZ3Q4G1kYQI)
 - [Armchair Architects: Is Big Data Turning into Dark Data?](https://www.youtube.com/watch?v=NX9J1X4l3y8)
 - [Understanding the different Microsoft Power Platform certifications](https://www.youtube.com/watch?v=MpJoqSl_m0k)
 - [Learn Live - Manage end-to-end deployment scenarios by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=NaZvL6ejW34)
-- [What is ChatGPT and why is it important? From the Download](https://www.youtube.com/watch?v=Nf4YjH6LsXc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
