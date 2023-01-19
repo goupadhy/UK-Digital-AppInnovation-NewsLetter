@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Creating the right disk storage for your virtual machine workload](https://www.youtube.com/watch?v=lssMeOKbtU0)
 - [Father turns struggle into hope for diagnosing rare diseases](https://www.youtube.com/watch?v=B5Pe-wlc88I)
 - [A community for women](https://www.youtube.com/watch?v=gk_lnKoML2A)
 - [The pandas project](https://www.youtube.com/watch?v=A9iYUu9ISKg)
 - [Sea of Thieves](https://www.youtube.com/watch?v=I6pBOvYJ8Eg)
-- [OptiKey](https://www.youtube.com/watch?v=yhtNTEvxof8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
