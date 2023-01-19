@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Monitor the health of your Azure Virtual Machine with Azure Metrics Explorer](https://www.youtube.com/watch?v=j64U9fVmuPc)
 - [Learn Live - Manage end-to-end deployment scenarios by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=NaZvL6ejW34)
 - [Passwordless Cloud Deployments](https://www.youtube.com/watch?v=wywliqNxIRA)
 - [Building a Power Automate Flow using Artificial Intelligence to prepare for the PL-100](https://www.youtube.com/watch?v=hZ3Q4G1kYQI)
 - [Armchair Architects: Is Big Data Turning into Dark Data?](https://www.youtube.com/watch?v=NX9J1X4l3y8)
-- [Understanding the different Microsoft Power Platform certifications](https://www.youtube.com/watch?v=MpJoqSl_m0k)
 <!-- YOUTUBEAPPMOD:END -->
 
 
