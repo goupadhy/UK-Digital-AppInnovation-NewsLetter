@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learning about secret scanning on GitHub](https://www.youtube.com/watch?v=rq2DHHdd_lk)
+- [What is the difference between topics and entities in Power Virtual Agents?](https://www.youtube.com/watch?v=RzBT9W6qdyY)
 - [Learn Live - Monitor the health of your Azure Virtual Machine with Azure Metrics Explorer](https://www.youtube.com/watch?v=j64U9fVmuPc)
 - [Learn Live - Manage end-to-end deployment scenarios by using Bicep and GitHub Actions](https://www.youtube.com/watch?v=NaZvL6ejW34)
 - [Passwordless Cloud Deployments](https://www.youtube.com/watch?v=wywliqNxIRA)
-- [Building a Power Automate Flow using Artificial Intelligence to prepare for the PL-100](https://www.youtube.com/watch?v=hZ3Q4G1kYQI)
-- [Armchair Architects: Is Big Data Turning into Dark Data?](https://www.youtube.com/watch?v=NX9J1X4l3y8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
