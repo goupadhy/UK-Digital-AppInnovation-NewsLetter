@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Power Platform CLI Exposed: Power Pages](https://www.youtube.com/watch?v=V8xlGf9JiF8)
 - [Learn how to discover and assess your SQL server environment before a migration](https://www.youtube.com/watch?v=eLbkq87pwLo)
 - [Can a Power BI dataset consist of multiple datasets?](https://www.youtube.com/watch?v=aFwDLMxZ_bI)
 - [Creating the right disk storage for your virtual machine workload](https://www.youtube.com/watch?v=lssMeOKbtU0)
 - [Father turns struggle into hope for diagnosing rare diseases](https://www.youtube.com/watch?v=B5Pe-wlc88I)
-- [A community for women](https://www.youtube.com/watch?v=gk_lnKoML2A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
