@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Unpacking the value of open source and code collaboration](https://github.blog/2023-01-20-unpacking-the-value-of-open-source-and-code-collaboration/)
 - [Sunsetting Subversion support](https://github.blog/2023-01-20-sunsetting-subversion-support/)
 - [Bringing GitHub Actions to GitHub Mobile](https://github.blog/2023-01-20-bringing-github-actions-to-github-mobile/)
 - [Unlocking security updates for transitive dependencies with npm](https://github.blog/2023-01-19-unlocking-security-updates-for-transitive-dependencies-with-npm/)
 - [How GitHub coordinates product releases with GitHub Projects and GitHub Actions](https://github.blog/2023-01-19-how-github-coordinates-product-releases-with-github-projects-and-github-actions/)
-- [Remediation made simple: Introducing new validity checks for GitHub tokens](https://github.blog/2023-01-19-remediation-made-simple-introducing-new-validity-checks-for-github-tokens/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
