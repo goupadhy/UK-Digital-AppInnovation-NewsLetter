@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Build a Canvas App with Virtual Tables](https://www.youtube.com/watch?v=0QuH7ZGfx0g)
 - [Easier Integration With Virtual Tables for Dataverse - Power CAT Live](https://www.youtube.com/watch?v=viRTtGEZXNE)
 - [Exam Readiness Live: Preparing for PL-100](https://www.youtube.com/watch?v=Tyf7p8QTQ6o)
 - [Power Fx Dataverse Formula Columns - Power CAT Live](https://www.youtube.com/watch?v=ewscYjh4yy8)
 - [Finding community and a place where you belong | Power Platform Short](https://www.youtube.com/watch?v=nGKkM58kGVo)
-- [Sheryl Netley | Community Connections](https://www.youtube.com/watch?v=cIyQLM8UT-s)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
