@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Planning and migrating your SQL Server workload to Azure](https://www.youtube.com/watch?v=vpVE5aIqypQ)
 - [How do I begin with Power Platform to prepare for the PL-100 Certification Exam?](https://www.youtube.com/watch?v=r2Hkd7FclWM)
 - [Testing your Bicep code with GitHub Actins](https://www.youtube.com/watch?v=uzYMcpeUgWM)
 - [How is space allocated to Dataverse?](https://www.youtube.com/watch?v=z5Ze2aq-VHI)
 - [Taking a look at GitHub Actions for your DevSecOps work](https://www.youtube.com/watch?v=N00eS4lA6tQ)
-- [Power Platform CLI Exposed: Power Pages](https://www.youtube.com/watch?v=V8xlGf9JiF8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
