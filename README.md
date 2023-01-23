@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Combining the power of Optimum, OpenVINO™, ONNX Runtime, and Azure](https://www.youtube.com/watch?v=Wn9XOLVEWpI)
 - [Creating and Managing Power Pages with Power Platform CLI](https://www.youtube.com/watch?v=MrqJlnHNj64)
 - [Planning and migrating your SQL Server workload to Azure](https://www.youtube.com/watch?v=vpVE5aIqypQ)
 - [How do I begin with Power Platform to prepare for the PL-100 Certification Exam?](https://www.youtube.com/watch?v=r2Hkd7FclWM)
 - [Testing your Bicep code with GitHub Actins](https://www.youtube.com/watch?v=uzYMcpeUgWM)
-- [How is space allocated to Dataverse?](https://www.youtube.com/watch?v=z5Ze2aq-VHI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
