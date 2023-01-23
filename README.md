@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure Native Qumulo Scalable File Service provides seamless, secure data storage](https://azure.microsoft.com/blog/azure-native-qumulo-scalable-file-service-provides-seamless-secure-data-storage/)
 - [From Teams to PowerPoint: 10 ways Azure AI enhances the Microsoft Apps we use everyday](https://azure.microsoft.com/blog/from-teams-to-powerpoint-10-ways-azure-ai-enhances-the-microsoft-apps-we-use-everyday/)
 - [What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value](https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/)
 - [General availability of Azure OpenAI Service expands access to large, advanced AI models with added enterprise benefits](https://azure.microsoft.com/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/)
 - [Azure Confidential Computing on 4th Gen Intel Xeon Scalable Processors with Intel TDX](https://azure.microsoft.com/blog/azure-confidential-computing-on-4th-gen-intel-xeon-scalable-processors-with-intel-tdx/)
-- [Microsoft named a Leader in The Forrester Wave™: Public Cloud Development and Infrastructure Platforms, 2022](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-wave-public-cloud-development-and-infrastructure-platforms-2022/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
