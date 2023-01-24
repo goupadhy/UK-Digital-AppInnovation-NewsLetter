@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Automate Azure infrastructure change reviews by using Bicep and GitHub](https://www.youtube.com/watch?v=AyIPypo_a0s)
 - [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VdJgx8wVqvc)
 - [AI Show Live | Combining the power of Optimum, OpenVINO™, ONNX Runtime, and Azure](https://www.youtube.com/watch?v=Wn9XOLVEWpI)
 - [Creating and Managing Power Pages with Power Platform CLI](https://www.youtube.com/watch?v=MrqJlnHNj64)
 - [Planning and migrating your SQL Server workload to Azure](https://www.youtube.com/watch?v=vpVE5aIqypQ)
-- [How do I begin with Power Platform to prepare for the PL-100 Certification Exam?](https://www.youtube.com/watch?v=r2Hkd7FclWM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
