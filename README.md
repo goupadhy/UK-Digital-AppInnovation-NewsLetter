@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL March 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=Xzl3DWfrgkA)
 - [Learning how to get started with the Power Platform Command Line Interface &lpar;PAC CLI&rpar;](https://www.youtube.com/watch?v=5j0yuYstnYs)
 - [Learn Live - Automate Azure infrastructure change reviews by using Bicep and GitHub](https://www.youtube.com/watch?v=AyIPypo_a0s)
 - [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VdJgx8wVqvc)
 - [AI Show Live | Combining the power of Optimum, OpenVINO™, ONNX Runtime, and Azure](https://www.youtube.com/watch?v=Wn9XOLVEWpI)
-- [Creating and Managing Power Pages with Power Platform CLI](https://www.youtube.com/watch?v=MrqJlnHNj64)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
