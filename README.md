@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Automate Azure infrastructure change reviews by using Bicep and GitHub](https://www.youtube.com/watch?v=AyIPypo_a0s)
 - [Designing a mission-critical workload on Azure](https://www.youtube.com/watch?v=hgejBsROi4Y)
 - [Ensuring Low Latency and High Player Enjoyment in Sea of Thieves](https://www.youtube.com/watch?v=UtNpmidora0)
 - [Azure SQL March 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=Xzl3DWfrgkA)
 - [Learning how to get started with the Power Platform Command Line Interface &lpar;PAC CLI&rpar;](https://www.youtube.com/watch?v=5j0yuYstnYs)
-- [Learn Live - Automate Azure infrastructure change reviews by using Bicep and GitHub](https://www.youtube.com/watch?v=AyIPypo_a0s)
 <!-- YOUTUBEAPPMOD:END -->
 
 
