@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dataverse Security Roles Risk Assessment &amp; Management – Power CAT](https://www.youtube.com/watch?v=0z-yZcYaC5Y)
 - [Power Platform Shorts are about to get more Powerful!](https://www.youtube.com/watch?v=Dk0NzNeCkSc)
 - [Dataverse Environments For Everyone – New Developer Plan - Power CAT Live](https://www.youtube.com/watch?v=yXRSnN2AWTs)
 - [Build a Canvas App with Virtual Tables](https://www.youtube.com/watch?v=0QuH7ZGfx0g)
 - [Easier Integration With Virtual Tables for Dataverse - Power CAT Live](https://www.youtube.com/watch?v=viRTtGEZXNE)
-- [Power Fx Dataverse Formula Columns - Power CAT Live](https://www.youtube.com/watch?v=ewscYjh4yy8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
