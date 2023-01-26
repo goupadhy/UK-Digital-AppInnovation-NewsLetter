@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What’s New in Visual Studio Extensions for SSAS and SSRS | Data Exposed](https://www.youtube.com/watch?v=GAf9hD7WhqA)
 - [Creating a keyboard controlled by eye movements](https://www.youtube.com/watch?v=9FRST_VA8yw)
 - [Learn Live - Automate Azure infrastructure change reviews by using Bicep and GitHub](https://www.youtube.com/watch?v=AyIPypo_a0s)
 - [Designing a mission-critical workload on Azure](https://www.youtube.com/watch?v=hgejBsROi4Y)
 - [Ensuring Low Latency and High Player Enjoyment in Sea of Thieves](https://www.youtube.com/watch?v=UtNpmidora0)
-- [Azure SQL March 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=Xzl3DWfrgkA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
