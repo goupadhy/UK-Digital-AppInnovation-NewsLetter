@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do you reference an existing resource in bicep?](https://www.youtube.com/watch?v=H1g_pj1uo5E)
 - [Creating a controller to help people with physical challenges play video games](https://www.youtube.com/watch?v=JIbJ4y4iKYw)
 - [Learn Live - Monitor the health of your Azure Virtual Machine with Azure Metrics Explorer](https://www.youtube.com/watch?v=j64U9fVmuPc)
 - [What’s New in Visual Studio Extensions for SSAS and SSRS | Data Exposed](https://www.youtube.com/watch?v=GAf9hD7WhqA)
 - [Creating a keyboard controlled by eye movements](https://www.youtube.com/watch?v=9FRST_VA8yw)
-- [Learn Live - Automate Azure infrastructure change reviews by using Bicep and GitHub](https://www.youtube.com/watch?v=AyIPypo_a0s)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
