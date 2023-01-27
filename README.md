@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Detecting objects with the ONNX Runtime, Azure and a Raspberry Pi](https://www.youtube.com/watch?v=hN10xr543Jg)
 - [AI Show Live | Combining the power of Optimum, OpenVINO™, ONNX Runtime, and Azure](https://www.youtube.com/watch?v=Wn9XOLVEWpI)
 - [Combining the power of Optimum, OpenVINO™, ONNX Runtime, and Azure](https://www.youtube.com/watch?v=zdDseNfbvIw)
 - [How do you reference an existing resource in bicep?](https://www.youtube.com/watch?v=H1g_pj1uo5E)
 - [Creating a controller to help people with physical challenges play video games](https://www.youtube.com/watch?v=JIbJ4y4iKYw)
-- [Learn Live - Monitor the health of your Azure Virtual Machine with Azure Metrics Explorer](https://www.youtube.com/watch?v=j64U9fVmuPc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
