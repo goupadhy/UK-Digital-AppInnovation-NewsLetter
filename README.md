@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/)
 - [Cloud to Edge for efficient, agile, and sustainable retail](https://azure.microsoft.com/blog/cloud-to-edge-for-efficient-agile-and-sustainable-retail/)
 - [Azure Native New Relic Service: Full stack observability in minutes](https://azure.microsoft.com/blog/azure-native-new-relic-service-full-stack-observability-in-minutes/)
 - [Azure Native Qumulo Scalable File Service provides seamless, secure data storage](https://azure.microsoft.com/blog/azure-native-qumulo-scalable-file-service-provides-seamless-secure-data-storage/)
 - [From Teams to PowerPoint: 10 ways Azure AI enhances the Microsoft Apps we use everyday](https://azure.microsoft.com/blog/from-teams-to-powerpoint-10-ways-azure-ai-enhances-the-microsoft-apps-we-use-everyday/)
-- [What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value](https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
