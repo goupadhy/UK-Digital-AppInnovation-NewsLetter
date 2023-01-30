@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Supporting Millions of Developers: My Role at Stack Overflow](https://www.youtube.com/watch?v=hSWvsZ_pkfc)
 - [Detecting objects with the ONNX Runtime, Azure and a Raspberry Pi](https://www.youtube.com/watch?v=hN10xr543Jg)
 - [AI Show Live | Combining the power of Optimum, OpenVINO™, ONNX Runtime, and Azure](https://www.youtube.com/watch?v=Wn9XOLVEWpI)
 - [Combining the power of Optimum, OpenVINO™, ONNX Runtime, and Azure](https://www.youtube.com/watch?v=zdDseNfbvIw)
 - [How do you reference an existing resource in bicep?](https://www.youtube.com/watch?v=H1g_pj1uo5E)
-- [Creating a controller to help people with physical challenges play video games](https://www.youtube.com/watch?v=JIbJ4y4iKYw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
