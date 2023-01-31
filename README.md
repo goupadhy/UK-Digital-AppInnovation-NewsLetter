@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Explore Azure Storage services and Create an Azure Storage account](https://www.youtube.com/watch?v=plhEkb4u-Vw)
+- [Learn Live - Publish reusable Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=WG-D83sYJL8)
 - [Automating Azure infrastructure changes with Bicep and GitHub Actions](https://www.youtube.com/watch?v=P-q_1HLPeY4)
 - [ATE: Low Code February](https://www.youtube.com/watch?v=nAM3pDXgMHU)
 - [ATE: Powerful Devs](https://www.youtube.com/watch?v=PX3c8_Ni8lY)
-- [Supporting Millions of Developers: My Role at Stack Overflow](https://www.youtube.com/watch?v=hSWvsZ_pkfc)
-- [Detecting objects with the ONNX Runtime, Azure and a Raspberry Pi](https://www.youtube.com/watch?v=hN10xr543Jg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
