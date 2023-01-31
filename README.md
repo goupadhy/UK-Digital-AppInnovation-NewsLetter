@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Configuring the security settings for a virtual network on Azure](https://www.youtube.com/watch?v=DxGJrY_2N-s)
 - [Introduction to Windows Terminal](https://www.youtube.com/watch?v=JvHHgnOqW4w)
 - [Network, Develop &amp; Share @ SQLBits 2023 | Data Exposed Exclusive](https://www.youtube.com/watch?v=-h2spfOaDX0)
 - [Armchair Architects: Can architecture prevent you from shipping your org chart?](https://www.youtube.com/watch?v=8ysBUF7SOC0)
 - [Using Xamarin and Visual Studio in Developing a Prosthetic Arm](https://www.youtube.com/watch?v=r4SLot_PGgg)
-- [Learn Live - Explore Azure Storage services and Create an Azure Storage account](https://www.youtube.com/watch?v=plhEkb4u-Vw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
