@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Using Xamarin and Visual Studio in Developing a Prosthetic Arm](https://www.youtube.com/watch?v=r4SLot_PGgg)
 - [Learn Live - Explore Azure Storage services and Create an Azure Storage account](https://www.youtube.com/watch?v=plhEkb4u-Vw)
 - [Learn Live - Publish reusable Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=WG-D83sYJL8)
 - [Automating Azure infrastructure changes with Bicep and GitHub Actions](https://www.youtube.com/watch?v=P-q_1HLPeY4)
 - [ATE: Low Code February](https://www.youtube.com/watch?v=nAM3pDXgMHU)
-- [ATE: Powerful Devs](https://www.youtube.com/watch?v=PX3c8_Ni8lY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
