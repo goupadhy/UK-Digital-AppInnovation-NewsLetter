@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps and Azure Cognitive Services Demo](https://www.youtube.com/watch?v=ka_yY77b-0M)
 - [How to set up instant Microsoft Teams notifications for negative emails in 1 minute](https://www.youtube.com/watch?v=qfmQAObXTHQ)
 - [Dataverse Security Roles Risk Assessment &amp; Management – Power CAT](https://www.youtube.com/watch?v=0z-yZcYaC5Y)
 - [Power Platform Shorts are about to get more Powerful!](https://www.youtube.com/watch?v=Dk0NzNeCkSc)
 - [Dataverse Environments For Everyone – New Developer Plan - Power CAT Live](https://www.youtube.com/watch?v=yXRSnN2AWTs)
-- [Build a Canvas App with Virtual Tables](https://www.youtube.com/watch?v=0QuH7ZGfx0g)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
