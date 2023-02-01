@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure Native NGINXaas makes traffic management secure and simple—now generally available](https://azure.microsoft.com/blog/azure-native-nginxaas-makes-traffic-management-secure-and-simple-now-generally-available/)
 - [Azure high-performance computing powers energy industry innovation](https://azure.microsoft.com/blog/azure-highperformance-computing-powers-energy-industry-innovation/)
 - [Microsoft Cost Management updates—January 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-january-2023/)
 - [Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Integration Platform as a Service, Worldwide](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/)
 - [Lessons learned optimizing Microsoft’s internal use of Azure](https://azure.microsoft.com/blog/lessons-learned-optimizing-microsoft-s-internal-use-of-azure/)
-- [Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
