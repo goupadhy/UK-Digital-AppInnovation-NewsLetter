@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to create Widgets for Windows 11](https://www.youtube.com/watch?v=PUhYfRepxvc)
 - [MAUI &amp; Blazor: Your C# Code, Everywhere! - LunchBytes](https://www.youtube.com/watch?v=z6lg8bKT1O0)
 - [Upskilling and Teaching Others: How Power Platform is Changing Lives](https://www.youtube.com/watch?v=f9Embi2SryA)
 - [Referencing an existing Bicep resource](https://www.youtube.com/watch?v=VoXfftJKOYc)
 - [Configuring the security settings for a virtual network on Azure](https://www.youtube.com/watch?v=DxGJrY_2N-s)
-- [Introduction to Windows Terminal](https://www.youtube.com/watch?v=JvHHgnOqW4w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
