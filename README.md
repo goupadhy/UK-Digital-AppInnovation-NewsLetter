@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Scale Azure Firewall SNAT ports with NAT Gateway for large workloads](https://azure.microsoft.com/blog/scale-azure-firewall-snat-ports-with-nat-gateway-for-large-workloads/)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide MLOps Platforms 2022 Vendor Assessment](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-mlops-platforms-2022-vendor-assessment/)
 - [Microsoft Azure Load Testing is now generally available](https://azure.microsoft.com/blog/microsoft-azure-load-testing-is-now-generally-available/)
 - [Azure Native NGINXaas makes traffic management secure and simple—now generally available](https://azure.microsoft.com/blog/azure-native-nginxaas-makes-traffic-management-secure-and-simple-now-generally-available/)
 - [Azure high-performance computing powers energy industry innovation](https://azure.microsoft.com/blog/azure-highperformance-computing-powers-energy-industry-innovation/)
-- [Microsoft Cost Management updates—January 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-january-2023/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
