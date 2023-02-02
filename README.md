@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft named a Leader in the IDC MarketScape: Worldwide MLOps Platforms 2022 Vendor Assessment](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-mlops-platforms-2022-vendor-assessment/)
 - [Microsoft Azure Load Testing is now generally available](https://azure.microsoft.com/blog/microsoft-azure-load-testing-is-now-generally-available/)
 - [Azure Native NGINXaas makes traffic management secure and simple—now generally available](https://azure.microsoft.com/blog/azure-native-nginxaas-makes-traffic-management-secure-and-simple-now-generally-available/)
 - [Azure high-performance computing powers energy industry innovation](https://azure.microsoft.com/blog/azure-highperformance-computing-powers-energy-industry-innovation/)
 - [Microsoft Cost Management updates—January 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-january-2023/)
-- [Microsoft named a Leader in 2023 Gartner® Magic Quadrant™ for Integration Platform as a Service, Worldwide](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-2023-gartner-magic-quadrant-for-integration-platform-as-a-service-worldwide/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
