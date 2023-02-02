@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Game developer, Lana Lux, uses PlayFab, GitHub, and Visual Studio to create apocalyptic game STRAIN](https://www.youtube.com/watch?v=vCbN86VwR5o)
 - [May the 4th be with Azure SQL May 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=hXeZ9Q580fs)
 - [Triggering an email alert for high CPU usage on an Azure Virtual Machine](https://www.youtube.com/watch?v=EglecDCP-NQ)
 - [Learn Live - Publish reusable Bicep code by using GitHub Actions](https://www.youtube.com/watch?v=WG-D83sYJL8)
 - [How to create Widgets for Windows 11](https://www.youtube.com/watch?v=PUhYfRepxvc)
-- [MAUI &amp; Blazor: Your C# Code, Everywhere! - LunchBytes](https://www.youtube.com/watch?v=z6lg8bKT1O0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
