@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server 2022: Built-in Query Intelligence [Ep. 3] | Data Exposed](https://www.youtube.com/watch?v=Nd0mKM3O3sQ)
 - [Power Platform CLI Exposed: Data &amp; Tool](https://www.youtube.com/watch?v=QSRrC4mEj5o)
 - [Streamlining open-source development with Pandas, GitHub, and Azure Pipelines](https://www.youtube.com/watch?v=Aj_2LvZ_j6o)
 - [Game developer, Lana Lux, uses PlayFab, GitHub, and Visual Studio to create apocalyptic game STRAIN](https://www.youtube.com/watch?v=vCbN86VwR5o)
 - [May the 4th be with Azure SQL May 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=hXeZ9Q580fs)
-- [Triggering an email alert for high CPU usage on an Azure Virtual Machine](https://www.youtube.com/watch?v=EglecDCP-NQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
