@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Why use workload identity federation?](https://www.youtube.com/watch?v=WIs3IRCJhEo)
 - [Scaling Security: How Have I Been Pwned Uses Azure to Optimize Performance](https://www.youtube.com/watch?v=ofO44JwuzYo)
 - [Creating reusable GitHub Action workflows for Bicep](https://www.youtube.com/watch?v=ujMDrzxM6Vc)
 - [Learn Live - Explore Azure Storage services and Create an Azure Storage account](https://www.youtube.com/watch?v=plhEkb4u-Vw)
 - [SQL Server 2022: Built-in Query Intelligence [Ep. 3] | Data Exposed](https://www.youtube.com/watch?v=Nd0mKM3O3sQ)
-- [Power Platform CLI Exposed: Data &amp; Tool](https://www.youtube.com/watch?v=QSRrC4mEj5o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
