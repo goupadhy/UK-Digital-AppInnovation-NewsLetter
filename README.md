@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Highlighting independent game developer Lana Lux](https://www.youtube.com/watch?v=56gos-4E-Yg)
 - [Learning about accessibility improvements recently made to SQL Server Analysis Services](https://www.youtube.com/watch?v=UaLC2AXKdhE)
 - [Why use workload identity federation?](https://www.youtube.com/watch?v=WIs3IRCJhEo)
 - [Scaling Security: How Have I Been Pwned Uses Azure to Optimize Performance](https://www.youtube.com/watch?v=ofO44JwuzYo)
 - [Creating reusable GitHub Action workflows for Bicep](https://www.youtube.com/watch?v=ujMDrzxM6Vc)
-- [Learn Live - Explore Azure Storage services and Create an Azure Storage account](https://www.youtube.com/watch?v=plhEkb4u-Vw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
