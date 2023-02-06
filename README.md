@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2023-02-06-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 - [Ludum Dare 52 staff picks 🕹](https://github.blog/2023-02-03-ludum-dare-52-staff-picks/)
 - [Europe’s chance to be a leader in the age of AI](https://github.blog/2023-02-03-europes-chance-to-be-a-leader-in-the-age-of-ai/)
 - [How the GitHub Docs team uses GitHub Projects](https://github.blog/2023-02-02-how-the-github-docs-team-uses-github-projects/)
 - [Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/)
-- [Announcing the launch of the All In for Maintainers DEI Resource Hub](https://github.blog/2023-02-01-announcing-the-launch-of-the-all-in-for-maintainers-dei-resource-hub/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
