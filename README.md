@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learning about Windows Terminal](https://www.youtube.com/watch?v=Z9ZwiWl0mqI)
 - [Learn Live - Fusion development teams and Low code as a traditional developer](https://www.youtube.com/watch?v=4Vg21c5rJKA)
 - [Highlighting independent game developer Lana Lux](https://www.youtube.com/watch?v=56gos-4E-Yg)
 - [Learning about accessibility improvements recently made to SQL Server Analysis Services](https://www.youtube.com/watch?v=UaLC2AXKdhE)
 - [Why use workload identity federation?](https://www.youtube.com/watch?v=WIs3IRCJhEo)
-- [Scaling Security: How Have I Been Pwned Uses Azure to Optimize Performance](https://www.youtube.com/watch?v=ofO44JwuzYo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
