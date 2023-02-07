@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Low Code February is here! | Power Platform Shorts](https://www.youtube.com/watch?v=EOxwRvtBEgs)
 - [It changed how I think about code - Gini Brandon - Power Platform Developer Stories](https://www.youtube.com/watch?v=OrWDTi8GVfM)
 - [Coming Soon: Power Platform Connections!](https://www.youtube.com/watch?v=i-UKMARuLNw)
 - [Register for the 2023 Power Platform Conference today!](https://www.youtube.com/watch?v=vcbvPep5H4w)
 - [Power Apps and Azure Cognitive Services Demo](https://www.youtube.com/watch?v=ka_yY77b-0M)
-- [How to set up instant Microsoft Teams notifications for negative emails in 1 minute](https://www.youtube.com/watch?v=qfmQAObXTHQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
