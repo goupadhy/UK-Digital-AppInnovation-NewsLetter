@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Looking at the open source contributions to Windows Terminal](https://www.youtube.com/watch?v=sk29M6HsYbM)
 - [Learn Live - Control and govern your Azure environment by deploying your infrastructure as code](https://www.youtube.com/watch?v=8kD8JvczHjM)
 - [Learn Live - Fusion development teams and Low code as a traditional developer](https://www.youtube.com/watch?v=4Vg21c5rJKA)
 - [Learning about Windows Terminal](https://www.youtube.com/watch?v=Z9ZwiWl0mqI)
 - [Highlighting independent game developer Lana Lux](https://www.youtube.com/watch?v=56gos-4E-Yg)
-- [Learning about accessibility improvements recently made to SQL Server Analysis Services](https://www.youtube.com/watch?v=UaLC2AXKdhE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
