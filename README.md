@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure Red Hat OpenShift for Microsoft Azure Government—now generally available](https://azure.microsoft.com/blog/azure-red-hat-openshift-for-microsoft-azure-government-now-generally-available/)
+- [Roundup of AI breakthroughs by Microsoft and NVIDIA](https://azure.microsoft.com/blog/roundup-of-ai-breakthroughs-by-microsoft-and-nvidia/)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide MLOps Platforms 2022 Vendor Assessment](https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-mlops-platforms-2022-vendor-assessment/)
 - [Scale Azure Firewall SNAT ports with NAT Gateway for large workloads](https://azure.microsoft.com/blog/scale-azure-firewall-snat-ports-with-nat-gateway-for-large-workloads/)
 - [Microsoft Azure Load Testing is now generally available](https://azure.microsoft.com/blog/microsoft-azure-load-testing-is-now-generally-available/)
-- [Azure Native NGINXaas makes traffic management secure and simple—now generally available](https://azure.microsoft.com/blog/azure-native-nginxaas-makes-traffic-management-secure-and-simple-now-generally-available/)
-- [Azure high-performance computing powers energy industry innovation](https://azure.microsoft.com/blog/azure-highperformance-computing-powers-energy-industry-innovation/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
