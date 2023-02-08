@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Changing your Azure Storage Tiers from Hot to Cold](https://www.youtube.com/watch?v=jk2QFPP0db0)
 - [Creating Widgets for Windows 11 using Adaptive Cards Designer and C#](https://www.youtube.com/watch?v=fnO-nBq83IM)
 - [Resolving Azure Data Studio’s Identity Crises](https://www.youtube.com/watch?v=gg0c1tCzuZc)
 - [AI Show Live - How to Draw Anything with Azure AI and Stable Diffusion](https://www.youtube.com/watch?v=rkR3oxHYTQk)
 - [Looking at the open source contributions to Windows Terminal](https://www.youtube.com/watch?v=sk29M6HsYbM)
-- [Learn Live - Control and govern your Azure environment by deploying your infrastructure as code](https://www.youtube.com/watch?v=8kD8JvczHjM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
