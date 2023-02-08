@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - How to Draw Anything with Azure AI and Stable Diffusion](https://www.youtube.com/watch?v=rkR3oxHYTQk)
 - [Waiting due to Blocking [5 of 7] | Azure SQL for beginners](https://www.youtube.com/watch?v=rj8OWl0ffH8)
 - [High CPU due to a Missing Index [2 of 7] | Azure SQL for beginners](https://www.youtube.com/watch?v=l1Kr4VRT4-k)
 - [High CPU due to lack of resources [4 of 7] | Azure SQL for beginners](https://www.youtube.com/watch?v=ki6GeQOX-do)
 - [Waiting due to memory grants [7 of 7] | Azure SQL for beginners](https://www.youtube.com/watch?v=kzc-LX7T1lg)
-- [Introduction to Performance Troubleshooting [1 of 7] | Azure SQL for beginners](https://www.youtube.com/watch?v=hwdhQn6ve5o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
