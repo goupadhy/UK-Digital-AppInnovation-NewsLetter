@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Integrating a mission-critical workload with Azure landing zones](https://www.youtube.com/watch?v=WQVif9W3SQw)
 - [MAUI &amp; Blazor: Your C# Code, Everywhere! - LunchBytes](https://www.youtube.com/watch?v=z6lg8bKT1O0)
 - [Changing your Azure Storage Tiers from Hot to Cold](https://www.youtube.com/watch?v=jk2QFPP0db0)
 - [Creating Widgets for Windows 11 using Adaptive Cards Designer and C#](https://www.youtube.com/watch?v=fnO-nBq83IM)
 - [Resolving Azure Data Studio’s Identity Crises](https://www.youtube.com/watch?v=gg0c1tCzuZc)
-- [AI Show Live - How to Draw Anything with Azure AI and Stable Diffusion](https://www.youtube.com/watch?v=rkR3oxHYTQk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
