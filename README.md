@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Why should I use Azure API Management?](https://www.youtube.com/watch?v=pGbhg5ox7jc)
 - [Load testing your test engines with Azure Load Testing](https://www.youtube.com/watch?v=bH2zsyd9syk)
 - [Learning how Microsoft Defender for Cloud can help provide a single view for your container images](https://www.youtube.com/watch?v=KVR9bT2LEQ8)
 - [Learn Live - Control and govern your Azure environment by deploying your infrastructure as code](https://www.youtube.com/watch?v=8kD8JvczHjM)
 - [AI Show Live - How to Draw Anything with Azure AI and Stable Diffusion](https://www.youtube.com/watch?v=rkR3oxHYTQk)
-- [Waiting due to Blocking [5 of 7] | Azure SQL for beginners](https://www.youtube.com/watch?v=rj8OWl0ffH8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
