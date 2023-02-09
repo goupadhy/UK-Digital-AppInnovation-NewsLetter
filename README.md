@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft commercial marketplace SaaS overview](https://www.youtube.com/watch?v=3trnNLL1CAQ)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Karyn Schoenbart](https://www.youtube.com/watch?v=j66FFVO1Nwg)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Andy Ruben](https://www.youtube.com/watch?v=RbUd55D2O1s)
 - [Florida Fish and Wildlife Conservation Commission uses Azure to preserve the state for the future](https://www.youtube.com/watch?v=Y7E1CfP6Wj8)
 - [Northern Tool + Equipment achieves faster delivery by transforming its supply chain infrastructure](https://www.youtube.com/watch?v=RBsf6I6uayg)
-- [Welcome to Microsoft Cloud for Retail](https://www.youtube.com/watch?v=1ZG9IRJ8eEM)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
