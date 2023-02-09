@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Powerful Devs Conference](https://www.youtube.com/watch?v=4VK1CJYR2W4)
 - [Learn Live - Access data from Azure Blob Storage by using multiple protocols](https://www.youtube.com/watch?v=OjJXZcuo_JM)
 - [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VznZloi7Ms0)
 - [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VdJgx8wVqvc)
 - [Self-service data discovery and access management using Microsoft Purview | Data Exposed](https://www.youtube.com/watch?v=bpdb0x43eNQ)
-- [Why should I use Azure API Management?](https://www.youtube.com/watch?v=pGbhg5ox7jc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
