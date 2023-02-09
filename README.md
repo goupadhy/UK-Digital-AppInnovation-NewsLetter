@@ -15,10 +15,10 @@ We hope that these resources will help you innovate and address the real-world n
     
 <!-- BLOGCNA:START -->
 - [Automate your attack response with Azure DDoS Protection solution for Microsoft Sentinel](https://azure.microsoft.com/blog/automate-your-attack-response-with-azure-ddos-protection-solution-for-microsoft-sentinel/)
-- [Microsoft and NVIDIA experts talk AI infrastructure](https://azure.microsoft.com/blog/microsoft-and-nvidia-experts-talk-ai-infrastructure/)
 - [Secure your application traffic with Application Gateway mTLS](https://azure.microsoft.com/blog/secure-your-application-traffic-with-application-gateway-mtls/)
 - [Tune in today: Learn Live experts are ready to accelerate your skilling](https://azure.microsoft.com/blog/tune-in-today-learn-live-experts-are-ready-to-accelerate-your-skilling/)
 - [Azure Red Hat OpenShift for Microsoft Azure Government—now generally available](https://azure.microsoft.com/blog/azure-red-hat-openshift-for-microsoft-azure-government-now-generally-available/)
+- [Roundup of AI breakthroughs by Microsoft and NVIDIA](https://azure.microsoft.com/blog/roundup-of-ai-breakthroughs-by-microsoft-and-nvidia/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
