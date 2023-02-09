@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Access data from Azure Blob Storage by using multiple protocols](https://www.youtube.com/watch?v=OjJXZcuo_JM)
 - [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VznZloi7Ms0)
 - [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VdJgx8wVqvc)
 - [Self-service data discovery and access management using Microsoft Purview | Data Exposed](https://www.youtube.com/watch?v=bpdb0x43eNQ)
 - [Why should I use Azure API Management?](https://www.youtube.com/watch?v=pGbhg5ox7jc)
-- [Load testing your test engines with Azure Load Testing](https://www.youtube.com/watch?v=bH2zsyd9syk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
