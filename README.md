@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Adding a task to your Azure Pipeline configuration file to use a secrets file](https://www.youtube.com/watch?v=jdcWQ37oNV8)
+- [Creating Azure DevOps Management Reports](https://www.youtube.com/watch?v=uHtDZHyKXxI)
 - [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VznZloi7Ms0)
 - [AI Show Live - How Voiceflow Incorporates OpenAI for Enterprise Use Cases](https://www.youtube.com/watch?v=CeNLKyKUJC4)
 - [Powerful Devs Conference](https://www.youtube.com/watch?v=4VK1CJYR2W4)
-- [Learn Live - Access data from Azure Blob Storage by using multiple protocols](https://www.youtube.com/watch?v=OjJXZcuo_JM)
-- [ATE: Cloud-Native New Year - Azure Kubernetes Service](https://www.youtube.com/watch?v=VdJgx8wVqvc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
