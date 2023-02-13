@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live - How Voiceflow Incorporates OpenAI for Enterprise Use Cases](https://www.youtube.com/watch?v=CeNLKyKUJC4)
 - [Learn Live - Integrate OpenAPI-enabled Web APIs with Azure API Management through Visual Studio](https://www.youtube.com/watch?v=yqCP6yLB9es)
 - [Investigating high CPU due to anti-pattern queries](https://www.youtube.com/watch?v=XrQY9Ay2oLw)
 - [Learning how to detect and solve problems of high CPU due to missing indexes for key queries](https://www.youtube.com/watch?v=yxne66im5IQ)
 - [Introducing a new series on troubleshooting SQL performance problems for Azure SQL Database](https://www.youtube.com/watch?v=-kvzzccI_zI)
-- [Accelerating query performance and availability with no code changes](https://www.youtube.com/watch?v=Uvz17_PLhTU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
