@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Accelerating time to market with the ISV Success Program](https://www.youtube.com/watch?v=XElK3Nc_7Kk)
 - [Taking Stock Live - a conversation with Shelley Bransten and John Dick](https://www.youtube.com/watch?v=xe7Pnwn9Ets)
 - [An introduction to the Microsoft commercial marketplace](https://www.youtube.com/watch?v=3trnNLL1CAQ)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Karyn Schoenbart](https://www.youtube.com/watch?v=j66FFVO1Nwg)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Andy Ruben](https://www.youtube.com/watch?v=RbUd55D2O1s)
-- [Florida Fish and Wildlife Conservation Commission uses Azure to preserve the state for the future](https://www.youtube.com/watch?v=Y7E1CfP6Wj8)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
