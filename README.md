@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Architectural Erosion and Technical Debt](https://www.youtube.com/watch?v=j3gugtYgwAE)
 - [Intro to Windows Package Manager](https://www.youtube.com/watch?v=v_8iaggkwnU)
 - [Learn Live - Integrate OpenAPI-enabled Web APIs with Azure API Management through Visual Studio](https://www.youtube.com/watch?v=yqCP6yLB9es)
 - [AI Show Live - How Voiceflow Incorporates OpenAI for Enterprise Use Cases](https://www.youtube.com/watch?v=CeNLKyKUJC4)
 - [Investigating high CPU due to anti-pattern queries](https://www.youtube.com/watch?v=XrQY9Ay2oLw)
-- [Learning how to detect and solve problems of high CPU due to missing indexes for key queries](https://www.youtube.com/watch?v=yxne66im5IQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
