@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft Azure Security expands variant hunting capacity at a cloud tempo](https://azure.microsoft.com/blog/microsoft-azure-security-expands-variant-hunting-capacity-at-a-cloud-tempo/)
 - [Microsoft joins the FinOps Foundation](https://azure.microsoft.com/blog/microsoft-joins-the-finops-foundation/)
 - [Automate your attack response with Azure DDoS Protection solution for Microsoft Sentinel](https://azure.microsoft.com/blog/automate-your-attack-response-with-azure-ddos-protection-solution-for-microsoft-sentinel/)
 - [Secure your application traffic with Application Gateway mTLS](https://azure.microsoft.com/blog/secure-your-application-traffic-with-application-gateway-mtls/)
 - [Tune in today: Learn Live experts are ready to accelerate your skilling](https://azure.microsoft.com/blog/tune-in-today-learn-live-experts-are-ready-to-accelerate-your-skilling/)
-- [Azure Red Hat OpenShift for Microsoft Azure Government—now generally available](https://azure.microsoft.com/blog/azure-red-hat-openshift-for-microsoft-azure-government-now-generally-available/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
