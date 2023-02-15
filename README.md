@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Platform Connections Show Launch!](https://www.youtube.com/watch?v=QTM39gMkz_k)
 - [Powerful Devs Conference is back!](https://www.youtube.com/watch?v=F5KFuZ09t_o)
 - [Powerful Devs Conference](https://www.youtube.com/watch?v=m18FeDBb2OE)
 - [Low Code February is here! | Power Platform Shorts](https://www.youtube.com/watch?v=EOxwRvtBEgs)
 - [It changed how I think about code - Gini Brandon - Power Platform Developer Stories](https://www.youtube.com/watch?v=OrWDTi8GVfM)
-- [Coming Soon: Power Platform Connections!](https://www.youtube.com/watch?v=i-UKMARuLNw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
