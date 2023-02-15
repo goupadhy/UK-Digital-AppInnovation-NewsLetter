@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What are Azure Functions? | One Dev Questions](https://www.youtube.com/watch?v=N1R6D3rloHw)
-- [Armchair Architects: Architectural Erosion and Technical Debt](https://www.youtube.com/watch?v=j3gugtYgwAE)
-- [Intro to Windows Package Manager](https://www.youtube.com/watch?v=v_8iaggkwnU)
-- [Learn Live - Integrate OpenAPI-enabled Web APIs with Azure API Management through Visual Studio](https://www.youtube.com/watch?v=yqCP6yLB9es)
-- [AI Show Live - How Voiceflow Incorporates OpenAI for Enterprise Use Cases](https://www.youtube.com/watch?v=CeNLKyKUJC4)
+- [How to Work with Directories in the Terminal with Bash [8 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=wvztFQ_UEG0)
+- [What are Variables in Bash? [14 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=qgBFofsGCtM)
+- [How to Modify File Permissions in Bash [12 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=lOX2iKTMWWA)
+- [How to Use Redirection and Pipelines in Bash [11 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=l2kodNMKroQ)
+- [How to Navigate the Terminal with Bash [5 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=jq-it7dRpt4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
