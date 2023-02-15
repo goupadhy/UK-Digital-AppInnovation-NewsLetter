@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [H&R Block’s blockbuster data strategy](https://azure.microsoft.com/blog/hr-block-s-blockbuster-data-strategy/)
 - [Microsoft Azure Security expands variant hunting capacity at a cloud tempo](https://azure.microsoft.com/blog/microsoft-azure-security-expands-variant-hunting-capacity-at-a-cloud-tempo/)
 - [Microsoft joins the FinOps Foundation](https://azure.microsoft.com/blog/microsoft-joins-the-finops-foundation/)
 - [Automate your attack response with Azure DDoS Protection solution for Microsoft Sentinel](https://azure.microsoft.com/blog/automate-your-attack-response-with-azure-ddos-protection-solution-for-microsoft-sentinel/)
 - [Secure your application traffic with Application Gateway mTLS](https://azure.microsoft.com/blog/secure-your-application-traffic-with-application-gateway-mtls/)
-- [Tune in today: Learn Live experts are ready to accelerate your skilling](https://azure.microsoft.com/blog/tune-in-today-learn-live-experts-are-ready-to-accelerate-your-skilling/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
