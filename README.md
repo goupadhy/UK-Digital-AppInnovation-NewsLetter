@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server 2022: Security, scalability, availability [Ep. 4] | Data Exposed](https://www.youtube.com/watch?v=DkISiOiDuLs)
 - [So you&#39;ve been told to low code, now what?](https://www.youtube.com/watch?v=Bt2lDpsCIpU)
 - [Enable millions of low code devs by building custom connectors](https://www.youtube.com/watch?v=XpP4AoFpzkA)
 - [Use Your Pro Dev Skills to Power Up your Power Apps front ends](https://www.youtube.com/watch?v=OHM4GbtB3TQ)
 - [How to do ALM with Power Platform](https://www.youtube.com/watch?v=0RfxxypdYJA)
-- [Powerful Dev Conference Keynote](https://www.youtube.com/watch?v=BcjaAvP-3_o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
