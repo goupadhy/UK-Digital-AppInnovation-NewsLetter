@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Powerful Devs Conference](https://www.youtube.com/watch?v=4VK1CJYR2W4)
-- [Causing Chaos in Azure! - LunchBytes](https://www.youtube.com/watch?v=-6WiTNj9JTw)
-- [How to Work with Directories in the Terminal with Bash [8 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=wvztFQ_UEG0)
-- [What are Variables in Bash? [14 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=qgBFofsGCtM)
-- [How to Modify File Permissions in Bash [12 of 20] | Bash for Beginners](https://www.youtube.com/watch?v=lOX2iKTMWWA)
+- [So you&#39;ve been told to low code, now what?](https://www.youtube.com/watch?v=Bt2lDpsCIpU)
+- [Enable millions of low code devs by building custom connectors](https://www.youtube.com/watch?v=XpP4AoFpzkA)
+- [Use Your Pro Dev Skills to Power Up your Power Apps front ends](https://www.youtube.com/watch?v=OHM4GbtB3TQ)
+- [How to do ALM with Power Platform](https://www.youtube.com/watch?v=0RfxxypdYJA)
+- [Powerful Dev Conference Keynote](https://www.youtube.com/watch?v=BcjaAvP-3_o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
