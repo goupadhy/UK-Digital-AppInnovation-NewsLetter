@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What’s Next for Azure Data Studio](https://www.youtube.com/watch?v=Kaxv2Ag2q7s)
 - [Learn Live - Introduction to Azure Firewall](https://www.youtube.com/watch?v=IlSRIeuPuWc)
 - [Integrating Azure Communications Services with Power Platform](https://www.youtube.com/watch?v=o7orD97GbVw)
 - [Learn Live - Azure ML Enterprise Deployment](https://www.youtube.com/watch?v=PfUaBZVk5iM)
 - [AI Show Holiday Special: Under the hood of Text to Image model Stable Diffusion](https://www.youtube.com/watch?v=VRjDAvZrsOw)
-- [Real World Use Cases for Dataverse for Teams](https://www.youtube.com/watch?v=zmp_F2e42-I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
