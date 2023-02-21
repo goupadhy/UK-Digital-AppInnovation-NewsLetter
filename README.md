@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Join the Azure Collective on Stack Overflow](https://azure.microsoft.com/blog/join-the-azure-collective-on-stack-overflow/)
 - [DDoS Mitigation with Microsoft Azure Front Door](https://azure.microsoft.com/blog/ddos-mitigation-with-microsoft-azure-front-door/)
 - [7 reasons to join us at Azure Open Source Day](https://azure.microsoft.com/blog/7-reasons-to-join-us-at-azure-open-source-day/)
 - [H&R Block’s blockbuster data strategy](https://azure.microsoft.com/blog/hr-block-s-blockbuster-data-strategy/)
 - [Microsoft Azure Security expands variant hunting capacity at a cloud tempo](https://azure.microsoft.com/blog/microsoft-azure-security-expands-variant-hunting-capacity-at-a-cloud-tempo/)
-- [Microsoft joins the FinOps Foundation](https://azure.microsoft.com/blog/microsoft-joins-the-finops-foundation/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
