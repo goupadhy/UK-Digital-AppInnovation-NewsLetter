@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Integrating Azure Communications Services with Power Platform](https://www.youtube.com/watch?v=o7orD97GbVw)
+- [Learn Live - Azure ML Enterprise Deployment](https://www.youtube.com/watch?v=PfUaBZVk5iM)
 - [AI Show Holiday Special: Under the hood of Text to Image model Stable Diffusion](https://www.youtube.com/watch?v=VRjDAvZrsOw)
 - [Real World Use Cases for Dataverse for Teams](https://www.youtube.com/watch?v=zmp_F2e42-I)
 - [Integrate OpenAI with the Power Platform](https://www.youtube.com/watch?v=kFooeF5-K7Q)
-- [Power Pages loves Developers](https://www.youtube.com/watch?v=BuM_g_OOB-c)
-- [SQL Server 2022: Security, scalability, availability [Ep. 4] | Data Exposed](https://www.youtube.com/watch?v=DkISiOiDuLs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
