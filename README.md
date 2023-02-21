@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Marketplace Summit: Tap into customer’s adoption of Microsoft marketplace](https://www.youtube.com/watch?v=v6i2H0vi-8k)
 - [Microsoft Marketplace Summit: The opportunity for ISVs with Microsoft](https://www.youtube.com/watch?v=7qs2uqN7OpE)
 - [Microsoft Marketplace Summit: The future of B2B commerce and procurement](https://www.youtube.com/watch?v=s0-drzIS8_g)
 - [Accelerating time to market with the ISV Success Program](https://www.youtube.com/watch?v=XElK3Nc_7Kk)
 - [Taking Stock Live - a conversation with Shelley Bransten and John Dick](https://www.youtube.com/watch?v=xe7Pnwn9Ets)
-- [An introduction to the Microsoft commercial marketplace](https://www.youtube.com/watch?v=3trnNLL1CAQ)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
