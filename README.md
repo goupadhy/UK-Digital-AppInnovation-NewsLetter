@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to Draw Anything with Azure AI and Stable Diffusion](https://www.youtube.com/watch?v=BXUyF1asec4)
 - [Synthetaic | Leveraging Azure to Unlock Impossible AI](https://www.youtube.com/watch?v=I5SMjnE5VxQ)
 - [Causing Chaos in Azure! - LunchBytes](https://www.youtube.com/watch?v=-6WiTNj9JTw)
 - [What’s Next for Azure Data Studio](https://www.youtube.com/watch?v=Kaxv2Ag2q7s)
 - [Learn Live - Introduction to Azure Firewall](https://www.youtube.com/watch?v=IlSRIeuPuWc)
-- [Integrating Azure Communications Services with Power Platform](https://www.youtube.com/watch?v=o7orD97GbVw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
