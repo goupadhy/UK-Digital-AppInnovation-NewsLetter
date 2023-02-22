@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Causing Chaos in Azure! - LunchBytes](https://www.youtube.com/watch?v=-6WiTNj9JTw)
 - [What’s Next for Azure Data Studio](https://www.youtube.com/watch?v=Kaxv2Ag2q7s)
 - [Learn Live - Introduction to Azure Firewall](https://www.youtube.com/watch?v=IlSRIeuPuWc)
 - [Integrating Azure Communications Services with Power Platform](https://www.youtube.com/watch?v=o7orD97GbVw)
 - [Learn Live - Azure ML Enterprise Deployment](https://www.youtube.com/watch?v=PfUaBZVk5iM)
-- [AI Show Holiday Special: Under the hood of Text to Image model Stable Diffusion](https://www.youtube.com/watch?v=VRjDAvZrsOw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
