@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Power Platform Connections Ep 2 - Scott Durow](https://www.youtube.com/watch?v=iziVb8XwKAQ)
+- [Power Platform Connections Ep 2 - Scott Durow](https://www.youtube.com/watch?v=CINlK7F3Nhg)
 - [Power Automate brings everything together | Power Platform Shorts](https://www.youtube.com/watch?v=08XuwzXbxow)
 - [Power Platform Connections Ep 1 - Azure McFarlane](https://www.youtube.com/watch?v=owGPLhtw7GU)
 - [Powerful Devs Conference](https://www.youtube.com/watch?v=m18FeDBb2OE)
