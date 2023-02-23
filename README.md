@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Programming Databases with T-SQL for Beginners Series Teaser](https://www.youtube.com/watch?v=yGYOZFKFqTM)
+- [ATE: Powerful Devs](https://www.youtube.com/watch?v=PX3c8_Ni8lY)
+- [ATE: Powerful Devs &lpar;Replay&rpar;](https://www.youtube.com/watch?v=a3xeVZzWsCI)
 - [RDBMS and Setup [1 of 7] | Programming Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=qDS3TNzYKaI)
 - [Combining multiple tables with JOINS in Transact-SQL [4 of 7] | Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=oKgFNNadCNY)
 - [Write Subqueries in Transact-SQL [5 of 7] | Programming Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=lNRMICYrRAQ)
-- [Sort and Filter Results in Transact-SQL [3 of 7] | Programming Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=Q21gyBNlEDY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
