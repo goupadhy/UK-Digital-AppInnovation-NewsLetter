@@ -44,8 +44,8 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Hugo loves the Ribbon Workbench Tool! | Power Platform Connections](https://www.youtube.com/watch?v=wY1-gVy1Tvg)
 - [Power Platform Connections Ep 2 - Scott Durow](https://www.youtube.com/watch?v=CINlK7F3Nhg)
+- [Hugo loves the Ribbon Workbench Tool! | Power Platform Connections](https://www.youtube.com/watch?v=wY1-gVy1Tvg)
 - [Power Automate brings everything together | Power Platform Shorts](https://www.youtube.com/watch?v=08XuwzXbxow)
 - [Power Platform Connections Ep 1 - Azure McFarlane](https://www.youtube.com/watch?v=owGPLhtw7GU)
 - [Powerful Devs Conference](https://www.youtube.com/watch?v=m18FeDBb2OE)
