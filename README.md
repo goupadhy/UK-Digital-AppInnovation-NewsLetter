@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Farming from space: How orbital data is unlocking novel agriculture insights](https://azure.microsoft.com/blog/farming-from-space-how-orbital-data-is-unlocking-novel-agriculture-insights/)
 - [Exploring mTLS setup to send a client certificate to the backend and OCSP validation](https://azure.microsoft.com/blog/exploring-mtls-setup-to-send-a-client-certificate-to-the-backend-and-ocsp-validation/)
 - [Azure Managed Lustre—Parallel file system for HPC and AI workloads](https://azure.microsoft.com/blog/azure-managed-lustre-parallel-file-system-for-hpc-and-ai-workloads/)
 - [6 ways to improve accessibility with Azure AI](https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/)
 - [Join the Azure Collective on Stack Overflow](https://azure.microsoft.com/blog/join-the-azure-collective-on-stack-overflow/)
-- [DDoS Mitigation with Microsoft Azure Front Door](https://azure.microsoft.com/blog/ddos-mitigation-with-microsoft-azure-front-door/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
