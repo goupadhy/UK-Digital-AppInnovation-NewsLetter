@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do I get started with Azure API Management?](https://www.youtube.com/watch?v=2HHFR-MKljM)
 - [Learn Live - Introduction to Azure Firewall](https://www.youtube.com/watch?v=IlSRIeuPuWc)
 - [ATE: Powerful Devs](https://www.youtube.com/watch?v=PX3c8_Ni8lY)
 - [ATE: Powerful Devs &lpar;Replay&rpar;](https://www.youtube.com/watch?v=a3xeVZzWsCI)
 - [RDBMS and Setup [1 of 7] | Programming Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=qDS3TNzYKaI)
-- [Combining multiple tables with JOINS in Transact-SQL [4 of 7] | Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=oKgFNNadCNY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
