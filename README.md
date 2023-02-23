@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Tips &amp; Tricks for Power Apps UX! - LunchBytes](https://www.youtube.com/watch?v=_YBVerGzF7E)
-- [How to Draw Anything with Azure AI and Stable Diffusion](https://www.youtube.com/watch?v=BXUyF1asec4)
-- [Synthetaic | Leveraging Azure to Unlock Impossible AI](https://www.youtube.com/watch?v=I5SMjnE5VxQ)
-- [Causing Chaos in Azure! - LunchBytes](https://www.youtube.com/watch?v=-6WiTNj9JTw)
-- [What’s Next for Azure Data Studio](https://www.youtube.com/watch?v=Kaxv2Ag2q7s)
+- [Programming Databases with T-SQL for Beginners Series Teaser](https://www.youtube.com/watch?v=yGYOZFKFqTM)
+- [RDBMS and Setup [1 of 7] | Programming Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=qDS3TNzYKaI)
+- [Combining multiple tables with JOINS in Transact-SQL [4 of 7] | Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=oKgFNNadCNY)
+- [Write Subqueries in Transact-SQL [5 of 7] | Programming Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=lNRMICYrRAQ)
+- [Sort and Filter Results in Transact-SQL [3 of 7] | Programming Databases with T-SQL for Beginners](https://www.youtube.com/watch?v=Q21gyBNlEDY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
