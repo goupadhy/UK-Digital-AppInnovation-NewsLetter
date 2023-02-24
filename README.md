@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [ATE: Powerful Devs &lpar;Replay&rpar;](https://www.youtube.com/watch?v=a3xeVZzWsCI)
 - [AI Show Live - Using AI to Make Experiences Accessible and Inclusive](https://www.youtube.com/watch?v=6nvsGTGnbIQ)
 - [How do I get started with Azure API Management?](https://www.youtube.com/watch?v=2HHFR-MKljM)
 - [Learn Live - Introduction to Azure Firewall](https://www.youtube.com/watch?v=IlSRIeuPuWc)
 - [ATE: Powerful Devs](https://www.youtube.com/watch?v=PX3c8_Ni8lY)
-- [ATE: Powerful Devs &lpar;Replay&rpar;](https://www.youtube.com/watch?v=a3xeVZzWsCI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
