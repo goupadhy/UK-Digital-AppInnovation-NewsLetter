@@ -15,10 +15,10 @@ We hope that these resources will help you innovate and address the real-world n
     
 <!-- BLOGCNA:START -->
 - [3 Microsoft Azure AI product features that accelerate language learning](https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/)
+- [Microsoft Azure innovation powers leading price-performance for SQL Server](https://azure.microsoft.com/blog/microsoft-azure-innovation-powers-leading-priceperformance-for-sql-server/)
 - [Microsoft and Rockwell Automation collaborate on digital solutions for manufacturers](https://azure.microsoft.com/blog/microsoft-and-rockwell-automation-collaborate-on-digital-solutions-for-manufacturers/)
 - [Farming from space: How orbital data is unlocking novel agriculture insights](https://azure.microsoft.com/blog/farming-from-space-how-orbital-data-is-unlocking-novel-agriculture-insights/)
 - [Exploring mTLS setup to send a client certificate to the backend and OCSP validation](https://azure.microsoft.com/blog/exploring-mtls-setup-to-send-a-client-certificate-to-the-backend-and-ocsp-validation/)
-- [Azure Managed Lustre—Parallel file system for HPC and AI workloads](https://azure.microsoft.com/blog/azure-managed-lustre-parallel-file-system-for-hpc-and-ai-workloads/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
