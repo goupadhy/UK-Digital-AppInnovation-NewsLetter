@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Azure private MEC delivers modern connected applications for industries](https://azure.microsoft.com/blog/azure-private-mec-delivers-modern-connected-applications-for-industries/)
+- [Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud](https://azure.microsoft.com/blog/empowering-operators-and-enterprises-with-the-next-wave-of-azure-for-operators-services-shaping-the-future-of-cloud/)
 - [3 Microsoft Azure AI product features that accelerate language learning](https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/)
 - [Microsoft Azure innovation powers leading price-performance for SQL Server](https://azure.microsoft.com/blog/microsoft-azure-innovation-powers-leading-priceperformance-for-sql-server/)
 - [Microsoft and Rockwell Automation collaborate on digital solutions for manufacturers](https://azure.microsoft.com/blog/microsoft-and-rockwell-automation-collaborate-on-digital-solutions-for-manufacturers/)
-- [Farming from space: How orbital data is unlocking novel agriculture insights](https://azure.microsoft.com/blog/farming-from-space-how-orbital-data-is-unlocking-novel-agriculture-insights/)
-- [Exploring mTLS setup to send a client certificate to the backend and OCSP validation](https://azure.microsoft.com/blog/exploring-mtls-setup-to-send-a-client-certificate-to-the-backend-and-ocsp-validation/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
