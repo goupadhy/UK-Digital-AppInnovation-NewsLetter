@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Agile teams align and get to market faster with Mural and Microsoft](https://azure.microsoft.com/blog/agile-teams-align-and-get-to-market-faster-with-mural-and-microsoft/)
 - [What's new in Azure Data & AI: Azure is the best place to build and run AI workloads](https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/)
 - [Microsoft commercial marketplace: empowering customized experiences to drive innovation](https://azure.microsoft.com/blog/microsoft-commercial-marketplace-empowering-customized-experiences-to-drive-innovation/)
 - [Azure private MEC delivers modern connected applications for industries](https://azure.microsoft.com/blog/azure-private-mec-delivers-modern-connected-applications-for-industries/)
 - [Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud](https://azure.microsoft.com/blog/empowering-operators-and-enterprises-with-the-next-wave-of-azure-for-operators-services-shaping-the-future-of-cloud/)
-- [3 Microsoft Azure AI product features that accelerate language learning](https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
