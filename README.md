@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Add OpenAI Capabilities to your Power Platform solutions](https://www.youtube.com/watch?v=AVK7BUmTGvs)
 - [Learn Live - Azure OpenAI: Introduction to Language Models and Applications](https://www.youtube.com/watch?v=J-dETevTkm4)
 - [Learn Live - Manage Microsoft Power Platform deployments](https://www.youtube.com/watch?v=dRrXfyaFP20)
 - [ATE: Powerful Devs &lpar;Replay&rpar;](https://www.youtube.com/watch?v=a3xeVZzWsCI)
 - [AI Show Live - Using AI to Make Experiences Accessible and Inclusive](https://www.youtube.com/watch?v=6nvsGTGnbIQ)
-- [How do I get started with Azure API Management?](https://www.youtube.com/watch?v=2HHFR-MKljM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
