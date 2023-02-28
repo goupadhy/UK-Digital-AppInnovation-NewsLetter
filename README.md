@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Monitor, diagnose, and troubleshoot your Azure Storage](https://www.youtube.com/watch?v=YeYtpu1ecP8)
 - [Introduction to the Community Toolkits for .NET and Windows](https://www.youtube.com/watch?v=wG67xSIlask)
 - [Learn Live - Manage Microsoft Power Platform deployments](https://www.youtube.com/watch?v=dRrXfyaFP20)
 - [AI Show Live - Using AI to Make Experiences Accessible and Inclusive](https://www.youtube.com/watch?v=6nvsGTGnbIQ)
 - [Add OpenAI Capabilities to your Power Platform solutions](https://www.youtube.com/watch?v=AVK7BUmTGvs)
-- [Learn Live - Azure OpenAI: Introduction to Language Models and Applications](https://www.youtube.com/watch?v=J-dETevTkm4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
