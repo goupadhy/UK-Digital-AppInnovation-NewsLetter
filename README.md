@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Armchair Architects: How do you get meaning from your data?](https://www.youtube.com/watch?v=4ad8h1oj05Y)
 - [Learn Live - Monitor, diagnose, and troubleshoot your Azure Storage](https://www.youtube.com/watch?v=YeYtpu1ecP8)
 - [Introduction to the Community Toolkits for .NET and Windows](https://www.youtube.com/watch?v=wG67xSIlask)
 - [Learn Live - Manage Microsoft Power Platform deployments](https://www.youtube.com/watch?v=dRrXfyaFP20)
 - [AI Show Live - Using AI to Make Experiences Accessible and Inclusive](https://www.youtube.com/watch?v=6nvsGTGnbIQ)
-- [Add OpenAI Capabilities to your Power Platform solutions](https://www.youtube.com/watch?v=AVK7BUmTGvs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
