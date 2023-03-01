@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Marketplace Summit: List in the marketplace &amp; jumpstart your cloud go-to-market strategy](https://www.youtube.com/watch?v=NfdisVZxwQw)
+- [Microsoft Marketplace Summit: Co-sell with Microsoft &amp; land enterprise deals through the marketplace](https://www.youtube.com/watch?v=YkVZLh_PW6I)
 - [Empower Your Organization with the Most Trusted and Comprehensive Microsoft Cloud Solutions](https://www.youtube.com/watch?v=r0NhSsmSy2c)
 - [Microsoft Marketplace Summit: Tap into customer’s adoption of Microsoft marketplace](https://www.youtube.com/watch?v=v6i2H0vi-8k)
 - [Microsoft Marketplace Summit: The opportunity for ISVs with Microsoft](https://www.youtube.com/watch?v=7qs2uqN7OpE)
-- [Microsoft Marketplace Summit: The future of B2B commerce and procurement](https://www.youtube.com/watch?v=s0-drzIS8_g)
-- [Accelerating time to market with the ISV Success Program](https://www.youtube.com/watch?v=XElK3Nc_7Kk)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
