@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Synthetaic x TitletownTech | Startup Culture and Strategic Partners](https://www.youtube.com/watch?v=eCh86cvlo-Y)
 - [Azure Open Source Day | March 7th](https://www.youtube.com/watch?v=F7L28qZ7XUM)
 - [Learn Live - Azure OpenAI: Introduction to Language Models and Applications](https://www.youtube.com/watch?v=J-dETevTkm4)
 - [AI Show Live | Creating AI-Powered Audiobooks with Project Gutenberg](https://www.youtube.com/watch?v=tuXFeD4o6ZU)
 - [Why would I use .NET in Azure Functions?](https://www.youtube.com/watch?v=cRuTEuX8yfM)
-- [Calling REST endpoints from T-SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=JQlR4Ki3DCw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
