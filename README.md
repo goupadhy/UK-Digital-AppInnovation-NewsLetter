@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Azure OpenAI: Introduction to Language Models and Applications](https://www.youtube.com/watch?v=J-dETevTkm4)
+- [AI Show Live | Creating AI-Powered Audiobooks with Project Gutenberg](https://www.youtube.com/watch?v=tuXFeD4o6ZU)
 - [Why would I use .NET in Azure Functions?](https://www.youtube.com/watch?v=cRuTEuX8yfM)
 - [Calling REST endpoints from T-SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=JQlR4Ki3DCw)
 - [Armchair Architects: How do you get meaning from your data?](https://www.youtube.com/watch?v=4ad8h1oj05Y)
-- [Learn Live - Monitor, diagnose, and troubleshoot your Azure Storage](https://www.youtube.com/watch?v=YeYtpu1ecP8)
-- [Introduction to the Community Toolkits for .NET and Windows](https://www.youtube.com/watch?v=wG67xSIlask)
 <!-- YOUTUBEAPPMOD:END -->
 
 
