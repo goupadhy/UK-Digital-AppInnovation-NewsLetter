@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Top 3 Best Practices for Power BI | Data Exposed](https://www.youtube.com/watch?v=VNHmKcrVFk0)
 - [How can I productize my APIs with Azure API Management?](https://www.youtube.com/watch?v=J49ywkENiFk)
 - [Pipelines for Power Platform 101](https://www.youtube.com/watch?v=1Ee1lk_Du-w)
 - [Synthetaic x TitletownTech | Startup Culture and Strategic Partners](https://www.youtube.com/watch?v=eCh86cvlo-Y)
 - [Azure Open Source Day | March 7th](https://www.youtube.com/watch?v=F7L28qZ7XUM)
-- [Learn Live - Azure OpenAI: Introduction to Language Models and Applications](https://www.youtube.com/watch?v=J-dETevTkm4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
