@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Pipelines for Power Platform 101](https://www.youtube.com/watch?v=1Ee1lk_Du-w)
 - [Synthetaic x TitletownTech | Startup Culture and Strategic Partners](https://www.youtube.com/watch?v=eCh86cvlo-Y)
 - [Azure Open Source Day | March 7th](https://www.youtube.com/watch?v=F7L28qZ7XUM)
 - [Learn Live - Azure OpenAI: Introduction to Language Models and Applications](https://www.youtube.com/watch?v=J-dETevTkm4)
 - [AI Show Live | Creating AI-Powered Audiobooks with Project Gutenberg](https://www.youtube.com/watch?v=tuXFeD4o6ZU)
-- [Why would I use .NET in Azure Functions?](https://www.youtube.com/watch?v=cRuTEuX8yfM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
