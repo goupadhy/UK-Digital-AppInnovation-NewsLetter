@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft Cost Management updates—February 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-february-2023/)
 - [Azure VMware Solution in Microsoft Azure Government streamlines migration efforts ](https://azure.microsoft.com/blog/azure-vmware-solution-in-microsoft-azure-government-streamlines-migration-efforts/)
 - [Agile teams align and get to market faster with Mural and Microsoft](https://azure.microsoft.com/blog/agile-teams-align-and-get-to-market-faster-with-mural-and-microsoft/)
 - [What's new in Azure Data & AI: Azure is the best place to build and run AI workloads](https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/)
 - [Microsoft commercial marketplace: Spend smarter, move faster](https://azure.microsoft.com/blog/microsoft-commercial-marketplace-spend-smarter-move-faster/)
-- [Azure private MEC delivers modern connected applications for industries](https://azure.microsoft.com/blog/azure-private-mec-delivers-modern-connected-applications-for-industries/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
