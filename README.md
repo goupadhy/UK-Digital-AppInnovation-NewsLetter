@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Platform Connections Ep 3 - Heidi Jordan](https://www.youtube.com/watch?v=2kKFDT9aw5w)
 - [Viva Sales Lives On Power Platform - Power CAT Live](https://www.youtube.com/watch?v=Jex7VjWhB-0)
 - [Microsoft Power Platform Conference Returns in 2023 to Las Vegas!](https://www.youtube.com/watch?v=uZQA-5EO_zM)
 - [Build Power Apps from Azure Data Lake with Virtual Tables](https://www.youtube.com/watch?v=avdLVwPgd9Y)
 - [Power Platform Connections Ep 2 - Scott Durow](https://www.youtube.com/watch?v=CINlK7F3Nhg)
-- [Hugo loves the Ribbon Workbench Tool! | Power Platform Connections](https://www.youtube.com/watch?v=wY1-gVy1Tvg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
