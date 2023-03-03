@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Azure ML Operations](https://www.youtube.com/watch?v=BxJu32_g1gE)
 - [Learn Live - Monitor, diagnose, and troubleshoot your Azure Storage](https://www.youtube.com/watch?v=YeYtpu1ecP8)
 - [Top 3 Best Practices for Power BI | Data Exposed](https://www.youtube.com/watch?v=VNHmKcrVFk0)
 - [How can I productize my APIs with Azure API Management?](https://www.youtube.com/watch?v=J49ywkENiFk)
 - [Pipelines for Power Platform 101](https://www.youtube.com/watch?v=1Ee1lk_Du-w)
-- [Synthetaic x TitletownTech | Startup Culture and Strategic Partners](https://www.youtube.com/watch?v=eCh86cvlo-Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
