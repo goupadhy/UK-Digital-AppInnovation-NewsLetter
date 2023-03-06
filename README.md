@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live | Creating AI-Powered Audiobooks with Project Gutenberg](https://www.youtube.com/watch?v=tuXFeD4o6ZU)
 - [Using AI to Make Experiences Accessible and Inclusive](https://www.youtube.com/watch?v=jZgL5o4zF6w)
 - [Learn Live - Azure Container Options &lpar;AKS vs ACA vs ACI&rpar;](https://www.youtube.com/watch?v=dpf6Uk3IcDQ)
 - [How does Windows Runtime manage to build new APIs without breaking existing ones?](https://www.youtube.com/watch?v=G1b8TOp-dsc)
 - [Global AI Bootcamp – Brasil](https://www.youtube.com/watch?v=-I717gE0rHI)
-- [Learn Live - Azure ML Operations](https://www.youtube.com/watch?v=BxJu32_g1gE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
