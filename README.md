@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Azure Container Options &lpar;AKS vs ACA vs ACI&rpar;](https://www.youtube.com/watch?v=dpf6Uk3IcDQ)
 - [How does Windows Runtime manage to build new APIs without breaking existing ones?](https://www.youtube.com/watch?v=G1b8TOp-dsc)
 - [Global AI Bootcamp – Brasil](https://www.youtube.com/watch?v=-I717gE0rHI)
 - [Learn Live - Azure ML Operations](https://www.youtube.com/watch?v=BxJu32_g1gE)
 - [Learn Live - Monitor, diagnose, and troubleshoot your Azure Storage](https://www.youtube.com/watch?v=YeYtpu1ecP8)
-- [Top 3 Best Practices for Power BI | Data Exposed](https://www.youtube.com/watch?v=VNHmKcrVFk0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
