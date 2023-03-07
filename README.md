@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Successful DevOps in Web3](https://www.youtube.com/watch?v=SYofusVR3Vg)
-- [Unleash the Power of Azure OpenAI Service with AI Builder](https://www.youtube.com/watch?v=1Cz9F0EdSUo)
-- [Learn Live - Azure ML Operations](https://www.youtube.com/watch?v=BxJu32_g1gE)
-- [AI Show Live | Creating AI-Powered Audiobooks with Project Gutenberg](https://www.youtube.com/watch?v=tuXFeD4o6ZU)
-- [Using AI to Make Experiences Accessible and Inclusive](https://www.youtube.com/watch?v=jZgL5o4zF6w)
+- [PWA Demos [17 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=3iEqapzXgrE)
+- [How PWAs further integrate with the host OS [16 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=99Lzr5Zu4sw)
+- [Better UX for PWAs [15 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=rgAiq5zhwTI)
+- [PWA Native Integrations in Depth [14 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=E1xItksAZNc)
+- [PWA Developer Tools: Publishing [13 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=Me_v7WjMU4c)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
