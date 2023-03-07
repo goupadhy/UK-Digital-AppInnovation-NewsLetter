@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Successful DevOps in Web3](https://www.youtube.com/watch?v=SYofusVR3Vg)
 - [Unleash the Power of Azure OpenAI Service with AI Builder](https://www.youtube.com/watch?v=1Cz9F0EdSUo)
 - [Learn Live - Azure ML Operations](https://www.youtube.com/watch?v=BxJu32_g1gE)
 - [AI Show Live | Creating AI-Powered Audiobooks with Project Gutenberg](https://www.youtube.com/watch?v=tuXFeD4o6ZU)
 - [Using AI to Make Experiences Accessible and Inclusive](https://www.youtube.com/watch?v=jZgL5o4zF6w)
-- [Learn Live - Azure Container Options &lpar;AKS vs ACA vs ACI&rpar;](https://www.youtube.com/watch?v=dpf6Uk3IcDQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
