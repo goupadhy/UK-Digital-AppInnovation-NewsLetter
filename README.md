@@ -63,7 +63,7 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
 - [MMS &lpar;November 2022&rpar;: Activate an ecosystem of partners and unlock new markets](https://www.youtube.com/watch?v=D5C63D4nuB8)
-- [Taking Stock Live - a conversation with Shelley Bransten &amp; Tomasz Blicharksi](https://www.youtube.com/watch?v=0mqQE2dgpuA)
+- [Taking Stock Live - a conversation with Shelley Bransten &amp; Tomasz Blicharski](https://www.youtube.com/watch?v=0mqQE2dgpuA)
 - [Żabka envisions optimized autonomous store experiences with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=taVRf96pNdI)
 - [Empower store associates with Store Operations Assist](https://www.youtube.com/watch?v=JHATLEfPr2s)
 - [Microsoft Marketplace Summit: List in the marketplace &amp; jumpstart your cloud go-to-market strategy](https://www.youtube.com/watch?v=NfdisVZxwQw)
