@@ -58,7 +58,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Release Radar · February 2023 Edition](https://github.blog/2023-03-05-release-radar-feb-2023/)
 - [GitHub Security Lab audited DataHub: Here&#8217;s what they found](https://github.blog/2023-03-03-github-security-lab-audited-datahub-heres-what-they-found/)
 - [GitHub Desktop 3.2: Preview your pull request](https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/)
-- [See you at SCALE! 🐧](https://github.blog/2023-03-03-see-you-at-scale/)
+- [See you at SCaLE! 🐧](https://github.blog/2023-03-03-see-you-at-scale/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
