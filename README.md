@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Announcing a renaissance in computer vision AI with Microsoft's Florence foundation model](https://azure.microsoft.com/blog/announcing-a-renaissance-in-computer-vision-ai-with-microsofts-florence-foundation-model/)
 - [Azure WAF guided investigation Notebook using Microsoft Sentinel for automated false positive tuning](https://azure.microsoft.com/blog/azure-waf-guided-investigation-notebook-using-microsoft-sentinel-for-automated-false-positive-tuning/)
 - [Microsoft Cost Management updates—February 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-february-2023/)
 - [Azure VMware Solution in Microsoft Azure Government streamlines migration efforts ](https://azure.microsoft.com/blog/azure-vmware-solution-in-microsoft-azure-government-streamlines-migration-efforts/)
 - [Agile teams align and get to market faster with Mural and Microsoft](https://azure.microsoft.com/blog/agile-teams-align-and-get-to-market-faster-with-mural-and-microsoft/)
-- [What's new in Azure Data & AI: Azure is the best place to build and run AI workloads](https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
