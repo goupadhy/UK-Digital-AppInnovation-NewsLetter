@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Tips &amp; Tricks for Power Apps UX! - LunchBytes](https://www.youtube.com/watch?v=_YBVerGzF7E)
 - [Learn Live - Introduction to Azure NetApp Files](https://www.youtube.com/watch?v=aXHxx5LihI8)
 - [ATE: Deploying a Python Project with Azure Container Apps](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)
 - [ATE: Deploying a Python 3.11 Application to Azure App Service](https://www.youtube.com/watch?v=lwNzb5pRn08)
 - [PWA Demos [17 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=3iEqapzXgrE)
-- [How PWAs further integrate with the host OS [16 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=99Lzr5Zu4sw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
