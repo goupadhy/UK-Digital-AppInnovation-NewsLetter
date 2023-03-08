@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Monitor Azure Virtual Network Manager changes with event logging](https://azure.microsoft.com/blog/monitor-azure-virtual-network-manager-changes-with-event-logging/)
 - [4 best-practices to keep your Windows Server estate secure and optimized](https://azure.microsoft.com/blog/4-bestpractices-to-keep-your-windows-server-estate-secure-and-optimized/)
 - [Discover the latest innovations at Azure Open Source Day 2023 ](https://azure.microsoft.com/blog/discover-the-latest-innovations-at-azure-open-source-day-2023/)
 - [Exploring open-source capabilities in Azure AI](https://azure.microsoft.com/blog/exploring-opensource-capabilities-in-azure-ai/)
 - [Announcing a renaissance in computer vision AI with Microsoft's Florence foundation model](https://azure.microsoft.com/blog/announcing-a-renaissance-in-computer-vision-ai-with-microsofts-florence-foundation-model/)
-- [Azure WAF guided investigation Notebook using Microsoft Sentinel for automated false positive tuning](https://azure.microsoft.com/blog/azure-waf-guided-investigation-notebook-using-microsoft-sentinel-for-automated-false-positive-tuning/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
