@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [ATE: Deploying a Python Project with Azure Container Apps](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)
+- [ATE: Deploying a Python 3.11 Application to Azure App Service](https://www.youtube.com/watch?v=lwNzb5pRn08)
 - [PWA Demos [17 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=3iEqapzXgrE)
 - [How PWAs further integrate with the host OS [16 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=99Lzr5Zu4sw)
 - [Better UX for PWAs [15 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=rgAiq5zhwTI)
-- [PWA Native Integrations in Depth [14 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=E1xItksAZNc)
-- [PWA Developer Tools: Publishing [13 of 17] | PWA for Beginners](https://www.youtube.com/watch?v=Me_v7WjMU4c)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
