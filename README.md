@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [4 best-practices to keep your Windows Server estate secure and optimized](https://azure.microsoft.com/blog/4-bestpractices-to-keep-your-windows-server-estate-secure-and-optimized/)
 - [Discover the latest innovations at Azure Open Source Day 2023 ](https://azure.microsoft.com/blog/discover-the-latest-innovations-at-azure-open-source-day-2023/)
 - [Exploring open-source capabilities in Azure AI](https://azure.microsoft.com/blog/exploring-opensource-capabilities-in-azure-ai/)
 - [Announcing a renaissance in computer vision AI with Microsoft's Florence foundation model](https://azure.microsoft.com/blog/announcing-a-renaissance-in-computer-vision-ai-with-microsofts-florence-foundation-model/)
 - [Azure WAF guided investigation Notebook using Microsoft Sentinel for automated false positive tuning](https://azure.microsoft.com/blog/azure-waf-guided-investigation-notebook-using-microsoft-sentinel-for-automated-false-positive-tuning/)
-- [Microsoft Cost Management updates—February 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-february-2023/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
