@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Multi-repository variant analysis: a powerful new way to perform security research across GitHub](https://github.blog/2023-03-09-multi-repository-variant-analysis-a-powerful-new-way-to-perform-security-research-across-github/)
 - [Application security orchestration with GitHub Advanced Security](https://github.blog/2023-03-08-application-security-orchestration-with-github-advanced-security/)
 - [GitHub Galaxy 2023: your guide to building a more flexible and productive software development cycle](https://github.blog/2023-03-08-github-galaxy-2023-your-guide-to-building-a-more-flexible-and-productive-software-development-cycle/)
 - [GitHub Enterprise Server 3.8 is now generally available](https://github.blog/2023-03-07-github-enterprise-server-3-8-is-now-generally-available/)
 - [File editing on GitHub Mobile keeps leveling up](https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/)
-- [Unleash your potential with GitHub Octernships: a path to a thriving tech career](https://github.blog/2023-03-06-unleash-your-potential-with-github-octernships-a-path-to-a-thriving-tech-career/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
