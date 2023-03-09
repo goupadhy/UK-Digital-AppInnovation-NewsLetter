@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [ChatGPT is now available in Azure OpenAI Service](https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/)
 - [Monitor Azure Virtual Network Manager changes with event logging](https://azure.microsoft.com/blog/monitor-azure-virtual-network-manager-changes-with-event-logging/)
 - [4 best-practices to keep your Windows Server estate secure and optimized](https://azure.microsoft.com/blog/4-bestpractices-to-keep-your-windows-server-estate-secure-and-optimized/)
 - [Discover the latest innovations at Azure Open Source Day 2023 ](https://azure.microsoft.com/blog/discover-the-latest-innovations-at-azure-open-source-day-2023/)
 - [Exploring open-source capabilities in Azure AI](https://azure.microsoft.com/blog/exploring-opensource-capabilities-in-azure-ai/)
-- [Announcing a renaissance in computer vision AI with Microsoft's Florence foundation model](https://azure.microsoft.com/blog/announcing-a-renaissance-in-computer-vision-ai-with-microsofts-florence-foundation-model/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
