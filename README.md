@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Ask the Expert: Low Code February &lpar;Replay&rpar;](https://www.youtube.com/watch?v=RawSYLLGlgU)
-- [Learn Live - Introduction to Azure NetApp Files](https://www.youtube.com/watch?v=aXHxx5LihI8)
-- [Learn Live - Azure Container Options &lpar;AKS vs ACA vs ACI&rpar;](https://www.youtube.com/watch?v=dpf6Uk3IcDQ)
-- [Next-Generation Computer Vision Capabilities with Florence](https://www.youtube.com/watch?v=Cri8Uk9Nqcw)
-- [Ask the Expert: Low Code February](https://www.youtube.com/watch?v=nAM3pDXgMHU)
+- [How to use new features with Copilot Labs [6 of 6]](https://www.youtube.com/watch?v=tl_KQr4xxRM)
+- [How to write documentation with Copilot suggestions [5 of 6]](https://www.youtube.com/watch?v=h829tNqrneM)
+- [How to reduce repetitive tasks with Copilot [4 of 6]](https://www.youtube.com/watch?v=fU9fWqcou0o)
+- [How to generate Copilot suggestions as you type [3 of 6]](https://www.youtube.com/watch?v=r6KBtJ3K20Y)
+- [How to generate code with prompts using Copilot [2 of 6]](https://www.youtube.com/watch?v=afuPCs78leI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
