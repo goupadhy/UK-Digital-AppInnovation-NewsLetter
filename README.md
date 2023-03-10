@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 1](https://www.youtube.com/watch?v=UqbObxdOYTI)
 - [Ask the Expert: Low Code February &lpar;Replay&rpar;](https://www.youtube.com/watch?v=RawSYLLGlgU)
 - [How to use new features with Copilot Labs [6 of 6]](https://www.youtube.com/watch?v=tl_KQr4xxRM)
 - [How to write documentation with Copilot suggestions [5 of 6]](https://www.youtube.com/watch?v=h829tNqrneM)
 - [How to reduce repetitive tasks with Copilot [4 of 6]](https://www.youtube.com/watch?v=fU9fWqcou0o)
-- [How to generate Copilot suggestions as you type [3 of 6]](https://www.youtube.com/watch?v=r6KBtJ3K20Y)
 <!-- YOUTUBEAPPMOD:END -->
 
 
