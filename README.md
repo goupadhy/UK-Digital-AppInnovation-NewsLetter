@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Low Code February &lpar;Replay&rpar;](https://www.youtube.com/watch?v=RawSYLLGlgU)
 - [Learn Live - Introduction to Azure NetApp Files](https://www.youtube.com/watch?v=aXHxx5LihI8)
 - [Learn Live - Azure Container Options &lpar;AKS vs ACA vs ACI&rpar;](https://www.youtube.com/watch?v=dpf6Uk3IcDQ)
 - [Next-Generation Computer Vision Capabilities with Florence](https://www.youtube.com/watch?v=Cri8Uk9Nqcw)
-- [ATE: Low Code February](https://www.youtube.com/watch?v=nAM3pDXgMHU)
-- [Rethink your backup &amp; recovery strategy w/ T-SQL Snapshot Backup in SQL Server 2022  | Data Exposed](https://www.youtube.com/watch?v=pb16bAzRJFw)
+- [Ask the Expert: Low Code February](https://www.youtube.com/watch?v=nAM3pDXgMHU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
