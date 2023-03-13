@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Highlights from Git 2.40](https://github.blog/2023-03-13-highlights-from-git-2-40/)
 - [An open source project to empower OSPOs everywhere](https://github.blog/2023-03-13-an-open-source-project-to-empower-ospos-everywhere/)
 - [Introducing Activating Developers and the new Digital Public Goods Open Source Community Manager Program](https://github.blog/2023-03-13-introducing-activating-developers-and-the-new-digital-public-goods-open-source-community-manager-program/)
 - [Introducing GitHub vulnerability management integrations for security professionals](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/)
 - [Don’t leave developers behind in the Section 230 debate](https://github.blog/2023-03-10-dont-leave-developers-behind-in-the-section-230-debate/)
-- [How GitHub accelerates development for embedded systems](https://github.blog/2023-03-09-how-github-accelerates-development-for-embedded-systems/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
