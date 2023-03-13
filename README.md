@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Using GPT in AI Builder - Power CAT Live](https://www.youtube.com/watch?v=aq3oTqByGmA)
 - [Inspiring others in the community to succeed | Power Platform Shorts](https://www.youtube.com/watch?v=6BgiC2wVCmU)
 - [Power Platform Connections Ep 4 - Nathalie Leenders](https://www.youtube.com/watch?v=L4c3ZFpo8dY)
 - [Power Platform Connections Ep 3 - Heidi Jordan](https://www.youtube.com/watch?v=2kKFDT9aw5w)
 - [Heidi Jordan on the Power of Community | Power Platform Connections](https://www.youtube.com/watch?v=ExKXj3C2kbA)
-- [Viva Sales Lives On Power Platform - Power CAT Live](https://www.youtube.com/watch?v=Jex7VjWhB-0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
