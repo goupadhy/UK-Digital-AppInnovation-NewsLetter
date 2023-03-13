@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Creating and Donating Thousands of AI powered Audiobooks to Project Gutenberg](https://www.youtube.com/watch?v=ovxZhTMm42o)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 2](https://www.youtube.com/watch?v=pj7P5ohCCXc)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 1](https://www.youtube.com/watch?v=UqbObxdOYTI)
 - [Ask the Expert: Low Code February &lpar;Replay&rpar;](https://www.youtube.com/watch?v=RawSYLLGlgU)
 - [How to use new features with Copilot Labs [6 of 6]](https://www.youtube.com/watch?v=tl_KQr4xxRM)
-- [How to write documentation with Copilot suggestions [5 of 6]](https://www.youtube.com/watch?v=h829tNqrneM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
