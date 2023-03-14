@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 1](https://www.youtube.com/watch?v=UqbObxdOYTI)
 - [Build a 3D Printed Clippy Powered by ChatGPT from OpenAI, Azure Cognitive Services](https://www.youtube.com/watch?v=6OYGeOwd6RY)
 - [Armchair Architects: Data Mesh Architecture](https://www.youtube.com/watch?v=UQvsiH0CAAU)
 - [Display IoT Data in a Power Apps using Azure Functions and Custom Connectors](https://www.youtube.com/watch?v=v0mPmCw5yl0)
 - [Windows Terminal version 1.17 highlights](https://www.youtube.com/watch?v=0K_NbQzb1lg)
-- [Next-Generation Computer Vision Capabilities with Florence](https://www.youtube.com/watch?v=Cri8Uk9Nqcw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
