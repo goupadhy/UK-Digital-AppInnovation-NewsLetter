@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What are the advantages of .NET in an isolated worker model?](https://www.youtube.com/watch?v=GTTu91Xqoho)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 1](https://www.youtube.com/watch?v=UqbObxdOYTI)
 - [Build a 3D Printed Clippy Powered by ChatGPT from OpenAI, Azure Cognitive Services](https://www.youtube.com/watch?v=6OYGeOwd6RY)
 - [Armchair Architects: Data Mesh Architecture](https://www.youtube.com/watch?v=UQvsiH0CAAU)
 - [Display IoT Data in a Power Apps using Azure Functions and Custom Connectors](https://www.youtube.com/watch?v=v0mPmCw5yl0)
-- [Windows Terminal version 1.17 highlights](https://www.youtube.com/watch?v=0K_NbQzb1lg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
