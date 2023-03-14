@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Windows Terminal version 1.17 highlights](https://www.youtube.com/watch?v=0K_NbQzb1lg)
 - [Next-Generation Computer Vision Capabilities with Florence](https://www.youtube.com/watch?v=Cri8Uk9Nqcw)
 - [Creating and Donating Thousands of AI powered Audiobooks to Project Gutenberg](https://www.youtube.com/watch?v=ovxZhTMm42o)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 2](https://www.youtube.com/watch?v=pj7P5ohCCXc)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 1](https://www.youtube.com/watch?v=UqbObxdOYTI)
-- [Ask the Expert: Low Code February &lpar;Replay&rpar;](https://www.youtube.com/watch?v=RawSYLLGlgU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
