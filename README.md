@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Display IoT Data in a Power Apps using Azure Functions and Custom Connectors](https://www.youtube.com/watch?v=v0mPmCw5yl0)
 - [Windows Terminal version 1.17 highlights](https://www.youtube.com/watch?v=0K_NbQzb1lg)
 - [Next-Generation Computer Vision Capabilities with Florence](https://www.youtube.com/watch?v=Cri8Uk9Nqcw)
 - [Creating and Donating Thousands of AI powered Audiobooks to Project Gutenberg](https://www.youtube.com/watch?v=ovxZhTMm42o)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 2](https://www.youtube.com/watch?v=pj7P5ohCCXc)
-- [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 1](https://www.youtube.com/watch?v=UqbObxdOYTI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
