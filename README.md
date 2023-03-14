@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC](https://azure.microsoft.com/blog/microsoft-to-showcase-purposebuilt-ai-infrastructure-at-nvidia-gtc/)
 - [Announcing Microsoft Azure Data Manager for Agriculture: Accelerating innovation across the agriculture value chain](https://azure.microsoft.com/blog/announcing-microsoft-azure-data-manager-for-agriculture-accelerating-innovation-across-the-agriculture-value-chain/)
 - [Azure previews powerful and scalable virtual machine series to accelerate generative AI](https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/)
 - [ChatGPT is now available in Azure OpenAI Service](https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/)
 - [Monitor Azure Virtual Network Manager changes with event logging](https://azure.microsoft.com/blog/monitor-azure-virtual-network-manager-changes-with-event-logging/)
-- [4 best-practices to keep your Windows Server estate secure and optimized](https://azure.microsoft.com/blog/4-bestpractices-to-keep-your-windows-server-estate-secure-and-optimized/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
