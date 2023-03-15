@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Meeting the Market with Digital TTRPG Tools | Demiplane](https://www.youtube.com/watch?v=fMSGTJfhkGQ)
 - [Learn Live - Introduction to Azure DDoS Protection and to Azure Web Application Firewall](https://www.youtube.com/watch?v=75JxX44Opc8)
 - [SQL Server 2022 acceleration &amp; offloading with Intel® QuickAssist Technology &lpar;QAT&rpar; | Data Exposed](https://www.youtube.com/watch?v=mn0n-KbJhq0)
 - [What are the advantages of .NET in an isolated worker model?](https://www.youtube.com/watch?v=GTTu91Xqoho)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 1](https://www.youtube.com/watch?v=UqbObxdOYTI)
-- [Build a 3D Printed Clippy Powered by ChatGPT from OpenAI, Azure Cognitive Services](https://www.youtube.com/watch?v=6OYGeOwd6RY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
