@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Protect against cyberattacks with the new Azure Firewall Basic](https://azure.microsoft.com/blog/protect-against-cyberattacks-with-the-new-azure-firewall-basic/)
 - [Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC](https://azure.microsoft.com/blog/microsoft-to-showcase-purposebuilt-ai-infrastructure-at-nvidia-gtc/)
 - [Announcing Microsoft Azure Data Manager for Agriculture: Accelerating innovation across the agriculture value chain](https://azure.microsoft.com/blog/announcing-microsoft-azure-data-manager-for-agriculture-accelerating-innovation-across-the-agriculture-value-chain/)
 - [Azure previews powerful and scalable virtual machine series to accelerate generative AI](https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/)
 - [ChatGPT is now available in Azure OpenAI Service](https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/)
-- [Monitor Azure Virtual Network Manager changes with event logging](https://azure.microsoft.com/blog/monitor-azure-virtual-network-manager-changes-with-event-logging/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
