@@ -44,9 +44,9 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Platform Connections Ep 5 - Stephen Siciliano](https://www.youtube.com/watch?v=sT0w0kX_Qj8)
 - [Copilot for Power Apps - Power CAT Live](https://www.youtube.com/watch?v=f9wPTl-xKyU)
 - [Next generation AI in Power Platform is changing how you develop low-code solutions](https://www.youtube.com/watch?v=aYKLQKPA9yI)
-- [Power Platform Connections Ep 5 - Stephen Siciliano](https://www.youtube.com/watch?v=sT0w0kX_Qj8)
 - [Using GPT in AI Builder - Power CAT Live](https://www.youtube.com/watch?v=aq3oTqByGmA)
 - [Inspiring others in the community to succeed | Power Platform Shorts](https://www.youtube.com/watch?v=6BgiC2wVCmU)
 <!-- YOUTUBEPOWER:END -->
