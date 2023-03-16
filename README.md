@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Godot 4.0 Release Party 🎉](https://github.blog/2023-03-16-godot-4-0-release-party/)
 - [How the Grafana Alerting team scales their issue management with GitHub Projects](https://github.blog/2023-03-15-how-the-grafana-alerting-team-scales-their-issue-management-with-github-projects/)
 - [GitHub celebrates the ingenuity of developers with disabilities in new video series](https://github.blog/2023-03-14-github-celebrates-the-ingenuity-of-developers-with-disabilities-in-new-video-series/)
 - [Highlights from Git 2.40](https://github.blog/2023-03-13-highlights-from-git-2-40/)
 - [An open source project to empower OSPOs everywhere](https://github.blog/2023-03-13-an-open-source-project-to-empower-ospos-everywhere/)
-- [Introducing Activating Developers and the new Digital Public Goods Open Source Community Manager Program](https://github.blog/2023-03-13-introducing-activating-developers-and-the-new-digital-public-goods-open-source-community-manager-program/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
