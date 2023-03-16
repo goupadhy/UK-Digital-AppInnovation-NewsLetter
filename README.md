@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Introduction to Azure DDoS Protection and to Azure Web Application Firewall](https://www.youtube.com/watch?v=75JxX44Opc8)
+- [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 2](https://www.youtube.com/watch?v=pj7P5ohCCXc)
 - [Creating and Donating Thousands of AI powered Audiobooks to Project Gutenberg](https://www.youtube.com/watch?v=2Z8yg3zgQTw)
 - [Query a Database using GraphQL from your Static Web Apps [Part 22] | Azure Tips and Tricks](https://www.youtube.com/watch?v=NF0EC68rdQk)
 - [Connect to a Database directly from Static Web Apps [Part 21] | Azure Tips and Tricks](https://www.youtube.com/watch?v=vGOnh0UrADg)
-- [The Latest Model Updates in Azure Form Recognizer](https://www.youtube.com/watch?v=SvZ0HKIgQOU)
-- [Meeting the Market with Digital TTRPG Tools | Demiplane](https://www.youtube.com/watch?v=fMSGTJfhkGQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
