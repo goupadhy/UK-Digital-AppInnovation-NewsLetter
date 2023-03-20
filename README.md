@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Apply Well-Architected Framework to your solution design](https://www.youtube.com/watch?v=Hj8aIFEz29U)
 - [How does Azure manage to build new APIs without breaking existing ones?](https://www.youtube.com/watch?v=tuHCuxHxuVQ)
 - [What tiers does Azure API Management offer?](https://www.youtube.com/watch?v=NGG38bewVNg)
 - [Learn Live - Introduction to Azure DDoS Protection and to Azure Web Application Firewall](https://www.youtube.com/watch?v=75JxX44Opc8)
 - [Learn Live - Learn how Azure Migrate can help migrate Windows servers to Azure - Part 2](https://www.youtube.com/watch?v=pj7P5ohCCXc)
-- [Creating and Donating Thousands of AI powered Audiobooks to Project Gutenberg](https://www.youtube.com/watch?v=2Z8yg3zgQTw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
