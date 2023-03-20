@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Sort Your Tech Debt with Azure! - LunchBytes](https://www.youtube.com/watch?v=JWe1k3fnsrY)
 - [Next-Generation Computer Vision Capabilities with Project Florence](https://www.youtube.com/watch?v=1cHVk0Z8sL0)
 - [Learn Live - Apply Well-Architected Framework to your solution design](https://www.youtube.com/watch?v=Hj8aIFEz29U)
 - [How does Azure manage to build new APIs without breaking existing ones?](https://www.youtube.com/watch?v=tuHCuxHxuVQ)
 - [What tiers does Azure API Management offer?](https://www.youtube.com/watch?v=NGG38bewVNg)
-- [Learn Live - Introduction to Azure DDoS Protection and to Azure Web Application Firewall](https://www.youtube.com/watch?v=75JxX44Opc8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
