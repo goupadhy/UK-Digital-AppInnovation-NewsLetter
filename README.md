@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Protect your virtual machines by using Azure Backup](https://www.youtube.com/watch?v=eTckKCAUMfk)
 - [Learn Live - Apply Well-Architected Framework to your solution design](https://www.youtube.com/watch?v=Hj8aIFEz29U)
 - [The Latest Model Updates in Azure Form Recognizer](https://www.youtube.com/watch?v=SvZ0HKIgQOU)
 - [Sort Your Tech Debt with Azure! - LunchBytes](https://www.youtube.com/watch?v=JWe1k3fnsrY)
 - [Next-Generation Computer Vision Capabilities with Project Florence](https://www.youtube.com/watch?v=1cHVk0Z8sL0)
-- [How does Azure manage to build new APIs without breaking existing ones?](https://www.youtube.com/watch?v=tuHCuxHxuVQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
