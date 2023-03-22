@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Copilot is here!](https://www.youtube.com/watch?v=5y9kk2IHM24)
 - [Power Platform Connections Ep 6 - Shane Young](https://www.youtube.com/watch?v=v6mifi35_SQ)
 - [Boost &amp; Copilot Your Chatbots - Power CAT Live](https://www.youtube.com/watch?v=wqOmMzd5HLk)
 - [Community is Bigger on the inside | Power Platform Shorts](https://www.youtube.com/watch?v=DjX0opkOq18)
 - [Power Platform Connections Ep 5 - Stephen Siciliano](https://www.youtube.com/watch?v=sT0w0kX_Qj8)
-- [Copilot for Power Apps - Power CAT Live](https://www.youtube.com/watch?v=f9wPTl-xKyU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
