@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Connect, secure, and simplify your network resources with Azure Virtual Network Manager](https://azure.microsoft.com/blog/connect-secure-and-simplify-your-network-resources-with-azure-virtual-network-manager/)
 - [Introducing GPT-4 in Azure OpenAI Service](https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/)
 - [Azure Data Manager for Energy: Achieve interoperability with Petrel](https://azure.microsoft.com/blog/azure-data-manager-for-energy-achieve-interoperability-with-petrel/)
 - [Protect against cyberattacks with the new Azure Firewall Basic](https://azure.microsoft.com/blog/protect-against-cyberattacks-with-the-new-azure-firewall-basic/)
 - [Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC](https://azure.microsoft.com/blog/microsoft-to-showcase-purposebuilt-ai-infrastructure-at-nvidia-gtc/)
-- [Announcing Microsoft Azure Data Manager for Agriculture: Accelerating innovation across the agriculture value chain](https://azure.microsoft.com/blog/announcing-microsoft-azure-data-manager-for-agriculture-accelerating-innovation-across-the-agriculture-value-chain/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
