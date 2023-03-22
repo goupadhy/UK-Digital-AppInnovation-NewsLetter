@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn IoT with Kid-Friendly Plug-and-Play IoT Devices for Class or Home, Powered by JacDac](https://www.youtube.com/watch?v=HDMKxoaDq2I)
+- [What&#39;s new in WinGet 1.4](https://www.youtube.com/watch?v=s_txdH3db80)
 - [Sort Your Tech Debt with Azure! - LunchBytes](https://www.youtube.com/watch?v=JWe1k3fnsrY)
 - [Learn Live - Protect your virtual machines by using Azure Backup](https://www.youtube.com/watch?v=eTckKCAUMfk)
 - [Learn Live - Apply Well-Architected Framework to your solution design](https://www.youtube.com/watch?v=Hj8aIFEz29U)
-- [The Latest Model Updates in Azure Form Recognizer](https://www.youtube.com/watch?v=SvZ0HKIgQOU)
-- [Next-Generation Computer Vision Capabilities with Project Florence](https://www.youtube.com/watch?v=1cHVk0Z8sL0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
