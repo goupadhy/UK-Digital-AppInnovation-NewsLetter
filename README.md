@@ -25,10 +25,10 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Azure ML Developer Experience](https://www.youtube.com/watch?v=q5PToncgid0)
 - [Learn Live - Protect your virtual machines by using Azure Backup](https://www.youtube.com/watch?v=eTckKCAUMfk)
 - [​​Microsoft Tech Days: Learn Go on Azure​](https://www.youtube.com/watch?v=2HK_0z5Er5Q)
 - [SQL Server 2022: Data Virtualization and Object Storage [Ep. 5] | Data Exposed](https://www.youtube.com/watch?v=V5PpQlqom-Q)
-- [Learn Live - Azure ML Developer Experience](https://www.youtube.com/watch?v=q5PToncgid0)
 - [Jupyter Notebook and Power BI Working together](https://www.youtube.com/watch?v=vc8P1-4dk8Q)
 <!-- YOUTUBECNA:END -->
 
