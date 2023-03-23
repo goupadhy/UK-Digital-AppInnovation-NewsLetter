@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [​​Microsoft Tech Days: Learn Go on Azure​](https://www.youtube.com/watch?v=2HK_0z5Er5Q)
 - [Jupyter Notebook and Power BI Working together](https://www.youtube.com/watch?v=vc8P1-4dk8Q)
 - [Learn IoT with Kid-Friendly Plug-and-Play IoT Devices for Class or Home, Powered by JacDac](https://www.youtube.com/watch?v=HDMKxoaDq2I)
 - [What&#39;s new in WinGet 1.4](https://www.youtube.com/watch?v=s_txdH3db80)
 - [Sort Your Tech Debt with Azure! - LunchBytes](https://www.youtube.com/watch?v=JWe1k3fnsrY)
-- [Learn Live - Protect your virtual machines by using Azure Backup](https://www.youtube.com/watch?v=eTckKCAUMfk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
