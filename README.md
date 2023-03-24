@@ -48,7 +48,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Power Platform Connections Ep 6 - Shane Young](https://www.youtube.com/watch?v=v6mifi35_SQ)
 - [Cards for Power Apps - Power CAT Live](https://www.youtube.com/watch?v=DwZAm-SA5Ew)
 - [Power Apps Copilot is here!](https://www.youtube.com/watch?v=5y9kk2IHM24)
-- [Boost &amp; Copilot Your Chatbots - Power CAT Live](https://www.youtube.com/watch?v=wqOmMzd5HLk)
+- [Copilot For Power Virtual Agents - Power CAT Live](https://www.youtube.com/watch?v=wqOmMzd5HLk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
