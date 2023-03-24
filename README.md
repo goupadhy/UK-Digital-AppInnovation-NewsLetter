@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The Basics of Prompt Engineering with Azure OpenAI](https://www.youtube.com/watch?v=e7w6QV1NX1c)
 - [Learn Live - Azure ML Developer Experience](https://www.youtube.com/watch?v=q5PToncgid0)
 - [Learn Live - Protect your virtual machines by using Azure Backup](https://www.youtube.com/watch?v=eTckKCAUMfk)
 - [​​Microsoft Tech Days: Learn Go on Azure​](https://www.youtube.com/watch?v=2HK_0z5Er5Q)
 - [SQL Server 2022: Data Virtualization and Object Storage [Ep. 5] | Data Exposed](https://www.youtube.com/watch?v=V5PpQlqom-Q)
-- [Jupyter Notebook and Power BI Working together](https://www.youtube.com/watch?v=vc8P1-4dk8Q)
 <!-- YOUTUBEAPPMOD:END -->
 
 
