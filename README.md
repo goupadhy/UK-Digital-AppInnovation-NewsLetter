@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cosmos DB Conf 2023](https://www.youtube.com/watch?v=HLaw2yRFToQ)
 - [The Basics of Prompt Engineering with Azure OpenAI](https://www.youtube.com/watch?v=e7w6QV1NX1c)
 - [The Latest Model Updates in Azure Form Recognizer](https://www.youtube.com/watch?v=2rJTMN2NxuY)
 - [What was the confidential coffee maker?](https://www.youtube.com/watch?v=oEK31FkHQ0k)
 - [Learn Live - Azure ML Developer Experience](https://www.youtube.com/watch?v=q5PToncgid0)
-- [Learn Live - Protect your virtual machines by using Azure Backup](https://www.youtube.com/watch?v=eTckKCAUMfk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
