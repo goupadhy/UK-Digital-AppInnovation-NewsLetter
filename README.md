@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Latest Model Updates in Azure Form Recognizer](https://www.youtube.com/watch?v=2rJTMN2NxuY)
 - [What was the confidential coffee maker?](https://www.youtube.com/watch?v=oEK31FkHQ0k)
 - [The Basics of Prompt Engineering with Azure OpenAI](https://www.youtube.com/watch?v=e7w6QV1NX1c)
 - [Learn Live - Azure ML Developer Experience](https://www.youtube.com/watch?v=q5PToncgid0)
 - [Learn Live - Protect your virtual machines by using Azure Backup](https://www.youtube.com/watch?v=eTckKCAUMfk)
-- [​​Microsoft Tech Days: Learn Go on Azure​](https://www.youtube.com/watch?v=2HK_0z5Er5Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
