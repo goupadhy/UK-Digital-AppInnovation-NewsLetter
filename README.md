@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Data and Apps—How is data changing &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=0DujOg1MOgk)
 - [Learn Live - How To Get Started FAST Azure Virtual Desktop for Beginners](https://www.youtube.com/watch?v=7fxopmNl5C0)
 - [Azure Cosmos DB Conf 2023](https://www.youtube.com/watch?v=HLaw2yRFToQ)
 - [The Basics of Prompt Engineering with Azure OpenAI](https://www.youtube.com/watch?v=e7w6QV1NX1c)
 - [The Latest Model Updates in Azure Form Recognizer](https://www.youtube.com/watch?v=2rJTMN2NxuY)
-- [What was the confidential coffee maker?](https://www.youtube.com/watch?v=oEK31FkHQ0k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
