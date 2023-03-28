@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - How To Get Started FAST Azure Virtual Desktop for Beginners](https://www.youtube.com/watch?v=7fxopmNl5C0)
+- [Azure Cosmos DB Conf 2023](https://www.youtube.com/watch?v=HLaw2yRFToQ)
 - [How To Stream Azure Cosmos DB Change Feed into ADLS](https://www.youtube.com/watch?v=suLv-LWIcKc)
 - [An Introduction to the new Data Migration Tool for Azure Cosmos DB](https://www.youtube.com/watch?v=tofsZc_V_R8)
 - [Don&#39;t overcomplicate it: adventures in building SaaS with Azure Cosmos DB and little else](https://www.youtube.com/watch?v=ztxzJ1OHQL8)
-- [Custom Autoscaler for using Azure Cosmos DB in a cost effective manner](https://www.youtube.com/watch?v=jzMhhdrKOCI)
-- [Putting out fires w/ Log Analytics: How to troubleshoot key issues w/ your Azure Cosmos DB Resources](https://www.youtube.com/watch?v=y_Um8_VpsPo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
