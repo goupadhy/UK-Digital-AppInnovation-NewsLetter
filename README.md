@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Make Friends Literally with a FriendBot Powered by GPT-3 from OpenAI and Azure Cognitive Services](https://www.youtube.com/watch?v=mS_R7TVH3G0)
+- [Power Platform CLI Exposed: Pipelines](https://www.youtube.com/watch?v=E3YjxfM0tmg)
 - [Learn Live - Introduction to Linux and to open-source database migration on Azure](https://www.youtube.com/watch?v=8ra0_3pZD_s)
 - [Learn Live - How To Get Started FAST Azure Virtual Desktop for Beginners](https://www.youtube.com/watch?v=7fxopmNl5C0)
 - [Azure Cosmos DB Conf 2023](https://www.youtube.com/watch?v=HLaw2yRFToQ)
-- [How To Stream Azure Cosmos DB Change Feed into ADLS](https://www.youtube.com/watch?v=suLv-LWIcKc)
-- [An Introduction to the new Data Migration Tool for Azure Cosmos DB](https://www.youtube.com/watch?v=tofsZc_V_R8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
