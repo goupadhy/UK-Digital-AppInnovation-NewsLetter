@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Microsoft Cost Management updates—March 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-march-2023/)
 - [Enhanced Azure Arc integration with Datadog simplifies hybrid and multicloud observability](https://azure.microsoft.com/blog/enhanced-azure-arc-integration-with-datadog-simplifies-hybrid-and-multicloud-observability/)
 - [Modernize your apps and accelerate business growth with AI](https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/)
 - [Connect, secure, and simplify your network resources with Azure Virtual Network Manager](https://azure.microsoft.com/blog/connect-secure-and-simplify-your-network-resources-with-azure-virtual-network-manager/)
 - [Introducing GPT-4 in Azure OpenAI Service](https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/)
-- [Azure Data Manager for Energy: Achieve interoperability with Petrel](https://azure.microsoft.com/blog/azure-data-manager-for-energy-achieve-interoperability-with-petrel/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
