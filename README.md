@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL March 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=Xzl3DWfrgkA)
 - [Make Friends Literally with a FriendBot Powered by GPT-3 from OpenAI and Azure Cognitive Services](https://www.youtube.com/watch?v=mS_R7TVH3G0)
 - [Power Platform CLI Exposed: Pipelines](https://www.youtube.com/watch?v=E3YjxfM0tmg)
 - [Learn Live - Introduction to Linux and to open-source database migration on Azure](https://www.youtube.com/watch?v=8ra0_3pZD_s)
 - [Learn Live - How To Get Started FAST Azure Virtual Desktop for Beginners](https://www.youtube.com/watch?v=7fxopmNl5C0)
-- [Azure Cosmos DB Conf 2023](https://www.youtube.com/watch?v=HLaw2yRFToQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
