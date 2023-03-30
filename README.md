@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [What’s new in Azure Data & AI: Azure is built for generative AI apps](https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/)
 - [Microsoft Cost Management updates—March 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-march-2023/)
 - [Enhanced Azure Arc integration with Datadog simplifies hybrid and multicloud observability](https://azure.microsoft.com/blog/enhanced-azure-arc-integration-with-datadog-simplifies-hybrid-and-multicloud-observability/)
 - [Modernize your apps and accelerate business growth with AI](https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/)
 - [Connect, secure, and simplify your network resources with Azure Virtual Network Manager](https://azure.microsoft.com/blog/connect-secure-and-simplify-your-network-resources-with-azure-virtual-network-manager/)
-- [Introducing GPT-4 in Azure OpenAI Service](https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
