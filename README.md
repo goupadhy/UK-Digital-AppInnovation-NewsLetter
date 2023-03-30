@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server 2022: T-SQL Enhancements [Ep. 6] | Data Exposed](https://www.youtube.com/watch?v=5p8dezwwnzQ)
 - [Create and manage application landing zones at scale with subscription vending](https://www.youtube.com/watch?v=OoC_0afxACg)
 - [Fluent UI React v9: what&#39;s new and different](https://www.youtube.com/watch?v=bKCDM5S6DaA)
 - [Azure SQL March 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=Xzl3DWfrgkA)
 - [Make Friends Literally with a FriendBot Powered by GPT-3 from OpenAI and Azure Cognitive Services](https://www.youtube.com/watch?v=mS_R7TVH3G0)
-- [Power Platform CLI Exposed: Pipelines](https://www.youtube.com/watch?v=E3YjxfM0tmg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
