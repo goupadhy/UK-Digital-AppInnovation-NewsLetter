@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The Basics of Prompt Engineering with Azure OpenAI Service](https://www.youtube.com/watch?v=QzZSJDxdUg0)
+- [LunchBytes](https://www.youtube.com/watch?v=UlWxs1_QJVI)
 - [Learn Live - Azure ML Fundamentals](https://www.youtube.com/watch?v=B3MTKu989ks)
 - [Responsible AI Mitigations and Tracking](https://www.youtube.com/watch?v=93it7rOQLpQ)
 - [Learn Live - Introduction to Linux and to open-source database migration on Azure](https://www.youtube.com/watch?v=8ra0_3pZD_s)
-- [SQL Server 2022: T-SQL Enhancements [Ep. 6] | Data Exposed](https://www.youtube.com/watch?v=5p8dezwwnzQ)
-- [Create and manage application landing zones at scale with subscription vending](https://www.youtube.com/watch?v=OoC_0afxACg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
