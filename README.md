@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Calling all open source maintainers](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
 - [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)
 - [Improvements to CodeQL’s data flow library for C++](https://github.blog/2023-03-30-improvements-to-codeqls-data-flow-library-for-c/)
 - [Introducing self-service SBOMs](https://github.blog/2023-03-28-introducing-self-service-sboms/)
 - [GitHub Galaxy 2023: Empower developer teams with a new developer experience](https://github.blog/2023-03-28-github-galaxy-2023-empower-developer-teams-with-a-new-developer-experience/)
-- [Announcing the GitHub Actions extension for VS Code](https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
