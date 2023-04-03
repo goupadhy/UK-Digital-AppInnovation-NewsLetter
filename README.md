@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The Short Circuit with Darryl Willis and special guest Tom Deitrich](https://www.youtube.com/watch?v=JICFwzRbmGI)
 - [Taking Stock Live | A conversation with Shelley Bransten &amp; Daniel Newman](https://www.youtube.com/watch?v=GD0AtefZQts)
 - [Microsoft Marketplace Summit: The ISV Success Program: Your path to accelerate marketplace success](https://www.youtube.com/watch?v=AwBRvh-dk48)
 - [Microsoft Marketplace Summit: Commonly asked questions: payouts and private offers](https://www.youtube.com/watch?v=9dhD25L3HHY)
 - [Unified Client Profile for Wealth Management in Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=Z27qnDLyH2E)
-- [Microsoft Marketplace Summit: The marketplace roadmap: driving innovation for growth](https://www.youtube.com/watch?v=U_KioLonPTw)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
