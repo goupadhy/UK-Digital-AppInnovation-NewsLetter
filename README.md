@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Responsible AI Mitigations and Tracking](https://www.youtube.com/watch?v=93it7rOQLpQ)
 - [Fluent UI Insights: Theming in v9](https://www.youtube.com/watch?v=f5Lh5CJRwpE)
 - [The Basics of Prompt Engineering with Azure OpenAI Service](https://www.youtube.com/watch?v=QzZSJDxdUg0)
 - [LunchBytes](https://www.youtube.com/watch?v=UlWxs1_QJVI)
 - [Learn Live - Azure ML Fundamentals](https://www.youtube.com/watch?v=B3MTKu989ks)
-- [Responsible AI Mitigations and Tracking](https://www.youtube.com/watch?v=93it7rOQLpQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
