@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Who should be using Azure Functions?](https://www.youtube.com/watch?v=PQ7EXRHRrTQ)
 - [The Cloud Clinic: Verifying the implementation of your cloud strategy](https://www.youtube.com/watch?v=vRa6ueIYqp0)
 - [Responsible AI Mitigations and Tracking](https://www.youtube.com/watch?v=93it7rOQLpQ)
 - [Fluent UI Insights: Theming in v9](https://www.youtube.com/watch?v=f5Lh5CJRwpE)
 - [The Basics of Prompt Engineering with Azure OpenAI Service](https://www.youtube.com/watch?v=QzZSJDxdUg0)
-- [LunchBytes](https://www.youtube.com/watch?v=UlWxs1_QJVI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
