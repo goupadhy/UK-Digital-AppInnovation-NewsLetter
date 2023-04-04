@@ -18,7 +18,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Announcing Azure Firewall enhancements for troubleshooting network performance and traffic visibility](https://azure.microsoft.com/blog/announcing-azure-firewall-enhancements-for-troubleshooting-network-performance-and-traffic-visibility/)
 - [What’s new in Azure Data & AI: Azure is built for generative AI apps](https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-azure-is-built-for-generative-ai-apps/)
 - [Microsoft Cost Management updates—March 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-march-2023/)
-- [Enhanced Azure Arc integration with Datadog simplifies hybrid and multicloud observability](https://azure.microsoft.com/blog/enhanced-azure-arc-integration-with-datadog-simplifies-hybrid-and-multicloud-observability/)
+- [Defend against DDoS attacks with Azure DDoS IP Protection](https://azure.microsoft.com/blog/defend-against-ddos-attacks-with-azure-ddos-ip-protection/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
