@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Configure virtual machine availability](https://www.youtube.com/watch?v=fvucFFMtAxU)
 - [Patterns for Azure Functions - LunchBytes](https://www.youtube.com/watch?v=UlWxs1_QJVI)
 - [Learn Live - Azure ML Fundamentals](https://www.youtube.com/watch?v=B3MTKu989ks)
 - [Who should be using Azure Functions?](https://www.youtube.com/watch?v=PQ7EXRHRrTQ)
 - [The Cloud Clinic: Verifying the implementation of your cloud strategy](https://www.youtube.com/watch?v=vRa6ueIYqp0)
-- [Responsible AI Mitigations and Tracking](https://www.youtube.com/watch?v=93it7rOQLpQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
