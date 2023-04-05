@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Partnering with Higher Education in Innovation Ecosystems](https://www.youtube.com/watch?v=5URZxAaesRU)
 - [Managing Connections in Azure Data Studio](https://www.youtube.com/watch?v=SJ8o7MEQ_Xk)
 - [Learn Live - Configure virtual machine availability](https://www.youtube.com/watch?v=fvucFFMtAxU)
 - [Patterns for Azure Functions - LunchBytes](https://www.youtube.com/watch?v=UlWxs1_QJVI)
 - [Learn Live - Azure ML Fundamentals](https://www.youtube.com/watch?v=B3MTKu989ks)
-- [Who should be using Azure Functions?](https://www.youtube.com/watch?v=PQ7EXRHRrTQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
