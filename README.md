@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Ask the Expert: Deploying a Python 3.11 Application to Azure App Service](https://www.youtube.com/watch?v=lwNzb5pRn08)
+- [Being Responsible with Generative AI](https://www.youtube.com/watch?v=yP3_MQw01yU)
 - [Registering SQL Server on Azure Virtual Machines with New IaaS Agent Extension Benefits &lpar;Ep. 12&rpar;](https://www.youtube.com/watch?v=PV6bvijXBqw)
 - [Learn Live - App Service Networking - Part 1](https://www.youtube.com/watch?v=Qb3XyS3me00)
 - [Improve the security of your Azure environment using the Cloud Adoption Framework Security Review](https://www.youtube.com/watch?v=v2PGFRlLUo8)
-- [Responsible AI Principles for Power Platform Developers](https://www.youtube.com/watch?v=TmaANHMaaMI)
-- [Pipelines for Power Platform: Security Deep Dive](https://www.youtube.com/watch?v=r6wLkNhRKkU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
