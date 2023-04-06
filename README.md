@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Responsible AI Principles for Power Platform Developers](https://www.youtube.com/watch?v=TmaANHMaaMI)
 - [Pipelines for Power Platform: Security Deep Dive](https://www.youtube.com/watch?v=r6wLkNhRKkU)
 - [Build an Object Detector Running on a Microcontroller Using Edge Impulse FOMO and Azure IoT](https://www.youtube.com/watch?v=bpVejDLZxYY)
 - [Partnering with Higher Education in Innovation Ecosystems](https://www.youtube.com/watch?v=5URZxAaesRU)
 - [Managing Connections in Azure Data Studio](https://www.youtube.com/watch?v=SJ8o7MEQ_Xk)
-- [Learn Live - Configure virtual machine availability](https://www.youtube.com/watch?v=fvucFFMtAxU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
