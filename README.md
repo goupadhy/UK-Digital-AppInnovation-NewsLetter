@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - App Service Networking - Part 1](https://www.youtube.com/watch?v=Qb3XyS3me00)
 - [Improve the security of your Azure environment using the Cloud Adoption Framework Security Review](https://www.youtube.com/watch?v=v2PGFRlLUo8)
 - [Responsible AI Principles for Power Platform Developers](https://www.youtube.com/watch?v=TmaANHMaaMI)
 - [Pipelines for Power Platform: Security Deep Dive](https://www.youtube.com/watch?v=r6wLkNhRKkU)
 - [Build an Object Detector Running on a Microcontroller Using Edge Impulse FOMO and Azure IoT](https://www.youtube.com/watch?v=bpVejDLZxYY)
-- [Partnering with Higher Education in Innovation Ecosystems](https://www.youtube.com/watch?v=5URZxAaesRU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
