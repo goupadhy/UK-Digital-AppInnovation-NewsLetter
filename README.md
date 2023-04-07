@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
+- [Game Bytes · April 2023](https://github.blog/2023-04-07-game-bytes-april-2023/)
 - [Building GitHub with Ruby and Rails](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
 - [Pwning Pixel 6 with a leftover patch](https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/)
 - [Bring your enterprise together with enterprise accounts for all](https://github.blog/2023-04-05-bring-your-enterprise-together-with-enterprise-accounts-for-all/)
-- [GitHub Availability Report: March 2023](https://github.blog/2023-04-05-github-availability-report-march-2023/)
-- [Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
