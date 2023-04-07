@@ -25,8 +25,8 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Learn Live - Configure virtual machine availability](https://www.youtube.com/watch?v=fvucFFMtAxU)
 - [ATE: Deploying a Python 3.11 Application to Azure App Service &lpar;APAC Replay&rpar;](https://www.youtube.com/watch?v=K4noPBw_mF8)
+- [Learn Live - Configure virtual machine availability](https://www.youtube.com/watch?v=fvucFFMtAxU)
 - [Ask the Expert: Deploying a Python 3.11 Application to Azure App Service](https://www.youtube.com/watch?v=lwNzb5pRn08)
 - [Being Responsible with Generative AI](https://www.youtube.com/watch?v=yP3_MQw01yU)
 - [Registering SQL Server on Azure Virtual Machines with New IaaS Agent Extension Benefits &lpar;Ep. 12&rpar;](https://www.youtube.com/watch?v=PV6bvijXBqw)
