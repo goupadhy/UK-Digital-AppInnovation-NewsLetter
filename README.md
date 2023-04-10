@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Being Responsible with Generative AI](https://www.youtube.com/watch?v=yP3_MQw01yU)
 - [Responsible AI Mitigations and Tracker](https://www.youtube.com/watch?v=GuMhJ5i0skE)
 - [What languages can you use to interact with Azure services?](https://www.youtube.com/watch?v=tXdpDIxd3eg)
 - [ATE: Deploying a Python 3.11 Application to Azure App Service &lpar;APAC Replay&rpar;](https://www.youtube.com/watch?v=K4noPBw_mF8)
 - [Learn Live - Configure virtual machine availability](https://www.youtube.com/watch?v=fvucFFMtAxU)
-- [Ask the Expert: Deploying a Python 3.11 Application to Azure App Service](https://www.youtube.com/watch?v=lwNzb5pRn08)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
