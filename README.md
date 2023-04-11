@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Boost your data and AI skills with Microsoft Azure CLX](https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/)
 - [Azure Space technologies advance digital transformation across government agencies](https://azure.microsoft.com/blog/azure-space-technologies-advance-digital-transformation-across-government-agencies/)
 - [New Azure App Service plans fuel greater choice and savings](https://azure.microsoft.com/blog/new-azure-app-service-plans-fuel-greater-choice-and-savings/)
 - [Important observations from Microsoft at Mobile World Congress 2023](https://azure.microsoft.com/blog/important-observations-from-microsoft-at-mobile-world-congress-2023/)
 - [Discover an Azure learning community with Microsoft Learn rooms ](https://azure.microsoft.com/blog/discover-an-azure-learning-community-with-microsoft-learn-rooms/)
-- [Defend against DDoS attacks with Azure DDoS IP Protection](https://azure.microsoft.com/blog/defend-against-ddos-attacks-with-azure-ddos-ip-protection/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
