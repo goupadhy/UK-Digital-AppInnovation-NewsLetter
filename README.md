@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Azure Space technologies advance digital transformation across government agencies](https://azure.microsoft.com/blog/azure-space-technologies-advance-digital-transformation-across-government-agencies/)
 - [New Azure App Service plans fuel greater choice and savings](https://azure.microsoft.com/blog/new-azure-app-service-plans-fuel-greater-choice-and-savings/)
 - [Important observations from Microsoft at Mobile World Congress 2023](https://azure.microsoft.com/blog/important-observations-from-microsoft-at-mobile-world-congress-2023/)
 - [Discover an Azure learning community with Microsoft Learn rooms ](https://azure.microsoft.com/blog/discover-an-azure-learning-community-with-microsoft-learn-rooms/)
 - [Defend against DDoS attacks with Azure DDoS IP Protection](https://azure.microsoft.com/blog/defend-against-ddos-attacks-with-azure-ddos-ip-protection/)
-- [The Net Zero journey: Why digital twins are a powerful ally](https://azure.microsoft.com/blog/the-net-zero-journey-why-digital-twins-are-a-powerful-ally/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
