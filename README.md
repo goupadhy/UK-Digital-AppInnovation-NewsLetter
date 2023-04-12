@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Easier, Faster Training for Your Hugging Face Models](https://www.youtube.com/watch?v=b1Gk9q9empA)
 - [Learn Live - App Service Networking - Part 1](https://www.youtube.com/watch?v=Qb3XyS3me00)
 - [Learn Live - App Service Networking - Part 2](https://www.youtube.com/watch?v=ixHx2C_XdxE)
 - [Community Toolkits &amp; Controls](https://www.youtube.com/watch?v=8zHbe80qmIM)
 - [Armchair Architects: Data and Apps; How is data changing &lpar;part 2&rpar;](https://www.youtube.com/watch?v=CHOqAzSFoNk)
-- [Being Responsible with Generative AI](https://www.youtube.com/watch?v=yP3_MQw01yU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
