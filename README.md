@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Platform Connections Ep Nine - Vesa Juvonen](https://www.youtube.com/watch?v=Qg4ZetD9iwM)
 - [Power Platform Connections Ep Eight - Hugo Bernier](https://www.youtube.com/watch?v=HuKLj12NMk0)
 - [PowerPoint like animation in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=MOo3-lDS17w)
 - [App Opener: create custom security roles for model-driven apps](https://www.youtube.com/watch?v=qkGxlW9_Huo)
 - [Power Platform Connections Ep 7 - Dian Taylor](https://www.youtube.com/watch?v=5GEEhSSgMDo)
-- [Power Automate Copilot - Build a flow by describing it](https://www.youtube.com/watch?v=Qvv2X3DGIDM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
