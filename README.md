@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [The future of healthcare is data-driven](https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/)
 - [Announcing Project Health Insights Preview: Advancing AI for health data](https://azure.microsoft.com/blog/announcing-project-health-insights-preview-advancing-ai-for-health-data/)
 - [Boost your data and AI skills with Microsoft Azure CLX](https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/)
 - [Azure Space technologies advance digital transformation across government agencies](https://azure.microsoft.com/blog/azure-space-technologies-advance-digital-transformation-across-government-agencies/)
 - [New Azure App Service plans fuel greater choice and savings](https://azure.microsoft.com/blog/new-azure-app-service-plans-fuel-greater-choice-and-savings/)
-- [Important observations from Microsoft at Mobile World Congress 2023](https://azure.microsoft.com/blog/important-observations-from-microsoft-at-mobile-world-congress-2023/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
