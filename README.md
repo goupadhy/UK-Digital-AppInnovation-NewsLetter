@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Manage your APIs with Azure API Management’s self-hosted gateway v2](https://azure.microsoft.com/blog/manage-your-apis-with-azure-api-management-s-selfhosted-gateway-v2/)
 - [5 reasons to join us at Securely Migrate and Optimize with Azure](https://azure.microsoft.com/blog/5-reasons-to-join-us-at-securely-migrate-and-optimize-with-azure/)
 - [The future of healthcare is data-driven](https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/)
 - [Announcing Project Health Insights Preview: Advancing AI for health data](https://azure.microsoft.com/blog/announcing-project-health-insights-preview-advancing-ai-for-health-data/)
 - [Boost your data and AI skills with Microsoft Azure CLX](https://azure.microsoft.com/blog/boost-your-data-and-ai-skills-with-microsoft-azure-clx/)
-- [Azure Space technologies advance digital transformation across government agencies](https://azure.microsoft.com/blog/azure-space-technologies-advance-digital-transformation-across-government-agencies/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
