@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Ask the Expert: Deploying a Python Project with Azure Container Apps &lpar;Replay&rpar;](https://www.youtube.com/watch?v=3qbIhAneVyc)
 - [Power BI Quick Reports feature in Model-Driven Power Apps](https://www.youtube.com/watch?v=pAOw46TEUDI)
 - [Learn Live - Enable and manage Microsoft Defender for Cloud](https://www.youtube.com/watch?v=iG1F_KSnae4)
 - [Easier, Faster Training for Your Hugging Face Models](https://www.youtube.com/watch?v=b1Gk9q9empA)
 - [Learn Live - App Service Networking - Part 1](https://www.youtube.com/watch?v=Qb3XyS3me00)
-- [Learn Live - App Service Networking - Part 2](https://www.youtube.com/watch?v=ixHx2C_XdxE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
