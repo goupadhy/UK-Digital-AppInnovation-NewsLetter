@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Easily build applications for health with Power Platform](https://www.youtube.com/watch?v=y82glsOyWgs)
+- [Enhance patient care with personalized patient journeys on Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=OWMBCSi-iA8)
+- [Empower health teams with remote patient care device data on Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=4VyNmawbqcM)
 - [STMicroelectronics transform research and development, manufacturing, and supply chain with Azure](https://www.youtube.com/watch?v=DhlIu_yN89g)
 - [LTIMindtree helped TomTom through their Azure migration](https://www.youtube.com/watch?v=wWTNywy61-k)
-- [The Short Circuit with Darryl Willis and special guest Tom Deitrich](https://www.youtube.com/watch?v=JICFwzRbmGI)
-- [Taking Stock Live | A conversation with Shelley Bransten &amp; Daniel Newman](https://www.youtube.com/watch?v=GD0AtefZQts)
-- [Microsoft Marketplace Summit: The ISV Success Program: Your path to accelerate marketplace success](https://www.youtube.com/watch?v=AwBRvh-dk48)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
