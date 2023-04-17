@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Deploy applications consistently at scale on AKS or Arc-enabled Kubernetes using GitOps](https://www.youtube.com/watch?v=Vsjwq798AZg)
 - [Ask the Expert: Deploying a Python Project with Azure Container Apps &lpar;Replay&rpar;](https://www.youtube.com/watch?v=3qbIhAneVyc)
 - [Learn Live - App Service Networking - Part 2](https://www.youtube.com/watch?v=ixHx2C_XdxE)
 - [Ask the Expert: Deploying a Python Project with Azure Container Apps](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)
 - [Power BI Quick Reports feature in Model-Driven Power Apps](https://www.youtube.com/watch?v=pAOw46TEUDI)
-- [Learn Live - Enable and manage Microsoft Defender for Cloud](https://www.youtube.com/watch?v=iG1F_KSnae4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
