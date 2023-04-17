@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Accelerating HPC Deployments on Azure - LunchBytes](https://www.youtube.com/watch?v=6P_nKDfgj14)
 - [Learn Live - Optimize performance and costs by using Azure Disk Storage](https://www.youtube.com/watch?v=UGyfQwKl2Dc)
 - [Learn Live - Deploy applications consistently at scale on AKS or Arc-enabled Kubernetes using GitOps](https://www.youtube.com/watch?v=Vsjwq798AZg)
 - [Ask the Expert: Deploying a Python Project with Azure Container Apps &lpar;Replay&rpar;](https://www.youtube.com/watch?v=3qbIhAneVyc)
 - [Learn Live - App Service Networking - Part 2](https://www.youtube.com/watch?v=ixHx2C_XdxE)
-- [Ask the Expert: Deploying a Python Project with Azure Container Apps](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
