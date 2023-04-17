@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Announcing the general availability of Azure CNI Overlay in Azure Kubernetes Service](https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-cni-overlay-in-azure-kubernetes-service/)
 - [How 5G and wireless edge infrastructure power digital operations with Microsoft](https://azure.microsoft.com/blog/how-5g-and-wireless-edge-infrastructure-power-digital-operations-with-microsoft/)
 - [Manage your APIs with Azure API Management’s self-hosted gateway v2](https://azure.microsoft.com/blog/manage-your-apis-with-azure-api-management-s-selfhosted-gateway-v2/)
 - [5 reasons to join us at Securely Migrate and Optimize with Azure](https://azure.microsoft.com/blog/5-reasons-to-join-us-at-securely-migrate-and-optimize-with-azure/)
 - [The future of healthcare is data-driven](https://azure.microsoft.com/blog/the-future-of-healthcare-is-datadriven/)
-- [Announcing Project Health Insights Preview: Advancing AI for health data](https://azure.microsoft.com/blog/announcing-project-health-insights-preview-advancing-ai-for-health-data/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
