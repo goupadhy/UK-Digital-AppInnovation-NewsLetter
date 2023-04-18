@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Citus Con: An Event for Postgres 2023 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=LiFkgckp8fY)
 - [Being Responsible with Generative AI](https://www.youtube.com/watch?v=Mr5pWbKbc8Y)
 - [Introduction to Dapr](https://www.youtube.com/watch?v=nK8Ss2UMAxc)
 - [Multi-tenant Saas apps made simple on Azure Cosmos DB for PostgreSQL | Citus Con 2023](https://www.youtube.com/watch?v=ZRmoFjhT08U)
 - [Citus on Kubernetes | Citus Con: An Event for Postgres 2023](https://www.youtube.com/watch?v=AqukFwMC1tI)
-- [Azure AD authentication with PostgreSQL Flexible Servers | Citus Con: An Event for Postgres 2023](https://www.youtube.com/watch?v=uBd13oLQ1cg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
