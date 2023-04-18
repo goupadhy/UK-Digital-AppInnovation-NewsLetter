@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [The Cloud Clinic: Making sure you’re getting full value from your cloud spend](https://www.youtube.com/watch?v=LB4XAKIh2eQ)
-- [Easier, Faster Training for Your Hugging Face Models](https://www.youtube.com/watch?v=b1Gk9q9empA)
-- [Accelerating HPC Deployments on Azure - LunchBytes](https://www.youtube.com/watch?v=6P_nKDfgj14)
-- [Learn Live - Optimize performance and costs by using Azure Disk Storage](https://www.youtube.com/watch?v=UGyfQwKl2Dc)
-- [Learn Live - Deploy applications consistently at scale on AKS or Arc-enabled Kubernetes using GitOps](https://www.youtube.com/watch?v=Vsjwq798AZg)
+- [Multi-tenant Saas apps made simple on Azure Cosmos DB for PostgreSQL | Citus Con 2023](https://www.youtube.com/watch?v=ZRmoFjhT08U)
+- [Citus on Kubernetes | Citus Con: An Event for Postgres 2023](https://www.youtube.com/watch?v=AqukFwMC1tI)
+- [Azure AD authentication with PostgreSQL Flexible Servers | Citus Con: An Event for Postgres 2023](https://www.youtube.com/watch?v=uBd13oLQ1cg)
+- [Postgres and the Artificial Intelligence Landscape | Citus Con: An Event for Postgres 2023](https://www.youtube.com/watch?v=ICMsXtha6Qs)
+- [Understanding &amp; Managing Postgres Table Bloat | Citus Con: An Event for Postgres 2023](https://www.youtube.com/watch?v=gAgbzvGT6ck)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
