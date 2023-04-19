@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [Unleash the power of APIs: Strategies for innovation](https://azure.microsoft.com/blog/unleash-the-power-of-apis-strategies-for-innovation/)
 - [4 cloud cost optimization strategies with Microsoft Azure](https://azure.microsoft.com/blog/4-cloud-cost-optimization-strategies-with-microsoft-azure/)
 - [Inside Azure for IT: 3 cloud strategies to navigate market uncertainty](https://azure.microsoft.com/blog/inside-azure-for-it-3-cloud-strategies-to-navigate-market-uncertainty/)
 - [Isovalent Cilium Enterprise in Azure Marketplace](https://azure.microsoft.com/blog/isovalent-cilium-enterprise-in-azure-marketplace/)
 - [Announcing the general availability of Azure CNI Overlay in Azure Kubernetes Service](https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-cni-overlay-in-azure-kubernetes-service/)
-- [How 5G and wireless edge infrastructure power digital operations with Microsoft](https://azure.microsoft.com/blog/how-5g-and-wireless-edge-infrastructure-power-digital-operations-with-microsoft/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
