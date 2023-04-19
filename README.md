@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live | R with Azure Machine Learning and Making Enterprise GPT Real](https://www.youtube.com/watch?v=BizXelt7hw4)
 - [Learn Live - Create, configure, and manage identities](https://www.youtube.com/watch?v=vYs2Fz9LmzU)
 - [Citus Con: An Event for Postgres 2023 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=aw3XyToRXMc)
 - [Learn Live - Deploy applications consistently at scale on AKS or Arc-enabled Kubernetes using GitOps](https://www.youtube.com/watch?v=Vsjwq798AZg)
 - [Citus Con: An Event for Postgres 2023 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=LiFkgckp8fY)
-- [Being Responsible with Generative AI](https://www.youtube.com/watch?v=Mr5pWbKbc8Y)
 <!-- YOUTUBEAPPMOD:END -->
 
 
