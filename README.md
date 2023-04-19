@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Create, configure, and manage identities](https://www.youtube.com/watch?v=vYs2Fz9LmzU)
 - [Citus Con: An Event for Postgres 2023 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=aw3XyToRXMc)
 - [Learn Live - Deploy applications consistently at scale on AKS or Arc-enabled Kubernetes using GitOps](https://www.youtube.com/watch?v=Vsjwq798AZg)
 - [Citus Con: An Event for Postgres 2023 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=LiFkgckp8fY)
 - [Being Responsible with Generative AI](https://www.youtube.com/watch?v=Mr5pWbKbc8Y)
-- [Introduction to Dapr](https://www.youtube.com/watch?v=nK8Ss2UMAxc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
