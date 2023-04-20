@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Updating your Azure landing zones](https://www.youtube.com/watch?v=VvZDftlF20w)
+- [Learn Live - Create, configure, and manage identities](https://www.youtube.com/watch?v=vYs2Fz9LmzU)
 - [Accelerating HPC Deployments on Azure - LunchBytes](https://www.youtube.com/watch?v=6P_nKDfgj14)
 - [AI Show Live | R with Azure Machine Learning and Making Enterprise GPT Real](https://www.youtube.com/watch?v=BizXelt7hw4)
 - [Citus Con: An Event for Postgres 2023 &lpar;EMEA&rpar;](https://www.youtube.com/watch?v=aw3XyToRXMc)
-- [Learn Live - Deploy applications consistently at scale on AKS or Arc-enabled Kubernetes using GitOps](https://www.youtube.com/watch?v=Vsjwq798AZg)
-- [Citus Con: An Event for Postgres 2023 &lpar;AMERICAS&rpar;](https://www.youtube.com/watch?v=LiFkgckp8fY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
