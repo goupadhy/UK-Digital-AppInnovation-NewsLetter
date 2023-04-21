@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Optimize performance and costs by using Azure Disk Storage](https://www.youtube.com/watch?v=UGyfQwKl2Dc)
 - [Don’t let change pass you by! Get started with Change Tracking in your SQL Database | Data Exposed](https://www.youtube.com/watch?v=XLMMDtOxDAA)
 - [Updating your Azure landing zones](https://www.youtube.com/watch?v=VvZDftlF20w)
 - [Learn Live - Create, configure, and manage identities](https://www.youtube.com/watch?v=vYs2Fz9LmzU)
 - [Accelerating HPC Deployments on Azure - LunchBytes](https://www.youtube.com/watch?v=6P_nKDfgj14)
-- [AI Show Live | R with Azure Machine Learning and Making Enterprise GPT Real](https://www.youtube.com/watch?v=BizXelt7hw4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
