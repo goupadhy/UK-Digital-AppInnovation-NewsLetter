@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Investor and Mentor| Demiplane x TitletownTech](https://www.youtube.com/watch?v=fH0ubbD4lNY)
 - [Learn Live - Optimize performance and costs by using Azure Disk Storage](https://www.youtube.com/watch?v=UGyfQwKl2Dc)
 - [Don’t let change pass you by! Get started with Change Tracking in your SQL Database | Data Exposed](https://www.youtube.com/watch?v=XLMMDtOxDAA)
 - [Updating your Azure landing zones](https://www.youtube.com/watch?v=VvZDftlF20w)
 - [Learn Live - Create, configure, and manage identities](https://www.youtube.com/watch?v=vYs2Fz9LmzU)
-- [Accelerating HPC Deployments on Azure - LunchBytes](https://www.youtube.com/watch?v=6P_nKDfgj14)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
