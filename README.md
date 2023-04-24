@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Easier, Faster Training for your Hugging Face models](https://www.youtube.com/watch?v=UJnfePM0Ur8)
+- [Let&#39;s Learn .NET - Azure | #SamosaChai.NET](https://www.youtube.com/watch?v=EL4kweENvZc)
 - [Investor and Mentor| Demiplane x TitletownTech](https://www.youtube.com/watch?v=fH0ubbD4lNY)
 - [Learn Live - Optimize performance and costs by using Azure Disk Storage](https://www.youtube.com/watch?v=UGyfQwKl2Dc)
 - [Don’t let change pass you by! Get started with Change Tracking in your SQL Database | Data Exposed](https://www.youtube.com/watch?v=XLMMDtOxDAA)
-- [Updating your Azure landing zones](https://www.youtube.com/watch?v=VvZDftlF20w)
-- [Learn Live - Create, configure, and manage identities](https://www.youtube.com/watch?v=vYs2Fz9LmzU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
