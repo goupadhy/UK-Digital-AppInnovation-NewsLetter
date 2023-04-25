@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Concentration Risk](https://www.youtube.com/watch?v=9Wj4AcZX6iw)
 - [Learn Live - Introduction to Azure Virtual Machine Scale Sets](https://www.youtube.com/watch?v=6CoxZN2F0iY)
 - [AI Show Live | R with Azure Machine Learning and Making Enterprise GPT Real](https://www.youtube.com/watch?v=BizXelt7hw4)
 - [New Model View in Power BI](https://www.youtube.com/watch?v=7qsIfp8EwlI)
 - [Easier, Faster Training for your Hugging Face models](https://www.youtube.com/watch?v=UJnfePM0Ur8)
-- [Let&#39;s Learn .NET - Azure | #SamosaChai.NET](https://www.youtube.com/watch?v=EL4kweENvZc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
