@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Show Live | R with Azure Machine Learning and Making Enterprise GPT Real](https://www.youtube.com/watch?v=BizXelt7hw4)
 - [New Model View in Power BI](https://www.youtube.com/watch?v=7qsIfp8EwlI)
 - [Easier, Faster Training for your Hugging Face models](https://www.youtube.com/watch?v=UJnfePM0Ur8)
 - [Let&#39;s Learn .NET - Azure | #SamosaChai.NET](https://www.youtube.com/watch?v=EL4kweENvZc)
 - [Investor and Mentor| Demiplane x TitletownTech](https://www.youtube.com/watch?v=fH0ubbD4lNY)
-- [Learn Live - Optimize performance and costs by using Azure Disk Storage](https://www.youtube.com/watch?v=UGyfQwKl2Dc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
