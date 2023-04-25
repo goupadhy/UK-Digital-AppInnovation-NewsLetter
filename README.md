@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Choose the best global distribution solution for your applications with Azure ](https://azure.microsoft.com/blog/choose-the-best-global-distribution-solution-for-your-applications-with-azure/)
 - [Unleash the power of APIs: Strategies for innovation](https://azure.microsoft.com/blog/unleash-the-power-of-apis-strategies-for-innovation/)
 - [4 cloud cost optimization strategies with Microsoft Azure](https://azure.microsoft.com/blog/4-cloud-cost-optimization-strategies-with-microsoft-azure/)
 - [Inside Azure for IT: 3 cloud strategies to navigate market uncertainty](https://azure.microsoft.com/blog/inside-azure-for-it-3-cloud-strategies-to-navigate-market-uncertainty/)
 - [Isovalent Cilium Enterprise in Azure Marketplace](https://azure.microsoft.com/blog/isovalent-cilium-enterprise-in-azure-marketplace/)
-- [Announcing the general availability of Azure CNI Overlay in Azure Kubernetes Service](https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-cni-overlay-in-azure-kubernetes-service/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
