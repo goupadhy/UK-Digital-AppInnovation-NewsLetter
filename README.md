@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Managed Environments New Features – Microsoft Official](https://www.youtube.com/watch?v=tqVtDspgXII)
 - [Power Platform Connections Ep 10 - Vivian Voss](https://www.youtube.com/watch?v=3qc18mvb22c)
 - [Satellite Install | Automation Kit for Power Platform](https://www.youtube.com/watch?v=IS1yhTDbBeE)
 - [Main Install | Automation Kit for Power Platform](https://www.youtube.com/watch?v=8UzIuHfXD4s)
 - [Power Platform Connections Ep Nine - Vesa Juvonen](https://www.youtube.com/watch?v=Qg4ZetD9iwM)
-- [Power Platform Connections Ep Eight - Hugo Bernier](https://www.youtube.com/watch?v=HuKLj12NMk0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
