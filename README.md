@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Reduce costs and increase SQL license utilization using Azure Hybrid Benefit](https://www.youtube.com/watch?v=ReoLB9N76Lo)
 - [Learning AI with GitHub Copilot: That&#39;s it! Happy coding! [Part 6 of 6]](https://www.youtube.com/watch?v=SANmzHgkygY)
 - [Learning AI w GitHub Copilot: Analyzing Computer Vision PyTorch Notebook w GitHub Copilot Labs [5/6]](https://www.youtube.com/watch?v=p98nd4wpbUk)
 - [Learning AI with GitHub Copilot: Computer vision and PyTorch with GitHub Copilot [Part 4 of 6]](https://www.youtube.com/watch?v=gXJ8t-iSKic)
 - [Learning AI with GitHub Copilot: Building a classifier model with GitHub Copilot [Part 3 of 6]](https://www.youtube.com/watch?v=_YNLTsTplOE)
-- [Learning AI with GitHub Copilot: Exploring machine learning fundamentals w GitHub Copilot [Part 2/6]](https://www.youtube.com/watch?v=r2MGnx9QTTM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
