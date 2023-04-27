@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Use API Management Authorizations and Power Platform to integrate with third party services faster](https://www.youtube.com/watch?v=bHh9_WVzXzI)
 - [Use Microsoft Purview DevOps policies to control access and limit insider threats | Data Exposed](https://www.youtube.com/watch?v=ih9pzSqi4w4)
 - [Reduce costs and increase SQL license utilization using Azure Hybrid Benefit](https://www.youtube.com/watch?v=ReoLB9N76Lo)
 - [Learning AI with GitHub Copilot: That&#39;s it! Happy coding! [Part 6 of 6]](https://www.youtube.com/watch?v=SANmzHgkygY)
 - [Learning AI w GitHub Copilot: Analyzing Computer Vision PyTorch Notebook w GitHub Copilot Labs [5/6]](https://www.youtube.com/watch?v=p98nd4wpbUk)
-- [Learning AI with GitHub Copilot: Computer vision and PyTorch with GitHub Copilot [Part 4 of 6]](https://www.youtube.com/watch?v=gXJ8t-iSKic)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
