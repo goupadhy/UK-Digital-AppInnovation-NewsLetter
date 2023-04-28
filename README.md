@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [SAP - What is it? With Holger Bruchelt](https://www.youtube.com/watch?v=k_bi5411Bzk)
 - [Check out some of the returning speakers at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=n5QooGLiSZE)
 - [Power Platform Connections Ep 11 - Chris Huntingford](https://www.youtube.com/watch?v=0uo-lZckCJQ)
 - [Managed Environments New Features – Microsoft Official](https://www.youtube.com/watch?v=tqVtDspgXII)
 - [Power Platform Connections Ep 10 - Vivian Voss](https://www.youtube.com/watch?v=3qc18mvb22c)
-- [Satellite Install | Automation Kit for Power Platform](https://www.youtube.com/watch?v=IS1yhTDbBeE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
