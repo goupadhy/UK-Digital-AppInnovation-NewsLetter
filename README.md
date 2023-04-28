@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Prompt Engineering for ChatGPT](https://www.youtube.com/watch?v=2sEujkZ79E4)
 - [Learn Live - Introduction to Azure AD B2C](https://www.youtube.com/watch?v=q9nmnvVDjiY)
 - [Learn Live - Introduction to Azure Virtual Machine Scale Sets](https://www.youtube.com/watch?v=6CoxZN2F0iY)
 - [Use API Management Authorizations and Power Platform to integrate with third party services faster](https://www.youtube.com/watch?v=bHh9_WVzXzI)
 - [Use Microsoft Purview DevOps policies to control access and limit insider threats | Data Exposed](https://www.youtube.com/watch?v=ih9pzSqi4w4)
-- [Reduce costs and increase SQL license utilization using Azure Hybrid Benefit](https://www.youtube.com/watch?v=ReoLB9N76Lo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
