@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The history of Machine Learning [Part 2] | Machine Learning for Beginners](https://www.youtube.com/watch?v=N6wxM4wZ7V0)
+- [Introduction to Machine Learning for Beginners [Part 1] | Machine Learning for Beginners](https://www.youtube.com/watch?v=6mSx_KJxcHI)
+- [Techniques for Machine Learning [Part 3] | Machine Learning for Beginners](https://www.youtube.com/watch?v=4NGM0U2ZSHU)
+- [Setup your tools ready to build Machine Learning models [Part 4] | Machine Learning for Beginners](https://www.youtube.com/watch?v=-DfeD2k2Kj0)
 - [Using R with Azure Machine Learning](https://www.youtube.com/watch?v=ZjsTg2v5aSQ)
-- [Making Enterprise GPT Real with Azure Cognitive Search and Azure OpenAI Service](https://www.youtube.com/watch?v=A_gVmzAHEhU)
-- [Learn Prompt Engineering for ChatGPT](https://www.youtube.com/watch?v=2sEujkZ79E4)
-- [Learn Live - Introduction to Azure AD B2C](https://www.youtube.com/watch?v=q9nmnvVDjiY)
-- [Learn Live - Introduction to Azure Virtual Machine Scale Sets](https://www.youtube.com/watch?v=6CoxZN2F0iY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
