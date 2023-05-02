@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Contributing to Windows Package Manager](https://www.youtube.com/watch?v=zF3R3O2yzbs)
 - [Stockholm Global Azure Bootcamp 2023](https://www.youtube.com/watch?v=MQnRKolcqT8)
 - [The Cloud Clinic: Establishing and monitoring access to different environments &lpar;part 1&rpar;](https://www.youtube.com/watch?v=KmmHrNNZdEw)
 - [Learn Prompt Engineering for ChatGPT](https://www.youtube.com/watch?v=2sEujkZ79E4)
 - [The history of Machine Learning [Part 2] | Machine Learning for Beginners](https://www.youtube.com/watch?v=N6wxM4wZ7V0)
-- [Introduction to Machine Learning for Beginners [Part 1] | Machine Learning for Beginners](https://www.youtube.com/watch?v=6mSx_KJxcHI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
