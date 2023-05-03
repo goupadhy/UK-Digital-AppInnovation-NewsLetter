@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Advice for Building a Startup | Demiplane x TitletownTech](https://www.youtube.com/watch?v=e33YcQOVaFE)
 - [Learn Live - Introduction to Azure AD B2C](https://www.youtube.com/watch?v=q9nmnvVDjiY)
 - [Get ready for Microsoft Build on May 23-25, 2023](https://www.youtube.com/watch?v=u1xP_38LWkc)
 - [Contributing to Windows Package Manager](https://www.youtube.com/watch?v=zF3R3O2yzbs)
 - [The Cloud Clinic: Establishing and monitoring access to different environments &lpar;part 1&rpar;](https://www.youtube.com/watch?v=KmmHrNNZdEw)
-- [Learn Prompt Engineering for ChatGPT](https://www.youtube.com/watch?v=2sEujkZ79E4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
