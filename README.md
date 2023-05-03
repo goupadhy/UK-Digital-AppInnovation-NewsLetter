@@ -71,11 +71,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
 <!-- BLOGAPPMOD:START -->
+- [Preparing for future health emergencies with Azure HPC ](https://azure.microsoft.com/blog/preparing-for-future-health-emergencies-with-azure-hpc/)
 - [Azure Virtual WAN introduces its first SaaS offering](https://azure.microsoft.com/blog/azure-virtual-wan-introduces-its-first-saas-offering/)
 - [Secure your cloud environment with Cloud Next-Generation Firewall by Palo Alto Networks, an Azure Native ISV Service—now in preview](https://azure.microsoft.com/blog/secure-your-cloud-environment-with-cloud-nextgeneration-firewall-by-palo-alto-networks-an-azure-native-isv-service-now-in-pre/)
 - [ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure](https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/)
 - [Managing IP with Microsoft Azure and Cliosoft](https://azure.microsoft.com/blog/managing-ip-with-microsoft-azure-and-cliosoft/)
-- [What’s new in Azure Data & AI: Helping organizations manage the data deluge](https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-helping-organizations-manage-the-data-deluge/)
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
