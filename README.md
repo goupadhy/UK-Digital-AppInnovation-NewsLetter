@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Always Encrypted with VBS enclaves in Azure SQL DB in public preview | Data Exposed](https://www.youtube.com/watch?v=DlIJThY-3KA)
 - [Pure Virtual C++](https://www.youtube.com/watch?v=yLDZ_kW56Ls)
 - [Advice for Building a Startup | Demiplane x TitletownTech](https://www.youtube.com/watch?v=e33YcQOVaFE)
 - [Learn Live - Introduction to Azure AD B2C](https://www.youtube.com/watch?v=q9nmnvVDjiY)
 - [Get ready for Microsoft Build on May 23-25, 2023](https://www.youtube.com/watch?v=u1xP_38LWkc)
-- [Contributing to Windows Package Manager](https://www.youtube.com/watch?v=zF3R3O2yzbs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
