@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Scaling your AI/ML practices with MLOps and Azure Machine Learning](https://www.youtube.com/watch?v=u1S51F1-Lcs)
 - [May the 4th be with Azure SQL May 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=hXeZ9Q580fs)
 - [Join James Conard at this year’s #MSBuild, May 23-25, 2022 #shorts](https://www.youtube.com/watch?v=ktdyGNqfgJs)
 - [Join David Fowler at this year’s #MSBuild, May 23-25, 2022](https://www.youtube.com/watch?v=UTx982w47yo)
 - [Join Davida Armstrong at this year’s #MSBuild, May 23-25, 2022](https://www.youtube.com/watch?v=HBafVbB_u4k)
-- [Join Amanda Sliver at this year’s #MSBuild, May 23-25, 2022](https://www.youtube.com/watch?v=CUCuJ1lnGmQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
