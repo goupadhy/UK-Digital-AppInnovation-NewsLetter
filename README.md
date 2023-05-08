@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [How to Visualize Data with Matplotlib [Part 9] | Machine Learning for Beginners](https://www.youtube.com/watch?v=SbUkxH6IJo0)
-- [Introduction to Regression models for Machine Learning [Part 5] | Machine Learning for Beginners](https://www.youtube.com/watch?v=XA3OaoW86R8)
-- [Set up Jupyter Notebooks to start building regression models [Pt 6] | Machine Learning for Beginners](https://www.youtube.com/watch?v=7E-jC8FLA2E)
-- [How to Analyze and Clean a Dataset [Part 8] | Machine Learning for Beginners](https://www.youtube.com/watch?v=5qGjczWTrDQ)
-- [Your First Linear Regression Project in Python [Part 7] | Machine Learning for Beginners](https://www.youtube.com/watch?v=2xkXL5EUpS0)
+- [What I learned benchmarking Citus &amp; Postgres performance with HammerDB | Citus Con 2023](https://www.youtube.com/watch?v=AG1l6B86JEA)
+- [Postgres without SQL: Natural language queries using GPT-3 &amp; Rust | Citus Con 2023](https://www.youtube.com/watch?v=g8lzx0BABf0)
+- [Parallelism in PostgreSQL 15 | Citus Con 2023](https://www.youtube.com/watch?v=3v-cthowG10)
+- [Postgres Storytelling: Support in the Darkest Hour | Citus Con 2023](https://www.youtube.com/watch?v=K6jpN926CbE)
+- [Post-EMEA Livestream Wrap Up | Citus Con: An Event for Postgres 2023](https://www.youtube.com/watch?v=RuWZCaTVENs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
