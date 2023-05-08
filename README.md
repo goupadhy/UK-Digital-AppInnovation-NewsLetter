@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Scaling your AI/ML practices with MLOps and Azure Machine Learning](https://www.youtube.com/watch?v=u1S51F1-Lcs)
-- [May the 4th be with Azure SQL May 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=hXeZ9Q580fs)
-- [Join James Conard at this year’s #MSBuild, May 23-25, 2023](https://www.youtube.com/watch?v=ktdyGNqfgJs)
-- [Join David Fowler at this year’s #MSBuild, May 23-25, 2023](https://www.youtube.com/watch?v=UTx982w47yo)
-- [Join Davina Armstrong-Cruz at this year’s #MSBuild, May 23-25, 2023](https://www.youtube.com/watch?v=HBafVbB_u4k)
+- [How to Visualize Data with Matplotlib [Part 9] | Machine Learning for Beginners](https://www.youtube.com/watch?v=SbUkxH6IJo0)
+- [Introduction to Regression models for Machine Learning [Part 5] | Machine Learning for Beginners](https://www.youtube.com/watch?v=XA3OaoW86R8)
+- [Set up Jupyter Notebooks to start building regression models [Pt 6] | Machine Learning for Beginners](https://www.youtube.com/watch?v=7E-jC8FLA2E)
+- [How to Analyze and Clean a Dataset [Part 8] | Machine Learning for Beginners](https://www.youtube.com/watch?v=5qGjczWTrDQ)
+- [Your First Linear Regression Project in Python [Part 7] | Machine Learning for Beginners](https://www.youtube.com/watch?v=2xkXL5EUpS0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
