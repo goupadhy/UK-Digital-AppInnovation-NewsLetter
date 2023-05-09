@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn About Windows on Arm with the NPU-accelerated Windows Arm Developer Kit](https://www.youtube.com/watch?v=jV5M-3sCEqI)
 - [Armchair Architects: The Value of Curiosity in Architecture](https://www.youtube.com/watch?v=x_ZmiMXk-SU)
 - [Scaling your AI/ML practices with MLOps and Azure Machine Learning](https://www.youtube.com/watch?v=u1S51F1-Lcs)
 - [How to get involved with the Dapr community](https://www.youtube.com/watch?v=Lj75oc2iEV8)
 - [What I learned benchmarking Citus &amp; Postgres performance with HammerDB | Citus Con 2023](https://www.youtube.com/watch?v=AG1l6B86JEA)
-- [Postgres without SQL: Natural language queries using GPT-3 &amp; Rust | Citus Con 2023](https://www.youtube.com/watch?v=g8lzx0BABf0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
