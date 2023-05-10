@@ -14,11 +14,11 @@ We hope that these resources will help you innovate and address the real-world n
 
     
 <!-- BLOGCNA:START -->
+- [New and upcoming capabilities with Elastic Cloud (Elasticsearch)—An Azure Native ISV Service](https://azure.microsoft.com/blog/new-and-upcoming-capabilities-with-elastic-cloud-elasticsearch-an-azure-native-isv-service/)
 - [What’s new with Azure Files](https://azure.microsoft.com/blog/what-s-new-with-azure-files/)
 - [Insights from the 2023 Open Confidential Computing Conference](https://azure.microsoft.com/blog/insights-from-the-2023-open-confidential-computing-conference/)
 - [Microsoft Cost Management updates—April 2023](https://azure.microsoft.com/blog/microsoft-cost-management-updates-april-2023/)
 - [Preparing for future health emergencies with Azure HPC ](https://azure.microsoft.com/blog/preparing-for-future-health-emergencies-with-azure-hpc/)
-- [Azure Virtual WAN introduces its first SaaS offering](https://azure.microsoft.com/blog/azure-virtual-wan-introduces-its-first-saas-offering/)
 <!-- BLOGCNA:END -->
 
 ### 📺 Latest YouTube Videos
