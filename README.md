@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Blue/Green Deployments with Azure Kubernetes Service](https://www.youtube.com/watch?v=XFXj0AByp_8)
 - [Let&#39;s Learn .NET - Azure | #SamosaChai.NET](https://www.youtube.com/watch?v=EL4kweENvZc)
 - [Learn About Windows on Arm with the NPU-accelerated Windows Arm Developer Kit](https://www.youtube.com/watch?v=jV5M-3sCEqI)
 - [Armchair Architects: The Value of Curiosity in Architecture](https://www.youtube.com/watch?v=x_ZmiMXk-SU)
 - [Scaling your AI/ML practices with MLOps and Azure Machine Learning](https://www.youtube.com/watch?v=u1S51F1-Lcs)
-- [How to get involved with the Dapr community](https://www.youtube.com/watch?v=Lj75oc2iEV8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
