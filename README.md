@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do I delete a user in Azure AD B2C using custom policies?](https://www.youtube.com/watch?v=bXNEsLCNoGM)
+- [Azure PostgreSQL Migration Extension &lpar;Assessments&rpar; for Azure Data Studio &lpar;Preview&rpar; | Data Exposed](https://www.youtube.com/watch?v=0GjU3mWKvSI)
 - [Blue/Green Deployments with Azure Kubernetes Service](https://www.youtube.com/watch?v=XFXj0AByp_8)
 - [Let&#39;s Learn .NET - Azure | #SamosaChai.NET](https://www.youtube.com/watch?v=EL4kweENvZc)
 - [Learn About Windows on Arm with the NPU-accelerated Windows Arm Developer Kit](https://www.youtube.com/watch?v=jV5M-3sCEqI)
-- [Armchair Architects: The Value of Curiosity in Architecture](https://www.youtube.com/watch?v=x_ZmiMXk-SU)
-- [Scaling your AI/ML practices with MLOps and Azure Machine Learning](https://www.youtube.com/watch?v=u1S51F1-Lcs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
