@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How do I change the favicon in Power Pages?](https://www.youtube.com/watch?v=s31YYoCMw70)
 - [How do I delete a user in Azure AD B2C using custom policies?](https://www.youtube.com/watch?v=bXNEsLCNoGM)
 - [Azure PostgreSQL Migration Extension &lpar;Assessments&rpar; for Azure Data Studio &lpar;Preview&rpar; | Data Exposed](https://www.youtube.com/watch?v=0GjU3mWKvSI)
 - [Blue/Green Deployments with Azure Kubernetes Service](https://www.youtube.com/watch?v=XFXj0AByp_8)
 - [Let&#39;s Learn .NET - Azure | #SamosaChai.NET](https://www.youtube.com/watch?v=EL4kweENvZc)
-- [Learn About Windows on Arm with the NPU-accelerated Windows Arm Developer Kit](https://www.youtube.com/watch?v=jV5M-3sCEqI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
