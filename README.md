@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How I used GitHub Copilot to build a browser extension](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
 - [Navigation and search improvements for accessibility](https://github.blog/2023-05-11-navigation-and-search-improvements-for-accessibility/)
 - [Unlocking inclusive design: how Primer&#8217;s color system is making GitHub.com more inclusive](https://github.blog/2023-05-11-unlocking-inclusive-design-how-primers-color-system-is-making-github-com-more-inclusive/)
 - [Revolutionize your open source workflows: the top 3 reasons why GitHub Codespaces is a must-have for maintainers](https://github.blog/2023-05-10-revolutionize-your-open-source-workflows-the-top-3-reasons-why-github-codespaces-is-a-must-have-for-maintainers/)
 - [Game Bytes · May 2023](https://github.blog/2023-05-10-game-bytes-may-2023/)
-- [How companies are boosting productivity with generative AI](https://github.blog/2023-05-09-how-companies-are-boosting-productivity-with-generative-ai/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
