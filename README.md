@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL 2023 News Update: Year in Review | Data Exposed Live](https://www.youtube.com/watch?v=5rc-xfFICcA)
+- [Azure SQL August 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=GarFpo7Xh_4)
 - [How do I set up MRTK3 in Unity and Enable OpenXR Settings for HoloLens?](https://www.youtube.com/watch?v=hTc-82wkzxw)
 - [AI Show | Let&#39;s Get to Work | ROSHAMBO](https://www.youtube.com/watch?v=K8XptMa4afs)
 - [How do I change the favicon in Power Pages?](https://www.youtube.com/watch?v=s31YYoCMw70)
-- [How do I delete a user in Azure AD B2C using custom policies?](https://www.youtube.com/watch?v=bXNEsLCNoGM)
-- [Azure PostgreSQL Migration Extension &lpar;Assessments&rpar; for Azure Data Studio &lpar;Preview&rpar; | Data Exposed](https://www.youtube.com/watch?v=0GjU3mWKvSI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
