@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Scaling your AI/ML practices with MLOps and Azure Machine Learning | Part 1](https://www.youtube.com/watch?v=rg0Au2hVG3w)
-- [Scaling your AI/ML practices with MLOps and Azure Machine Learning | Part 3](https://www.youtube.com/watch?v=_U1p5sqLUw8)
-- [Scaling your AI/ML practices with MLOps and Azure Machine Learning | Part 2](https://www.youtube.com/watch?v=6VJ3UNpmDqM)
-- [Azure SQL 2023 News Update: Year in Review | Data Exposed Live](https://www.youtube.com/watch?v=5rc-xfFICcA)
-- [Azure SQL August 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=GarFpo7Xh_4)
+- [What&#39;s next for Entity Framework Core Power Tools?](https://www.youtube.com/watch?v=ySPQJ8Yf7m0)
+- [Looking for Correlation: The Key to Linear Regression [Part 11] | Machine Learning for Beginners](https://www.youtube.com/watch?v=uoRq-lW2eQo)
+- [Linear and Polynomial Regression using Scikit-learn [Part 12] | Machine Learning for Beginners](https://www.youtube.com/watch?v=e4c_UP2fSjg)
+- [Categorical Feature Predictions with Linear Regression [Part 13] | Machine Learning for Beginners](https://www.youtube.com/watch?v=DYGliioIAE0)
+- [Understanding Linear Regression [Part 10] | Machine Learning for Beginners](https://www.youtube.com/watch?v=CRxFT8oTDMg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
