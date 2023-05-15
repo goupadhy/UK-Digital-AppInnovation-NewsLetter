@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [SAP – Power Platform, SAP and the ERP Connector](https://www.youtube.com/watch?v=kBZWRrJ4lvg)
 - [David Warner - Power Platform Connections  Ep 13](https://www.youtube.com/watch?v=Gn1mP04t1SY)
 - [SAP – Power Platform, SAP and the User Experience](https://www.youtube.com/watch?v=E4xb5wWpdgg)
 - [MVP Summit Special - Power Platform Connections Episode 12](https://www.youtube.com/watch?v=PnR0L0VMhlc)
 - [SAP - What is it? With Holger Bruchelt](https://www.youtube.com/watch?v=k_bi5411Bzk)
-- [Check out some of the returning speakers at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=n5QooGLiSZE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
