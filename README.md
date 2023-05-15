@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Scaling your AI/ML practices with MLOps and Azure Machine Learning | Part 1](https://www.youtube.com/watch?v=rg0Au2hVG3w)
+- [Scaling your AI/ML practices with MLOps and Azure Machine Learning | Part 3](https://www.youtube.com/watch?v=_U1p5sqLUw8)
+- [Scaling your AI/ML practices with MLOps and Azure Machine Learning | Part 2](https://www.youtube.com/watch?v=6VJ3UNpmDqM)
 - [Azure SQL 2023 News Update: Year in Review | Data Exposed Live](https://www.youtube.com/watch?v=5rc-xfFICcA)
 - [Azure SQL August 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=GarFpo7Xh_4)
-- [How do I set up MRTK3 in Unity and Enable OpenXR Settings for HoloLens?](https://www.youtube.com/watch?v=hTc-82wkzxw)
-- [AI Show | Let&#39;s Get to Work | ROSHAMBO](https://www.youtube.com/watch?v=K8XptMa4afs)
-- [How do I change the favicon in Power Pages?](https://www.youtube.com/watch?v=s31YYoCMw70)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
