@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Create a Custom Connector for your Web API from within Visual Studio](https://www.youtube.com/watch?v=2TxdVIZvFXo)
 - [The Cloud Clinic: Establishing and monitoring access to different environments &lpar;part 2&rpar;](https://www.youtube.com/watch?v=8DckLrOulzA)
 - [AI Show | Let&#39;s Get to Work | ROSHAMBO](https://www.youtube.com/watch?v=K8XptMa4afs)
 - [What&#39;s next for Entity Framework Core Power Tools?](https://www.youtube.com/watch?v=ySPQJ8Yf7m0)
 - [Looking for Correlation: The Key to Linear Regression [Part 11] | Machine Learning for Beginners](https://www.youtube.com/watch?v=uoRq-lW2eQo)
-- [Linear and Polynomial Regression using Scikit-learn [Part 12] | Machine Learning for Beginners](https://www.youtube.com/watch?v=e4c_UP2fSjg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
