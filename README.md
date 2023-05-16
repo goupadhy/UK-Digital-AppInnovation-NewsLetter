@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [How Copilot in Microsoft Dynamics 365 and Power Platform delivers enterprise-ready AI built for security and privacy](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/12/how-copilot-in-microsoft-dynamics-365-and-power-platform-delivers-enterprise-ready-ai-built-for-security-and-privacy/)
-- [Microsoft Power Platform celebrates 1,000 certified connectors](https://cloudblogs.microsoft.com/powerplatform/2023/05/11/microsoft-power-platform-celebrates-1000-certified-connectors/)
 - [Low-code signals 2023](https://cloudblogs.microsoft.com/powerplatform/2023/04/13/low-code-signals-2023/)
 - [Release wave 1 expands agility, automation, and innovation across Microsoft Dynamics 365 and Power Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/04/04/release-wave-1-expands-agility-automation-and-innovation-across-microsoft-dynamics-365-and-power-platform/)
 - [Attend the Microsoft Business Applications Launch Event to explore new capabilities in Power Platform](https://cloudblogs.microsoft.com/powerplatform/2023/03/22/attend-the-microsoft-business-applications-launch-event-to-explore-new-capabilities-in-power-platform/)
+- [Power Platform is leading a new era of AI-generated low-code app development](https://cloudblogs.microsoft.com/powerplatform/2023/03/16/power-platform-is-leading-a-new-era-of-ai-generated-low-code-app-development/)
+- [Build solutions faster with Microsoft Power Platform and next-generation AI](https://cloudblogs.microsoft.com/powerplatform/2023/03/06/build-solutions-faster-with-microsoft-power-platform-and-next-generation-ai/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
