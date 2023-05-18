@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s new in SQL Server Data Tools &lpar;SSDT&rpar; | Data Exposed](https://www.youtube.com/watch?v=Rv5i8qqDxEY)
+- [How do you patch and schedule Azure kubernetes nodes on VMSS?](https://www.youtube.com/watch?v=w9U9taMnqmY)
 - [Build effective policy and governance guardrails for Kubernetes in Azure - LunchBytes](https://www.youtube.com/watch?v=XFXj0AByp_8)
 - [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=JDZEI-nqy5Y)
 - [Microsoft Build 2023: Day 2 #MSBuild](https://www.youtube.com/watch?v=jeRKfvNylts)
-- [Microsoft Build 2023: Day 1 #MSBuild](https://www.youtube.com/watch?v=B4WAdtlSsK8)
-- [Create a Custom Connector for your Web API from within Visual Studio](https://www.youtube.com/watch?v=2TxdVIZvFXo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
