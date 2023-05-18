@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build effective policy and governance guardrails for Kubernetes in Azure - LunchBytes](https://www.youtube.com/watch?v=XFXj0AByp_8)
 - [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=JDZEI-nqy5Y)
 - [Microsoft Build 2023: Day 2 #MSBuild](https://www.youtube.com/watch?v=jeRKfvNylts)
 - [Microsoft Build 2023: Day 1 #MSBuild](https://www.youtube.com/watch?v=B4WAdtlSsK8)
 - [Create a Custom Connector for your Web API from within Visual Studio](https://www.youtube.com/watch?v=2TxdVIZvFXo)
-- [The Cloud Clinic: Establishing and monitoring access to different environments &lpar;part 2&rpar;](https://www.youtube.com/watch?v=8DckLrOulzA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
