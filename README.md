@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What&#39;s new in SQL Server Data Tools &lpar;SSDT&rpar; | Data Exposed](https://www.youtube.com/watch?v=Rv5i8qqDxEY)
-- [How do you patch and schedule Azure kubernetes nodes on VMSS?](https://www.youtube.com/watch?v=w9U9taMnqmY)
-- [Build effective policy and governance guardrails for Kubernetes in Azure - LunchBytes](https://www.youtube.com/watch?v=XFXj0AByp_8)
-- [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=JDZEI-nqy5Y)
-- [Microsoft Build 2023: Day 2 #MSBuild](https://www.youtube.com/watch?v=jeRKfvNylts)
+- [Logistic Regression for classification of data [Part 16] | Machine Learning for Beginners](https://www.youtube.com/watch?v=MmZS2otPrQ8)
+- [Understanding Logistic Regression for Machine Learning Classification  [Part 14] | ML for Beginners](https://www.youtube.com/watch?v=KpeCT6nEpBY)
+- [Data Analysis and Preparation for Logistic Regression  [Part 15] | Machine Learning for Beginners](https://www.youtube.com/watch?v=B2X4H9vcXTs)
+- [Introduction to Azure Redis](https://www.youtube.com/watch?v=IukGd9RJzLw)
+- [Analyzing Logistic Regression Performance with ROC Curves [Part 17] | Machine Learning for Beginners](https://www.youtube.com/watch?v=GApO575jTA0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
