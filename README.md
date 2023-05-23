@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Automate Copilot demo](https://www.youtube.com/watch?v=Xu-d3CuhCoc)
 - [AI assisted import from Excel to Dataverse Table and Canvas App](https://www.youtube.com/watch?v=v6rkuVeE8wM)
 - [Introducing Copilot in Power Pages](https://www.youtube.com/watch?v=oZvxjEoTIfU)
 - [Jocelyn Panchal - Power Platform Connections Ep 14](https://www.youtube.com/watch?v=zFFTeYiKFTw)
 - [SAP – Power Platform, SAP and the ERP Connector](https://www.youtube.com/watch?v=kBZWRrJ4lvg)
-- [David Warner - Power Platform Connections  Ep 13](https://www.youtube.com/watch?v=Gn1mP04t1SY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
