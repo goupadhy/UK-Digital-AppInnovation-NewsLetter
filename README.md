@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=JDZEI-nqy5Y)
 - [Logistic Regression for classification of data [Part 16] | Machine Learning for Beginners](https://www.youtube.com/watch?v=MmZS2otPrQ8)
 - [Understanding Logistic Regression for Machine Learning Classification  [Part 14] | ML for Beginners](https://www.youtube.com/watch?v=KpeCT6nEpBY)
 - [Data Analysis and Preparation for Logistic Regression  [Part 15] | Machine Learning for Beginners](https://www.youtube.com/watch?v=B2X4H9vcXTs)
 - [Introduction to Azure Redis](https://www.youtube.com/watch?v=IukGd9RJzLw)
-- [Analyzing Logistic Regression Performance with ROC Curves [Part 17] | Machine Learning for Beginners](https://www.youtube.com/watch?v=GApO575jTA0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
