@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introducing Dev Home](https://www.youtube.com/watch?v=bC-60KNgLuE)
+- [Announcing Windows Copilot](https://www.youtube.com/watch?v=FCfwc-NNo30)
 - [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=JDZEI-nqy5Y)
 - [Logistic Regression for classification of data [Part 16] | Machine Learning for Beginners](https://www.youtube.com/watch?v=MmZS2otPrQ8)
 - [Understanding Logistic Regression for Machine Learning Classification  [Part 14] | ML for Beginners](https://www.youtube.com/watch?v=KpeCT6nEpBY)
-- [Data Analysis and Preparation for Logistic Regression  [Part 15] | Machine Learning for Beginners](https://www.youtube.com/watch?v=B2X4H9vcXTs)
-- [Introduction to Azure Redis](https://www.youtube.com/watch?v=IukGd9RJzLw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
