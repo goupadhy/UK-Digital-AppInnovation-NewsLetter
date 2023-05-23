@@ -25,7 +25,7 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What I wish knew ...about being a solution engineer](https://www.youtube.com/watch?v=LOpNVZwyPKo)
+- [What I wish knew ... about being a solution engineer](https://www.youtube.com/watch?v=LOpNVZwyPKo)
 - [What I wish knew ...about being a solution engineer](https://www.youtube.com/watch?v=AHoml4dUaO4)
 - [Introducing Dev Home](https://www.youtube.com/watch?v=bC-60KNgLuE)
 - [Announcing Windows Copilot](https://www.youtube.com/watch?v=FCfwc-NNo30)
