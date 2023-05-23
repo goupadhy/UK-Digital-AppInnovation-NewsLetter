@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I wish knew ...about being a solution engineer](https://www.youtube.com/watch?v=LOpNVZwyPKo)
+- [What I wish knew ...about being a solution engineer](https://www.youtube.com/watch?v=AHoml4dUaO4)
 - [Introducing Dev Home](https://www.youtube.com/watch?v=bC-60KNgLuE)
 - [Announcing Windows Copilot](https://www.youtube.com/watch?v=FCfwc-NNo30)
 - [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=JDZEI-nqy5Y)
-- [Logistic Regression for classification of data [Part 16] | Machine Learning for Beginners](https://www.youtube.com/watch?v=MmZS2otPrQ8)
-- [Understanding Logistic Regression for Machine Learning Classification  [Part 14] | ML for Beginners](https://www.youtube.com/watch?v=KpeCT6nEpBY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
