@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AT&amp;T improves operations and employee experiences with Azure and AI technologies](https://www.youtube.com/watch?v=8JXGDbWbeQ4)
+- [Swift innovates with Azure confidential computing to help secure global financial transactions](https://www.youtube.com/watch?v=rVv4WgA0avI)
 - [Driving the future of manufacturing with the Industrial Metaverse](https://www.youtube.com/watch?v=nEGT88PquUI)
 - [Hannover Messe 2023 | Women in Manufacturing](https://www.youtube.com/watch?v=N3_RWDt0-sI)
 - [An introduction to Marketplace Rewards](https://www.youtube.com/watch?v=6vCuMi2iE4A)
-- [Microsoft at Hannover Messe 2023- Recap](https://www.youtube.com/watch?v=puuPhj9N9_w)
-- [Migrate to Modernize for State and Local Government](https://www.youtube.com/watch?v=gb9Vi0KhpLo)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
