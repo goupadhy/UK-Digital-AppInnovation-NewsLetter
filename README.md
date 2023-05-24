@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Actions and Power Fx functions for in-app notifications](https://www.youtube.com/watch?v=lhzsuNKTR8A)
+- [M365 Copilot + Power Platform – Microsoft Official](https://www.youtube.com/watch?v=79BdhZBm5FY)
+- [Automate your business process quickly using low-code plugins](https://www.youtube.com/watch?v=W9d0r1HfLgQ)
+- [Continuous Access evaluation – User critical events evaluation](https://www.youtube.com/watch?v=miFZxDRA_Mw)
 - [Invoke stored procedures with low-code plugins](https://www.youtube.com/watch?v=n9u5PAgOzjg)
-- [Continuous Access evaluation – IP Location change](https://www.youtube.com/watch?v=BTE47l_426I)
-- [Administrator explicitly revokes all refresh tokens and enabled MFA for a user](https://www.youtube.com/watch?v=SzwjDOxTEHo)
-- [Customer Managed Key CMK](https://www.youtube.com/watch?v=GGki9kaiiUw)
-- [How to bulk delete your Power Platform users](https://www.youtube.com/watch?v=qCnhN-4-oho)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
