@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Edge to Cloud with InfluxDB | ODFP227](https://www.youtube.com/watch?v=Nx-4pIAWRLs)
-- [Native apps for Windows on Snapdragon® compute platforms | DISFP23](https://www.youtube.com/watch?v=3n6MbxagLPQ)
-- [Identity APIs in Microsoft Graph: Advanced Queries deep dive | OD105](https://www.youtube.com/watch?v=HJ2UVz_IKmo)
-- [Azure Container Instances&lpar;ACI&rpar; use-cases and roadmap | OD106](https://www.youtube.com/watch?v=Mwn6D9hU6ns)
-- [Write network-aware applications with Azure Programmable Connectivity | OD21](https://www.youtube.com/watch?v=SB0bKuNy-iA)
+- [Secure govern and manage your data at scale in Microsoft Fabric | OD09](https://www.youtube.com/watch?v=eBuz_hMuyAw)
+- [How are You Utilizing GPUs? Best Practices on Managing GPUs in Azure | ODFP223](https://www.youtube.com/watch?v=5PpaYvhOnUw)
+- [Modernize your data integration to enable petabyte scale analytics with Microsoft Fabric | OD11](https://www.youtube.com/watch?v=Um9GfsPNvY8)
+- [Upgrade your .NET projects with Visual Studio | OD115](https://www.youtube.com/watch?v=k7Gi3nCbbzQ)
+- [How leading AI companies 10x experimentation velocity with Statsig | ODFP224](https://www.youtube.com/watch?v=ercpCkhac2Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
