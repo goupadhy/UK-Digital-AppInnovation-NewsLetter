@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I wish I knew ... about being a computer scientist](https://www.youtube.com/watch?v=XCxcoebhrrY)
+- [What I wish I knew ...about being a computer scientist](https://www.youtube.com/watch?v=GWDUgmRGYLI)
 - [Microsoft Edge: Building Progressive Web Apps for the sidebar | OD37](https://www.youtube.com/watch?v=VqJSxoQ6BXM)
 - [A lap around the Microsoft Store CLI | OD36](https://www.youtube.com/watch?v=JaHdhXbzdk0)
 - [Unleash your Outlook Add-ins experiences into the new Outlook | OD34](https://www.youtube.com/watch?v=VL4GLoSJRKI)
-- [Designing secure Azure SQL Database solutions | OD32](https://www.youtube.com/watch?v=INvHKNDEbxQ)
-- [Building Chat Plugins for Microsoft Bing and Edge | OD35](https://www.youtube.com/watch?v=ubts43uC0w8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
