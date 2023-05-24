@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Kelsey Hightower on leadership in open source and the future of Kubernetes](https://github.blog/2023-05-24-kelsey-hightower-on-leadership-in-open-source-and-the-future-of-kubernetes/)
 - [Announcing the public preview of GitHub Advanced Security for Azure DevOps](https://github.blog/2023-05-23-announcing-the-public-preview-of-github-advanced-security-for-azure-devops/)
 - [9 tips to go from attendee to speaker at a tech conference](https://github.blog/2023-05-18-9-tips-to-go-from-attendee-to-speaker-at-a-tech-conference/)
 - [GitHub celebrates developers with disabilities on Global Accessibility Awareness Day](https://github.blog/2023-05-18-github-celebrates-developers-with-disabilities-on-global-accessibility-awareness-day/)
 - [Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
-- [How GitHub Copilot is getting better at understanding your code](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
