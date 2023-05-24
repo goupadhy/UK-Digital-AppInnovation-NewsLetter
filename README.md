@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Power Automate Copilot demo](https://www.youtube.com/watch?v=Xu-d3CuhCoc)
-- [AI assisted import from Excel to Dataverse Table and Canvas App](https://www.youtube.com/watch?v=v6rkuVeE8wM)
-- [Introducing Copilot in Power Pages](https://www.youtube.com/watch?v=oZvxjEoTIfU)
-- [Jocelyn Panchal - Power Platform Connections Ep 14](https://www.youtube.com/watch?v=zFFTeYiKFTw)
-- [SAP – Power Platform, SAP and the ERP Connector](https://www.youtube.com/watch?v=kBZWRrJ4lvg)
+- [Invoke stored procedures with low-code plugins](https://www.youtube.com/watch?v=n9u5PAgOzjg)
+- [Continuous Access evaluation – IP Location change](https://www.youtube.com/watch?v=BTE47l_426I)
+- [Administrator explicitly revokes all refresh tokens and enabled MFA for a user](https://www.youtube.com/watch?v=SzwjDOxTEHo)
+- [Customer Managed Key CMK](https://www.youtube.com/watch?v=GGki9kaiiUw)
+- [How to bulk delete your Power Platform users](https://www.youtube.com/watch?v=qCnhN-4-oho)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
