@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Models to outcomes with end-to-end data science workflows in Microsoft Fabric | OD12](https://www.youtube.com/watch?v=7JFN5xsDPhE)
-- [Microsoft Edge: Bringing WebView2 to Microsoft Teams and beyond | OD38](https://www.youtube.com/watch?v=b-qls-hIw1w)
-- [Using Spark to accelerate your lakehouse architecture with Microsoft Fabric | OD01](https://www.youtube.com/watch?v=Uy2AyWIDhmg)
-- [Simplify Your Data Stack: Automate Orchestrate and Integrate Data | ODFP236](https://www.youtube.com/watch?v=XBFW_N92ris)
-- [Upgrading from Xamarin to .NET MAUI | OD119](https://www.youtube.com/watch?v=yCtkjz51bJ8)
+- [Execute tests with HyperExecute&#39;s Just In Time Orchestration | ODFP230](https://www.youtube.com/watch?v=AtDVOPS7ZaM)
+- [Accelerate your application development with a flexible toolkit of UI controls | ODFP200](https://www.youtube.com/watch?v=C003NpVWJV8)
+- [Mural + Microsoft: How Mural is building for a hybrid workplace | ODFP231](https://www.youtube.com/watch?v=XbUt7wOXllA)
+- [Learn Live: Customize the command bar in Microsoft Power Apps | DIS11](https://www.youtube.com/watch?v=n2pC71QuuRc)
+- [No API Left Untested: Shift Left with API Security | ODFP232](https://www.youtube.com/watch?v=EvS5pegXPnI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
