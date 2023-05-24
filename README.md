@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Build Customize and Deploy LLMs At-Scale on Azure with NVIDIA NeMo | DISFP08](https://www.youtube.com/watch?v=QWvrCuuFsjg)
-- [Using Cyber Data To Financially Quantify Cyber Risk Decisions | ODFP239](https://www.youtube.com/watch?v=V-_lx2WukKc)
-- [OpenFL &lpar;Federated Learning&rpar; Building better AI models with private data | DISFP02](https://www.youtube.com/watch?v=RIK4_SNlTD0)
-- [Level Up Your Cloud-native Security | ODFP240](https://www.youtube.com/watch?v=7TBEgBcvdhs)
-- [How to build next-gen AI services with NVIDIA AI on Azure Cloud | BRKFP303](https://www.youtube.com/watch?v=WIDvrm95EB4)
+- [Models to outcomes with end-to-end data science workflows in Microsoft Fabric | OD12](https://www.youtube.com/watch?v=7JFN5xsDPhE)
+- [Microsoft Edge: Bringing WebView2 to Microsoft Teams and beyond | OD38](https://www.youtube.com/watch?v=b-qls-hIw1w)
+- [Using Spark to accelerate your lakehouse architecture with Microsoft Fabric | OD01](https://www.youtube.com/watch?v=Uy2AyWIDhmg)
+- [Simplify Your Data Stack: Automate Orchestrate and Integrate Data | ODFP236](https://www.youtube.com/watch?v=XBFW_N92ris)
+- [Upgrading from Xamarin to .NET MAUI | OD119](https://www.youtube.com/watch?v=yCtkjz51bJ8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
