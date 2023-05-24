@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Blazor + .NET MAUI – the perfect “hybrid”  | ODFP211](https://www.youtube.com/watch?v=kjKpZAgXLFY)
-- [Better decision making with always up-to-date vector databases | ODFP210](https://www.youtube.com/watch?v=DCy3RHa7x_8)
-- [Make a Once-in-a-Generation Leap – Migrate to Azure Ampere-based VMs | ODFP209](https://www.youtube.com/watch?v=2UiI27FtcqE)
-- [Azure-enabled vision AI with NVIDIA AI Enterprise and Jetson | ODFP208](https://www.youtube.com/watch?v=wW6iNvQJMTA)
-- [Azure Spring Apps: The easy way to run your apps | ODFP207](https://www.youtube.com/watch?v=64AWFTbDwHg)
+- [Deep dive on Azure Load Testing in CI/CD | OD22](https://www.youtube.com/watch?v=4jop6SMGnQs)
+- [Cloud Security from Left-to-Right Intelligent Integrated Automated | ODFP221](https://www.youtube.com/watch?v=Q1_u5QcwRgE)
+- [Federated Learning with Azure Machine Learning NVIDIA FLARE and MONAI | ODFP220](https://www.youtube.com/watch?v=RyhEhA_vEy4)
+- [Fusion of Remote Operations Simulation and Digital Twin | ODFP219](https://www.youtube.com/watch?v=PSaGszBHwVg)
+- [Connecting and securing workloads from anywhere made easy with AI/ML | ODFP218](https://www.youtube.com/watch?v=MNVagkXsBGE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
