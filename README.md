@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Execute tests with HyperExecute&#39;s Just In Time Orchestration | ODFP230](https://www.youtube.com/watch?v=AtDVOPS7ZaM)
-- [Accelerate your application development with a flexible toolkit of UI controls | ODFP200](https://www.youtube.com/watch?v=C003NpVWJV8)
-- [Mural + Microsoft: How Mural is building for a hybrid workplace | ODFP231](https://www.youtube.com/watch?v=XbUt7wOXllA)
-- [Learn Live: Customize the command bar in Microsoft Power Apps | DIS11](https://www.youtube.com/watch?v=n2pC71QuuRc)
-- [No API Left Untested: Shift Left with API Security | ODFP232](https://www.youtube.com/watch?v=EvS5pegXPnI)
+- [Real Time analytics - Sense analyze generate insights with Microsoft Fabric | OD10](https://www.youtube.com/watch?v=0BuIvpfkNpM)
+- [Take your .NET apps to the cloud with Microsoft Azure Q&amp;A | DIS229H](https://www.youtube.com/watch?v=3_NMppoVTu0)
+- [Achieve more with Azure PaaS: Azure App Service product experts Q&amp;A | DIS226H](https://www.youtube.com/watch?v=4nivmUOJCTA)
+- [Deploy &amp; manage storage volumes with Azure Container Storage  | DIS215H](https://www.youtube.com/watch?v=86Cdh3QHLyg)
+- [Infrastructure as code in any programming language | ODFP229](https://www.youtube.com/watch?v=m1y6tzIAvDs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
