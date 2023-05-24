@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Real Time analytics - Sense analyze generate insights with Microsoft Fabric | OD10](https://www.youtube.com/watch?v=0BuIvpfkNpM)
-- [Take your .NET apps to the cloud with Microsoft Azure Q&amp;A | DIS229H](https://www.youtube.com/watch?v=3_NMppoVTu0)
-- [Achieve more with Azure PaaS: Azure App Service product experts Q&amp;A | DIS226H](https://www.youtube.com/watch?v=4nivmUOJCTA)
-- [Deploy &amp; manage storage volumes with Azure Container Storage  | DIS215H](https://www.youtube.com/watch?v=86Cdh3QHLyg)
-- [Infrastructure as code in any programming language | ODFP229](https://www.youtube.com/watch?v=m1y6tzIAvDs)
+- [Edge to Cloud with InfluxDB | ODFP227](https://www.youtube.com/watch?v=Nx-4pIAWRLs)
+- [Native apps for Windows on Snapdragon® compute platforms | DISFP23](https://www.youtube.com/watch?v=3n6MbxagLPQ)
+- [Identity APIs in Microsoft Graph: Advanced Queries deep dive | OD105](https://www.youtube.com/watch?v=HJ2UVz_IKmo)
+- [Azure Container Instances&lpar;ACI&rpar; use-cases and roadmap | OD106](https://www.youtube.com/watch?v=Mwn6D9hU6ns)
+- [Write network-aware applications with Azure Programmable Connectivity | OD21](https://www.youtube.com/watch?v=SB0bKuNy-iA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
