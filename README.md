@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Secure govern and manage your data at scale in Microsoft Fabric | OD09](https://www.youtube.com/watch?v=eBuz_hMuyAw)
-- [How are You Utilizing GPUs? Best Practices on Managing GPUs in Azure | ODFP223](https://www.youtube.com/watch?v=5PpaYvhOnUw)
-- [Modernize your data integration to enable petabyte scale analytics with Microsoft Fabric | OD11](https://www.youtube.com/watch?v=Um9GfsPNvY8)
-- [Upgrade your .NET projects with Visual Studio | OD115](https://www.youtube.com/watch?v=k7Gi3nCbbzQ)
-- [How leading AI companies 10x experimentation velocity with Statsig | ODFP224](https://www.youtube.com/watch?v=ercpCkhac2Y)
+- [Better decision making with always up-to-date vector databases | ODFP210](https://www.youtube.com/watch?v=DCy3RHa7x_8)
+- [Make a Once-in-a-Generation Leap – Migrate to Azure Ampere-based VMs | ODFP209](https://www.youtube.com/watch?v=2UiI27FtcqE)
+- [Azure-enabled vision AI with NVIDIA AI Enterprise and Jetson | ODFP208](https://www.youtube.com/watch?v=wW6iNvQJMTA)
+- [Azure Spring Apps: The easy way to run your apps | ODFP207](https://www.youtube.com/watch?v=64AWFTbDwHg)
+- [Ansys and Microsoft: Collaboration and tools to transform simulation | ODFP206](https://www.youtube.com/watch?v=_e-FyHq7mug)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
