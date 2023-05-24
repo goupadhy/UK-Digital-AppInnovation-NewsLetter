@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build Customize and Deploy LLMs At-Scale on Azure with NVIDIA NeMo | DISFP08](https://www.youtube.com/watch?v=QWvrCuuFsjg)
+- [Using Cyber Data To Financially Quantify Cyber Risk Decisions | ODFP239](https://www.youtube.com/watch?v=V-_lx2WukKc)
+- [OpenFL &lpar;Federated Learning&rpar; Building better AI models with private data | DISFP02](https://www.youtube.com/watch?v=RIK4_SNlTD0)
+- [Level Up Your Cloud-native Security | ODFP240](https://www.youtube.com/watch?v=7TBEgBcvdhs)
 - [How to build next-gen AI services with NVIDIA AI on Azure Cloud | BRKFP303](https://www.youtube.com/watch?v=WIDvrm95EB4)
-- [What I wish knew ... about being a solution engineer](https://www.youtube.com/watch?v=LOpNVZwyPKo)
-- [What I wish knew ...about being a solution engineer](https://www.youtube.com/watch?v=AHoml4dUaO4)
-- [Introducing Dev Home](https://www.youtube.com/watch?v=bC-60KNgLuE)
-- [Announcing Windows Copilot](https://www.youtube.com/watch?v=FCfwc-NNo30)
 <!-- YOUTUBEAPPMOD:END -->
 
 
