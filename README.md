@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Deep dive on Azure Load Testing in CI/CD | OD22](https://www.youtube.com/watch?v=4jop6SMGnQs)
-- [Cloud Security from Left-to-Right Intelligent Integrated Automated | ODFP221](https://www.youtube.com/watch?v=Q1_u5QcwRgE)
-- [Federated Learning with Azure Machine Learning NVIDIA FLARE and MONAI | ODFP220](https://www.youtube.com/watch?v=RyhEhA_vEy4)
-- [Fusion of Remote Operations Simulation and Digital Twin | ODFP219](https://www.youtube.com/watch?v=PSaGszBHwVg)
-- [Connecting and securing workloads from anywhere made easy with AI/ML | ODFP218](https://www.youtube.com/watch?v=MNVagkXsBGE)
+- [Microsoft Edge: Building Progressive Web Apps for the sidebar | OD37](https://www.youtube.com/watch?v=VqJSxoQ6BXM)
+- [A lap around the Microsoft Store CLI | OD36](https://www.youtube.com/watch?v=JaHdhXbzdk0)
+- [Unleash your Outlook Add-ins experiences into the new Outlook | OD34](https://www.youtube.com/watch?v=VL4GLoSJRKI)
+- [Designing secure Azure SQL Database solutions | OD32](https://www.youtube.com/watch?v=INvHKNDEbxQ)
+- [Building Chat Plugins for Microsoft Bing and Edge | OD35](https://www.youtube.com/watch?v=ubts43uC0w8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
