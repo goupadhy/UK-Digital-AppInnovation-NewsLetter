@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [NVIDIA AI Enterprise Registry for AzureML deployments of AI Workflows | DISFP22](https://www.youtube.com/watch?v=USLsfcmdg48)
-- [Harnessing generative AI with NVIDIA AI and Microsoft Azure | DISFP13](https://www.youtube.com/watch?v=7GEL7T9UOlY)
-- [Metaverse Meets Generative AI: Opportunities &amp; Challenges Ahead | DISFP06](https://www.youtube.com/watch?v=CFis3T4ty_U)
-- [Designing and implementing automation and conversational AI Q&amp;A | DIS274H](https://www.youtube.com/watch?v=34-b0yUB-m0)
-- [The future of AI and generative code Q&amp;A | DIS272H](https://www.youtube.com/watch?v=DOYDzNPm4gk)
+- [Vision AI at the Edge for Industrial Inspection | ODFP234](https://www.youtube.com/watch?v=VJt_BuIlYzo)
+- [Microsoft Edge for Business: a dedicated work experience with AI productivity and more | OD17](https://www.youtube.com/watch?v=Ee6s7ALAjIk)
+- [Next generation AI for developers with the Microsoft Cloud | KEY03H](https://www.youtube.com/watch?v=KMOV1Zy8YeM)
+- [The era of the AI Copilot | KEY02H](https://www.youtube.com/watch?v=FyY0fEO5jVY)
+- [Microsoft Build opening | KEY01H](https://www.youtube.com/watch?v=YysBU9Q0ETs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
