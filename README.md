@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I wish I knew ... about being a site reliability engineer](https://www.youtube.com/watch?v=wqC89VmuEt8)
+- [What I wish I knew ... about being a site reliability engineer](https://www.youtube.com/watch?v=Dl0dIG_HMDg)
+- [Ledger in Azure Managed Instance | Data Exposed](https://www.youtube.com/watch?v=RejjuW0Pu90)
 - [Vision AI at the Edge for Industrial Inspection | ODFP234](https://www.youtube.com/watch?v=VJt_BuIlYzo)
 - [Microsoft Edge for Business: a dedicated work experience with AI productivity and more | OD17](https://www.youtube.com/watch?v=Ee6s7ALAjIk)
-- [Next generation AI for developers with the Microsoft Cloud | KEY03H](https://www.youtube.com/watch?v=KMOV1Zy8YeM)
-- [The era of the AI Copilot | KEY02H](https://www.youtube.com/watch?v=FyY0fEO5jVY)
-- [Microsoft Build opening | KEY01H](https://www.youtube.com/watch?v=YysBU9Q0ETs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
