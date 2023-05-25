@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Getting started with generative AI using Azure OpenAI Service  | BRK214H](https://www.youtube.com/watch?v=o5uhn4GSpQU)
-- [Build and maintain your company Copilot with Azure ML and GPT-4 | BRK211H](https://www.youtube.com/watch?v=Vtf25OPuLgo)
-- [What’s new in C# 12 and beyond | BRK203H](https://www.youtube.com/watch?v=hq6uEaMYf5U)
-- [Cloud-native development with .NET 8 | BRK201H](https://www.youtube.com/watch?v=qoNflu8aRaA)
-- [What I wish I knew ... about being a computer scientist](https://www.youtube.com/watch?v=XCxcoebhrrY)
+- [Data analytics for the era of AI | BRK240HFS](https://www.youtube.com/watch?v=KswXd7tnJko)
+- [Secure and observe your APIs no matter where they run | BRK223H](https://www.youtube.com/watch?v=BNH5kq7Ose0)
+- [Focus on code not infra with Azure Functions Azure Spring Apps Dapr | BRK221H](https://www.youtube.com/watch?v=S7NLUH0dnDE)
+- [Building and scaling cloud-native intelligent applications on Azure | BRK220HFS](https://www.youtube.com/watch?v=luu54Z1-45Y)
+- [State of GPT | BRK216HFS](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
