@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Cloud-native and Linux on Microsoft Azure Q&amp;A | DIS227H](https://www.youtube.com/watch?v=u7lwNlJBZSM)
-- [Build and ship global full stack serverless web apps Q&amp;A | DIS220H](https://www.youtube.com/watch?v=3vADGHAEEtU)
-- [What&#39;s new in .NET Multi-platform App UI &lpar;MAUI&rpar; Q&amp;A | DIS202H](https://www.youtube.com/watch?v=_IxzKLFNMWA)
-- [Open for AI: Secure paths to data collaboration volume and diversity | BRKFP304H](https://www.youtube.com/watch?v=UZgxK3ALDLQ)
-- [Securing container deployments on Azure Kubernetes Service with open-source tools | BRK264H](https://www.youtube.com/watch?v=Mep9QWc3ByE)
+- [NVIDIA AI Enterprise Registry for AzureML deployments of AI Workflows | DISFP22](https://www.youtube.com/watch?v=USLsfcmdg48)
+- [Harnessing generative AI with NVIDIA AI and Microsoft Azure | DISFP13](https://www.youtube.com/watch?v=7GEL7T9UOlY)
+- [Metaverse Meets Generative AI: Opportunities &amp; Challenges Ahead | DISFP06](https://www.youtube.com/watch?v=CFis3T4ty_U)
+- [Designing and implementing automation and conversational AI Q&amp;A | DIS274H](https://www.youtube.com/watch?v=34-b0yUB-m0)
+- [The future of AI and generative code Q&amp;A | DIS272H](https://www.youtube.com/watch?v=DOYDzNPm4gk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
