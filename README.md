@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Getting started with generative AI using Azure OpenAI Service  | BRK214H](https://www.youtube.com/watch?v=o5uhn4GSpQU)
+- [Build and maintain your company Copilot with Azure ML and GPT-4 | BRK211H](https://www.youtube.com/watch?v=Vtf25OPuLgo)
+- [What’s new in C# 12 and beyond | BRK203H](https://www.youtube.com/watch?v=hq6uEaMYf5U)
+- [Cloud-native development with .NET 8 | BRK201H](https://www.youtube.com/watch?v=qoNflu8aRaA)
 - [What I wish I knew ... about being a computer scientist](https://www.youtube.com/watch?v=XCxcoebhrrY)
-- [What I wish I knew ...about being a computer scientist](https://www.youtube.com/watch?v=GWDUgmRGYLI)
-- [Microsoft Edge: Building Progressive Web Apps for the sidebar | OD37](https://www.youtube.com/watch?v=VqJSxoQ6BXM)
-- [A lap around the Microsoft Store CLI | OD36](https://www.youtube.com/watch?v=JaHdhXbzdk0)
-- [Unleash your Outlook Add-ins experiences into the new Outlook | OD34](https://www.youtube.com/watch?v=VL4GLoSJRKI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
