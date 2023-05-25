@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Cloud-native and Linux on Microsoft Azure Q&amp;A | DIS227H](https://www.youtube.com/watch?v=u7lwNlJBZSM)
+- [Build and ship global full stack serverless web apps Q&amp;A | DIS220H](https://www.youtube.com/watch?v=3vADGHAEEtU)
+- [What&#39;s new in .NET Multi-platform App UI &lpar;MAUI&rpar; Q&amp;A | DIS202H](https://www.youtube.com/watch?v=_IxzKLFNMWA)
 - [Open for AI: Secure paths to data collaboration volume and diversity | BRKFP304H](https://www.youtube.com/watch?v=UZgxK3ALDLQ)
 - [Securing container deployments on Azure Kubernetes Service with open-source tools | BRK264H](https://www.youtube.com/watch?v=Mep9QWc3ByE)
-- [Develop in the cloud with Microsoft Dev Box | BRK251H](https://www.youtube.com/watch?v=mD225hXs63s)
-- [Inject the power of the cloud and AI into your development workflow  | BRK250HFS](https://www.youtube.com/watch?v=jl8-7AJb98g)
-- [Data analytics for the era of AI | BRK240HFS](https://www.youtube.com/watch?v=KswXd7tnJko)
 <!-- YOUTUBEAPPMOD:END -->
 
 
