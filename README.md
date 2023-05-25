@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Open for AI: Secure paths to data collaboration volume and diversity | BRKFP304H](https://www.youtube.com/watch?v=UZgxK3ALDLQ)
+- [Securing container deployments on Azure Kubernetes Service with open-source tools | BRK264H](https://www.youtube.com/watch?v=Mep9QWc3ByE)
+- [Develop in the cloud with Microsoft Dev Box | BRK251H](https://www.youtube.com/watch?v=mD225hXs63s)
+- [Inject the power of the cloud and AI into your development workflow  | BRK250HFS](https://www.youtube.com/watch?v=jl8-7AJb98g)
 - [Data analytics for the era of AI | BRK240HFS](https://www.youtube.com/watch?v=KswXd7tnJko)
-- [Secure and observe your APIs no matter where they run | BRK223H](https://www.youtube.com/watch?v=BNH5kq7Ose0)
-- [Focus on code not infra with Azure Functions Azure Spring Apps Dapr | BRK221H](https://www.youtube.com/watch?v=S7NLUH0dnDE)
-- [Building and scaling cloud-native intelligent applications on Azure | BRK220HFS](https://www.youtube.com/watch?v=luu54Z1-45Y)
-- [State of GPT | BRK216HFS](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
