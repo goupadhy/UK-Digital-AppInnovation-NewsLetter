@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [GPT Enabled Chatbots – Microsoft Official](https://www.youtube.com/watch?v=DvXO_Q3MrZA)
 - [Automate your business process quickly using low-code plugins](https://www.youtube.com/watch?v=Xtvtm69oKp4)
 - [Actions and Power Fx functions for in-app notifications](https://www.youtube.com/watch?v=lhzsuNKTR8A)
 - [M365 Copilot + Power Platform – Microsoft Official](https://www.youtube.com/watch?v=79BdhZBm5FY)
 - [Continuous Access evaluation – User critical events evaluation](https://www.youtube.com/watch?v=miFZxDRA_Mw)
-- [Invoke stored procedures with low-code plugins](https://www.youtube.com/watch?v=n9u5PAgOzjg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
