@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Seamlessly integrate security throughout your code to cloud workflow | BRK260HFS](https://www.youtube.com/watch?v=KK5hnqFUuZE)
-- [Pragmatic techniques to get the most out of GitHub Copilot | BRK255H](https://www.youtube.com/watch?v=CwAzIpc4AnA)
-- [Advanced developer tips and tricks in Visual Studio | BRK253H](https://www.youtube.com/watch?v=Czr2M9qcdW4)
-- [Self-serve app infrastructure using Azure Deployment Environments | BRK252H](https://www.youtube.com/watch?v=yTC40g4oyck)
-- [Increase developer velocity with Azure SQL Database from data to API  | BRK241](https://www.youtube.com/watch?v=pH5MwGzRN7Y)
+- [Deliver AI-powered experiences across cloud and edge with Windows | BRK283H](https://www.youtube.com/watch?v=ngdDL6Bj7Iw)
+- [New developer experiences in Windows | BRK281H](https://www.youtube.com/watch?v=NrAoYfGQAwI)
+- [Set up your dev machine in record time with WinGet and Desired State Configuration | BRK280H](https://www.youtube.com/watch?v=9HlM0xuu01M)
+- [Full stack scale with the Microsoft Power Platform | BRK273H](https://www.youtube.com/watch?v=6_MvCLbuCgE)
+- [Accelerate development with Visual Studio and Microsoft Power Platform | BRK272H](https://www.youtube.com/watch?v=dZNaxecgP9o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
