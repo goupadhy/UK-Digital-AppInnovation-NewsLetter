@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I wish I knew ... about being a data scientist](https://www.youtube.com/watch?v=vQJwP4QHWgg)
+- [What I wish I knew ... about being a data scientist](https://www.youtube.com/watch?v=1oUPFjKybbE)
 - [Shaping the future of work with AI | KEY04H](https://www.youtube.com/watch?v=R5YmXKB5Z5o)
 - [AI made easier: How the ONNX Runtime and Olive toolchain will help you Q&amp;A | DIS285H](https://www.youtube.com/watch?v=7_0N1VL5ZmA)
 - [Data-driven app and web development with Microsoft Power Platform Q&amp;A | DIS271H](https://www.youtube.com/watch?v=uz5vN0X2o5Y)
-- [Securing organizations pipelines and integrations in Azure DevOps Q&amp;A | DIS261H](https://www.youtube.com/watch?v=ByIgEdK69po)
-- [Application reliability with Azure Load Testing and Chaos Studio Q&amp;A | DIS260H](https://www.youtube.com/watch?v=KxZInwv3qO8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
