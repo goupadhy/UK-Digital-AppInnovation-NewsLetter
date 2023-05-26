@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Deploy &amp; manage storage volumes with Azure Container Storage  | DIS215H](https://www.youtube.com/watch?v=At46CjyyOn4)
 - [What I wish I knew ... about being a site reliability engineer](https://www.youtube.com/watch?v=wqC89VmuEt8)
 - [What I wish I knew ... about being a site reliability engineer](https://www.youtube.com/watch?v=Dl0dIG_HMDg)
 - [Ledger in Azure Managed Instance | Data Exposed](https://www.youtube.com/watch?v=RejjuW0Pu90)
 - [Vision AI at the Edge for Industrial Inspection | ODFP234](https://www.youtube.com/watch?v=VJt_BuIlYzo)
-- [Microsoft Edge for Business: a dedicated work experience with AI productivity and more | OD17](https://www.youtube.com/watch?v=Ee6s7ALAjIk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
