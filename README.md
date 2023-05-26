@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Deliver AI-powered experiences across cloud and edge with Windows | BRK283H](https://www.youtube.com/watch?v=ngdDL6Bj7Iw)
-- [New developer experiences in Windows | BRK281H](https://www.youtube.com/watch?v=NrAoYfGQAwI)
-- [Set up your dev machine in record time with WinGet and Desired State Configuration | BRK280H](https://www.youtube.com/watch?v=9HlM0xuu01M)
-- [Full stack scale with the Microsoft Power Platform | BRK273H](https://www.youtube.com/watch?v=6_MvCLbuCgE)
-- [Accelerate development with Visual Studio and Microsoft Power Platform | BRK272H](https://www.youtube.com/watch?v=dZNaxecgP9o)
+- [Vector Search Isn’t Enough | BRKFP301H](https://www.youtube.com/watch?v=5Qaxz2e2dVg)
+- [AMD + Azure: Outstanding performance and the latest security features  | BRKFP300H](https://www.youtube.com/watch?v=xEa2nvGSZMk)
+- [Self-expression and pronouns in Microsoft 365 | BRK400H](https://www.youtube.com/watch?v=frNcoVPDCUo)
+- [Developer joy with Scott Hanselman and friends | BRK291HFS](https://www.youtube.com/watch?v=LFK7KYL__Rk)
+- [Inside Azure innovations with Mark Russinovich | BRK290HFS](https://www.youtube.com/watch?v=sgIBC3yWa-M)
 <!-- YOUTUBEAPPMOD:END -->
 
 
