@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Modernizing with containers and serverless Q&amp;A | DIS221H](https://www.youtube.com/watch?v=_MnRYGtvJDI)
-- [Building computer vision applications Q&amp;A | DIS219H](https://www.youtube.com/watch?v=9kUcOiDb2DU)
-- [Operationalization of AI/ML models and use cases for ChatGPT Q&amp;A | DIS217H](https://www.youtube.com/watch?v=3p3kG26A-KU)
-- [Practical deep dive into machine learning techniques and MLOps Q&amp;A | DIS211H](https://www.youtube.com/watch?v=8KxSpUBFct4)
-- [Learn Live: Get started with custom connectors in Power Automate | DIS12](https://www.youtube.com/watch?v=VcehftGQF9Q)
+- [Shaping the future of work with AI | KEY04H](https://www.youtube.com/watch?v=R5YmXKB5Z5o)
+- [AI made easier: How the ONNX Runtime and Olive toolchain will help you Q&amp;A | DIS285H](https://www.youtube.com/watch?v=7_0N1VL5ZmA)
+- [Data-driven app and web development with Microsoft Power Platform Q&amp;A | DIS271H](https://www.youtube.com/watch?v=uz5vN0X2o5Y)
+- [Securing organizations pipelines and integrations in Azure DevOps Q&amp;A | DIS261H](https://www.youtube.com/watch?v=ByIgEdK69po)
+- [Application reliability with Azure Load Testing and Chaos Studio Q&amp;A | DIS260H](https://www.youtube.com/watch?v=KxZInwv3qO8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
