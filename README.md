@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [All things client and mobile app development with .NET MAUI | BRK204](https://www.youtube.com/watch?v=arxsDF__uFA)
-- [Kickstart your .NET modernization journey with the RWA pattern | BRK202H](https://www.youtube.com/watch?v=r7T-j-c1bj4)
-- [What&#39;s new in .NET 8 for Web frontends backends and futures? | BRK200H](https://www.youtube.com/watch?v=pJGDPEk45Jc)
-- [Deploy &amp; manage storage volumes with Azure Container Storage  | DIS215H](https://www.youtube.com/watch?v=At46CjyyOn4)
-- [What I wish I knew ... about being a site reliability engineer](https://www.youtube.com/watch?v=wqC89VmuEt8)
+- [Integrating Azure AI and Azure Kubernetes Service to build intelligent apps | BRK225H](https://www.youtube.com/watch?v=LhJODembils)
+- [Modernize .NET and Java web apps in Azure App Service | BRK224](https://www.youtube.com/watch?v=AqaWgPHpEvM)
+- [Deliver apps from code to cloud with Azure Kubernetes Service | BRK222H](https://www.youtube.com/watch?v=PZxGu7DllJA)
+- [Building AI solutions with Semantic Kernel | BRK217H](https://www.youtube.com/watch?v=EB90z-ugdl8)
+- [Enhance your solutions with new Azure AI products and features | BRK215](https://www.youtube.com/watch?v=yeXY1fb-oiQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
