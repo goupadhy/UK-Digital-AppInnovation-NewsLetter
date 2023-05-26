@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [All things client and mobile app development with .NET MAUI | BRK204](https://www.youtube.com/watch?v=arxsDF__uFA)
+- [Kickstart your .NET modernization journey with the RWA pattern | BRK202H](https://www.youtube.com/watch?v=r7T-j-c1bj4)
+- [What&#39;s new in .NET 8 for Web frontends backends and futures? | BRK200H](https://www.youtube.com/watch?v=pJGDPEk45Jc)
 - [Deploy &amp; manage storage volumes with Azure Container Storage  | DIS215H](https://www.youtube.com/watch?v=At46CjyyOn4)
 - [What I wish I knew ... about being a site reliability engineer](https://www.youtube.com/watch?v=wqC89VmuEt8)
-- [What I wish I knew ... about being a site reliability engineer](https://www.youtube.com/watch?v=Dl0dIG_HMDg)
-- [Ledger in Azure Managed Instance | Data Exposed](https://www.youtube.com/watch?v=RejjuW0Pu90)
-- [Vision AI at the Edge for Industrial Inspection | ODFP234](https://www.youtube.com/watch?v=VJt_BuIlYzo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
