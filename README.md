@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Vector Search Isn’t Enough | BRKFP301H](https://www.youtube.com/watch?v=5Qaxz2e2dVg)
-- [AMD + Azure: Outstanding performance and the latest security features  | BRKFP300H](https://www.youtube.com/watch?v=xEa2nvGSZMk)
-- [Self-expression and pronouns in Microsoft 365 | BRK400H](https://www.youtube.com/watch?v=frNcoVPDCUo)
-- [Developer joy with Scott Hanselman and friends | BRK291HFS](https://www.youtube.com/watch?v=LFK7KYL__Rk)
-- [Inside Azure innovations with Mark Russinovich | BRK290HFS](https://www.youtube.com/watch?v=sgIBC3yWa-M)
+- [Modernizing with containers and serverless Q&amp;A | DIS221H](https://www.youtube.com/watch?v=_MnRYGtvJDI)
+- [Building computer vision applications Q&amp;A | DIS219H](https://www.youtube.com/watch?v=9kUcOiDb2DU)
+- [Operationalization of AI/ML models and use cases for ChatGPT Q&amp;A | DIS217H](https://www.youtube.com/watch?v=3p3kG26A-KU)
+- [Practical deep dive into machine learning techniques and MLOps Q&amp;A | DIS211H](https://www.youtube.com/watch?v=8KxSpUBFct4)
+- [Learn Live: Get started with custom connectors in Power Automate | DIS12](https://www.youtube.com/watch?v=VcehftGQF9Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
