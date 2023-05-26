@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Integrating Azure AI and Azure Kubernetes Service to build intelligent apps | BRK225H](https://www.youtube.com/watch?v=LhJODembils)
-- [Modernize .NET and Java web apps in Azure App Service | BRK224](https://www.youtube.com/watch?v=AqaWgPHpEvM)
-- [Deliver apps from code to cloud with Azure Kubernetes Service | BRK222H](https://www.youtube.com/watch?v=PZxGu7DllJA)
-- [Building AI solutions with Semantic Kernel | BRK217H](https://www.youtube.com/watch?v=EB90z-ugdl8)
-- [Enhance your solutions with new Azure AI products and features | BRK215](https://www.youtube.com/watch?v=yeXY1fb-oiQ)
+- [Seamlessly integrate security throughout your code to cloud workflow | BRK260HFS](https://www.youtube.com/watch?v=KK5hnqFUuZE)
+- [Pragmatic techniques to get the most out of GitHub Copilot | BRK255H](https://www.youtube.com/watch?v=CwAzIpc4AnA)
+- [Advanced developer tips and tricks in Visual Studio | BRK253H](https://www.youtube.com/watch?v=Czr2M9qcdW4)
+- [Self-serve app infrastructure using Azure Deployment Environments | BRK252H](https://www.youtube.com/watch?v=yTC40g4oyck)
+- [Increase developer velocity with Azure SQL Database from data to API  | BRK241](https://www.youtube.com/watch?v=pH5MwGzRN7Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
