@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introduction to OmniBOR](https://www.youtube.com/watch?v=xt8ApEcmCCI)
 - [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=YvGy4V_aAG0)
 - [לכתוב את ה-UX של ה-AI: בין יצירתיות לאחריות](https://www.youtube.com/watch?v=PTxPkDUJ6vM)
 - [Scott and Mark Learn to Code | WAKEY06](https://www.youtube.com/watch?v=iihJYAMIRP4)
 - [Best of AI Show: ChatGPT and Responsible AI](https://www.youtube.com/watch?v=Vy6yfS0W70k)
-- [What I wish I knew ... about being a data scientist](https://www.youtube.com/watch?v=vQJwP4QHWgg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
