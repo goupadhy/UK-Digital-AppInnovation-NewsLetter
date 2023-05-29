@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [לכתוב את ה-UX של ה-AI: בין יצירתיות לאחריות](https://www.youtube.com/watch?v=PTxPkDUJ6vM)
 - [Scott and Mark Learn to Code | WAKEY06](https://www.youtube.com/watch?v=iihJYAMIRP4)
 - [Best of AI Show: ChatGPT and Responsible AI](https://www.youtube.com/watch?v=Vy6yfS0W70k)
 - [What I wish I knew ... about being a data scientist](https://www.youtube.com/watch?v=vQJwP4QHWgg)
 - [What I wish I knew ... about being a data scientist](https://www.youtube.com/watch?v=1oUPFjKybbE)
-- [Shaping the future of work with AI | KEY04H](https://www.youtube.com/watch?v=R5YmXKB5Z5o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
