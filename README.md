@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Cloud Clinic: Use tagging and cost management tools to keep your org accountable](https://www.youtube.com/watch?v=6TIn8My76OY)
 - [Best of AI Show: ChatGPT and Responsible AI](https://www.youtube.com/watch?v=Vy6yfS0W70k)
 - [Introduction to OmniBOR](https://www.youtube.com/watch?v=xt8ApEcmCCI)
 - [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=YvGy4V_aAG0)
 - [לכתוב את ה-UX של ה-AI: בין יצירתיות לאחריות](https://www.youtube.com/watch?v=PTxPkDUJ6vM)
-- [Scott and Mark Learn to Code | WAKEY06](https://www.youtube.com/watch?v=iihJYAMIRP4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
