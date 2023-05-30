@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [The Cloud Clinic: Use tagging and cost management tools to keep your org accountable](https://www.youtube.com/watch?v=6TIn8My76OY)
-- [Best of AI Show: ChatGPT and Responsible AI](https://www.youtube.com/watch?v=Vy6yfS0W70k)
-- [Introduction to OmniBOR](https://www.youtube.com/watch?v=xt8ApEcmCCI)
-- [Azure OpenAI in AI Builder](https://www.youtube.com/watch?v=YvGy4V_aAG0)
-- [לכתוב את ה-UX של ה-AI: בין יצירתיות לאחריות](https://www.youtube.com/watch?v=PTxPkDUJ6vM)
+- [Microsoft Fabric Data Factory Q&amp;A | DIS247H](https://www.youtube.com/watch?v=dKevtDkD5sk)
+- [Expanding your reach with Windows: How developers can win new users | BRK284](https://www.youtube.com/watch?v=7LfV8hp6lT4)
+- [Learn how to build the best Arm apps for Windows | BRK282H](https://www.youtube.com/watch?v=3lmIrtgG96w)
+- [Develop from anywhere with Visual Studio Code | BRK254](https://www.youtube.com/watch?v=CYObXaSjj78)
+- [Build scalable cloud-native apps with AKS and Azure Cosmos DB | BRK242H](https://www.youtube.com/watch?v=0bG59qtknlE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
