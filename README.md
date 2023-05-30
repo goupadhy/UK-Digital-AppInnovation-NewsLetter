@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I wish I knew ... about being a program manager](https://www.youtube.com/watch?v=vq4c2sqrPYk)
+- [Easy APIs with Azure SQL Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=47pKZdX4hw4)
 - [Prep session SE.4](https://www.youtube.com/watch?v=364cEvOzW5Q)
 - [Microsoft Fabric Data Factory Q&amp;A | DIS247H](https://www.youtube.com/watch?v=dKevtDkD5sk)
 - [Expanding your reach with Windows: How developers can win new users | BRK284](https://www.youtube.com/watch?v=7LfV8hp6lT4)
-- [Learn how to build the best Arm apps for Windows | BRK282H](https://www.youtube.com/watch?v=3lmIrtgG96w)
-- [Develop from anywhere with Visual Studio Code | BRK254](https://www.youtube.com/watch?v=CYObXaSjj78)
 <!-- YOUTUBEAPPMOD:END -->
 
 
