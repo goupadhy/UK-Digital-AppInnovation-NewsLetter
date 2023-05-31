@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build, innovate, and #HackTogether! Get started with Microsoft Teams app development](https://www.youtube.com/watch?v=I5nj35SbKTc)
 - [All things client and mobile app development with .NET MAUI | BRK204](https://www.youtube.com/watch?v=-4SJvzGNZ_M)
 - [What I wish I knew ... about being a program manager](https://www.youtube.com/watch?v=vq4c2sqrPYk)
 - [Easy APIs with Azure SQL Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=47pKZdX4hw4)
 - [Prep session SE.4](https://www.youtube.com/watch?v=364cEvOzW5Q)
-- [Microsoft Fabric Data Factory Q&amp;A | DIS247H](https://www.youtube.com/watch?v=dKevtDkD5sk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
