@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build 2023: What&#39;s new in Azure SQL | Data Exposed](https://www.youtube.com/watch?v=rtEPoTF3ey4)
+- [What I wish I knew ... about working in accessibility](https://www.youtube.com/watch?v=e1Fg-QU_FFQ)
+- [What I wish I knew ... about working in accessibility](https://www.youtube.com/watch?v=_w-3JO_c9Zg)
 - [Learn Live - Introduction to Azure Virtual Networks](https://www.youtube.com/watch?v=QwpTt1taPMQ)
 - [Build apps with state-of-the-art computer vision | BRK210H](https://www.youtube.com/watch?v=pc1gVQ6s_50)
-- [Build, innovate, and #HackTogether! Get started with Microsoft Teams app development](https://www.youtube.com/watch?v=I5nj35SbKTc)
-- [All things client and mobile app development with .NET MAUI | BRK204](https://www.youtube.com/watch?v=-4SJvzGNZ_M)
-- [What I wish I knew ... about being a program manager](https://www.youtube.com/watch?v=vq4c2sqrPYk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
