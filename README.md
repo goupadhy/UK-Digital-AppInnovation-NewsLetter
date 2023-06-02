@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Manufacturing webinar series](https://www.youtube.com/watch?v=U2ABWEOLGg0)
 - [AT&amp;T develops a new way to work, with a cloud-first approach in Azure](https://www.youtube.com/watch?v=JcvBw3Ht3nM)
 - [AT&amp;T improves operations and employee experiences with Azure and AI technologies](https://www.youtube.com/watch?v=8JXGDbWbeQ4)
 - [Swift innovates with Azure confidential computing to help secure global financial transactions](https://www.youtube.com/watch?v=rVv4WgA0avI)
 - [Driving the future of manufacturing with the Industrial Metaverse](https://www.youtube.com/watch?v=nEGT88PquUI)
-- [Hannover Messe 2023 | Women in Manufacturing](https://www.youtube.com/watch?v=N3_RWDt0-sI)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
