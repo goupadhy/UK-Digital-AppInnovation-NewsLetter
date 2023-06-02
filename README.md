@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to Azure Virtual Networks](https://www.youtube.com/watch?v=QwpTt1taPMQ)
 - [Build, innovate, and #HackTogether! Get started with Microsoft Teams app development](https://www.youtube.com/watch?v=I5nj35SbKTc)
 - [Azure Content Safety: Creating Safer Online Communities](https://www.youtube.com/watch?v=eNyPdCECR90)
 - [Introducing Microsoft Teams tabs and building with SharePoint Framework](https://www.youtube.com/watch?v=3KlN8CocFGg)
 - [Build 2023: What&#39;s new in Azure SQL | Data Exposed](https://www.youtube.com/watch?v=rtEPoTF3ey4)
-- [What I wish I knew ... about working in accessibility](https://www.youtube.com/watch?v=e1Fg-QU_FFQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
