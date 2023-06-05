@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Integrating AI into your bot logic for Microsoft Teams](https://www.youtube.com/watch?v=W72-eGPh-OY)
 - [The CEMA AI Show: Gaming &amp; Open AI](https://www.youtube.com/watch?v=uYHpL3KkuTU)
 - [What&#39;s new in .NET Multi-platform App UI &lpar;MAUI&rpar; Q&amp;A | DIS202H](https://www.youtube.com/watch?v=totCqGdDhMM)
 - [Deploy &amp; manage storage volumes with Azure Container Storage  | DIS215H](https://www.youtube.com/watch?v=9WInLec3zVQ)
 - [What I wish I knew ... about being a product marketing manager](https://www.youtube.com/watch?v=GcE3eLHlOaU)
-- [What I wish I knew ... about being a product marketing manager](https://www.youtube.com/watch?v=x8SVpr_tUAQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
