@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Pure Virtual C++](https://www.youtube.com/watch?v=yLDZ_kW56Ls)
 - [Azure Data Studio - Object Explorer](https://www.youtube.com/watch?v=WM-ZWhIESY0)
 - [What I Wish I Knew ... about different paths into tech](https://www.youtube.com/watch?v=C8h2yVa6KxA)
 - [What I Wish I Knew ... about different paths into tech](https://www.youtube.com/watch?v=z4aGdbaLsss)
 - [Introducing Microsoft Teams tabs and building with SharePoint Framework](https://www.youtube.com/watch?v=3KlN8CocFGg)
-- [Azure AI Content Safety: Creating Safer Online Communities](https://www.youtube.com/watch?v=eNyPdCECR90)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
