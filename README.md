@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Data Studio - Object Explorer](https://www.youtube.com/watch?v=WM-ZWhIESY0)
+- [What I Wish I Knew ... about different paths into tech](https://www.youtube.com/watch?v=C8h2yVa6KxA)
+- [What I Wish I Knew ... about different paths into tech](https://www.youtube.com/watch?v=z4aGdbaLsss)
 - [Introducing Microsoft Teams tabs and building with SharePoint Framework](https://www.youtube.com/watch?v=3KlN8CocFGg)
 - [Azure AI Content Safety: Creating Safer Online Communities](https://www.youtube.com/watch?v=eNyPdCECR90)
-- [Data-driven app and web development with Microsoft Power Platform Q&amp;A | DIS271H](https://www.youtube.com/watch?v=Tj0v7GvaHOs)
-- [Integrating AI into your bot logic for Microsoft Teams](https://www.youtube.com/watch?v=W72-eGPh-OY)
-- [The CEMA AI Show: Gaming &amp; Open AI](https://www.youtube.com/watch?v=uYHpL3KkuTU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
