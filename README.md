@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure AI Content Safety: Creating Safer Online Communities](https://www.youtube.com/watch?v=eNyPdCECR90)
 - [Data-driven app and web development with Microsoft Power Platform Q&amp;A | DIS271H](https://www.youtube.com/watch?v=Tj0v7GvaHOs)
 - [Integrating AI into your bot logic for Microsoft Teams](https://www.youtube.com/watch?v=W72-eGPh-OY)
 - [The CEMA AI Show: Gaming &amp; Open AI](https://www.youtube.com/watch?v=uYHpL3KkuTU)
 - [What&#39;s new in .NET Multi-platform App UI &lpar;MAUI&rpar; Q&amp;A | DIS202H](https://www.youtube.com/watch?v=totCqGdDhMM)
-- [Deploy &amp; manage storage volumes with Azure Container Storage  | DIS215H](https://www.youtube.com/watch?v=9WInLec3zVQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
