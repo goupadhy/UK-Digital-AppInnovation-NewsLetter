@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Integrating AI into your bot logic for Microsoft Teams](https://www.youtube.com/watch?v=W72-eGPh-OY)
 - [Learn how to build the best Arm apps for Windows | BRK282H](https://www.youtube.com/watch?v=6PbecTEjqjU)
 - [How to find and seize the opportunity for accessibility innovation in your organization](https://www.youtube.com/watch?v=V56BOAoY-uo)
 - [Pure Virtual C++](https://www.youtube.com/watch?v=yLDZ_kW56Ls)
 - [Azure Data Studio - Object Explorer](https://www.youtube.com/watch?v=WM-ZWhIESY0)
-- [What I Wish I Knew ... about different paths into tech](https://www.youtube.com/watch?v=C8h2yVa6KxA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
