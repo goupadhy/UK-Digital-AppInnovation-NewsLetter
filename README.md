@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Show Live | Let&#39;s Get to Work | Roshambo](https://www.youtube.com/watch?v=D8ti2xZwyQE)
 - [How is App Service integrated with Azure and developer tools?](https://www.youtube.com/watch?v=XoKy9mtfJlU)
 - [What I Wish I Knew ... about asking questions](https://www.youtube.com/watch?v=xQ1LREGpwBw)
 - [What I Wish I Knew ... about asking questions](https://www.youtube.com/watch?v=Y_o4CPDKyII)
 - [Integrating AI into your bot logic for Microsoft Teams](https://www.youtube.com/watch?v=W72-eGPh-OY)
-- [Learn how to build the best Arm apps for Windows | BRK282H](https://www.youtube.com/watch?v=6PbecTEjqjU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
