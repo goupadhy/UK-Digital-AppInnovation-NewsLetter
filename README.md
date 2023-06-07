@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How is App Service integrated with Azure and developer tools?](https://www.youtube.com/watch?v=XoKy9mtfJlU)
+- [What I Wish I Knew ... about asking questions](https://www.youtube.com/watch?v=xQ1LREGpwBw)
+- [What I Wish I Knew ... about asking questions](https://www.youtube.com/watch?v=Y_o4CPDKyII)
 - [Integrating AI into your bot logic for Microsoft Teams](https://www.youtube.com/watch?v=W72-eGPh-OY)
 - [Learn how to build the best Arm apps for Windows | BRK282H](https://www.youtube.com/watch?v=6PbecTEjqjU)
-- [How to find and seize the opportunity for accessibility innovation in your organization](https://www.youtube.com/watch?v=V56BOAoY-uo)
-- [Pure Virtual C++](https://www.youtube.com/watch?v=yLDZ_kW56Ls)
-- [Azure Data Studio - Object Explorer](https://www.youtube.com/watch?v=WM-ZWhIESY0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
