@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Logic Apps: Cloud Native Capabilities to Integrate with Mainframe and Midranges](https://www.youtube.com/watch?v=__Sf3zPPN_s)
 - [Learn Live - Protect your Azure infrastructure with Azure Site Recovery](https://www.youtube.com/watch?v=nPa6FPj0Qrs)
 - [AI Show Live | Let&#39;s Get to Work | Roshambo](https://www.youtube.com/watch?v=D8ti2xZwyQE)
 - [How is App Service integrated with Azure and developer tools?](https://www.youtube.com/watch?v=XoKy9mtfJlU)
 - [What I Wish I Knew ... about asking questions](https://www.youtube.com/watch?v=xQ1LREGpwBw)
-- [What I Wish I Knew ... about asking questions](https://www.youtube.com/watch?v=Y_o4CPDKyII)
 <!-- YOUTUBEAPPMOD:END -->
 
 
