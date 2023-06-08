@@ -29,7 +29,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [New benefits of Azure Arc Enabled SQL Server | Data Exposed](https://www.youtube.com/watch?v=PtzG55Nf_ik)
 - [What I Wish I Knew ... about a computer science degree](https://www.youtube.com/watch?v=BILFn9eQOr0)
 - [Azure Logic Apps: Cloud Native Capabilities to Integrate with Mainframe and Midranges](https://www.youtube.com/watch?v=__Sf3zPPN_s)
-- [Learn Live - Protect your Azure infrastructure with Azure Site Recovery](https://www.youtube.com/watch?v=nPa6FPj0Qrs)
+- [AI Show Live | Let&#39;s Get to Work | Roshambo](https://www.youtube.com/watch?v=D8ti2xZwyQE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
