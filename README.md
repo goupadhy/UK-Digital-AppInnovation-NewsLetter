@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Developer experience: what is it and why should you care?](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)
 - [Announcing the All In CHAOSS DEI Badging pilot initiative](https://github.blog/2023-06-07-announcing-the-all-in-chaoss-dei-badging-pilot-initiative/)
 - [Swift support brings broader mobile application security to GitHub Advanced Security](https://github.blog/2023-06-06-swift-support-brings-broader-mobile-application-security-to-github-advanced-security/)
 - [Announcing the Stale Repos Action](https://github.blog/2023-06-05-announcing-the-stale-repos-action/)
 - [Applying GitOps principles to your operations](https://github.blog/2023-06-02-applying-gitops-principles-to-your-operations/)
-- [Elevating open source contributors to open source maintainers](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
