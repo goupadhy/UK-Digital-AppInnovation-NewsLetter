@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Securely test and debug your web apps and webhooks with dev tunnels | OD121](https://www.youtube.com/watch?v=yBiOGgUFD68)
 - [What I Wish I Knew ... about a computer science degree](https://www.youtube.com/watch?v=onSCR4elKLY)
 - [New benefits of Azure Arc Enabled SQL Server | Data Exposed](https://www.youtube.com/watch?v=PtzG55Nf_ik)
 - [What I Wish I Knew ... about a computer science degree](https://www.youtube.com/watch?v=BILFn9eQOr0)
 - [Azure Logic Apps: Cloud Native Capabilities to Integrate with Mainframe and Midranges](https://www.youtube.com/watch?v=__Sf3zPPN_s)
-- [AI Show Live | Let&#39;s Get to Work | Roshambo](https://www.youtube.com/watch?v=D8ti2xZwyQE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
