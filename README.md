@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Configure Azure Files and Azure File Sync](https://www.youtube.com/watch?v=qGFLwU4Osyw)
 - [AI Show Live | Let&#39;s Get to Work | Roshambo](https://www.youtube.com/watch?v=D8ti2xZwyQE)
 - [Learn Live - Microsoft Sentinel Fundamentals](https://www.youtube.com/watch?v=xu7UIRJ7tBw)
 - [What I wish I knew ... about being a woman in tech](https://www.youtube.com/watch?v=B6YscF02tPA)
 - [What I wish I knew ... about being a woman in tech](https://www.youtube.com/watch?v=-8UVVDcDewc)
-- [Learn Live - Protect your Azure infrastructure with Azure Site Recovery](https://www.youtube.com/watch?v=nPa6FPj0Qrs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
