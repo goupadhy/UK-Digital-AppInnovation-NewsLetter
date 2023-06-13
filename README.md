@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How can I get started on Azure App Service?](https://www.youtube.com/watch?v=jcFTWwNV990)
+- [What I wish I knew ... about finding the right career path](https://www.youtube.com/watch?v=uEhdy1VWaHI)
+- [What I wish I knew ... about finding the right career path](https://www.youtube.com/watch?v=U_0Jy3W5_mQ)
+- [Get started with Bridge to Kubernetes](https://www.youtube.com/watch?v=IkLqFoFsV40)
 - [Learn Live - Configure Azure Files and Azure File Sync](https://www.youtube.com/watch?v=qGFLwU4Osyw)
-- [AI Show Live | Let&#39;s Get to Work | Roshambo](https://www.youtube.com/watch?v=D8ti2xZwyQE)
-- [Learn Live - Microsoft Sentinel Fundamentals](https://www.youtube.com/watch?v=xu7UIRJ7tBw)
-- [What I wish I knew ... about being a woman in tech](https://www.youtube.com/watch?v=B6YscF02tPA)
-- [What I wish I knew ... about being a woman in tech](https://www.youtube.com/watch?v=-8UVVDcDewc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
