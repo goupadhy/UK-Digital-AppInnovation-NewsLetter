@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Angeliki Patsiavou | Power Platform Connections Ep 16](https://www.youtube.com/watch?v=XZLOECXotPE)
 - [Join Azure McFarlane at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=yJQFS26ttyA)
 - [Share your community story with us!](https://www.youtube.com/watch?v=PsdcJar1B7A)
 - [Lewis Baybutt | Power Platform Connections Ep 15](https://www.youtube.com/watch?v=BOwTYzfxZvo)
 - [How to automate extracting text from emails in just 1 minute](https://www.youtube.com/watch?v=UchRykL7me8)
-- [GPT Enabled Chatbots – Microsoft Official](https://www.youtube.com/watch?v=DvXO_Q3MrZA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
