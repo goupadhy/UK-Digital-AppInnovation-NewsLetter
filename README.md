@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [What I wish I knew ... about learning enough to keep up](https://www.youtube.com/watch?v=uGvdDNzFjW4)
-- [What I wish I knew ... about learning enough to keep up](https://www.youtube.com/watch?v=7OpnKYE2sqk)
-- [Learn Live - Microsoft Sentinel Fundamentals](https://www.youtube.com/watch?v=xu7UIRJ7tBw)
-- [How can I get started on Azure App Service?](https://www.youtube.com/watch?v=jcFTWwNV990)
-- [What I wish I knew ... about finding the right career path](https://www.youtube.com/watch?v=uEhdy1VWaHI)
+- [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=mnVYiQ5bqIA)
+- [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=b7-8Z1ACLBU)
+- [How do you use JSON data in Azure SQL Database &amp; SQL Server 2022 | Data Exposed](https://www.youtube.com/watch?v=1rszrwvnjYE)
+- [Key Note: Unlocking the Azure Experience at the Edge with Azure Stack HCI](https://www.youtube.com/watch?v=AUdSiqzdnLY)
+- [Managing Arc extensions on Azure Stack HCI](https://www.youtube.com/watch?v=daXJW7grUdE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
