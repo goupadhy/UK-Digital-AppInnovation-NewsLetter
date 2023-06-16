@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Learn Live - Introduction to Kusto Query Language](https://www.youtube.com/watch?v=9NZDQDcdNVI)
-- [Burke learns Blazor by porting a Vue.js app to Blazor](https://www.youtube.com/watch?v=_2hAePTKBc4)
-- [Learn Live - Configure Azure Files and Azure File Sync](https://www.youtube.com/watch?v=qGFLwU4Osyw)
-- [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=mnVYiQ5bqIA)
-- [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=b7-8Z1ACLBU)
+- [What I wish I knew ... about what&#39;s fun about software engineering](https://www.youtube.com/watch?v=eZJlUnxHAMc)
+- [Playwright and Python feat Andrew Knight &lpar;@automationpanda&rpar; Live at PyCon US](https://www.youtube.com/watch?v=o5EH2qVIoDo)
+- [The Faster CPython Team Engaging With the Community at PyCon US 2023](https://www.youtube.com/watch?v=AaksYy9QYec)
+- [A Python VS Code Show and Tell: Live from PyCon 2023](https://www.youtube.com/watch?v=z7SVieA2VwI)
+- [Staying for Python&#39;s Community: An Interview with Brett Cannon PyCon 2023](https://www.youtube.com/watch?v=2jlaS8j5zqI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
