@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Configure Azure Files and Azure File Sync](https://www.youtube.com/watch?v=qGFLwU4Osyw)
 - [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=mnVYiQ5bqIA)
 - [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=b7-8Z1ACLBU)
 - [How do you use JSON data in Azure SQL Database &amp; SQL Server 2022 | Data Exposed](https://www.youtube.com/watch?v=1rszrwvnjYE)
 - [Key Note: Unlocking the Azure Experience at the Edge with Azure Stack HCI](https://www.youtube.com/watch?v=AUdSiqzdnLY)
-- [Managing Arc extensions on Azure Stack HCI](https://www.youtube.com/watch?v=daXJW7grUdE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
