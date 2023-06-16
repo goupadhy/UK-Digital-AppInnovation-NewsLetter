@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Introduction to Kusto Query Language](https://www.youtube.com/watch?v=9NZDQDcdNVI)
 - [Burke learns Blazor by porting a Vue.js app to Blazor](https://www.youtube.com/watch?v=_2hAePTKBc4)
 - [Learn Live - Configure Azure Files and Azure File Sync](https://www.youtube.com/watch?v=qGFLwU4Osyw)
 - [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=mnVYiQ5bqIA)
 - [What I wish I knew ... about getting the most from college](https://www.youtube.com/watch?v=b7-8Z1ACLBU)
-- [How do you use JSON data in Azure SQL Database &amp; SQL Server 2022 | Data Exposed](https://www.youtube.com/watch?v=1rszrwvnjYE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
