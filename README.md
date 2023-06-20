@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about interviewing for jobs](https://www.youtube.com/watch?v=okOljyWfcuQ)
+- [Building invincible microservices with Dapr Resiliency](https://www.youtube.com/watch?v=Qz89SAZ98w4)
+- [What I Wish I Knew ... about interviewing for jobs](https://www.youtube.com/watch?v=R-WOM6TbI-o)
 - [Build Recap | Responsible AI Support for Image and Text Models](https://www.youtube.com/watch?v=xGjHVTIMvcc)
 - [Learn Live - Intro to confidential computing with Azure Virtual Machines](https://www.youtube.com/watch?v=P2hLoZloNcc)
-- [Learn Live - Ingest and query data using Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=2gDahr8I9Xc)
-- [What I wish I knew ... about what&#39;s fun about software engineering](https://www.youtube.com/watch?v=wgHQcIZ6hGg)
-- [What I wish I knew ... about what&#39;s fun about software engineering](https://www.youtube.com/watch?v=eZJlUnxHAMc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
