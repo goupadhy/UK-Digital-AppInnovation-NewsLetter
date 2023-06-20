@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Requisition Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=5AdsO-qJ8O0)
 - [Vendor Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=pifzGJ9nx0c)
 - [Angeliki Patsiavou | Power Platform Connections Ep 16](https://www.youtube.com/watch?v=XZLOECXotPE)
 - [Join Azure McFarlane at the Microsoft Power Platform Conference!](https://www.youtube.com/watch?v=yJQFS26ttyA)
 - [Share your community story with us!](https://www.youtube.com/watch?v=PsdcJar1B7A)
-- [Lewis Baybutt | Power Platform Connections Ep 15](https://www.youtube.com/watch?v=BOwTYzfxZvo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
