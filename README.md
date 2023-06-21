@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Introduction to Kusto Query Language](https://www.youtube.com/watch?v=9NZDQDcdNVI)
 - [Burke Learns Blazor - Setting up CI/CD for Blazor with Static Web Apps](https://www.youtube.com/watch?v=JdlYnylzFqM)
 - [What I Wish I Knew ... about interviewing for jobs](https://www.youtube.com/watch?v=okOljyWfcuQ)
 - [Building invincible microservices with Dapr Resiliency](https://www.youtube.com/watch?v=Qz89SAZ98w4)
 - [What I Wish I Knew ... about interviewing for jobs](https://www.youtube.com/watch?v=R-WOM6TbI-o)
-- [Build Recap | Responsible AI Support for Image and Text Models](https://www.youtube.com/watch?v=xGjHVTIMvcc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
