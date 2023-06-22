@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Extend the functionality of Azure Cosmos DB for PostgreSQL using extensions](https://www.youtube.com/watch?v=I0QWJPMqMg8)
 - [Learn Live - Ingest and query data using Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=2gDahr8I9Xc)
 - [What I Wish I Knew ... about being an introvert at work](https://www.youtube.com/watch?v=r6uvpgAV404)
 - [What I Wish I Knew ... about being an introvert at work](https://www.youtube.com/watch?v=bAOjPEfZX2k)
 - [Learn Live - Introduction to Kusto Query Language](https://www.youtube.com/watch?v=9NZDQDcdNVI)
-- [Burke Learns Blazor - Setting up CI/CD for Blazor with Static Web Apps](https://www.youtube.com/watch?v=JdlYnylzFqM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
