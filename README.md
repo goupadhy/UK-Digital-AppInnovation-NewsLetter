@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about managing frustration](https://www.youtube.com/watch?v=GDiUw7FI4pU)
+- [What I Wish I Knew ... about managing frustration](https://www.youtube.com/watch?v=3iOPKPkjAxg)
+- [Calling a REST service from Azure SQL DB | Data Exposed](https://www.youtube.com/watch?v=1zJgly08mhM)
 - [Learn Live - Extend the functionality of Azure Cosmos DB for PostgreSQL using extensions](https://www.youtube.com/watch?v=I0QWJPMqMg8)
 - [Learn Live - Ingest and query data using Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=2gDahr8I9Xc)
-- [What I Wish I Knew ... about being an introvert at work](https://www.youtube.com/watch?v=r6uvpgAV404)
-- [What I Wish I Knew ... about being an introvert at work](https://www.youtube.com/watch?v=bAOjPEfZX2k)
-- [Learn Live - Introduction to Kusto Query Language](https://www.youtube.com/watch?v=9NZDQDcdNVI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
