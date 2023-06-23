@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Announcing Azure AI Content Safety | Creating Safer Online Communities](https://www.youtube.com/watch?v=o7fn-WvKfs8)
 - [What I Wish I Knew ... about classes vs. the real world](https://www.youtube.com/watch?v=z7-40qivy8Q)
 - [What I Wish I Knew ... about classes vs. the real world](https://www.youtube.com/watch?v=kW0Zn12ku5w)
 - [Burke Learns Blazor - Setting up CI/CD for Blazor with Static Web Apps](https://www.youtube.com/watch?v=JdlYnylzFqM)
 - [Learn Live - Intro to confidential computing with Azure Virtual Machines](https://www.youtube.com/watch?v=P2hLoZloNcc)
-- [What I Wish I Knew ... about managing frustration](https://www.youtube.com/watch?v=GDiUw7FI4pU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
