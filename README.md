@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Burke Learns Blazor - Setting up CI/CD for Blazor with Static Web Apps](https://www.youtube.com/watch?v=JdlYnylzFqM)
 - [Learn Live - Intro to confidential computing with Azure Virtual Machines](https://www.youtube.com/watch?v=P2hLoZloNcc)
 - [What I Wish I Knew ... about managing frustration](https://www.youtube.com/watch?v=GDiUw7FI4pU)
 - [What I Wish I Knew ... about managing frustration](https://www.youtube.com/watch?v=3iOPKPkjAxg)
 - [Calling a REST service from Azure SQL DB | Data Exposed](https://www.youtube.com/watch?v=1zJgly08mhM)
-- [Learn Live - Extend the functionality of Azure Cosmos DB for PostgreSQL using extensions](https://www.youtube.com/watch?v=I0QWJPMqMg8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
