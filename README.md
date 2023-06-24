@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Lowlands 2023](https://www.youtube.com/watch?v=826WX0GUPc4)
 - [Azure Video Indexer with Chat GPT Integration and Edge Expansion](https://www.youtube.com/watch?v=15mOqe-r8rM)
 - [Announcing Azure AI Content Safety | Creating Safer Online Communities](https://www.youtube.com/watch?v=o7fn-WvKfs8)
 - [What I Wish I Knew ... about classes vs. the real world](https://www.youtube.com/watch?v=z7-40qivy8Q)
 - [What I Wish I Knew ... about classes vs. the real world](https://www.youtube.com/watch?v=kW0Zn12ku5w)
-- [Burke Learns Blazor - Setting up CI/CD for Blazor with Static Web Apps](https://www.youtube.com/watch?v=JdlYnylzFqM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
