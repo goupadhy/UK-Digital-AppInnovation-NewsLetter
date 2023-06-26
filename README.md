@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Responsible AI Support for Image and Text Models | Part 2](https://www.youtube.com/watch?v=q253vXU5c0o)
+- [Responsible AI Support for Image and Text Models | Part 1](https://www.youtube.com/watch?v=mgVIWloMOQs)
 - [Azure Lowlands 2023](https://www.youtube.com/watch?v=826WX0GUPc4)
 - [Computer Vision for Digital Scientists and Azure Video Indexer with Chat GPT Integration](https://www.youtube.com/watch?v=15mOqe-r8rM)
 - [Announcing Azure AI Content Safety | Creating Safer Online Communities](https://www.youtube.com/watch?v=o7fn-WvKfs8)
-- [What I Wish I Knew ... about classes vs. the real world](https://www.youtube.com/watch?v=z7-40qivy8Q)
-- [What I Wish I Knew ... about classes vs. the real world](https://www.youtube.com/watch?v=kW0Zn12ku5w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
