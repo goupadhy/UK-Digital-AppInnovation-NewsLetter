@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Enabling a more sustainable future with Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=hQBd827JM_o)
 - [Learn how companies like DocuSign, Thread, and Typeface are using Azure OpenAI Service](https://www.youtube.com/watch?v=ivFHCYF3-FY)
 - [Signly builds with Microsoft Azure for a more inclusive future in tech innovation](https://www.youtube.com/watch?v=srpGYLZcUCc)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Eva Archer-Smith](https://www.youtube.com/watch?v=3z3yJLTc_0o)
 - [Microsoft Cloud for Sustainability | Scope 3, CSRD Reporting &amp; Project ESG Lake](https://www.youtube.com/watch?v=4yzDGOsKvss)
-- [See how the commercial marketplace became integral to Profisee&#39;s GTM strategy](https://www.youtube.com/watch?v=s4S4ynKuq-Q)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
