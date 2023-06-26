@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Uday Adhikari at #MPPC23](https://www.youtube.com/watch?v=1dw3jgOKPDs)
 - [Power Pages - Enterprise Security &amp; Trust Deep Dive](https://www.youtube.com/watch?v=jU-VCI2g8fo)
 - [Purchase Orders Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=cmHWhALIRsY)
 - [Requisition Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=5AdsO-qJ8O0)
 - [Vendor Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=pifzGJ9nx0c)
-- [Angeliki Patsiavou | Power Platform Connections Ep 16](https://www.youtube.com/watch?v=XZLOECXotPE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
