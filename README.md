@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [The Cloud Clinic: Determining if reserved instances or PaaS is best for your organization](https://www.youtube.com/watch?v=y1bgCXrqF78)
-- [Computer Vision for Digital Scientists and Azure Video Indexer with Chat GPT Integration](https://www.youtube.com/watch?v=15mOqe-r8rM)
-- [Responsible AI Support for Image and Text Models | Part 2](https://www.youtube.com/watch?v=q253vXU5c0o)
-- [Responsible AI Support for Image and Text Models | Part 1](https://www.youtube.com/watch?v=mgVIWloMOQs)
-- [Azure Lowlands 2023](https://www.youtube.com/watch?v=826WX0GUPc4)
+- [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=rkIFuNAmCa8)
+- [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=czVroNDYO-I)
+- [Quickly creating containers with the new, open-source SQLCMD | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MlA1dAeE91A)
+- [Hello, Semantic Kernel!](https://www.youtube.com/watch?v=160RZvzAhhw)
+- [Can I try Azure App Service for free? | One Dev Question](https://www.youtube.com/watch?v=_aynFME31fs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
