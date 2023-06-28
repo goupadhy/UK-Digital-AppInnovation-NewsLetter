@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Burke Learns Blazor - Let&#39;s build the API!](https://www.youtube.com/watch?v=wgIVN6uXDYU)
 - [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=rkIFuNAmCa8)
 - [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=czVroNDYO-I)
 - [Quickly creating containers with the new, open-source SQLCMD | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MlA1dAeE91A)
 - [Hello, Semantic Kernel!](https://www.youtube.com/watch?v=160RZvzAhhw)
-- [Can I try Azure App Service for free? | One Dev Question](https://www.youtube.com/watch?v=_aynFME31fs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
