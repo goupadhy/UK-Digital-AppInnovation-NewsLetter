@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about feeling scared](https://www.youtube.com/watch?v=ZWoQMT846zc)
+- [What I Wish I Knew ... about feeling scared](https://www.youtube.com/watch?v=S2dc-VcmbCg)
+- [What are &quot;control plane&quot; and &quot;data plane&quot; APIs?](https://www.youtube.com/watch?v=VYy5HE8r3BE)
 - [Burke Learns Blazor - Let&#39;s build the API!](https://www.youtube.com/watch?v=wgIVN6uXDYU)
 - [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=rkIFuNAmCa8)
-- [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=czVroNDYO-I)
-- [Quickly creating containers with the new, open-source SQLCMD | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MlA1dAeE91A)
-- [Hello, Semantic Kernel!](https://www.youtube.com/watch?v=160RZvzAhhw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
