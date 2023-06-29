@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn Live - Extend the functionality of Azure Cosmos DB for PostgreSQL using extensions](https://www.youtube.com/watch?v=I0QWJPMqMg8)
 - [What I Wish I Knew ... about feeling scared](https://www.youtube.com/watch?v=ZWoQMT846zc)
 - [What I Wish I Knew ... about feeling scared](https://www.youtube.com/watch?v=S2dc-VcmbCg)
 - [What are &quot;control plane&quot; and &quot;data plane&quot; APIs?](https://www.youtube.com/watch?v=VYy5HE8r3BE)
 - [Burke Learns Blazor - Let&#39;s build the API!](https://www.youtube.com/watch?v=wgIVN6uXDYU)
-- [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=rkIFuNAmCa8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
