@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Lowlands 2023](https://www.youtube.com/watch?v=826WX0GUPc4)
 - [SQL Integration with Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=wi4Hg2MDQAY)
 - [What I Wish I Knew ... about how varied software engineering is](https://www.youtube.com/watch?v=ZQMmTAK2fX0)
 - [What I Wish I Knew ... about how varied software engineering is](https://www.youtube.com/watch?v=3fdM9KsxcCo)
 - [Learn Live - Extend the functionality of Azure Cosmos DB for PostgreSQL using extensions](https://www.youtube.com/watch?v=I0QWJPMqMg8)
-- [What I Wish I Knew ... about feeling scared](https://www.youtube.com/watch?v=ZWoQMT846zc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
