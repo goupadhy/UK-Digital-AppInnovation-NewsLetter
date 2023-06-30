@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about getting an advanced degree](https://www.youtube.com/watch?v=kW1Yz9Eq4dU)
+- [What I Wish I Knew ... about getting an advanced degree](https://www.youtube.com/watch?v=VyJZZrRkoJc)
 - [Best of AI Show with Liam Cavanagh and Sarah Bird](https://www.youtube.com/watch?v=muvdwTZ5SJA)
 - [SQL Integration with Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=wi4Hg2MDQAY)
 - [What I Wish I Knew ... about how varied software engineering is](https://www.youtube.com/watch?v=ZQMmTAK2fX0)
-- [What I Wish I Knew ... about how varied software engineering is](https://www.youtube.com/watch?v=3fdM9KsxcCo)
-- [Learn Live - Extend the functionality of Azure Cosmos DB for PostgreSQL using extensions](https://www.youtube.com/watch?v=I0QWJPMqMg8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
