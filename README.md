@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Video Indexer with Chat GPT Integration and Edge Expansion](https://www.youtube.com/watch?v=uZcqUh7ciug)
+- [Computer Vision for Digital Scientists](https://www.youtube.com/watch?v=IRQ97wrZX00)
 - [What I Wish I Knew ... about getting an advanced degree](https://www.youtube.com/watch?v=kW1Yz9Eq4dU)
 - [What I Wish I Knew ... about getting an advanced degree](https://www.youtube.com/watch?v=VyJZZrRkoJc)
 - [Best of AI Show with Liam Cavanagh and Sarah Bird](https://www.youtube.com/watch?v=muvdwTZ5SJA)
-- [SQL Integration with Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=wi4Hg2MDQAY)
-- [What I Wish I Knew ... about how varied software engineering is](https://www.youtube.com/watch?v=ZQMmTAK2fX0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
