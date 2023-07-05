@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Power Platform CLI Exposed: PCF](https://www.youtube.com/watch?v=cujUhAHZxCg)
 - [What I Wish I Knew ... about prepping for tech interviews](https://www.youtube.com/watch?v=eiMslccbEMM)
 - [What I Wish I Knew ... about prepping for tech interviews](https://www.youtube.com/watch?v=_jFtrTzI16A)
 - [Windows Terminal 1.18 Preview Highlights](https://www.youtube.com/watch?v=rfbImQ--pWY)
 - [Best of AI Show with Liam Cavanagh and Sarah Bird](https://www.youtube.com/watch?v=muvdwTZ5SJA)
-- [Azure Video Indexer with Chat GPT Integration and Edge Expansion](https://www.youtube.com/watch?v=uZcqUh7ciug)
 <!-- YOUTUBEAPPMOD:END -->
 
 
