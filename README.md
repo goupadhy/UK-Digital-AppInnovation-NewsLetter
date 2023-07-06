@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to achieve data virtualization on Mainframes | Data Exposed](https://www.youtube.com/watch?v=hsBpQ3zvYM8)
+- [What I Wish I Knew ... about inclusivity at Microsoft](https://www.youtube.com/watch?v=bMLYFoBCxRg)
+- [What I Wish I Knew ... about inclusivity at Microsoft](https://www.youtube.com/watch?v=2Ayz-EvtHTY)
 - [Power Platform CLI Exposed: PCF](https://www.youtube.com/watch?v=cujUhAHZxCg)
 - [What I Wish I Knew ... about prepping for tech interviews](https://www.youtube.com/watch?v=eiMslccbEMM)
-- [What I Wish I Knew ... about prepping for tech interviews](https://www.youtube.com/watch?v=_jFtrTzI16A)
-- [Windows Terminal 1.18 Preview Highlights](https://www.youtube.com/watch?v=rfbImQ--pWY)
-- [Best of AI Show with Liam Cavanagh and Sarah Bird](https://www.youtube.com/watch?v=muvdwTZ5SJA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
