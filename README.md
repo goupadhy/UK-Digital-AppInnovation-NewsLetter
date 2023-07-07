@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Getting Started with Azure AI Studio&#39;s Prompt Flow](https://www.youtube.com/watch?v=vkM_sgaMTsU)
 - [What I Wish I Knew ... about taking breaks](https://www.youtube.com/watch?v=QN5963TaXu8)
 - [What I Wish I Knew ... about taking breaks](https://www.youtube.com/watch?v=X5NKqp2VGq8)
 - [How to achieve data virtualization on Mainframes | Data Exposed](https://www.youtube.com/watch?v=hsBpQ3zvYM8)
 - [What I Wish I Knew ... about inclusivity at Microsoft](https://www.youtube.com/watch?v=bMLYFoBCxRg)
-- [What I Wish I Knew ... about inclusivity at Microsoft](https://www.youtube.com/watch?v=2Ayz-EvtHTY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
