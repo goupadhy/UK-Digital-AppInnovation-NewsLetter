@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [BT Group&#39;s generative AI pilot explores new possibilities with Microsoft](https://www.youtube.com/watch?v=_kMtoFkXwUo)
 - [Robin Rosengrün | Power Platform Connections Ep 17](https://www.youtube.com/watch?v=ewwsMT1DT_A)
 - [Join Uday Adhikari at #MPPC23](https://www.youtube.com/watch?v=1dw3jgOKPDs)
 - [Power Pages - Enterprise Security &amp; Trust Deep Dive](https://www.youtube.com/watch?v=jU-VCI2g8fo)
 - [Purchase Orders Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=cmHWhALIRsY)
-- [Requisition Management App | SAP Procurement Solution Templates on Power Platform](https://www.youtube.com/watch?v=5AdsO-qJ8O0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
