@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about feeling intimidated](https://www.youtube.com/watch?v=QVqjvr86MtA)
+- [The best things about the Query Editor in Azure Data Studio](https://www.youtube.com/watch?v=JJLhzLsH19k)
+- [What I Wish I Knew ... about feeling intimidated](https://www.youtube.com/watch?v=9RsyY34URAE)
 - [Understanding your Azure savings plan recommendations](https://www.youtube.com/watch?v=4HV9GT9kX6A)
 - [Getting Started with Azure AI Studio&#39;s Prompt Flow](https://www.youtube.com/watch?v=vkM_sgaMTsU)
-- [What I wish I knew ... about being a technical writer](https://www.youtube.com/watch?v=M4g2gHbUASM)
-- [What I Wish I Knew ... about taking breaks](https://www.youtube.com/watch?v=QN5963TaXu8)
-- [What I Wish I Knew ... about taking breaks](https://www.youtube.com/watch?v=X5NKqp2VGq8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
