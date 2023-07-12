@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What I Wish I Knew ... about feeling intimidated](https://www.youtube.com/watch?v=QVqjvr86MtA)
-- [The best things about the Query Editor in Azure Data Studio](https://www.youtube.com/watch?v=JJLhzLsH19k)
-- [What I Wish I Knew ... about feeling intimidated](https://www.youtube.com/watch?v=9RsyY34URAE)
-- [Understanding your Azure savings plan recommendations](https://www.youtube.com/watch?v=4HV9GT9kX6A)
-- [Getting Started with Azure AI Studio&#39;s Prompt Flow](https://www.youtube.com/watch?v=vkM_sgaMTsU)
+- [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=W_Bi1v8Or6Q)
+- [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=Cz7BNIYUmRI)
+- [Storm clouds ahead: keeping your organization secure in the cloud](https://www.youtube.com/watch?v=MbOepCqUCkw)
+- [Panel: Navigating the Future of Cloud with Microsoft Azure](https://www.youtube.com/watch?v=f9patrnuGEk)
+- [Panel: The low-code revolution](https://www.youtube.com/watch?v=B9J7Ngw6hS8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
