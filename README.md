@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Why is my computer using only even numbered processes? | One Dev Question with Raymond Chen](https://www.youtube.com/watch?v=6cOzydd9sgk)
 - [What I Wish I Knew ... about finding your career path](https://www.youtube.com/watch?v=aXIBR_VpaD4)
 - [What I Wish I Knew ... about finding your career path](https://www.youtube.com/watch?v=axKYi0Dykfw)
 - [Overview of Azure SQL trigger for Azure Functions | Data Exposed](https://www.youtube.com/watch?v=0dwmzRWsuA8)
 - [Azure Monitor Baseline Alerts](https://www.youtube.com/watch?v=xeuxetAfHRg)
-- [What I Wish I Knew ... about who can be a computer scientist](https://www.youtube.com/watch?v=W_Bi1v8Or6Q)
 <!-- YOUTUBEAPPMOD:END -->
 
 
