@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [AI Show Live | How to Integrate Data Processing into your ONNX Model with Olive](https://www.youtube.com/watch?v=NZn81Rhl_Cc)
 - [What I Wish I Knew ... about the impact of working at Microsoft](https://www.youtube.com/watch?v=gyeNgPvz-XU)
 - [What I Wish I Knew ... about the impact of working at Microsoft](https://www.youtube.com/watch?v=daSoYWUmN2w)
 - [Why is my computer using only even numbered processes? | One Dev Question with Raymond Chen](https://www.youtube.com/watch?v=6cOzydd9sgk)
 - [What I Wish I Knew ... about finding your career path](https://www.youtube.com/watch?v=aXIBR_VpaD4)
+- [What I Wish I Knew ... about finding your career path](https://www.youtube.com/watch?v=axKYi0Dykfw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
