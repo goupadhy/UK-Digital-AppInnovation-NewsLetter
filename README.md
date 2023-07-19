@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What I Wish I Knew ... about soft skills](https://www.youtube.com/watch?v=rXfacjlXsuY)
-- [Meta LLama 2 Foundational Model with Prompt Flow](https://www.youtube.com/watch?v=F9r4nE53j4A)
-- [What I Wish I Knew ... about soft skills](https://www.youtube.com/watch?v=Nob0ZPtEQyg)
-- [What is GitHub Copilot? One Dev Question with Damian Brady](https://www.youtube.com/watch?v=GxVBh4i5j7o)
-- [How can I migrate my existing services to App Service?](https://www.youtube.com/watch?v=fRgBTMealko)
+- [Protect your data from tampering with ledger in Azure Managed Instance](https://www.youtube.com/watch?v=cwAapd0b6xk)
+- [Further, faster with Azure Functions and Azure SQL integration](https://www.youtube.com/watch?v=2weEpnPpJ-4)
+- [Get your app ready to stream with MSIX](https://www.youtube.com/watch?v=8wK8qRIndTk)
+- [Enlighten your Windows apps with user presence and engagement signals](https://www.youtube.com/watch?v=oWO-BfKoaH0)
+- [New confidential container offerings in Microsoft Azure](https://www.youtube.com/watch?v=ga4GJDRvfNw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
