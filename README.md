@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Exploring developer happiness, inclusion, and productivity at GitHub’s Design Conference](https://github.blog/2023-07-19-exploring-developer-happiness-inclusion-and-productivity-at-githubs-design-conference/)
 - [Metrics for issues, pull requests, and discussions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
 - [Security alert: social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/)
 - [A developer&#8217;s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/)
 - [Release Radar · Spring 2023 Edition](https://github.blog/2023-07-13-release-radar-spring-23/)
-- [(De)coding conventions](https://github.blog/2023-07-13-decoding-conventions/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
