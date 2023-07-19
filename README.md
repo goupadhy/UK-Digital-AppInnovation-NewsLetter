@@ -63,7 +63,7 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
 - [Introduction to ISV Success | Discover the benefits](https://www.youtube.com/watch?v=etpXHINpdt4)
-- [Introduction to ISV Success | ISVs to build, publish and grow](https://www.youtube.com/watch?v=OwOsjbXtLVs)
+- [Introduction to ISV Success | Supporting ISVs to build, publish and grow](https://www.youtube.com/watch?v=OwOsjbXtLVs)
 - [Announcing the new Microsoft Azure Hero Offerings for Partners](https://www.youtube.com/watch?v=w-Oo2BtG3uI)
 - [Making investments to help partners unite through the commercial marketplace | Microsoft Cloud](https://www.youtube.com/watch?v=aAD_MhnYGOs)
 - [Transformative alliances | Microsoft-OPG blueprint for energy innovation](https://www.youtube.com/watch?v=i0sL5bX2YSQ)
