@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about soft skills](https://www.youtube.com/watch?v=rXfacjlXsuY)
+- [Meta LLama 2 Foundational Model with Prompt Flow](https://www.youtube.com/watch?v=F9r4nE53j4A)
+- [What I Wish I Knew ... about soft skills](https://www.youtube.com/watch?v=Nob0ZPtEQyg)
+- [What is GitHub Copilot? One Dev Question with Damian Brady](https://www.youtube.com/watch?v=GxVBh4i5j7o)
 - [How can I migrate my existing services to App Service?](https://www.youtube.com/watch?v=fRgBTMealko)
-- [Power Platform quick start: How to use Samples and Git](https://www.youtube.com/watch?v=Zp6N3j9RZ-I)
-- [What I Wish I Knew ... about interviewing for jobs](https://www.youtube.com/watch?v=R6hNoLylY3A)
-- [What I Wish I Knew ... about interviewing for jobs](https://www.youtube.com/watch?v=60IZsiTLOGU)
-- [What I Wish I Knew ... about the impact of working at Microsoft](https://www.youtube.com/watch?v=gyeNgPvz-XU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
