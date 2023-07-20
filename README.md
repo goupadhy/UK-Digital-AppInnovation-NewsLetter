@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Insider Series: Microsoft Fabric &lpar;Analytics in the Era of AI&rpar; | Data Exposed](https://www.youtube.com/watch?v=kfmVD3wzxCU)
+- [What I Wish I Knew ... about programming in college vs. industry](https://www.youtube.com/watch?v=UDZ69CZcH50)
+- [What I Wish I Knew ... about programming in college vs. industry](https://www.youtube.com/watch?v=D2yWCkIngV8)
 - [Protect your data from tampering with ledger in Azure Managed Instance](https://www.youtube.com/watch?v=cwAapd0b6xk)
 - [Further, faster with Azure Functions and Azure SQL integration](https://www.youtube.com/watch?v=2weEpnPpJ-4)
-- [Get your app ready to stream with MSIX](https://www.youtube.com/watch?v=8wK8qRIndTk)
-- [Enlighten your Windows apps with user presence and engagement signals](https://www.youtube.com/watch?v=oWO-BfKoaH0)
-- [New confidential container offerings in Microsoft Azure](https://www.youtube.com/watch?v=ga4GJDRvfNw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
