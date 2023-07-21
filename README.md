@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about being social in college](https://www.youtube.com/watch?v=BI6vtHwmnzc)
+- [What I Wish I Knew ... about being social in college](https://www.youtube.com/watch?v=axixwtXpFTo)
 - [What happened to the source code for The AppleSoft Compiler?](https://www.youtube.com/watch?v=z7S9S_eW94Y)
 - [SQL Insider Series: Microsoft Fabric &lpar;Analytics in the Era of AI&rpar; | Data Exposed](https://www.youtube.com/watch?v=kfmVD3wzxCU)
 - [What I Wish I Knew ... about programming in college vs. industry](https://www.youtube.com/watch?v=UDZ69CZcH50)
-- [What I Wish I Knew ... about programming in college vs. industry](https://www.youtube.com/watch?v=D2yWCkIngV8)
-- [Protect your data from tampering with ledger in Azure Managed Instance](https://www.youtube.com/watch?v=cwAapd0b6xk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
