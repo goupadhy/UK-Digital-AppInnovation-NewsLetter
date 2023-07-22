@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Copilot in Power Automate- Describe what you want to automate and Copilot will build it in seconds](https://www.youtube.com/watch?v=FMz0C6cY1qU)
 - [MPPC23 is Coming to Las Vegas!](https://www.youtube.com/watch?v=P4kdBxq8tH0)
 - [BT Group&#39;s generative AI pilot explores new possibilities with Microsoft](https://www.youtube.com/watch?v=_kMtoFkXwUo)
 - [Robin Rosengrün | Power Platform Connections Ep 17](https://www.youtube.com/watch?v=ewwsMT1DT_A)
 - [Join Uday Adhikari at #MPPC23](https://www.youtube.com/watch?v=1dw3jgOKPDs)
-- [Power Pages - Enterprise Security &amp; Trust Deep Dive](https://www.youtube.com/watch?v=jU-VCI2g8fo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
