@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft in Government &lpar;long&rpar;](https://www.youtube.com/watch?v=VQtv8TOD1ss)
 - [See how the commercial marketplace helped MongoDB and Mural to scale and innovate](https://www.youtube.com/watch?v=YeBHDGORUP8)
 - [Introduction to ISV Success | Discover the benefits](https://www.youtube.com/watch?v=etpXHINpdt4)
 - [Introduction to ISV Success | Supporting ISVs to build, publish and grow](https://www.youtube.com/watch?v=OwOsjbXtLVs)
 - [Announcing the new Microsoft Azure Hero Offerings for Partners](https://www.youtube.com/watch?v=w-Oo2BtG3uI)
-- [Making investments to help partners unite through the commercial marketplace | Microsoft Cloud](https://www.youtube.com/watch?v=aAD_MhnYGOs)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
