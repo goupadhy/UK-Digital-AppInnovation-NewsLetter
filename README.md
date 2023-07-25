@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How startup game developers get free tools to build games](https://www.youtube.com/watch?v=AuCAnNw0I_c)
 - [Making the Most of Clustered Columnstore Indexes in SQL Server 2022 &amp; Azure SQL | Data Exposed: MVPs](https://www.youtube.com/watch?v=W0z032-Kuu8)
 - [What I Wish I Knew ... about how big the tech field is](https://www.youtube.com/watch?v=zC7shmOBIuw)
 - [Who needs Semantic Kernel?](https://www.youtube.com/watch?v=d9uzkkWfVho)
 - [What I Wish I Knew ... about how big the tech field is](https://www.youtube.com/watch?v=4lfri03-3y0)
-- [Can App Service meet my needs as my business grows?](https://www.youtube.com/watch?v=do_xGP6LHlU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
