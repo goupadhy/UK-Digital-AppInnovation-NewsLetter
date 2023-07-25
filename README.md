@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Learn Live - ASE v1/v2 Migration to ASE v3](https://www.youtube.com/watch?v=lI9TK_v-dkg)
-- [Meta LLama 2 Foundational Model with Prompt Flow](https://www.youtube.com/watch?v=F9r4nE53j4A)
-- [What I Wish I Knew ... about being social in college](https://www.youtube.com/watch?v=BI6vtHwmnzc)
-- [What I Wish I Knew ... about being social in college](https://www.youtube.com/watch?v=axixwtXpFTo)
-- [What happened to the source code for The AppleSoft Compiler?](https://www.youtube.com/watch?v=z7S9S_eW94Y)
+- [What I Wish I Knew ... about how big the tech field is](https://www.youtube.com/watch?v=zC7shmOBIuw)
+- [Who needs Semantic Kernel?](https://www.youtube.com/watch?v=d9uzkkWfVho)
+- [What I Wish I Knew ... about how big the tech field is](https://www.youtube.com/watch?v=4lfri03-3y0)
+- [Can App Service meet my needs as my business grows?](https://www.youtube.com/watch?v=do_xGP6LHlU)
+- [Learn Live - ISE to Logic Apps Standard Migration](https://www.youtube.com/watch?v=I9XD4Kz4HXM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
