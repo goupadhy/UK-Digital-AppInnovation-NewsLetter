@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to create and use Access Team templates and add them to a Solution](https://www.youtube.com/watch?v=72kJJ1GDh0Y)
 - [Microsoft Power Apps and generative AI help citizen maker upskill and transform career](https://www.youtube.com/watch?v=S79vyBHwbUg)
 - [Power Apps Copilot Excel to App](https://www.youtube.com/watch?v=hcuSHIsuwNM)
 - [Welcome to Power Apps Week!](https://www.youtube.com/watch?v=fEjks_o2ydA)
 - [Copilot in Power Automate- Describe what you want to automate and Copilot will build it in seconds](https://www.youtube.com/watch?v=FMz0C6cY1qU)
-- [MPPC23 is Coming to Las Vegas!](https://www.youtube.com/watch?v=P4kdBxq8tH0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
