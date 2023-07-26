@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Learn Live - ASE v1/v2 Migration to ASE v3](https://www.youtube.com/watch?v=lI9TK_v-dkg)
-- [How startup game developers get free tools to build games](https://www.youtube.com/watch?v=AuCAnNw0I_c)
-- [Making the Most of Clustered Columnstore Indexes in SQL Server 2022 &amp; Azure SQL | Data Exposed: MVPs](https://www.youtube.com/watch?v=W0z032-Kuu8)
-- [What I Wish I Knew ... about how big the tech field is](https://www.youtube.com/watch?v=zC7shmOBIuw)
-- [Who needs Semantic Kernel?](https://www.youtube.com/watch?v=d9uzkkWfVho)
+- [What I Wish I Knew ... about being a Black woman at Microsoft](https://www.youtube.com/watch?v=3-z7Zjxzqhk)
+- [What I Wish I Knew ... about being a Black woman at Microsoft](https://www.youtube.com/watch?v=4W5823PWmd0)
+- [On-device Training with ONNX Runtime](https://www.youtube.com/watch?v=XNBaIpcS9rg)
+- [What is GitHub Copilot X?](https://www.youtube.com/watch?v=Fy2-ZEy9kM8)
+- [What is GitHub Copilot X? One Dev Question with Damian Brady](https://www.youtube.com/watch?v=7P2iCUfTY5E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
