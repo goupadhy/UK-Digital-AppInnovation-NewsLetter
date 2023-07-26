@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Microsoft sponsors the second Power Platform Conference, a community-driven technical skilling event](https://cloudblogs.microsoft.com/powerplatform/2023/07/25/microsoft-sponsors-the-second-power-platform-conference-a-community-driven-technical-skilling-event/)
 - [Microsoft launches Power Automate Process Mining and next-generation AI](https://cloudblogs.microsoft.com/powerplatform/2023/07/18/microsoft-launches-power-automate-process-mining-and-next-generation-ai/)
 - [2023 release wave 2 plans for Microsoft Dynamics 365 and Power Platform now available](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/07/18/2023-release-wave-2-plans-for-microsoft-dynamics-365-and-power-platform-now-available/)
 - [The future of app development with Microsoft Power Platform](https://cloudblogs.microsoft.com/powerplatform/2023/05/23/the-future-of-app-development-with-microsoft-power-platform/)
 - [How Copilot in Microsoft Dynamics 365 and Power Platform delivers enterprise-ready AI built for security and privacy](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/05/12/how-copilot-in-microsoft-dynamics-365-and-power-platform-delivers-enterprise-ready-ai-built-for-security-and-privacy/)
-- [Microsoft Power Platform celebrates 1,000 certified connectors](https://cloudblogs.microsoft.com/powerplatform/2023/05/11/microsoft-power-platform-celebrates-1000-certified-connectors/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
