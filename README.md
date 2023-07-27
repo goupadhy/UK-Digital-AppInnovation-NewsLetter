@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - ISE to Logic Apps Standard Migration](https://www.youtube.com/watch?v=I9XD4Kz4HXM)
 - [What I Wish I Knew ... about being a Black woman at Microsoft](https://www.youtube.com/watch?v=3-z7Zjxzqhk)
 - [What I Wish I Knew ... about being a Black woman at Microsoft](https://www.youtube.com/watch?v=4W5823PWmd0)
 - [On-device Training with ONNX Runtime](https://www.youtube.com/watch?v=XNBaIpcS9rg)
 - [What is GitHub Copilot X?](https://www.youtube.com/watch?v=Fy2-ZEy9kM8)
-- [What is GitHub Copilot X? One Dev Question with Damian Brady](https://www.youtube.com/watch?v=7P2iCUfTY5E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
