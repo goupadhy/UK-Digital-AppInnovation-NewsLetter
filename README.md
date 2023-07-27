@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about finding the right internship](https://www.youtube.com/watch?v=bYCF0eH1z5I)
+- [What I Wish I Knew ... about finding the right internship](https://www.youtube.com/watch?v=-slDMZbMj6E)
 - [Am I too late to become &quot;AI ready&quot;?](https://www.youtube.com/watch?v=t1PGVx-ff3E)
 - [Am I too late to become &quot;AI Ready&quot;?](https://www.youtube.com/watch?v=lSFR5vHRgd4)
 - [Learn Live - ISE to Logic Apps Standard Migration](https://www.youtube.com/watch?v=I9XD4Kz4HXM)
-- [What I Wish I Knew ... about being a Black woman at Microsoft](https://www.youtube.com/watch?v=3-z7Zjxzqhk)
-- [What I Wish I Knew ... about being a Black woman at Microsoft](https://www.youtube.com/watch?v=4W5823PWmd0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
