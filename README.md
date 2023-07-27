@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Ryan Cunningham Message v2](https://www.youtube.com/watch?v=tY7MH31dhdU)
+- [Hear from Ryan Cunningham Vice President of Power Apps](https://www.youtube.com/watch?v=tY7MH31dhdU)
 - [How to create and use Access Team templates and add them to a Solution](https://www.youtube.com/watch?v=72kJJ1GDh0Y)
 - [Microsoft Power Apps and generative AI help citizen maker upskill and transform career](https://www.youtube.com/watch?v=S79vyBHwbUg)
 - [Power Apps Copilot Excel to App](https://www.youtube.com/watch?v=hcuSHIsuwNM)
