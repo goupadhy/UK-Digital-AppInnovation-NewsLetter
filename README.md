@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Meta LLama 2 Foundational Model with Prompt Flow](https://www.youtube.com/watch?v=zFTnc8vbfVI)
 - [How did they sneak in the credits in Windows 95?](https://www.youtube.com/watch?v=qZJWIdx8qvc)
 - [What I Wish I Knew ... about finding the right internship](https://www.youtube.com/watch?v=oKypJv4j3EU)
 - [Query Store: How It Started…How It’s Going | Data Exposed](https://www.youtube.com/watch?v=2MvjUf9xRlg)
 - [What I Wish I Knew ... about finding the right internship](https://www.youtube.com/watch?v=bYCF0eH1z5I)
-- [Am I too late to become &quot;AI ready&quot;?](https://www.youtube.com/watch?v=t1PGVx-ff3E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
