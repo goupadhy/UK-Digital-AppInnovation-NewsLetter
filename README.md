@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about choosing a major](https://www.youtube.com/watch?v=cM4zn7LfkdY)
+- [What I Wish I Knew ... about choosing a major](https://www.youtube.com/watch?v=_9M7yPpoFjI)
+- [Will AI make me less creative as a developer?](https://www.youtube.com/watch?v=tQwIJ_flI7w)
+- [Will AI make me less creative as a developer? One Dev Question](https://www.youtube.com/watch?v=XiHIcsxxrFQ)
 - [On-device Training with ONNX Runtime](https://www.youtube.com/watch?v=XNBaIpcS9rg)
-- [Meta LLama 2 Foundational Model with Prompt Flow](https://www.youtube.com/watch?v=zFTnc8vbfVI)
-- [How did they sneak in the credits in Windows 95?](https://www.youtube.com/watch?v=qZJWIdx8qvc)
-- [What I Wish I Knew ... about finding the right internship](https://www.youtube.com/watch?v=oKypJv4j3EU)
-- [Query Store: How It Started…How It’s Going | Data Exposed](https://www.youtube.com/watch?v=2MvjUf9xRlg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
