@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [On-device Training with ONNX Runtime](https://www.youtube.com/watch?v=XNBaIpcS9rg)
 - [Meta LLama 2 Foundational Model with Prompt Flow](https://www.youtube.com/watch?v=zFTnc8vbfVI)
 - [How did they sneak in the credits in Windows 95?](https://www.youtube.com/watch?v=qZJWIdx8qvc)
 - [What I Wish I Knew ... about finding the right internship](https://www.youtube.com/watch?v=oKypJv4j3EU)
 - [Query Store: How It Started…How It’s Going | Data Exposed](https://www.youtube.com/watch?v=2MvjUf9xRlg)
-- [What I Wish I Knew ... about finding the right internship](https://www.youtube.com/watch?v=bYCF0eH1z5I)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
