@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about who can be a programmer](https://www.youtube.com/watch?v=g_6E541_snw)
+- [What I Wish I Knew ... about who can be a programmer](https://www.youtube.com/watch?v=3DEwpCpzruI)
 - [Does GitHub Copilot copy other people&#39;s code?](https://www.youtube.com/watch?v=dp4zUBcVyJA)
 - [What I Wish I Knew ... about choosing a major](https://www.youtube.com/watch?v=cM4zn7LfkdY)
 - [What I Wish I Knew ... about choosing a major](https://www.youtube.com/watch?v=_9M7yPpoFjI)
-- [Will AI make me less creative as a developer?](https://www.youtube.com/watch?v=tQwIJ_flI7w)
-- [Will AI make me less creative as a developer? One Dev Question](https://www.youtube.com/watch?v=XiHIcsxxrFQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
