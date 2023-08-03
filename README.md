@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [How SQL is getting smarter – Intelligent Query Processing 2017 to Today | Data Exposed](https://www.youtube.com/watch?v=rVmFST-O9nE)
-- [What I Wish I Knew About ... working at Microsoft](https://www.youtube.com/watch?v=QfGDUKmeiAE)
-- [What I Wish I Knew About ... working at Microsoft](https://www.youtube.com/watch?v=2Ir6THf-Sa0)
-- [Do I really want AI to help debug my code?](https://www.youtube.com/watch?v=mWQcFhdlChE)
-- [Do I really want AI to help debug my code?](https://www.youtube.com/watch?v=-QVIF95f7pU)
+- [T-SQL for Cloud-native Developers](https://www.youtube.com/watch?v=INogHnWsbgo)
+- [Fast Focus: Delivering Developer Velocity through Microsoft Dev Box](https://www.youtube.com/watch?v=D79XHZZK5Jo)
+- [What’s Next in C#](https://www.youtube.com/watch?v=D8-jIdLKCdA)
+- [Keynote: From Startups to the Enterprise: Scale your Business and Applications with Azure SQL](https://www.youtube.com/watch?v=RVoLYtpxbwY)
+- [Power your DevOps Development with SQL Server Containers](https://www.youtube.com/watch?v=g2hLS8PZBlM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
