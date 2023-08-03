@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Igniting developer innovation with Vector search and Azure OpenAI Service plugins](https://www.youtube.com/watch?v=IaIX9NzKh4o)
 - [Get started contributing to the Windows Terminal with &quot;Walkthroughs&quot;](https://www.youtube.com/watch?v=l9wPumdRxxQ)
 - [What I Wish I Knew ... about who can be a programmer](https://www.youtube.com/watch?v=g_6E541_snw)
 - [What I Wish I Knew ... about who can be a programmer](https://www.youtube.com/watch?v=3DEwpCpzruI)
 - [Does GitHub Copilot copy other people&#39;s code?](https://www.youtube.com/watch?v=dp4zUBcVyJA)
-- [What I Wish I Knew ... about choosing a major](https://www.youtube.com/watch?v=cM4zn7LfkdY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
