@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Azure SQL August 2023 AMA | Data Exposed Live](https://www.youtube.com/watch?v=GarFpo7Xh_4)
-- [Igniting developer innovation with Vector search and Azure OpenAI Service plugins](https://www.youtube.com/watch?v=IaIX9NzKh4o)
-- [Get started contributing to the Windows Terminal with &quot;Walkthroughs&quot;](https://www.youtube.com/watch?v=l9wPumdRxxQ)
-- [What I Wish I Knew ... about who can be a programmer](https://www.youtube.com/watch?v=g_6E541_snw)
-- [What I Wish I Knew ... about who can be a programmer](https://www.youtube.com/watch?v=3DEwpCpzruI)
+- [How SQL is getting smarter – Intelligent Query Processing 2017 to Today | Data Exposed](https://www.youtube.com/watch?v=rVmFST-O9nE)
+- [What I Wish I Knew About ... working at Microsoft](https://www.youtube.com/watch?v=QfGDUKmeiAE)
+- [What I Wish I Knew About ... working at Microsoft](https://www.youtube.com/watch?v=2Ir6THf-Sa0)
+- [Do I really want AI to help debug my code?](https://www.youtube.com/watch?v=mWQcFhdlChE)
+- [Do I really want AI to help debug my code?](https://www.youtube.com/watch?v=-QVIF95f7pU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
