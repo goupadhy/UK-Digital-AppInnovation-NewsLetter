@@ -57,8 +57,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [Introducing code referencing for GitHub Copilot](https://github.blog/2023-08-03-introducing-code-referencing-for-github-copilot/)
 - [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
 - [How we build containerized services at GitHub using GitHub](https://github.blog/2023-08-02-how-we-build-containerized-services-at-github-using-github/)
+- [Smarter, more efficient coding: GitHub Copilot goes beyond Codex with improved AI model](https://github.blog/2023-07-28-smarter-more-efficient-coding-github-copilot-goes-beyond-codex-with-improved-ai-model/)
 - [Closing vulnerabilities in Decidim, a Ruby-based citizen participation platform](https://github.blog/2023-07-28-closing-vulnerabilities-in-decidim-a-ruby-based-citizen-participation-platform/)
-- [Scaling merge-ort across GitHub](https://github.blog/2023-07-27-scaling-merge-ort-across-github/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
