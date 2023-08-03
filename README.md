@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Hear from Stephen Siciliano, Vice President of Power Automate](https://www.youtube.com/watch?v=G69YcKe9Bm4)
 - [Power Automate Copilot: Automating loan process](https://www.youtube.com/watch?v=lp2ILioVhmg)
 - [Welcome to Power Automate week!](https://www.youtube.com/watch?v=w0i0ypuQa0U)
 - [Power Apps Week Recap](https://www.youtube.com/watch?v=WDHdo-kGCr4)
 - [Hear from Ryan Cunningham Vice President of Power Apps](https://www.youtube.com/watch?v=tY7MH31dhdU)
-- [How to create and use Access Team templates and add them to a Solution](https://www.youtube.com/watch?v=72kJJ1GDh0Y)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
