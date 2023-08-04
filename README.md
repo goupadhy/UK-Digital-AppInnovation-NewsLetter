@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Check out Microsoft&#39;s SAP Procurement solution template for Power Platform](https://www.youtube.com/watch?v=jZgCgs3GlNc)
 - [Power Automate Week Recap](https://www.youtube.com/watch?v=AhsrTriR-E8)
 - [Hear from Stephen Siciliano, Vice President of Power Automate](https://www.youtube.com/watch?v=G69YcKe9Bm4)
 - [Power Automate Copilot: Automating loan process](https://www.youtube.com/watch?v=lp2ILioVhmg)
 - [Welcome to Power Automate week!](https://www.youtube.com/watch?v=w0i0ypuQa0U)
-- [Power Apps Week Recap](https://www.youtube.com/watch?v=WDHdo-kGCr4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
