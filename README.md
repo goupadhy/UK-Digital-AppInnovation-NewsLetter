@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [On-device Training with ONNX Runtime](https://www.youtube.com/watch?v=u7YCaiHOC9o)
 - [T-SQL for Cloud-native Developers](https://www.youtube.com/watch?v=INogHnWsbgo)
 - [Fast Focus: Delivering Developer Velocity through Microsoft Dev Box](https://www.youtube.com/watch?v=D79XHZZK5Jo)
 - [What’s Next in C#](https://www.youtube.com/watch?v=D8-jIdLKCdA)
 - [Keynote: From Startups to the Enterprise: Scale your Business and Applications with Azure SQL](https://www.youtube.com/watch?v=RVoLYtpxbwY)
-- [Power your DevOps Development with SQL Server Containers](https://www.youtube.com/watch?v=g2hLS8PZBlM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
