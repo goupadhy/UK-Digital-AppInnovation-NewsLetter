@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Igniting developer innovation with Vector search and Azure OpenAI Service plugins](https://www.youtube.com/watch?v=IaIX9NzKh4o)
 - [On-device Training with ONNX Runtime](https://www.youtube.com/watch?v=u7YCaiHOC9o)
 - [T-SQL for Cloud-native Developers](https://www.youtube.com/watch?v=INogHnWsbgo)
 - [Fast Focus: Delivering Developer Velocity through Microsoft Dev Box](https://www.youtube.com/watch?v=D79XHZZK5Jo)
 - [What’s Next in C#](https://www.youtube.com/watch?v=D8-jIdLKCdA)
-- [Keynote: From Startups to the Enterprise: Scale your Business and Applications with Azure SQL](https://www.youtube.com/watch?v=RVoLYtpxbwY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
