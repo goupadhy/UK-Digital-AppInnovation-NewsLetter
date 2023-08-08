@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [How Azure savings plan is applied to a customer’s compute environment](https://www.youtube.com/watch?v=AZOyh1rl3kU)
-- [Igniting developer innovation with Vector search and Azure OpenAI Service plugins](https://www.youtube.com/watch?v=IaIX9NzKh4o)
-- [On-device Training with ONNX Runtime](https://www.youtube.com/watch?v=u7YCaiHOC9o)
-- [T-SQL for Cloud-native Developers](https://www.youtube.com/watch?v=INogHnWsbgo)
-- [Fast Focus: Delivering Developer Velocity through Microsoft Dev Box](https://www.youtube.com/watch?v=D79XHZZK5Jo)
+- [Copilot is now in Azure Data Studio and this is how it can help you!](https://www.youtube.com/watch?v=lAlqWKDODDE)
+- [What I Wish I Knew ... about finding a mentor](https://www.youtube.com/watch?v=ngq_ZP6g3UA)
+- [What I Wish I Knew ... about finding a mentor](https://www.youtube.com/watch?v=MSDNF7RwLJ0)
+- [What are the new UX skills in the age of AI?](https://www.youtube.com/watch?v=Lkbkd_hkDLY)
+- [What are the new UX skills in the age of AI?](https://www.youtube.com/watch?v=sMj2bYqFU7A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
