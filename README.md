@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Combining the power of vector search with Azure OpenAI then revolutionize image search with vectors!](https://www.youtube.com/watch?v=eJTbNYFYODY)
 - [Copilot is now in Azure Data Studio and this is how it can help you!](https://www.youtube.com/watch?v=lAlqWKDODDE)
 - [What I Wish I Knew ... about finding a mentor](https://www.youtube.com/watch?v=ngq_ZP6g3UA)
 - [What I Wish I Knew ... about finding a mentor](https://www.youtube.com/watch?v=MSDNF7RwLJ0)
 - [What are the new UX skills in the age of AI?](https://www.youtube.com/watch?v=Lkbkd_hkDLY)
-- [What are the new UX skills in the age of AI?](https://www.youtube.com/watch?v=sMj2bYqFU7A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
