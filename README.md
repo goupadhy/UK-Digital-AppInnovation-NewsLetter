@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about handling rejection](https://www.youtube.com/watch?v=fiZ2a8C2330)
+- [What I Wish I Knew ... about handling rejection](https://www.youtube.com/watch?v=-ASBzvvKoT4)
+- [Does my code get used to train GitHub Copilot?](https://www.youtube.com/watch?v=UbTlzJm6uv8)
 - [Combining the power of vector search with Azure OpenAI then revolutionize image search with vectors!](https://www.youtube.com/watch?v=eJTbNYFYODY)
 - [Copilot is now in Azure Data Studio and this is how it can help you!](https://www.youtube.com/watch?v=lAlqWKDODDE)
-- [What I Wish I Knew ... about finding a mentor](https://www.youtube.com/watch?v=ngq_ZP6g3UA)
-- [What I Wish I Knew ... about finding a mentor](https://www.youtube.com/watch?v=MSDNF7RwLJ0)
-- [What are the new UX skills in the age of AI?](https://www.youtube.com/watch?v=Lkbkd_hkDLY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
