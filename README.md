@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [If AI is so biased, how can it help with inclusivity?](https://www.youtube.com/watch?v=s534ii6ePBs)
+- [If AI is so biased, how can it help with inclusivity?](https://www.youtube.com/watch?v=AVxuIffMpR8)
 - [What I Wish I Knew ... about handling rejection](https://www.youtube.com/watch?v=fiZ2a8C2330)
 - [What I Wish I Knew ... about handling rejection](https://www.youtube.com/watch?v=-ASBzvvKoT4)
 - [Does my code get used to train GitHub Copilot?](https://www.youtube.com/watch?v=UbTlzJm6uv8)
-- [Combining the power of vector search with Azure OpenAI then revolutionize image search with vectors!](https://www.youtube.com/watch?v=eJTbNYFYODY)
-- [Copilot is now in Azure Data Studio and this is how it can help you!](https://www.youtube.com/watch?v=lAlqWKDODDE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
