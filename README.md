@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about landing a job in tech](https://www.youtube.com/watch?v=Yud5qjig-Hs)
+- [Prepare for the DP-300 exam &amp; the Azure Database Administrator Associate cert | Data Exposed](https://www.youtube.com/watch?v=TIIqoDon_r4)
+- [What I Wish I Knew ... about landing a job in tech](https://www.youtube.com/watch?v=N-fIhiYZ2Ek)
 - [If AI is so biased, how can it help with inclusivity?](https://www.youtube.com/watch?v=s534ii6ePBs)
 - [If AI is so biased, how can it help with inclusivity?](https://www.youtube.com/watch?v=AVxuIffMpR8)
-- [What I Wish I Knew ... about handling rejection](https://www.youtube.com/watch?v=fiZ2a8C2330)
-- [What I Wish I Knew ... about handling rejection](https://www.youtube.com/watch?v=-ASBzvvKoT4)
-- [Does my code get used to train GitHub Copilot?](https://www.youtube.com/watch?v=UbTlzJm6uv8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
