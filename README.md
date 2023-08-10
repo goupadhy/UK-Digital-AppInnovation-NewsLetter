@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Hear from Sangya Singh, Vice President of Power Pages](https://www.youtube.com/watch?v=hl_973JuZwA)
 - [Power Pages Copilot Natural Language to website](https://www.youtube.com/watch?v=wf3ONsQENt0)
 - [Power Pages Week Launch](https://www.youtube.com/watch?v=XnA1xi1QYlg)
 - [Check out Microsoft&#39;s SAP Procurement solution template for Power Platform](https://www.youtube.com/watch?v=jZgCgs3GlNc)
 - [Power Automate Week Recap](https://www.youtube.com/watch?v=AhsrTriR-E8)
-- [Hear from Stephen Siciliano, Vice President of Power Automate](https://www.youtube.com/watch?v=G69YcKe9Bm4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
