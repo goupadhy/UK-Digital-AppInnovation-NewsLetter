@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Certified Public Accountant transforms accounting processes using Power Automate and Generative AI](https://www.youtube.com/watch?v=dSoCR3ZPNhY)
 - [Power Pages Week Recap](https://www.youtube.com/watch?v=vdripgVGGqc)
 - [Hear from Sangya Singh, Vice President of Power Pages](https://www.youtube.com/watch?v=hl_973JuZwA)
 - [Power Pages Copilot Natural Language to website](https://www.youtube.com/watch?v=wf3ONsQENt0)
 - [Power Pages Week Launch](https://www.youtube.com/watch?v=XnA1xi1QYlg)
-- [Check out Microsoft&#39;s SAP Procurement solution template for Power Platform](https://www.youtube.com/watch?v=jZgCgs3GlNc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
