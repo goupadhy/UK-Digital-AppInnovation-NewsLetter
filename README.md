@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Combining the power of vector search with Azure OpenAI then revolutionize image search with vectors!](https://www.youtube.com/watch?v=eJTbNYFYODY)
 - [Igniting Developer Innovation with Vector Search](https://www.youtube.com/watch?v=otlYeBH9U6E)
 - [What I Wish I Knew ... about landing a job in tech](https://www.youtube.com/watch?v=Yud5qjig-Hs)
 - [Prepare for the DP-300 exam &amp; the Azure Database Administrator Associate cert | Data Exposed](https://www.youtube.com/watch?v=TIIqoDon_r4)
 - [What I Wish I Knew ... about landing a job in tech](https://www.youtube.com/watch?v=N-fIhiYZ2Ek)
-- [If AI is so biased, how can it help with inclusivity?](https://www.youtube.com/watch?v=s534ii6ePBs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
