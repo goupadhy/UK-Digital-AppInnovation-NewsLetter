@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Combining the power of vector search with Azure OpenAI then revolutionize image search with vectors!](https://www.youtube.com/watch?v=eJTbNYFYODY)
-- [Igniting Developer Innovation with Vector Search](https://www.youtube.com/watch?v=otlYeBH9U6E)
-- [What I Wish I Knew ... about landing a job in tech](https://www.youtube.com/watch?v=Yud5qjig-Hs)
-- [Prepare for the DP-300 exam &amp; the Azure Database Administrator Associate cert | Data Exposed](https://www.youtube.com/watch?v=TIIqoDon_r4)
-- [What I Wish I Knew ... about landing a job in tech](https://www.youtube.com/watch?v=N-fIhiYZ2Ek)
+- [What I Wish I Knew ... about finding your place in tech](https://www.youtube.com/watch?v=m7KTWp-ujcE)
+- [Signing Container Images with Notary Project](https://www.youtube.com/watch?v=WUcxadoSipE)
+- [Fluent UI Insights: Accessible by default](https://www.youtube.com/watch?v=Xmt1wZ_r8JM)
+- [What I Wish I Knew ... about finding your place in tech](https://www.youtube.com/watch?v=OQ0EgrzES7g)
+- [Why is this new kind of AI everywhere?](https://www.youtube.com/watch?v=_Geo7ALXLXM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
