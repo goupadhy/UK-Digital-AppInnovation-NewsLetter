@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about how much your job can change](https://www.youtube.com/watch?v=tUQbUYok5vo)
+- [What I Wish I Knew ... about how much your job can change](https://www.youtube.com/watch?v=eS9JZPcKh_E)
 - [What programming languages does GitHub Copilot support?](https://www.youtube.com/watch?v=SbRc-D6FqM4)
 - [What I Wish I Knew ... about finding your place in tech](https://www.youtube.com/watch?v=m7KTWp-ujcE)
 - [Signing Container Images with Notary Project](https://www.youtube.com/watch?v=WUcxadoSipE)
-- [Fluent UI Insights: Accessible by default](https://www.youtube.com/watch?v=Xmt1wZ_r8JM)
-- [What I Wish I Knew ... about finding your place in tech](https://www.youtube.com/watch?v=OQ0EgrzES7g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
