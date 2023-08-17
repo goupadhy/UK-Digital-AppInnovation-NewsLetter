@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [mTLS: When certificate authentication is done wrong](https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong/)
 - [Build for today, transform for tomorrow at GitHub Universe 2023](https://github.blog/2023-08-15-build-for-today-transform-for-tomorrow-at-github-universe-2023/)
 - [Release Radar · July 2023 Edition](https://github.blog/2023-08-15-release-radar-jul-23/)
 - [Hardening repositories against credential theft](https://github.blog/2023-08-15-hardening-repositories-against-credential-theft/)
 - [Nine years of the GitHub Security Bug Bounty program](https://github.blog/2023-08-14-nine-years-of-the-github-security-bug-bounty-program/)
-- [Enhanced push protection features for developers and organizations](https://github.blog/2023-08-09-enhanced-push-protection-features-for-developers-and-organizations/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
