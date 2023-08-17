@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about coming to Microsoft](https://www.youtube.com/watch?v=qCYi561Yhoc)
+- [What I Wish I Knew ... about coming to Microsoft](https://www.youtube.com/watch?v=cFVU_wOim6I)
+- [Performance Demos of SQL’s Intelligent Query Processing Feedback capabilities | Data Exposed](https://www.youtube.com/watch?v=HzdLkspncdQ)
 - [How do I become more confident about AI?](https://www.youtube.com/watch?v=3ey53dd-q8k)
 - [How do I become more confident about AI?](https://www.youtube.com/watch?v=rYF8MxPHLak)
-- [What I Wish I Knew ... about how much your job can change](https://www.youtube.com/watch?v=tUQbUYok5vo)
-- [What I Wish I Knew ... about how much your job can change](https://www.youtube.com/watch?v=eS9JZPcKh_E)
-- [What programming languages does GitHub Copilot support?](https://www.youtube.com/watch?v=SbRc-D6FqM4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
