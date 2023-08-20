@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 2](https://www.youtube.com/watch?v=roy4IFV-nFQ)
 - [What I Wish I Knew ... about coming to Microsoft](https://www.youtube.com/watch?v=qCYi561Yhoc)
 - [What I Wish I Knew ... about coming to Microsoft](https://www.youtube.com/watch?v=cFVU_wOim6I)
 - [Performance Demos of SQL’s Intelligent Query Processing Feedback capabilities | Data Exposed](https://www.youtube.com/watch?v=HzdLkspncdQ)
 - [How do I become more confident about AI?](https://www.youtube.com/watch?v=3ey53dd-q8k)
-- [How do I become more confident about AI?](https://www.youtube.com/watch?v=rYF8MxPHLak)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
