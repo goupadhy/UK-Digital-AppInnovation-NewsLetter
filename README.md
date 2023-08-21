@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Power Virtual Agents Week Recap](https://www.youtube.com/watch?v=d_LzD6hppJc)
-- [Hear from Omar Aftab, Vice President of Conversational AI](https://www.youtube.com/watch?v=4jIBEWLt8Mc)
-- [Power Virtual Agents Copilot: Generative Actions](https://www.youtube.com/watch?v=l-FQXSrboIg)
-- [Welcome to Power Virtual Agents Week!](https://www.youtube.com/watch?v=6UweUrIrNPU)
-- [Certified Public Accountant transforms accounting processes using Power Automate and Generative AI](https://www.youtube.com/watch?v=dSoCR3ZPNhY)
+- [Wrap up and take action: Join our community for the next Big Thing!](https://www.youtube.com/watch?v=x44dWCgqJQ4)
+- [How to submit your projects on Github](https://www.youtube.com/watch?v=S5Zk_0lvAdM)
+- [Leveraging Azure Open AI Service in the Power Platform](https://www.youtube.com/watch?v=LbbEY2Juq90)
+- [Get started with AI Builder in Power Platform](https://www.youtube.com/watch?v=iEE7FTi05hE)
+- [Intro to Power Platform Copilots](https://www.youtube.com/watch?v=-cU-1bpmk-k)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
