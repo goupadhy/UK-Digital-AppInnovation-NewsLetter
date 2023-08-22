@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 2](https://www.youtube.com/watch?v=roy4IFV-nFQ)
-- [Igniting developer innovation with Vector search and Azure OpenAI](https://www.youtube.com/watch?v=YvmcHmxjqfM)
-- [Revolutionizing Image Search with Vectors](https://www.youtube.com/watch?v=7t7p02sICEE)
-- [What I Wish I Knew ... about coming to Microsoft](https://www.youtube.com/watch?v=qCYi561Yhoc)
-- [What I Wish I Knew ... about coming to Microsoft](https://www.youtube.com/watch?v=cFVU_wOim6I)
+- [Windows Terminal&#39;s journey to Open Source](https://www.youtube.com/watch?v=z8IMg4CfWJ0)
+- [What I Wish I Knew ... about finding my career path](https://www.youtube.com/watch?v=U3UZrIPpBb0)
+- [What I Wish I Knew ... about finding my career path](https://www.youtube.com/watch?v=aR1NqdWSVts)
+- [Where did AI come from and where is it going?](https://www.youtube.com/watch?v=cc_JoM6HgqQ)
+- [Where did AI come from and where is it going?](https://www.youtube.com/watch?v=yXkMUBVfuDQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
