@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Can I trust the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=89ZyoEGwDOI)
 - [Windows Terminal&#39;s journey to Open Source](https://www.youtube.com/watch?v=z8IMg4CfWJ0)
 - [What I Wish I Knew ... about finding my career path](https://www.youtube.com/watch?v=U3UZrIPpBb0)
 - [What I Wish I Knew ... about finding my career path](https://www.youtube.com/watch?v=aR1NqdWSVts)
 - [Where did AI come from and where is it going?](https://www.youtube.com/watch?v=cc_JoM6HgqQ)
-- [Where did AI come from and where is it going?](https://www.youtube.com/watch?v=yXkMUBVfuDQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
