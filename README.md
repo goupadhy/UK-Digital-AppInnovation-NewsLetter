@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [AI Generated Descriptions | Power Platform Shorts](https://www.youtube.com/watch?v=DVHWPx05MvE)
 - [Dataverse integration with Microsoft Fabric](https://www.youtube.com/watch?v=bgcNsqp92YE)
 - [Welcome to Power BI Week!](https://www.youtube.com/watch?v=xDbNlvJJO6o)
 - [Wrap up and take action: Join our community for the next Big Thing!](https://www.youtube.com/watch?v=x44dWCgqJQ4)
 - [How to submit your projects on Github](https://www.youtube.com/watch?v=S5Zk_0lvAdM)
-- [Leveraging Azure Open AI Service in the Power Platform](https://www.youtube.com/watch?v=LbbEY2Juq90)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
