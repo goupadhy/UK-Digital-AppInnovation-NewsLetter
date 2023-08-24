@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about discovering computer science](https://www.youtube.com/watch?v=XdyslphssYY)
+- [What I Wish I Knew ... about discovering computer science](https://www.youtube.com/watch?v=fG5RckrKSI0)
+- [SQL Server 2022: Accelerate query performance while reducing query compile time - w/ no code changes](https://www.youtube.com/watch?v=FKLFgJgETsw)
+- [What is the Microsoft TechSpark Program?](https://www.youtube.com/watch?v=WWvYZN-jISQ)
 - [What I Wish I Knew ... about interviewing](https://www.youtube.com/watch?v=wXUFu2vHNj4)
-- [What I Wish I Knew ... about interviewing](https://www.youtube.com/watch?v=A7MSNnm-yRs)
-- [Can I trust the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=89ZyoEGwDOI)
-- [Windows Terminal&#39;s journey to Open Source](https://www.youtube.com/watch?v=z8IMg4CfWJ0)
-- [What I Wish I Knew ... about finding my career path](https://www.youtube.com/watch?v=U3UZrIPpBb0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
