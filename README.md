@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Accelerate data labeling using Azure OpenAI and Azure AI Language](https://www.youtube.com/watch?v=ORI_naVvHa8)
+- [Azure OpenAI-powered summarization in Azure AI Language](https://www.youtube.com/watch?v=NqwZ29kW2FI)
+- [How to use Text Analytics for health in Azure AI Language](https://www.youtube.com/watch?v=SvCIXcGGcCU)
+- [Call center transcription and analysis using Azure AI](https://www.youtube.com/watch?v=MuSBr6eSQfA)
 - [What I Wish I Knew ... about discovering computer science](https://www.youtube.com/watch?v=XdyslphssYY)
-- [What I Wish I Knew ... about discovering computer science](https://www.youtube.com/watch?v=fG5RckrKSI0)
-- [SQL Server 2022: Accelerate query performance while reducing query compile time - w/ no code changes](https://www.youtube.com/watch?v=FKLFgJgETsw)
-- [What is the Microsoft TechSpark Program?](https://www.youtube.com/watch?v=WWvYZN-jISQ)
-- [What I Wish I Knew ... about interviewing](https://www.youtube.com/watch?v=wXUFu2vHNj4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
