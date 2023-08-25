@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Building a Private ChatGPT with Azure OpenAI](https://www.youtube.com/watch?v=eio-prazdEo)
 - [Accelerate data labeling using Azure OpenAI and Azure AI Language](https://www.youtube.com/watch?v=ORI_naVvHa8)
 - [Azure OpenAI-powered summarization in Azure AI Language](https://www.youtube.com/watch?v=NqwZ29kW2FI)
 - [How to use Text Analytics for health in Azure AI Language](https://www.youtube.com/watch?v=SvCIXcGGcCU)
 - [Call center transcription and analysis using Azure AI](https://www.youtube.com/watch?v=MuSBr6eSQfA)
-- [What I Wish I Knew ... about discovering computer science](https://www.youtube.com/watch?v=XdyslphssYY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
