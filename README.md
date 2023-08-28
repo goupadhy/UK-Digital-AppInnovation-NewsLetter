@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Welcome to Dataverse Week!](https://www.youtube.com/watch?v=7lMvk3YIIwM)
 - [Microsoft Teams connector is our connector of the week!](https://www.youtube.com/watch?v=zBLdm4xWXUE)
 - [Power BI Week Recap](https://www.youtube.com/watch?v=tAdoEzddAgI)
 - [Hear from Kim Manis, Director of Product for Power BI and Microsoft Fabric](https://www.youtube.com/watch?v=43DjWdQDQJY)
 - [AI Generated Descriptions | Power Platform Shorts](https://www.youtube.com/watch?v=DVHWPx05MvE)
-- [Dataverse integration with Microsoft Fabric](https://www.youtube.com/watch?v=bgcNsqp92YE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
