@@ -79,9 +79,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 3](https://www.youtube.com/watch?v=FL_WP_7KWPk)
 - [What I Wish I Knew ... about how to interview](https://www.youtube.com/watch?v=29ZnQpXN9vI)
 - [What I Wish I Knew ... about how to interview](https://www.youtube.com/watch?v=6obv84a8h9g)
-- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 3](https://www.youtube.com/watch?v=FL_WP_7KWPk)
 - [Building a Private ChatGPT with Azure OpenAI](https://www.youtube.com/watch?v=eio-prazdEo)
 - [Accelerate data labeling using Azure OpenAI and Azure AI Language](https://www.youtube.com/watch?v=ORI_naVvHa8)
 <!-- YOUTUBEAPPMOD:END -->
