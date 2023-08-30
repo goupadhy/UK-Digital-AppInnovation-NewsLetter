@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about different career paths](https://www.youtube.com/watch?v=VAJwsEddJ8E)
+- [What I Wish I Knew ... about different career paths](https://www.youtube.com/watch?v=AlKrSyv3OIo)
 - [Chat + Your Data + Plugins](https://www.youtube.com/watch?v=TNqAJUgm-sU)
 - [Getting Started with Azure Blob Storage | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=c9T46EIHg4I)
 - [Intelligent Apps with Azure Kubernetes Service &lpar;AKS&rpar;](https://www.youtube.com/watch?v=MGElMsKNvxg)
-- [Learn Live - Manage performance and availability in Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=CpdP-3yGuNo)
-- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 3](https://www.youtube.com/watch?v=FL_WP_7KWPk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
