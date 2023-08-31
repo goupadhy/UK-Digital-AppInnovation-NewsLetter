@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about social skills in a tech career](https://www.youtube.com/watch?v=F4bgcz7tnSI)
+- [What I Wish I Knew ... about social skills in a tech career](https://www.youtube.com/watch?v=7BF0-YTfztI)
 - [Plan your SQL Migration to Azure with confidence | Data Exposed](https://www.youtube.com/watch?v=-yq-hJaiJZE)
 - [Learn Live - Manage performance and availability in Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=CpdP-3yGuNo)
 - [Advanced Dev Tunnels Features | OD122](https://www.youtube.com/watch?v=yCYLurylgj8)
-- [What I Wish I Knew ... about different career paths](https://www.youtube.com/watch?v=VAJwsEddJ8E)
-- [What I Wish I Knew ... about different career paths](https://www.youtube.com/watch?v=AlKrSyv3OIo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
