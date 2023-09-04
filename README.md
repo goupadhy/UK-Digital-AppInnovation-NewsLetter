@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Scale from a single node to multiple nodes with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=uQnNxHpAZT8)
 - [All About Vectors, Search, and Function Calling in Azure OpenAI - Labor Day Special](https://www.youtube.com/watch?v=XyFeL5C2Hb0)
 - [What I Wish I Knew ... about social skills in a tech career](https://www.youtube.com/watch?v=F4bgcz7tnSI)
 - [What I Wish I Knew ... about social skills in a tech career](https://www.youtube.com/watch?v=7BF0-YTfztI)
 - [Plan your SQL Migration to Azure with confidence | Data Exposed](https://www.youtube.com/watch?v=-yq-hJaiJZE)
-- [Learn Live - Manage performance and availability in Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=CpdP-3yGuNo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
