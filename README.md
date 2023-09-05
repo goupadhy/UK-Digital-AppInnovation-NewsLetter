@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Charles Lamanna is ready for MPPC23!](https://www.youtube.com/watch?v=ENn5wT873wo)
 - [Dataverse Week Recap](https://www.youtube.com/watch?v=2s_m0S4u5Ds)
 - [Hear from Nirav Shah, Vice President of Dataverse](https://www.youtube.com/watch?v=4GkY5ZITavM)
 - [Accessing SharePoint and SQL data in Dataverse with Virtual Tables](https://www.youtube.com/watch?v=OYmr9OWe6ps)
 - [Welcome to Dataverse Week!](https://www.youtube.com/watch?v=7lMvk3YIIwM)
-- [Microsoft Teams connector is our connector of the week!](https://www.youtube.com/watch?v=zBLdm4xWXUE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
