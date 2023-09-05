@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about finding the right major](https://www.youtube.com/watch?v=qPVdUrLKPs4)
+- [What I Wish I Knew ... about finding the right major](https://www.youtube.com/watch?v=JNvnt4Nsmc0)
+- [Introduction to project ORAS](https://www.youtube.com/watch?v=dpXR3PJ_FHE)
 - [All About Vectors, Search, and Function Calling in Azure OpenAI - Labor Day Special](https://www.youtube.com/watch?v=XyFeL5C2Hb0)
 - [Learn Live - Scale from a single node to multiple nodes with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=uQnNxHpAZT8)
-- [What I Wish I Knew ... about social skills in a tech career](https://www.youtube.com/watch?v=F4bgcz7tnSI)
-- [What I Wish I Knew ... about social skills in a tech career](https://www.youtube.com/watch?v=7BF0-YTfztI)
-- [Plan your SQL Migration to Azure with confidence | Data Exposed](https://www.youtube.com/watch?v=-yq-hJaiJZE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
