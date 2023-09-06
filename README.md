@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)
 - [Getting started with edge computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/)
 - [How GitHub reduces costs with upgraded Codespaces](https://github.blog/2023-08-31-how-github-reduces-costs-with-upgraded-codespaces/)
 - [Why Rust is the most admired language among developers](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/)
 - [GitHub Enterprise Server 3.10 is now generally available](https://github.blog/2023-08-29-github-enterprise-server-3-10-is-now-generally-available/)
-- [10 things you didn’t know you could do with GitHub Projects](https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
