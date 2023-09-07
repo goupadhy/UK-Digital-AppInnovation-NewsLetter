@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Get started with SQL Server AGs across Windows, Linux and Container Replicas | Data Exposed](https://www.youtube.com/watch?v=tMoZusFCrJE)
+- [What I Wish I Knew ... about diversity in tech #1](https://www.youtube.com/watch?v=h6Fh9DuDhj8)
+- [What I Wish I Knew ... about diversity in tech #1](https://www.youtube.com/watch?v=FyPwsXNeN1k)
 - [Learn Live - Scale from a single node to multiple nodes with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=uQnNxHpAZT8)
 - [What I Wish I Knew ... about how to approach programming](https://www.youtube.com/watch?v=wf4UJhoxmms)
-- [What I Wish I Knew ... about how to approach programming](https://www.youtube.com/watch?v=JOJqIPTIUyU)
-- [What I Wish I Knew ... about finding the right major](https://www.youtube.com/watch?v=qPVdUrLKPs4)
-- [What I Wish I Knew ... about finding the right major](https://www.youtube.com/watch?v=JNvnt4Nsmc0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
