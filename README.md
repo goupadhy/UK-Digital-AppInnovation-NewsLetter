@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Live - Scale from a single node to multiple nodes with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=uQnNxHpAZT8)
 - [What I Wish I Knew ... about how to approach programming](https://www.youtube.com/watch?v=wf4UJhoxmms)
 - [What I Wish I Knew ... about how to approach programming](https://www.youtube.com/watch?v=JOJqIPTIUyU)
 - [What I Wish I Knew ... about finding the right major](https://www.youtube.com/watch?v=qPVdUrLKPs4)
 - [What I Wish I Knew ... about finding the right major](https://www.youtube.com/watch?v=JNvnt4Nsmc0)
-- [Introduction to project ORAS](https://www.youtube.com/watch?v=dpXR3PJ_FHE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
