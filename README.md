@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Acceleration device signal | Power Platform Shorts](https://www.youtube.com/watch?v=dKBMIb27b3Y)
 - [Join the Power Platform Global AI Hack!](https://www.youtube.com/watch?v=1oPllaVMbbs)
 - [Charles Lamanna is ready for MPPC23!](https://www.youtube.com/watch?v=ENn5wT873wo)
 - [Dataverse Week Recap](https://www.youtube.com/watch?v=2s_m0S4u5Ds)
 - [Hear from Nirav Shah, Vice President of Dataverse](https://www.youtube.com/watch?v=4GkY5ZITavM)
-- [Accessing SharePoint and SQL data in Dataverse with Virtual Tables](https://www.youtube.com/watch?v=OYmr9OWe6ps)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
