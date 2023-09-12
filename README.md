@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about how cool working in tech could be](https://www.youtube.com/watch?v=t0bXhxZMHe0)
+- [Open Source foundation models in Azure Machine Learning &amp; optimization techniques behind the scenes](https://www.youtube.com/watch?v=mPOQ_OsD99A)
+- [What I Wish I Knew ... about how cool working in tech could be](https://www.youtube.com/watch?v=djuDkCk35oM)
 - [Learn Live - Design multi-tenant SaaS apps with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=FhUuT2YgEEU)
 - [Writing LLM Apps with Azure AI and PromptFlow](https://www.youtube.com/watch?v=twr7JyZogFo)
-- [Get started with SQL Server AGs across Windows, Linux and Container Replicas | Data Exposed](https://www.youtube.com/watch?v=tMoZusFCrJE)
-- [What I Wish I Knew ... about diversity in tech #1](https://www.youtube.com/watch?v=h6Fh9DuDhj8)
-- [What I Wish I Knew ... about diversity in tech #1](https://www.youtube.com/watch?v=FyPwsXNeN1k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
