@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about being afraid to ask questions](https://www.youtube.com/watch?v=zA2HFOr42-0)
+- [What I Wish I Knew ... about being afraid to ask questions](https://www.youtube.com/watch?v=qX00jV-5JFE)
 - [Who owns the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=Fw4PQgCVR6c)
 - [Who owns the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=BZtB40i9Zw8)
 - [What I Wish I Knew ... about how cool working in tech could be](https://www.youtube.com/watch?v=t0bXhxZMHe0)
-- [Open Source foundation models in Azure Machine Learning &amp; optimization techniques behind the scenes](https://www.youtube.com/watch?v=mPOQ_OsD99A)
-- [What I Wish I Knew ... about how cool working in tech could be](https://www.youtube.com/watch?v=djuDkCk35oM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
