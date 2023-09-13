@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Who owns the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=Fw4PQgCVR6c)
+- [Who owns the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=BZtB40i9Zw8)
 - [What I Wish I Knew ... about how cool working in tech could be](https://www.youtube.com/watch?v=t0bXhxZMHe0)
 - [Open Source foundation models in Azure Machine Learning &amp; optimization techniques behind the scenes](https://www.youtube.com/watch?v=mPOQ_OsD99A)
 - [What I Wish I Knew ... about how cool working in tech could be](https://www.youtube.com/watch?v=djuDkCk35oM)
-- [Learn Live - Design multi-tenant SaaS apps with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=FhUuT2YgEEU)
-- [Writing LLM Apps with Azure AI and PromptFlow](https://www.youtube.com/watch?v=twr7JyZogFo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
