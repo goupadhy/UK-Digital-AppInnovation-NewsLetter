@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dian Taylor invites you to MPPC23!](https://www.youtube.com/watch?v=SE0TScwsT4s)
 - [Kickoff: Ready, Set, Hack: Do more with AI in the Power Platform](https://www.youtube.com/watch?v=vrwjre_n3qw)
 - [Geetha Sivasailam and Vivian Voss invite you MPPC23!](https://www.youtube.com/watch?v=A54DehKOGMQ)
 - [Power Apps Acceleration device signal | Power Platform Shorts](https://www.youtube.com/watch?v=dKBMIb27b3Y)
 - [Join the Power Platform Global AI Hack!](https://www.youtube.com/watch?v=1oPllaVMbbs)
-- [Charles Lamanna is ready for MPPC23!](https://www.youtube.com/watch?v=ENn5wT873wo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
