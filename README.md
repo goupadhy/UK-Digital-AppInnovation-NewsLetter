@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What do you mean when you say, &#39;Talent is everywhere, opportunity is not&#39;?](https://www.youtube.com/watch?v=_aHPcKdD7p4)
 - [Learn Live - Design multi-tenant SaaS apps with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=FhUuT2YgEEU)
 - [What I Wish I Knew ... about being afraid to ask questions](https://www.youtube.com/watch?v=zA2HFOr42-0)
 - [What I Wish I Knew ... about being afraid to ask questions](https://www.youtube.com/watch?v=qX00jV-5JFE)
 - [Who owns the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=Fw4PQgCVR6c)
-- [Who owns the code that GitHub Copilot generates?](https://www.youtube.com/watch?v=BZtB40i9Zw8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
