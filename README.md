@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The Latest from Azure Hybrid Benefit | Data Exposed](https://www.youtube.com/watch?v=SBcBuNv5jpU)
 - [What I Wish I Knew ... about trying new things at Microsoft](https://www.youtube.com/watch?v=vvKyZmuNuUc)
 - [What I Wish I Knew ... about trying new things at Microsoft](https://www.youtube.com/watch?v=uRF43qdu4YM)
 - [What do you mean when you say, &#39;Talent is everywhere, opportunity is not&#39;?](https://www.youtube.com/watch?v=_aHPcKdD7p4)
 - [Learn Live - Design multi-tenant SaaS apps with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=FhUuT2YgEEU)
-- [What I Wish I Knew ... about being afraid to ask questions](https://www.youtube.com/watch?v=zA2HFOr42-0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
