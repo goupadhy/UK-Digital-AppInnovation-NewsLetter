@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 4](https://www.youtube.com/watch?v=8h7OXfdUEhA)
 - [The Latest from Azure Hybrid Benefit | Data Exposed](https://www.youtube.com/watch?v=SBcBuNv5jpU)
 - [What I Wish I Knew ... about trying new things at Microsoft](https://www.youtube.com/watch?v=vvKyZmuNuUc)
 - [What I Wish I Knew ... about trying new things at Microsoft](https://www.youtube.com/watch?v=uRF43qdu4YM)
 - [What do you mean when you say, &#39;Talent is everywhere, opportunity is not&#39;?](https://www.youtube.com/watch?v=_aHPcKdD7p4)
-- [Learn Live - Design multi-tenant SaaS apps with Azure Cosmos DB for PostgreSQL](https://www.youtube.com/watch?v=FhUuT2YgEEU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
