@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about working in the real world](https://www.youtube.com/watch?v=n3tgYUTpE-g)
+- [Quick API Endpoints Using Data API Builder](https://www.youtube.com/watch?v=XQRO_uoGhp4)
+- [What I Wish I Knew ... about working in the real world](https://www.youtube.com/watch?v=FNEALtOfDcw)
 - [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 4](https://www.youtube.com/watch?v=8h7OXfdUEhA)
 - [The Latest from Azure Hybrid Benefit | Data Exposed](https://www.youtube.com/watch?v=SBcBuNv5jpU)
-- [What I Wish I Knew ... about trying new things at Microsoft](https://www.youtube.com/watch?v=vvKyZmuNuUc)
-- [What I Wish I Knew ... about trying new things at Microsoft](https://www.youtube.com/watch?v=uRF43qdu4YM)
-- [What do you mean when you say, &#39;Talent is everywhere, opportunity is not&#39;?](https://www.youtube.com/watch?v=_aHPcKdD7p4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
