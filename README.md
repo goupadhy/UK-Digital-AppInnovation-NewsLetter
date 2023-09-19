@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Retail Grocery Generative AI](https://www.youtube.com/watch?v=f9V87NftLBA)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Deepk Jose](https://www.youtube.com/watch?v=-0oQVTXLa6o)
 - [Project Gutenberg brings free audiobooks to the global community with AI-generated book narration](https://www.youtube.com/watch?v=iB01e1_xRgc)
 - [Bringing 24/7 hourly carbon-free energy to the world with Constellation](https://www.youtube.com/watch?v=GEZc_4oZllM)
 - [Microsoft empowers governments with technology for inclusive programs and thriving communities](https://www.youtube.com/watch?v=bUvoQ6IIzrY)
-- [Microsoft in Government &lpar;short&rpar;](https://www.youtube.com/watch?v=7D40A1tkmmQ)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
