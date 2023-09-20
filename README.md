@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do I get the best results from GitHub Copilot?](https://www.youtube.com/watch?v=Ii9Plw0iiQo)
 - [What I Wish I Knew ... about working in the real world](https://www.youtube.com/watch?v=n3tgYUTpE-g)
 - [Quick API Endpoints Using Data API Builder](https://www.youtube.com/watch?v=XQRO_uoGhp4)
 - [What I Wish I Knew ... about working in the real world](https://www.youtube.com/watch?v=FNEALtOfDcw)
 - [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 4](https://www.youtube.com/watch?v=8h7OXfdUEhA)
-- [The Latest from Azure Hybrid Benefit | Data Exposed](https://www.youtube.com/watch?v=SBcBuNv5jpU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
