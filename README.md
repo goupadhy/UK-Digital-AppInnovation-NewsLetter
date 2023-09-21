@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Achieve your sustainability and environmental goals with the Cloud Adoption Framework](https://www.youtube.com/watch?v=1ms9QKzVhMU)
 - [What I Wish I Knew ... about technical interviews](https://www.youtube.com/watch?v=9-cd0xpi_Kc)
 - [What I Wish I Knew ... about technical interviews](https://www.youtube.com/watch?v=5L_hd96GJvk)
 - [Microsoft Defender for Endpoint configuration management deep dive](https://www.youtube.com/watch?v=lf9DbuHgc18)
 - [What’s new in the Microsoft Defender for Endpoint configuration management space?](https://www.youtube.com/watch?v=0QquwJZ_O64)
-- [How do I get the best results from GitHub Copilot?](https://www.youtube.com/watch?v=Ii9Plw0iiQo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
