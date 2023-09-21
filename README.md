@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Learn | Azure OpenAI Learning Path](https://www.youtube.com/watch?v=jLe22KnAtI4)
+- [Use AI and REST with Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=PTIesnRCKK0)
+- [What I Wish I Knew ... about work-life balance](https://www.youtube.com/watch?v=TfyuW6t4y8k)
+- [What I Wish I Knew ... about work-life balance](https://www.youtube.com/watch?v=BAviH7T2chg)
 - [Achieve your sustainability and environmental goals with the Cloud Adoption Framework](https://www.youtube.com/watch?v=1ms9QKzVhMU)
-- [What I Wish I Knew ... about technical interviews](https://www.youtube.com/watch?v=9-cd0xpi_Kc)
-- [What I Wish I Knew ... about technical interviews](https://www.youtube.com/watch?v=5L_hd96GJvk)
-- [Microsoft Defender for Endpoint configuration management deep dive](https://www.youtube.com/watch?v=lf9DbuHgc18)
-- [What’s new in the Microsoft Defender for Endpoint configuration management space?](https://www.youtube.com/watch?v=0QquwJZ_O64)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
