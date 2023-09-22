@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How is the Microsoft TechSpark program expanding?](https://www.youtube.com/watch?v=s45uXEhwsvA)
 - [Microsoft Learn | Azure OpenAI Learning Path](https://www.youtube.com/watch?v=jLe22KnAtI4)
 - [Use AI and REST with Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=PTIesnRCKK0)
 - [What I Wish I Knew ... about work-life balance](https://www.youtube.com/watch?v=TfyuW6t4y8k)
 - [What I Wish I Knew ... about work-life balance](https://www.youtube.com/watch?v=BAviH7T2chg)
-- [Achieve your sustainability and environmental goals with the Cloud Adoption Framework](https://www.youtube.com/watch?v=1ms9QKzVhMU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
