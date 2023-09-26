@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
 - [Calling all teachers! Learn how to build new commands on the GitHub Classroom CLI](https://github.blog/2023-09-25-calling-all-teachers-learn-how-to-build-new-commands-on-the-github-classroom-cli/)
 - [The GitHub Security Lab’s journey to disclosing 500 CVEs in open source projects](https://github.blog/2023-09-21-the-github-security-labs-journey-to-disclosing-500-cves-in-open-source-projects/)
 - [Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
 - [Announcing the GitHub Innovation Graph](https://github.blog/2023-09-21-announcing-the-github-innovation-graph/)
-- [GitHub Copilot Chat beta now available for all individuals](https://github.blog/2023-09-20-github-copilot-chat-beta-now-available-for-all-individuals/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
