@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Microsoft Learn | Azure OpenAI Learning Path](https://www.youtube.com/watch?v=jLe22KnAtI4)
-- [Quick API Endpoints Using Data API Builder #youtubeshorts](https://www.youtube.com/watch?v=VKMwfejVib4)
-- [How is the Microsoft TechSpark program expanding?](https://www.youtube.com/watch?v=s45uXEhwsvA)
-- [Use AI and REST with Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=PTIesnRCKK0)
-- [What I Wish I Knew ... about work-life balance](https://www.youtube.com/watch?v=TfyuW6t4y8k)
+- [Using Notary Project Tooling to Ensure Container Image Integrity in Production](https://www.youtube.com/watch?v=k5tsE19DKbQ)
+- [What I Wish I Knew ... about the impact of tech](https://www.youtube.com/watch?v=h1fv0GSuEGA)
+- [Using Notary Project Tooling to Ensure Container Image Integrity in Production #shorts](https://www.youtube.com/watch?v=1Qs1Pe_ym1k)
+- [What I Wish I Knew ... about the impact of tech](https://www.youtube.com/watch?v=-sstR-8GT1I)
+- [Using the Azure Pipeline to Build and Deploy a Database Project | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=-y-T8jT2Zwk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
