@@ -79,7 +79,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Using Notary Project Tooling to Ensure Container Image Integrity in Production](https://www.youtube.com/watch?v=k5tsE19DKbQ)
+- [How to Ensure Container Image Integrity in Production](https://www.youtube.com/watch?v=k5tsE19DKbQ)
 - [What I Wish I Knew ... about the impact of tech](https://www.youtube.com/watch?v=h1fv0GSuEGA)
 - [Using Notary Project Tooling to Ensure Container Image Integrity in Production #shorts](https://www.youtube.com/watch?v=1Qs1Pe_ym1k)
 - [What I Wish I Knew ... about the impact of tech](https://www.youtube.com/watch?v=-sstR-8GT1I)
