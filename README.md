@@ -79,9 +79,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Learn | Azure OpenAI Learning Path](https://www.youtube.com/watch?v=jLe22KnAtI4)
 - [Quick API Endpoints Using Data API Builder #youtubeshorts](https://www.youtube.com/watch?v=VKMwfejVib4)
 - [How is the Microsoft TechSpark program expanding?](https://www.youtube.com/watch?v=s45uXEhwsvA)
-- [Microsoft Learn | Azure OpenAI Learning Path](https://www.youtube.com/watch?v=jLe22KnAtI4)
 - [Use AI and REST with Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=PTIesnRCKK0)
 - [What I Wish I Knew ... about work-life balance](https://www.youtube.com/watch?v=TfyuW6t4y8k)
 <!-- YOUTUBEAPPMOD:END -->
