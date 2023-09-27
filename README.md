@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Live Response](https://www.youtube.com/watch?v=bPPU5kDs1b8)
+- [Integrating Microsoft 365 Defender with Azure Logic Apps](https://www.youtube.com/watch?v=2HyL5fZ2TQg)
 - [How to Ensure Container Image Integrity in Production](https://www.youtube.com/watch?v=k5tsE19DKbQ)
 - [What I Wish I Knew ... about the impact of tech](https://www.youtube.com/watch?v=h1fv0GSuEGA)
 - [Using Notary Project Tooling to Ensure Container Image Integrity in Production #shorts](https://www.youtube.com/watch?v=1Qs1Pe_ym1k)
-- [What I Wish I Knew ... about the impact of tech](https://www.youtube.com/watch?v=-sstR-8GT1I)
-- [Using the Azure Pipeline to Build and Deploy a Database Project | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=-y-T8jT2Zwk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
