@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about having mentors](https://www.youtube.com/watch?v=U2mKjo-aTYc)
+- [What I Wish I Knew ... about having mentors](https://www.youtube.com/watch?v=1a3pnhCOSPU)
+- [What is GitHub Copilot for Business?](https://www.youtube.com/watch?v=d06I_Wmak2g)
+- [What is GitHub Copilot for Business?](https://www.youtube.com/watch?v=z_GcL6kvxDw)
 - [Live Response](https://www.youtube.com/watch?v=bPPU5kDs1b8)
-- [Integrating Microsoft 365 Defender with Azure Logic Apps](https://www.youtube.com/watch?v=2HyL5fZ2TQg)
-- [How to Ensure Container Image Integrity in Production](https://www.youtube.com/watch?v=k5tsE19DKbQ)
-- [What I Wish I Knew ... about the impact of tech](https://www.youtube.com/watch?v=h1fv0GSuEGA)
-- [Using Notary Project Tooling to Ensure Container Image Integrity in Production #shorts](https://www.youtube.com/watch?v=1Qs1Pe_ym1k)
 <!-- YOUTUBEAPPMOD:END -->
 
 
