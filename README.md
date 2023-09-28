@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=cAfbZ1G75Ns)
+- [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=SxYgtJUFS0I)
+- [How to set up centralized, scalable, and secure access for SQL operations personnel | Data Exposed](https://www.youtube.com/watch?v=1xG12PHhgCA)
+- [What do you hope to accomplish with TechSpark?](https://www.youtube.com/watch?v=ycI2X7XJ-io)
 - [What I Wish I Knew ... about having mentors](https://www.youtube.com/watch?v=U2mKjo-aTYc)
-- [What I Wish I Knew ... about having mentors](https://www.youtube.com/watch?v=1a3pnhCOSPU)
-- [What is GitHub Copilot for Business?](https://www.youtube.com/watch?v=d06I_Wmak2g)
-- [What is GitHub Copilot for Business?](https://www.youtube.com/watch?v=z_GcL6kvxDw)
-- [Live Response](https://www.youtube.com/watch?v=bPPU5kDs1b8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
