@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Wrap up and take action: Join our community for the next Big Thing!](https://www.youtube.com/watch?v=x44dWCgqJQ4)
 - [Join Arun Ulag at MPPC23!](https://www.youtube.com/watch?v=5ZDUqJEkoFM)
 - [How to submit your projects on GitHub](https://www.youtube.com/watch?v=S5Zk_0lvAdM)
 - [Leveraging Azure OpenAI Service in the Power Platform](https://www.youtube.com/watch?v=LbbEY2Juq90)
 - [Get started with AI Builder in the Power Platform](https://www.youtube.com/watch?v=iEE7FTi05hE)
-- [Intro to Power Platform Copilots](https://www.youtube.com/watch?v=-cU-1bpmk-k)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
