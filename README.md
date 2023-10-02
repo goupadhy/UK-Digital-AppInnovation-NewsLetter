@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Cybersecurity spotlight on bug bounty researcher @inspector-ambitious](https://github.blog/2023-10-02-cybersecurity-spotlight-on-bug-bounty-researcher-inspector-ambitious/)
 - [Introducing the new, Apple silicon powered M1 macOS larger runner for GitHub Actions](https://github.blog/2023-10-02-introducing-the-new-apple-silicon-powered-m1-macos-larger-runner-for-github-actions/)
 - [Game Bytes · September 2023](https://github.blog/2023-09-29-game-bytes/)
 - [GitHub Learning Pathways: Learn from the best](https://github.blog/2023-09-28-github-learning-pathways-learn-from-the-best/)
 - [How I used GitHub Copilot Chat to build a ReactJS gallery prototype](https://github.blog/2023-09-27-how-i-used-github-copilot-chat-to-build-a-reactjs-gallery-prototype/)
-- [How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com](https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
