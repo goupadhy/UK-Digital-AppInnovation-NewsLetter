@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 5](https://www.youtube.com/watch?v=i15oJcNCLXQ)
 - [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=cAfbZ1G75Ns)
 - [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=SxYgtJUFS0I)
 - [How to set up centralized, scalable, and secure access for SQL operations personnel | Data Exposed](https://www.youtube.com/watch?v=1xG12PHhgCA)
 - [What do you hope to accomplish with TechSpark?](https://www.youtube.com/watch?v=ycI2X7XJ-io)
-- [What I Wish I Knew ... about having mentors](https://www.youtube.com/watch?v=U2mKjo-aTYc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
