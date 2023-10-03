@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 5](https://www.youtube.com/watch?v=i15oJcNCLXQ)
-- [Microsoft Learn | Developing solutions with Azure OpenAI](https://www.youtube.com/watch?v=foIxDIToDkU)
-- [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=cAfbZ1G75Ns)
-- [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=SxYgtJUFS0I)
-- [How to set up centralized, scalable, and secure access for SQL operations personnel | Data Exposed](https://www.youtube.com/watch?v=1xG12PHhgCA)
+- [Simplifying Development Experience and Deployment with Azure Kubernetes Service Extension in VS Code](https://www.youtube.com/watch?v=9R77V47bdrw)
+- [Simplifying Development Experience and Deployment with Azure Kubernetes Service Extension in VS Code](https://www.youtube.com/watch?v=DjwmMpmZ65M)
+- [Mr. Maeda’s Cozy AI Kitchen: AI-copiloted Design Thinking with guest Ben Sheppard](https://www.youtube.com/watch?v=6Jr6z_YvJhc)
+- [What I Wish I Knew ... about applying to internships](https://www.youtube.com/watch?v=a59AGBNzZ2U)
+- [What I Wish I Knew ... about applying to internships &lpar;Shorts&rpar;](https://www.youtube.com/watch?v=CiUPuEPUEO4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
