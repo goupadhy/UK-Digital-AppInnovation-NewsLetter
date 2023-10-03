@@ -25,8 +25,8 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Microsoft Learn | Developing solutions with Azure OpenAI](https://www.youtube.com/watch?v=foIxDIToDkU)
 - [Getting Started with Azure AI Studio&#39;s Prompt Flow - Part 5](https://www.youtube.com/watch?v=i15oJcNCLXQ)
+- [Microsoft Learn | Developing solutions with Azure OpenAI](https://www.youtube.com/watch?v=foIxDIToDkU)
 - [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=cAfbZ1G75Ns)
 - [What I Wish I Knew ... about what&#39;s cool about accessible tech](https://www.youtube.com/watch?v=SxYgtJUFS0I)
 - [How to set up centralized, scalable, and secure access for SQL operations personnel | Data Exposed](https://www.youtube.com/watch?v=1xG12PHhgCA)
