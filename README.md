@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Where did GitHub Copilot come from?](https://www.youtube.com/watch?v=FTJv6qV2K-A)
 - [Simplifying Development Experience and Deployment with Azure Kubernetes Service Extension in VS Code](https://www.youtube.com/watch?v=9R77V47bdrw)
 - [Simplifying Development Experience and Deployment with Azure Kubernetes Service Extension in VS Code](https://www.youtube.com/watch?v=DjwmMpmZ65M)
 - [Mr. Maeda’s Cozy AI Kitchen: AI-copiloted Design Thinking with guest Ben Sheppard](https://www.youtube.com/watch?v=6Jr6z_YvJhc)
 - [What I Wish I Knew ... about applying to internships](https://www.youtube.com/watch?v=a59AGBNzZ2U)
-- [What I Wish I Knew ... about applying to internships &lpar;Shorts&rpar;](https://www.youtube.com/watch?v=CiUPuEPUEO4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
