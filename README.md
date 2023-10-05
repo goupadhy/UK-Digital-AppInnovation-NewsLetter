@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about finding the right company](https://www.youtube.com/watch?v=yGH8tJE-uAU)
+- [What I Wish I Knew ... about finding the right company](https://www.youtube.com/watch?v=BNUkGeAUQOA)
+- [How can I get involved with the TechSpark program?](https://www.youtube.com/watch?v=JvGtNJ_DDh0)
 - [How to migrate to Microsoft SQL with the Database Migration Service Pack for Oracle](https://www.youtube.com/watch?v=lRIkWyoT2nk)
 - [What I Wish I Knew ... about finding your competitive edge](https://www.youtube.com/watch?v=BjI_ErNh1Oc)
-- [What I Wish I Knew ... about finding your competitive edge](https://www.youtube.com/watch?v=-Qp6RU8iA14)
-- [Where did GitHub Copilot come from?](https://www.youtube.com/watch?v=FTJv6qV2K-A)
-- [Simplifying Development Experience and Deployment with Azure Kubernetes Service Extension in VS Code](https://www.youtube.com/watch?v=9R77V47bdrw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
