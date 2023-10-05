@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [A developer&#8217;s guide to open source LLMs and generative AI](https://github.blog/2023-10-05-a-developers-guide-to-open-source-llms-and-generative-ai/)
 - [How to communicate like a GitHub engineer: our principles, practices, and tools](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/)
 - [Introducing secret scanning validity checks for major cloud services](https://github.blog/2023-10-04-introducing-secret-scanning-validity-checks-for-major-cloud-services/)
 - [Sponsors is expanding](https://github.blog/2023-10-03-sponsors-is-expanding/)
 - [3 strategies to expand your threat model and secure your supply chain](https://github.blog/2023-10-03-3-strategies-to-expand-your-threat-model-and-secure-your-supply-chain/)
-- [Cybersecurity spotlight on bug bounty researcher @inspector-ambitious](https://github.blog/2023-10-02-cybersecurity-spotlight-on-bug-bounty-researcher-inspector-ambitious/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
