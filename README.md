@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Dominik Wee presents Relentless Renewal | AI Masterclass with Magnus Östberg, Mercedes-Benz AG](https://www.youtube.com/watch?v=G2L6xqDE-jU)
 - [The future of financial services: Enhanced data and discovery from LSEG and Microsoft](https://www.youtube.com/watch?v=TM4ehzYyRPw)
 - [Microsoft Cloud for Retail Grocery Generative AI](https://www.youtube.com/watch?v=f9V87NftLBA)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Deepak Jose](https://www.youtube.com/watch?v=-0oQVTXLa6o)
 - [Project Gutenberg brings free audiobooks to the global community with AI-generated book narration](https://www.youtube.com/watch?v=iB01e1_xRgc)
-- [Bringing 24/7 hourly carbon-free energy to the world with Constellation](https://www.youtube.com/watch?v=GEZc_4oZllM)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
