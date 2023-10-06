@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Connecting OpenAI Private Endpoints Across VNETs](https://www.youtube.com/watch?v=NjHeF4cluNU)
 - [What I Wish I Knew ... about finding the right company](https://www.youtube.com/watch?v=yGH8tJE-uAU)
 - [What I Wish I Knew ... about finding the right company](https://www.youtube.com/watch?v=BNUkGeAUQOA)
 - [How can I get involved with the TechSpark program?](https://www.youtube.com/watch?v=JvGtNJ_DDh0)
 - [How to migrate to Microsoft SQL with the Database Migration Service Pack for Oracle](https://www.youtube.com/watch?v=lRIkWyoT2nk)
-- [What I Wish I Knew ... about finding your competitive edge](https://www.youtube.com/watch?v=BjI_ErNh1Oc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
