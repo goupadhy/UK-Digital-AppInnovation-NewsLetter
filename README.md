@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Day zero with DRAFT](https://www.youtube.com/watch?v=K1VYLSm32wg)
+- [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=ELuP3w1spXw)
+- [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=aUDu3YhGgNY)
 - [Model Monitoring for LLMs](https://www.youtube.com/watch?v=hVsjcsoGAww)
 - [Connecting OpenAI Private Endpoints Across VNETs](https://www.youtube.com/watch?v=NjHeF4cluNU)
-- [What I Wish I Knew ... about finding the right company](https://www.youtube.com/watch?v=yGH8tJE-uAU)
-- [What I Wish I Knew ... about finding the right company](https://www.youtube.com/watch?v=BNUkGeAUQOA)
-- [How can I get involved with the TechSpark program?](https://www.youtube.com/watch?v=JvGtNJ_DDh0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
