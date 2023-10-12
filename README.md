@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about the importance of mentors](https://www.youtube.com/watch?v=fLX7a5QAPJE)
+- [What I Wish I Knew ... about the importance of mentors](https://www.youtube.com/watch?v=NmzFLpL7zmY)
 - [What I Wish I Knew ... about facing rejection](https://www.youtube.com/watch?v=FDgl8Xygg9s)
 - [What I Wish I Knew ... about facing rejection](https://www.youtube.com/watch?v=9TDcUF_ruYs)
 - [Day zero with DRAFT](https://www.youtube.com/watch?v=K1VYLSm32wg)
-- [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=ELuP3w1spXw)
-- [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=aUDu3YhGgNY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
