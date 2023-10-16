@@ -79,7 +79,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Model Monitoring for LLMs](https://www.youtube.com/watch?v=JBWYnOWmvQo)
+- [Model Monitoring for Generative AI applications](https://www.youtube.com/watch?v=JBWYnOWmvQo)
 - [What I Wish I Knew ... about the importance of mentors](https://www.youtube.com/watch?v=fLX7a5QAPJE)
 - [What I Wish I Knew ... about the importance of mentors](https://www.youtube.com/watch?v=NmzFLpL7zmY)
 - [What I Wish I Knew ... about facing rejection](https://www.youtube.com/watch?v=FDgl8Xygg9s)
