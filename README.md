@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cache for Redis: Geo-Positioning](https://www.youtube.com/watch?v=lOYRMmwXgLw)
 - [What I Wish I Knew ... about a career in tech](https://www.youtube.com/watch?v=9rD-Kqm7ghY)
 - [What I Wish I Knew ... about a career in tech](https://www.youtube.com/watch?v=DaWWzBFUdF4)
 - [New Azure SQL Database free offer | Data Exposed](https://www.youtube.com/watch?v=NOT_pScEVFc)
 - [Model Monitoring for Generative AI applications](https://www.youtube.com/watch?v=JBWYnOWmvQo)
-- [What I Wish I Knew ... about the importance of mentors](https://www.youtube.com/watch?v=fLX7a5QAPJE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
