@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about what you do as a software engineer](https://www.youtube.com/watch?v=l4ntTBXTcSE)
+- [What I Wish I Knew ... about what you do as a software engineer](https://www.youtube.com/watch?v=dgiX0Skp650)
 - [To Fine Tune or not Fine Tune? That is the question](https://www.youtube.com/watch?v=_VapJR1CGQg)
 - [Azure Cache for Redis: Geo-Positioning](https://www.youtube.com/watch?v=lOYRMmwXgLw)
 - [What I Wish I Knew ... about a career in tech](https://www.youtube.com/watch?v=9rD-Kqm7ghY)
-- [What I Wish I Knew ... about a career in tech](https://www.youtube.com/watch?v=DaWWzBFUdF4)
-- [New Azure SQL Database free offer | Data Exposed](https://www.youtube.com/watch?v=NOT_pScEVFc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
