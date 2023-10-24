@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about computer science](https://www.youtube.com/watch?v=T7_dYmpVN2Y)
+- [What I Wish I Knew ... about computer science](https://www.youtube.com/watch?v=p-gmuJcF2Is)
 - [To Fine Tune or not Fine Tune? That is the question](https://www.youtube.com/watch?v=_VapJR1CGQg)
 - [Cleaning Your Kubernetes Clusters](https://www.youtube.com/watch?v=Dxz_ANh81Rc)
 - [Cleaning Your Kubernetes Clusters](https://www.youtube.com/watch?v=lw-Vzr3EBmg)
-- [What I Wish I Knew ... about finding your passion](https://www.youtube.com/watch?v=bWX-x1vNpc4)
-- [New Azure Portal experience for Azure Database Migration Service | Data Exposed](https://www.youtube.com/watch?v=XgtbIwFB5hs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
