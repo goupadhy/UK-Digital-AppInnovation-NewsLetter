@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Informatica, together with Azure, helps customers to improve data access and increase revenue](https://www.youtube.com/watch?v=hdUql39P2WY)
 - [CallMiner partners with Microsoft to convert conversations into action with Azure AI services](https://www.youtube.com/watch?v=qVLqCOKm08g)
 - [SymphonyAI helps financial crime investigators be more efficient with Microsoft Azure](https://www.youtube.com/watch?v=To3zBHPNQoc)
 - [Gain meaningful healthcare insights by infusing AI and Power BI](https://www.youtube.com/watch?v=8rRrqiMnmJg)
 - [Unlock the power of data with healthcare data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=8VOfgwGDMuE)
-- [The Microsoft Cloud for the era of AI](https://www.youtube.com/watch?v=3MNCpBEjtPs)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
