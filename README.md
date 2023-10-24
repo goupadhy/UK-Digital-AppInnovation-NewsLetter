@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda’s Cozy AI Kitchen: AI-copiloted Career Advising with guest Kevin Bethune](https://www.youtube.com/watch?v=vEXTWilW_sU)
 - [To Fine Tune or Not Fine Tune? That is the question](https://www.youtube.com/watch?v=0Jo-z-MFxJs)
 - [What I Wish I Knew ... about computer science](https://www.youtube.com/watch?v=T7_dYmpVN2Y)
 - [What I Wish I Knew ... about computer science](https://www.youtube.com/watch?v=p-gmuJcF2Is)
 - [To Fine Tune or not Fine Tune? That is the question](https://www.youtube.com/watch?v=_VapJR1CGQg)
-- [Cleaning Your Kubernetes Clusters](https://www.youtube.com/watch?v=Dxz_ANh81Rc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
