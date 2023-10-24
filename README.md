@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [CallMiner partners with Microsoft to convert conversations into action with Azure AI services](https://www.youtube.com/watch?v=qVLqCOKm08g)
 - [SymphonyAI helps financial crime investigators be more efficient with Microsoft Azure](https://www.youtube.com/watch?v=To3zBHPNQoc)
 - [Gain meaningful healthcare insights by infusing AI and Power BI](https://www.youtube.com/watch?v=8rRrqiMnmJg)
+- [Unlock the power of data with healthcare data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=8VOfgwGDMuE)
 - [The Microsoft Cloud for the era of AI](https://www.youtube.com/watch?v=3MNCpBEjtPs)
-- [Dominik Wee presents Relentless Renewal | AI Masterclass with Magnus Östberg, Mercedes-Benz AG](https://www.youtube.com/watch?v=G2L6xqDE-jU)
-- [The future of financial services: Enhanced data and discovery from LSEG and Microsoft](https://www.youtube.com/watch?v=TM4ehzYyRPw)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
