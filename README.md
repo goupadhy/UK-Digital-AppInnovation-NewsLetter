@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Search and Replace | Power Platform Shorts](https://www.youtube.com/watch?v=cJsRi94OnRU)
 - [Copy Function Power Fx | Power Platform Shorts](https://www.youtube.com/watch?v=Jr_Kr0WhaPM)
 - [Announcing Connector Checker in Solutions to validate your Connector](https://www.youtube.com/watch?v=x7lWIItnDSQ)
 - [Connector of the Week: Office365 Outlook](https://www.youtube.com/watch?v=n8Km2pQc_04)
 - [Connector of the Week: Approvals](https://www.youtube.com/watch?v=6vJ-KuPAR8s)
-- [Wrap up and take action: Join our community for the next Big Thing!](https://www.youtube.com/watch?v=x44dWCgqJQ4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
