@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Content Safety](https://www.youtube.com/watch?v=zNuUyLjT7bI)
 - [What I Wish I Knew ... about how to network](https://www.youtube.com/watch?v=uXk0cQasRHs)
 - [What I Wish I Knew ... about how to network](https://www.youtube.com/watch?v=0_SQ6gdWBCE)
 - [WIW 76 110006 JK 16x9 V1](https://www.youtube.com/watch?v=85sdbwlcjbo)
 - [What I Wish I Knew ... about thriving at Microsoft](https://www.youtube.com/watch?v=BrvKkss6mig)
-- [What is meant by GitHub Copilot X is a vision?](https://www.youtube.com/watch?v=I6MIJ0oYe1A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
