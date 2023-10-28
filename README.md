@@ -82,7 +82,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Content Safety](https://www.youtube.com/watch?v=zNuUyLjT7bI)
 - [What I Wish I Knew ... about how to network](https://www.youtube.com/watch?v=uXk0cQasRHs)
 - [What I Wish I Knew ... about how to network](https://www.youtube.com/watch?v=0_SQ6gdWBCE)
-- [WIW 76 110006 JK 16x9 V1](https://www.youtube.com/watch?v=85sdbwlcjbo)
+- [What I wish I knew ... about thriving at Microsoft](https://www.youtube.com/watch?v=85sdbwlcjbo)
 - [What I Wish I Knew ... about thriving at Microsoft](https://www.youtube.com/watch?v=BrvKkss6mig)
 <!-- YOUTUBEAPPMOD:END -->
 
