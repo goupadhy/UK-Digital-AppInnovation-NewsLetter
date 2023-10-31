@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Optimizing Your SQL Database Workloads w/ Automatic Tuning on Azure SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=nfmjuKzRetU)
+- [Introduction to Copa](https://www.youtube.com/watch?v=DUt4wnKV4a8)
+- [What are the benefits of Copa for your container?](https://www.youtube.com/watch?v=G8gUL54GseU)
 - [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=SX1AsP-YlRg)
 - [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=kN5HZeY8KBU)
-- [Content Safety](https://www.youtube.com/watch?v=zNuUyLjT7bI)
-- [What I Wish I Knew ... about how to network](https://www.youtube.com/watch?v=uXk0cQasRHs)
-- [What I Wish I Knew ... about how to network](https://www.youtube.com/watch?v=0_SQ6gdWBCE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
