@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about remote interviews](https://www.youtube.com/watch?v=z-67g9ruhHE)
+- [What I Wish I Knew ... about remote interviews](https://www.youtube.com/watch?v=XCqYEiraCsU)
 - [Optimizing Your SQL Database Workloads w/ Automatic Tuning on Azure SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=nfmjuKzRetU)
 - [Introduction to Copa](https://www.youtube.com/watch?v=DUt4wnKV4a8)
 - [What are the benefits of Copa for your container?](https://www.youtube.com/watch?v=G8gUL54GseU)
-- [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=SX1AsP-YlRg)
-- [What I Wish I Knew ... about working at Microsoft](https://www.youtube.com/watch?v=kN5HZeY8KBU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
