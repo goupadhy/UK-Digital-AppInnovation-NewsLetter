@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Microsoft again named a Leader in the 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://powerapps.microsoft.com/en-us/blog/microsoft-again-named-a-leader-in-the-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/)
-- [Microsoft Business Applications Launch Event introduces wave of new AI-powered capabilities for Dynamics 365 and Power Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/25/microsoft-business-applications-launch-event-introduces-wave-of-new-ai-powered-capabilities-for-dynamics-365-and-power-platform/)
 - [See new AI for Microsoft Power Platform at our tenth launch event](https://cloudblogs.microsoft.com/powerplatform/2023/10/04/see-new-ai-for-microsoft-power-platform-at-our-tenth-launch-event/)
 - [The AI revolution: Supercharging low-code with the Power Platform community](https://cloudblogs.microsoft.com/powerplatform/2023/10/03/the-ai-revolution-supercharging-low-code-with-the-power-platform-community/)
 - [Microsoft named a Leader and Positioned Furthest for Completeness of Vision in the 2023 Gartner® Magic Quadrant™ for Robotic Process Automation](https://powerautomate.microsoft.com/en-us/blog/microsoft-named-a-leader-and-positioned-furthest-for-completeness-of-vision-in-the-2023-gartner-magic-quadrant-for-robotic-process-automation/)
+- [Microsoft sponsors the second Power Platform Conference, a community-driven technical skilling event](https://cloudblogs.microsoft.com/powerplatform/2023/07/25/microsoft-sponsors-the-second-power-platform-conference-a-community-driven-technical-skilling-event/)
+- [Microsoft launches Power Automate Process Mining and next-generation AI](https://cloudblogs.microsoft.com/powerplatform/2023/07/18/microsoft-launches-power-automate-process-mining-and-next-generation-ai/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
