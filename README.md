@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking](https://www.youtube.com/watch?v=lxt3grn4xRI)
 - [Track middle tier applications with SQL Audit | Data Exposed](https://www.youtube.com/watch?v=dm0NpC1BE-k)
 - [What I Wish I Knew ... about creativity in tech](https://www.youtube.com/watch?v=P4Zl66D8KR0)
 - [What I Wish I Knew ... about creativity in tech](https://www.youtube.com/watch?v=hdQPEBKOKR8)
 - [How does TitletownTech fit into the TechSpark program?](https://www.youtube.com/watch?v=uHejePVsq10)
-- [What I Wish I Knew ... about remote interviews](https://www.youtube.com/watch?v=z-67g9ruhHE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
