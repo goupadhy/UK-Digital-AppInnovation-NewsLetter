@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How does TitletownTech fit into the TechSpark program?](https://www.youtube.com/watch?v=uHejePVsq10)
 - [What I Wish I Knew ... about remote interviews](https://www.youtube.com/watch?v=z-67g9ruhHE)
 - [What I Wish I Knew ... about remote interviews](https://www.youtube.com/watch?v=XCqYEiraCsU)
 - [Optimizing Your SQL Database Workloads w/ Automatic Tuning on Azure SQL | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=nfmjuKzRetU)
 - [Introduction to Copa](https://www.youtube.com/watch?v=DUt4wnKV4a8)
-- [What are the benefits of Copa for your container?](https://www.youtube.com/watch?v=G8gUL54GseU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
