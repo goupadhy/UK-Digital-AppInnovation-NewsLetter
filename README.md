@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Why can telemetry sometimes surprise you? One Dev Question with Larry Osterman](https://www.youtube.com/watch?v=WBT1mDx-QAY)
 - [Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking](https://www.youtube.com/watch?v=lxt3grn4xRI)
 - [Track middle tier applications with SQL Audit | Data Exposed](https://www.youtube.com/watch?v=dm0NpC1BE-k)
 - [What I Wish I Knew ... about creativity in tech](https://www.youtube.com/watch?v=P4Zl66D8KR0)
 - [What I Wish I Knew ... about creativity in tech](https://www.youtube.com/watch?v=hdQPEBKOKR8)
-- [How does TitletownTech fit into the TechSpark program?](https://www.youtube.com/watch?v=uHejePVsq10)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
