@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AI Solutions by Intapp &amp; Microsoft for Financial &amp; Pro Services on Azure](https://www.youtube.com/watch?v=dypHpr7ntsg)
+- [Microsoft and SLB alliance transforming the energy future](https://www.youtube.com/watch?v=2iMmfJQtNvY)
 - [Dominik Wee presents Relentless Renewal: The power of storytelling](https://www.youtube.com/watch?v=lxnkoEgM5Do)
 - [Modern Requirements revolutionizing product development with Azure DevOps and Azure OpenAI Service](https://www.youtube.com/watch?v=mfRV1A6axjE)
 - [Informatica, together with Azure, helps customers to improve data access and increase revenue](https://www.youtube.com/watch?v=hdUql39P2WY)
-- [CallMiner partners with Microsoft to convert conversations into action with Azure AI services](https://www.youtube.com/watch?v=qVLqCOKm08g)
-- [SymphonyAI helps financial crime investigators be more efficient with Microsoft Azure](https://www.youtube.com/watch?v=To3zBHPNQoc)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
