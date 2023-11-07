@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda’s Cozy AI Kitchen: Design Vision with guest Paola Antonelli](https://www.youtube.com/watch?v=TZ8wHF9iiuM)
 - [What I Wish I Knew ... about communication skills](https://www.youtube.com/watch?v=u6JZw3gygQA)
 - [What I Wish I Knew ... about communication skills](https://www.youtube.com/watch?v=a1qdSL2QbRg)
 - [Oam  100356 20231026 YTS V2](https://www.youtube.com/watch?v=9eeDpvPgRvw)
 - [Introducing Radius: A new open-source project for teams building cloud-native apps](https://www.youtube.com/watch?v=mT_NWFnYn0A)
-- [Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking](https://www.youtube.com/watch?v=lxt3grn4xRI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
