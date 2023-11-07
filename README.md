@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Oam  100356 20231026 YTS V2](https://www.youtube.com/watch?v=9eeDpvPgRvw)
+- [Introducing Radius: A new open-source project for teams building cloud-native apps](https://www.youtube.com/watch?v=mT_NWFnYn0A)
 - [Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking](https://www.youtube.com/watch?v=lxt3grn4xRI)
 - [AI Show | Content Safety](https://www.youtube.com/watch?v=WPvI95mTvNE)
 - [Why can telemetry sometimes surprise you? One Dev Question with Larry Osterman](https://www.youtube.com/watch?v=WBT1mDx-QAY)
-- [Track middle tier applications with SQL Audit | Data Exposed](https://www.youtube.com/watch?v=dm0NpC1BE-k)
-- [What I Wish I Knew ... about creativity in tech](https://www.youtube.com/watch?v=P4Zl66D8KR0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
