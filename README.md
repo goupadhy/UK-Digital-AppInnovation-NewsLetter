@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about what interviewers want to hear](https://www.youtube.com/watch?v=qc6bpZkt7MQ)
+- [What I Wish I Knew ... about what interviewers want to hear](https://www.youtube.com/watch?v=I9aI-gjyzq8)
 - [How are LLMs revolutionizing UX design? | One Dev Question with Rachel Shepard](https://www.youtube.com/watch?v=hib1R3blvCw)
 - [Live! from The Reactor](https://www.youtube.com/watch?v=G7dMcs5jqQ4)
 - [Mr. Maeda’s Cozy AI Kitchen: Design Vision with guest Paola Antonelli](https://www.youtube.com/watch?v=TZ8wHF9iiuM)
-- [What I Wish I Knew ... about communication skills](https://www.youtube.com/watch?v=u6JZw3gygQA)
-- [What I Wish I Knew ... about communication skills](https://www.youtube.com/watch?v=a1qdSL2QbRg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
