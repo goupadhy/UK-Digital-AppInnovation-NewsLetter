@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Up Story - Chris](https://www.youtube.com/watch?v=GIhHV0yNAGI)
 - [Power Up Story - Ruby](https://www.youtube.com/watch?v=Xsf7Ecl-c8I)
 - [Build your first app with the Microsoft Power Up Program!](https://www.youtube.com/watch?v=pLE7Jn-951k)
 - [HDFC Bank uses the Microsoft Power Platform to lead digital transformation](https://www.youtube.com/watch?v=seD7BapZeMA)
 - [Power Apps Search and Replace | Power Platform Shorts](https://www.youtube.com/watch?v=cJsRi94OnRU)
-- [Copy Function Power Fx | Power Platform Shorts](https://www.youtube.com/watch?v=Jr_Kr0WhaPM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
