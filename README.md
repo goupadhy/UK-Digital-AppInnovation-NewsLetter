@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Live! from The Reactor](https://www.youtube.com/watch?v=G7dMcs5jqQ4)
 - [Mr. Maeda’s Cozy AI Kitchen: Design Vision with guest Paola Antonelli](https://www.youtube.com/watch?v=TZ8wHF9iiuM)
 - [What I Wish I Knew ... about communication skills](https://www.youtube.com/watch?v=u6JZw3gygQA)
 - [What I Wish I Knew ... about communication skills](https://www.youtube.com/watch?v=a1qdSL2QbRg)
 - [Oam  100356 20231026 YTS V2](https://www.youtube.com/watch?v=9eeDpvPgRvw)
-- [Introducing Radius: A new open-source project for teams building cloud-native apps](https://www.youtube.com/watch?v=mT_NWFnYn0A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
