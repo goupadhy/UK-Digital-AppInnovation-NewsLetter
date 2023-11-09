@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about not having done internships](https://www.youtube.com/watch?v=rqWx0rQ1ME8)
+- [What I Wish I Knew ... about not having done internships](https://www.youtube.com/watch?v=EG0jGP7TYBc)
+- [How do partnerships play into the TechSpark program?](https://www.youtube.com/watch?v=AzIZUkLU0hc)
 - [What I Wish I Knew ... about what interviewers want to hear](https://www.youtube.com/watch?v=qc6bpZkt7MQ)
 - [What I Wish I Knew ... about what interviewers want to hear](https://www.youtube.com/watch?v=I9aI-gjyzq8)
-- [How are LLMs revolutionizing UX design? | One Dev Question with Rachel Shepard](https://www.youtube.com/watch?v=hib1R3blvCw)
-- [Live! from The Reactor](https://www.youtube.com/watch?v=G7dMcs5jqQ4)
-- [Mr. Maeda’s Cozy AI Kitchen: Design Vision with guest Paola Antonelli](https://www.youtube.com/watch?v=TZ8wHF9iiuM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
