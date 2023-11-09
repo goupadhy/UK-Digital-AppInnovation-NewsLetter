@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Database portability and other tricks with SqlPackage | Data Exposed](https://www.youtube.com/watch?v=n3_f-6f-8i4)
 - [What I Wish I Knew ... about not having done internships](https://www.youtube.com/watch?v=rqWx0rQ1ME8)
 - [What I Wish I Knew ... about not having done internships](https://www.youtube.com/watch?v=EG0jGP7TYBc)
 - [How do partnerships play into the TechSpark program?](https://www.youtube.com/watch?v=AzIZUkLU0hc)
 - [What I Wish I Knew ... about what interviewers want to hear](https://www.youtube.com/watch?v=qc6bpZkt7MQ)
-- [What I Wish I Knew ... about what interviewers want to hear](https://www.youtube.com/watch?v=I9aI-gjyzq8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
