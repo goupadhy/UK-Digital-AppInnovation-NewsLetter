@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What’s new in the Well-Architected Framework](https://www.youtube.com/watch?v=XV_E4WtqNrE)
 - [Live! from The Reactor](https://www.youtube.com/watch?v=G7dMcs5jqQ4)
 - [Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking](https://www.youtube.com/watch?v=odQTIAItkv8)
 - [Database portability and other tricks with SqlPackage | Data Exposed](https://www.youtube.com/watch?v=n3_f-6f-8i4)
 - [What I Wish I Knew ... about not having done internships](https://www.youtube.com/watch?v=rqWx0rQ1ME8)
-- [What I Wish I Knew ... about not having done internships](https://www.youtube.com/watch?v=EG0jGP7TYBc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
