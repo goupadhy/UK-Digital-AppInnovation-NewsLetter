@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Bayer leverages Azure Data Manager for Agriculture LLM APIs](https://www.youtube.com/watch?v=y4i6LRnHtVk)
+- [Ekimetrics Supplier Assistant solution for sustainability](https://www.youtube.com/watch?v=d8X8qjml7sY)
 - [Introducing Microsoft Teams meeting preparation application](https://www.youtube.com/watch?v=eE3-2eZ4OVI)
 - [Revolutionizing Convenience: Choice Market &amp; Microsoft Cloud for Retail](https://www.youtube.com/watch?v=wKrJ67PJxRE)
 - [AI Solutions by Intapp &amp; Microsoft for Financial &amp; Pro Services on Azure](https://www.youtube.com/watch?v=dypHpr7ntsg)
-- [Microsoft and SLB alliance transforming the energy future](https://www.youtube.com/watch?v=2iMmfJQtNvY)
-- [Dominik Wee presents Relentless Renewal: The power of storytelling](https://www.youtube.com/watch?v=lxnkoEgM5Do)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
