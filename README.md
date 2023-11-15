@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What I Wish I Knew ... about women in tech](https://www.youtube.com/watch?v=fPZqeyW8Udk)
+- [What I Wish I Knew ... about women in tech](https://www.youtube.com/watch?v=C2f5-vud-yM)
 - [Azure OpenAI-powered data labeling in Azure AI Language](https://www.youtube.com/watch?v=YaniDdzwZeY)
 - [Direct custom translation using Azure AI Translator](https://www.youtube.com/watch?v=P5r_tQN9d3E)
 - [A new LLM-powered summarization](https://www.youtube.com/watch?v=9OuNH7gAn5U)
-- [What I Wish I Knew ... about getting the most from an interview](https://www.youtube.com/watch?v=ziicXC_Efbg)
-- [What I Wish I Knew ... about getting the most from an interview](https://www.youtube.com/watch?v=j98Q2ikBSoA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
