@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure OpenAI-powered data labeling in Azure AI Language](https://www.youtube.com/watch?v=YaniDdzwZeY)
+- [Direct custom translation using Azure AI Translator](https://www.youtube.com/watch?v=P5r_tQN9d3E)
+- [A new LLM-powered summarization](https://www.youtube.com/watch?v=9OuNH7gAn5U)
 - [What I Wish I Knew ... about getting the most from an interview](https://www.youtube.com/watch?v=ziicXC_Efbg)
 - [What I Wish I Knew ... about getting the most from an interview](https://www.youtube.com/watch?v=j98Q2ikBSoA)
-- [What’s new in the Well-Architected Framework](https://www.youtube.com/watch?v=XV_E4WtqNrE)
-- [Live! from The Reactor](https://www.youtube.com/watch?v=G7dMcs5jqQ4)
-- [Best retrieval strategies for Generative AI applications: Semantic Search Benchmarking](https://www.youtube.com/watch?v=odQTIAItkv8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
