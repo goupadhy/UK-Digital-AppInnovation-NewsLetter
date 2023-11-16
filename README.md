@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What I Wish I Knew ... about what career path to take](https://www.youtube.com/watch?v=ZKMKTi-5wGE)
+- [What I Wish I Knew ... about what career path to take](https://www.youtube.com/watch?v=1cF-9sz7pqg)
 - [What I Wish I Knew ... about women in tech](https://www.youtube.com/watch?v=fPZqeyW8Udk)
 - [What I Wish I Knew ... about women in tech](https://www.youtube.com/watch?v=C2f5-vud-yM)
 - [Azure OpenAI-powered data labeling in Azure AI Language](https://www.youtube.com/watch?v=YaniDdzwZeY)
-- [Direct custom translation using Azure AI Translator](https://www.youtube.com/watch?v=P5r_tQN9d3E)
-- [A new LLM-powered summarization](https://www.youtube.com/watch?v=9OuNH7gAn5U)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
