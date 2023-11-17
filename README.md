@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Post-Ignite Review](https://www.youtube.com/watch?v=rGix_a_M7fM)
+- [Microsoft Ignite and PASS announcements recap - Azure SQL and SQL Server | Data Exposed](https://www.youtube.com/watch?v=5XFp6nAO46s)
 - [What I Wish I Knew ... about what career path to take](https://www.youtube.com/watch?v=ZKMKTi-5wGE)
 - [What I Wish I Knew ... about what career path to take](https://www.youtube.com/watch?v=1cF-9sz7pqg)
 - [What I Wish I Knew ... about women in tech](https://www.youtube.com/watch?v=fPZqeyW8Udk)
-- [What I Wish I Knew ... about women in tech](https://www.youtube.com/watch?v=C2f5-vud-yM)
-- [Azure OpenAI-powered data labeling in Azure AI Language](https://www.youtube.com/watch?v=YaniDdzwZeY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
