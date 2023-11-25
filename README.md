@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Post-Ignite Recap](https://www.youtube.com/watch?v=LMasvCqxw0k)
 - [WinGet community repository frequently asked questions &lpar;FAQs&rpar;](https://www.youtube.com/watch?v=Z6lmO-K0t_4)
 - [WinGet community repository frequently asked questions &lpar;FAQs&rpar;](https://www.youtube.com/watch?v=b976Vdv2VAs)
 - [Armchair Architects: LLMs and Architects &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=GajQheItwDc)
 - [Microsoft Ignite and PASS announcements recap - Azure SQL and SQL Server | Data Exposed](https://www.youtube.com/watch?v=5XFp6nAO46s)
-- [What I Wish I Knew ... about what career path to take](https://www.youtube.com/watch?v=ZKMKTi-5wGE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
