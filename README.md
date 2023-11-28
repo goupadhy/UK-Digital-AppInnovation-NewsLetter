@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Integrating OpenAI into your Azure Landing Zone](https://www.youtube.com/watch?v=w1C4JZzFGD0)
 - [Post-Ignite Recap](https://www.youtube.com/watch?v=LMasvCqxw0k)
 - [Automated backups, PITR, and Availability Groups with Arc-enabled SQL Server | Data Exposed](https://www.youtube.com/watch?v=3HAASFDDUKs)
 - [TitletownTech x TechSpark | Creating Opportunities](https://www.youtube.com/watch?v=Uub7zGtjRkM)
 - [WinGet community repository frequently asked questions &lpar;FAQs&rpar;](https://www.youtube.com/watch?v=Z6lmO-K0t_4)
-- [WinGet community repository frequently asked questions &lpar;FAQs&rpar;](https://www.youtube.com/watch?v=b976Vdv2VAs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
