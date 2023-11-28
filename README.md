@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s new in T-SQL recently | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MIhiph8GN70)
 - [Enriching Container Secure Supply Chains with ORAS](https://www.youtube.com/watch?v=B-DdGkYGDz8)
 - [Enriching Container Secure Supply Chains with ORAS](https://www.youtube.com/watch?v=P7XybFdfppA)
 - [Mr. Maeda&#39;s Cozy AI Kitchen: Mr. Maeda&#39;s Tofu Factory Origins](https://www.youtube.com/watch?v=UTWpy0aSHpQ)
 - [Integrating OpenAI into your Azure Landing Zone](https://www.youtube.com/watch?v=w1C4JZzFGD0)
-- [Post-Ignite Recap](https://www.youtube.com/watch?v=LMasvCqxw0k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
