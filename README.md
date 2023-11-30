@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Develop your AI coding skills &lpar;part one&rpar;](https://www.youtube.com/watch?v=GlzihC-VxJU)
 - [What are the most surprising new interaction patterns from LLMs?](https://www.youtube.com/watch?v=9TzDXYs4_lo)
 - [What&#39;s new in T-SQL recently | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MIhiph8GN70)
 - [Enriching Container Secure Supply Chains with ORAS](https://www.youtube.com/watch?v=B-DdGkYGDz8)
 - [Enriching Container Secure Supply Chains with ORAS](https://www.youtube.com/watch?v=P7XybFdfppA)
-- [Mr. Maeda&#39;s Cozy AI Kitchen: Mr. Maeda&#39;s Tofu Factory Origins](https://www.youtube.com/watch?v=UTWpy0aSHpQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
