@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Charles Lamanna Backstage at MPPC23!](https://www.youtube.com/watch?v=0e2Emu0neLU)
 - [Microsoft Ignite Copilot Highlights](https://www.youtube.com/watch?v=f2DVcAv7iVU)
 - [Connection Signal | Power Platform Shorts](https://www.youtube.com/watch?v=5ql2UdlxO-k)
 - [Power Up Story - Francisco](https://www.youtube.com/watch?v=UecCChS669c)
 - [Power Up Story - Paulina](https://www.youtube.com/watch?v=z4JZXQ760WE)
-- [Power Up Story - Chris](https://www.youtube.com/watch?v=GIhHV0yNAGI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
