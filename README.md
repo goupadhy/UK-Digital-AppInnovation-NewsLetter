@@ -66,7 +66,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Sight Machine on Azure helps manufacturers increase production performance through industrial data](https://www.youtube.com/watch?v=CrERcsDBXTU)
 - [Bayer leverages Azure Data Manager for Agriculture LLM APIs](https://www.youtube.com/watch?v=y4i6LRnHtVk)
 - [Ekimetrics Supplier Assistant solution for sustainability](https://www.youtube.com/watch?v=d8X8qjml7sY)
-- [Introducing Microsoft Teams meeting preparation application](https://www.youtube.com/watch?v=eE3-2eZ4OVI)
+- [Revolutionizing Convenience: Choice Market &amp; Microsoft Cloud for Retail](https://www.youtube.com/watch?v=wKrJ67PJxRE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
