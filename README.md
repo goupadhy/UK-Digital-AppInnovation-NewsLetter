@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Armchair Architects: LLMs and Architects &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=WC61Ei1ofxk)
 - [Azure AI Search: Generating the right answers, every time](https://www.youtube.com/watch?v=Q9x2GEyuZCI)
 - [What&#39;s new in SSMS 19.2 | Data Exposed](https://www.youtube.com/watch?v=8XZ2vEHEN6E)
 - [Develop your AI coding skills &lpar;part one&rpar;](https://www.youtube.com/watch?v=GlzihC-VxJU)
 - [What are the most surprising new interaction patterns from LLMs?](https://www.youtube.com/watch?v=9TzDXYs4_lo)
-- [What&#39;s new in T-SQL recently | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MIhiph8GN70)
 <!-- YOUTUBEAPPMOD:END -->
 
 
