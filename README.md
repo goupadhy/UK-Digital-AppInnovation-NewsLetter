@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How Ratify can prevent non-compliant containers from running in production](https://www.youtube.com/watch?v=RtO19zhoRkQ)
+- [How Ratify can prevent non-compliant containers from running in production](https://www.youtube.com/watch?v=uVNoOz5sRvY)
 - [Armchair Architects: LLMs and Architects &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=WC61Ei1ofxk)
 - [Azure AI Search: Generating the right answers, every time](https://www.youtube.com/watch?v=Q9x2GEyuZCI)
 - [What&#39;s new in SSMS 19.2 | Data Exposed](https://www.youtube.com/watch?v=8XZ2vEHEN6E)
-- [Develop your AI coding skills &lpar;part one&rpar;](https://www.youtube.com/watch?v=GlzihC-VxJU)
-- [What are the most surprising new interaction patterns from LLMs?](https://www.youtube.com/watch?v=9TzDXYs4_lo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
