@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dataverse and Copilot are the aces in the pack at MPPC23](https://www.youtube.com/watch?v=KAMoaa1raTw)
+- [Security is key at MPPC23](https://www.youtube.com/watch?v=fX4JOXHHyyY)
+- [Dataverse keeping things safe and secure at MPPC23](https://www.youtube.com/watch?v=-7vcE6nEICg)
 - [The future looks bright with Power Automate](https://www.youtube.com/watch?v=eNI2Uwo4qQU)
 - [Copilot driving real change at MPPC23](https://www.youtube.com/watch?v=0vaRpgO3IjM)
-- [MPPC23 hits the jackpot in Las Vegas!](https://www.youtube.com/watch?v=MKPYp8BvsMY)
-- [Making memories at MPPC23](https://www.youtube.com/watch?v=J2DzLta8Fws)
-- [Charles Lamanna Backstage at MPPC23!](https://www.youtube.com/watch?v=0e2Emu0neLU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
