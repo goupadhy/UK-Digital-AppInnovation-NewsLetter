@@ -65,8 +65,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [Explained: Powering Business Decisions with Cloud Scale Analytics - Governments](https://www.youtube.com/watch?v=EOKFfk1o_Vg)
 - [AI in a Minute: Prompt Engineering](https://www.youtube.com/watch?v=vGdyePbGNaE)
 - [AI in a Minute: Generative AI](https://www.youtube.com/watch?v=om7iYSucLrk)
-- [AI in a Minute: Large Language Models](https://www.youtube.com/watch?v=FSoQyJEvHiU)
-- [Explained: Migrate and Secure Windows Server and SQL Server to the cloud - governments](https://www.youtube.com/watch?v=qNDO-IYBidY)
+- [AI in a Minute: Responsible AI](https://www.youtube.com/watch?v=fHEaFDMxFwQ)
+- [AI in a Minute: Vector Search](https://www.youtube.com/watch?v=TsPNbxkK_Eg)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
