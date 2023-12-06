@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [OSTP moves toward CO2 emissions neutrality with Microsoft Sustainability Manager](https://www.youtube.com/watch?v=ZRO5VdQUqY0)
 - [Explained: Powering Business Decisions with Cloud Scale Analytics - Governments](https://www.youtube.com/watch?v=EOKFfk1o_Vg)
 - [AI in a Minute: Prompt Engineering](https://www.youtube.com/watch?v=vGdyePbGNaE)
 - [AI in a Minute: Generative AI](https://www.youtube.com/watch?v=om7iYSucLrk)
 - [AI in a Minute: Responsible AI](https://www.youtube.com/watch?v=fHEaFDMxFwQ)
-- [AI in a Minute: Vector Search](https://www.youtube.com/watch?v=TsPNbxkK_Eg)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
