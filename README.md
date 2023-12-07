@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What is an AI plugin?](https://www.youtube.com/watch?v=XdzpJ0TFmXI)
 - [Develop your AI coding skills &lpar;part two&rpar;](https://www.youtube.com/watch?v=qXU5wM6SX-k)
 - [What design principles do you use when working with AI?](https://www.youtube.com/watch?v=W_lha0hopak)
 - [How Ratify can prevent non-compliant containers from running in production](https://www.youtube.com/watch?v=RtO19zhoRkQ)
 - [How Ratify can prevent non-compliant containers from running in production](https://www.youtube.com/watch?v=uVNoOz5sRvY)
-- [Armchair Architects: LLMs and Architects &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=WC61Ei1ofxk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
