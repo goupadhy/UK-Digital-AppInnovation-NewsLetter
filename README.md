@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 - [From macOS runners to secure deployments, what’s new from GitHub Actions](https://github.blog/2023-12-07-from-macos-runners-to-secure-deployments-whats-new-from-github-actions/)
 - [GitHub Innovation Graph Q2 2023 Data Release](https://github.blog/2023-12-07-github-innovation-graph-q2-2023-data-release/)
 - [Cueing up a calculator: an introduction to exploit development on Linux](https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/)
 - [How we’re experimenting with LLMs to evolve GitHub Copilot](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/)
-- [GitHub Enterprise Server 3.11 is now generally available](https://github.blog/2023-12-05-github-enterprise-server-3-11-is-now-generally-available/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
