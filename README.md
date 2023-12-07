@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Develop your AI coding skills &lpar;part two&rpar;](https://www.youtube.com/watch?v=qXU5wM6SX-k)
 - [What design principles do you use when working with AI?](https://www.youtube.com/watch?v=W_lha0hopak)
 - [How Ratify can prevent non-compliant containers from running in production](https://www.youtube.com/watch?v=RtO19zhoRkQ)
 - [How Ratify can prevent non-compliant containers from running in production](https://www.youtube.com/watch?v=uVNoOz5sRvY)
 - [Armchair Architects: LLMs and Architects &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=WC61Ei1ofxk)
-- [Azure AI Search: Generating the right answers, every time](https://www.youtube.com/watch?v=Q9x2GEyuZCI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
