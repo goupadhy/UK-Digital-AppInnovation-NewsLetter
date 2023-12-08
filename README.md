@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Advanced Azure OpenAI solutions with TTS Avatar](https://www.youtube.com/watch?v=JUIs063K6zU)
+- [What happens when you have a vulnerability in one of your giblets?](https://www.youtube.com/watch?v=QI9oEs667kY)
 - [Azure Optimization Skill building](https://www.youtube.com/watch?v=OwcurqmszFI)
 - [Securing Your Multicloud Databases with Microsoft Defender for Cloud | Data Exposed](https://www.youtube.com/watch?v=ZSvo_Mh_K0Q)
 - [What is an AI plugin?](https://www.youtube.com/watch?v=XdzpJ0TFmXI)
-- [Develop your AI coding skills &lpar;part two&rpar;](https://www.youtube.com/watch?v=qXU5wM6SX-k)
-- [What design principles do you use when working with AI?](https://www.youtube.com/watch?v=W_lha0hopak)
 <!-- YOUTUBEAPPMOD:END -->
 
 
