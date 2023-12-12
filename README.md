@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen: AI Driven Career Disruption with Abhijit Bhaduri](https://www.youtube.com/watch?v=ZWuw95ldYbg)
+- [Now, Static Web Apps Automatically Host the Data API Builder](https://www.youtube.com/watch?v=BgcmVHXnlgU)
+- [Now, Static Web Apps Automatically Host the Data API Builder](https://www.youtube.com/watch?v=BjjETFaNgLc)
 - [Armchair Architects: LLMs &amp; Vector Databases &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=qJmGW0BiqhA)
 - [Advanced Azure OpenAI solutions with TTS Avatar](https://www.youtube.com/watch?v=JUIs063K6zU)
-- [Azure AI Search: Generating the right answers, every time](https://www.youtube.com/watch?v=_2Ax43Dd3Fg)
-- [What happens when you have a vulnerability in one of your giblets?](https://www.youtube.com/watch?v=QI9oEs667kY)
-- [Azure Optimization Skill building](https://www.youtube.com/watch?v=OwcurqmszFI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
