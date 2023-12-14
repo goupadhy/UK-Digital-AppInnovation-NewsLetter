@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL DB High Availability &amp; Disaster Recovery overview | Data Exposed](https://www.youtube.com/watch?v=E9EafnsThEU)
+- [Why would you want to use an AI plugin? One Dev Question](https://www.youtube.com/watch?v=XXkkJlnMHIM)
 - [What are you most excited about for the next wave of AI? One Dev Question](https://www.youtube.com/watch?v=GSSt4eehoyQ)
 - [Mr. Maeda&#39;s Cozy AI Kitchen: AI Driven Career Disruption with Abhijit Bhaduri](https://www.youtube.com/watch?v=ZWuw95ldYbg)
 - [Now, Static Web Apps Automatically Host the Data API Builder](https://www.youtube.com/watch?v=BgcmVHXnlgU)
-- [What could be the easiest way to deploy DAB?](https://www.youtube.com/watch?v=BjjETFaNgLc)
-- [Armchair Architects: LLMs &amp; Vector Databases &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=qJmGW0BiqhA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
