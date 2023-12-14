@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft as Customer Zero: Using our data technology to guide and manage our sustainability journey](https://www.youtube.com/watch?v=GxAz0IKHI8o)
 - [Dominik Wee presents Relentless Renewal: AI trends shaping the future of Germany with Marianne Janik](https://www.youtube.com/watch?v=r98I3W32IG8)
 - [Enabling the future of financial services in the era of AI](https://www.youtube.com/watch?v=rNNxsMkhmgk)
 - [OSTP moves toward CO2 emissions neutrality with Microsoft Sustainability Manager](https://www.youtube.com/watch?v=ZRO5VdQUqY0)
 - [Explained: Powering Business Decisions with Cloud Scale Analytics - Governments](https://www.youtube.com/watch?v=EOKFfk1o_Vg)
-- [AI in a Minute: Prompt Engineering](https://www.youtube.com/watch?v=vGdyePbGNaE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
