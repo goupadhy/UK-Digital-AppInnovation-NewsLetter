@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Release Radar · Thanksgiving 2023 Edition](https://github.blog/2023-12-14-release-radar-nov-2023/)
 - [Scaling vulnerability management across thousands of services and more than 150 million findings](https://github.blog/2023-12-14-scaling-vulnerability-management-across-thousands-of-services-and-more-than-150-million-findings/)
 - [GitHub Availability Report: November 2023](https://github.blog/2023-12-13-github-availability-report-november-2023/)
 - [Securing our home labs: Frigate code review](https://github.blog/2023-12-13-securing-our-home-labs-frigate-code-review/)
 - [Default setup now includes scheduled scans and supports all languages covered by CodeQL](https://github.blog/2023-12-13-default-setup-now-includes-scheduled-scans-and-supports-all-languages-covered-by-codeql/)
-- [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
