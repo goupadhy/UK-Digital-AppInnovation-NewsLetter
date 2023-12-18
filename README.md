@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [COP28 Panel Discussion: Insights from Shelly Blackburn, Satish Thomas, and Melanie Nakagawa](https://www.youtube.com/watch?v=HZXBZIvG2eU)
 - [Microsoft at Smart City Expo World Congress 2023](https://www.youtube.com/watch?v=HUBhhpHIyVQ)
 - [Microsoft as Customer Zero: Using our data technology to guide and manage our sustainability journey](https://www.youtube.com/watch?v=GxAz0IKHI8o)
 - [Dominik Wee presents Relentless Renewal: AI trends shaping the future of Germany with Marianne Janik](https://www.youtube.com/watch?v=r98I3W32IG8)
 - [Enabling the future of financial services in the era of AI](https://www.youtube.com/watch?v=rNNxsMkhmgk)
-- [OSTP moves toward CO2 emissions neutrality with Microsoft Sustainability Manager](https://www.youtube.com/watch?v=ZRO5VdQUqY0)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
