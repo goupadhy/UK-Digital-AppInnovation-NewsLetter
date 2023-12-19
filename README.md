@@ -25,9 +25,9 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Elevate your document management with Azure AI Document Intelligence](https://www.youtube.com/watch?v=ECFNyVUJ8dY)
 - [Azure OpenAI solutions with TTS Avatar](https://www.youtube.com/watch?v=Uvh9pU1nch4)
 - [Advanced Azure OpenAI Solutions With TTS Avatar](https://www.youtube.com/watch?v=lqwH5wAnO5U)
-- [Elevate your document management with Azure AI Document Intelligence](https://www.youtube.com/watch?v=ECFNyVUJ8dY)
 - [Azure SQL DB High Availability &amp; Disaster Recovery overview | Data Exposed](https://www.youtube.com/watch?v=E9EafnsThEU)
 - [Why would you want to use an AI plugin? One Dev Question](https://www.youtube.com/watch?v=XXkkJlnMHIM)
 <!-- YOUTUBECNA:END -->
