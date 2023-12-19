@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Efficient Approvals with Power Platform: Kit Overview](https://www.youtube.com/watch?v=IxenSFO8gOM)
 - [CoE Community Site Template - Power CAT Live](https://www.youtube.com/watch?v=2vpLi_EZ7EY)
 - [Dataverse and Copilot are the aces in the pack at MPPC23](https://www.youtube.com/watch?v=KAMoaa1raTw)
 - [Security is key at MPPC23](https://www.youtube.com/watch?v=fX4JOXHHyyY)
 - [Dataverse keeping things safe and secure at MPPC23](https://www.youtube.com/watch?v=-7vcE6nEICg)
-- [The future looks bright with Power Automate](https://www.youtube.com/watch?v=eNI2Uwo4qQU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
