@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Elevate your document management with Azure AI Document Intelligence](https://www.youtube.com/watch?v=ucEnSLUpuNM)
 - [Azure OpenAI and copilot meet Azure SQL | Data Exposed](https://www.youtube.com/watch?v=sMIzuuDN1Cw)
 - [What&#39;s in Windows Terminal 1.19 Preview](https://www.youtube.com/watch?v=GEOPSb1do18)
 - [What&#39;s in Windows Terminal 1.19 Preview](https://www.youtube.com/watch?v=MdPTekwIAFE)
 - [Elevate your document management with Azure AI Document Intelligence](https://www.youtube.com/watch?v=ECFNyVUJ8dY)
-- [Azure OpenAI solutions with TTS Avatar](https://www.youtube.com/watch?v=Uvh9pU1nch4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
