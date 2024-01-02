@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Armchair Architects: LLMs &amp; Vector Databases &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=UvIF4lZuBQk)
 - [A new way for automatic updates with SQL Server on Azure VM | Data Exposed](https://www.youtube.com/watch?v=wziVilUnDqM)
 - [Elevate your document management with Azure AI Document Intelligence](https://www.youtube.com/watch?v=ucEnSLUpuNM)
 - [Azure OpenAI and copilot meet Azure SQL | Data Exposed](https://www.youtube.com/watch?v=sMIzuuDN1Cw)
 - [What&#39;s in Windows Terminal 1.19 Preview](https://www.youtube.com/watch?v=GEOPSb1do18)
-- [What&#39;s in Windows Terminal 1.19 Preview](https://www.youtube.com/watch?v=MdPTekwIAFE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
