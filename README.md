@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen: Secure Insights with Tracy Reinhold](https://www.youtube.com/watch?v=-w7J7jXg-CA)
 - [Get your App &amp; APIs on Kubernetes fast with Draft](https://www.youtube.com/watch?v=Es212osaEbU)
 - [Get your app &amp; APIs on Kubernetes fast with Draft](https://www.youtube.com/watch?v=f98NDqKQRbs)
 - [Power Platform CLI Exposed: Authentication](https://www.youtube.com/watch?v=J7rSIu1br9M)
 - [What&#39;s new in security for Azure SQL and SQL Server | Data Exposed](https://www.youtube.com/watch?v=voFjY-bb4J0)
-- [Armchair Architects: LLMs &amp; Vector Databases &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=UvIF4lZuBQk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
