@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Get your App &amp; APIs on Kubernetes fast with Draft](https://www.youtube.com/watch?v=Es212osaEbU)
+- [Get your app &amp; APIs on Kubernetes fast with Draft](https://www.youtube.com/watch?v=f98NDqKQRbs)
 - [Power Platform CLI Exposed: Authentication](https://www.youtube.com/watch?v=J7rSIu1br9M)
 - [What&#39;s new in security for Azure SQL and SQL Server | Data Exposed](https://www.youtube.com/watch?v=voFjY-bb4J0)
 - [Armchair Architects: LLMs &amp; Vector Databases &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=UvIF4lZuBQk)
-- [A new way for automatic updates with SQL Server on Azure VM | Data Exposed](https://www.youtube.com/watch?v=wziVilUnDqM)
-- [Elevate your document management with Azure AI Document Intelligence](https://www.youtube.com/watch?v=ucEnSLUpuNM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
