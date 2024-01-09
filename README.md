@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Navigate with Ease in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=9GJRp4bCnWc)
 - [Power Automate - Automate root cause analysis | Power Platform Shorts](https://www.youtube.com/watch?v=pA_Yb-FXTs4)
 - [Copilot in Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=K6a5LVLaaOg)
 - [Efficient Approvals with Power Platform: Kit Overview](https://www.youtube.com/watch?v=IxenSFO8gOM)
 - [CoE Community Site Template - Power CAT Live](https://www.youtube.com/watch?v=2vpLi_EZ7EY)
-- [Dataverse and Copilot are the aces in the pack at MPPC23](https://www.youtube.com/watch?v=KAMoaa1raTw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
