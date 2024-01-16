@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Retail Unlocked](https://www.youtube.com/watch?v=XhIemS18N-I)
 - [Explained: Secure Productivity - Microsoft for Government](https://www.youtube.com/watch?v=eF18HPG8OJo)
 - [Microsoft and Esri use location intelligence to support the agricultural industry](https://www.youtube.com/watch?v=TCA-HGSrPDs)
 - [COP28 Panel Discussion: Insights from Shelly Blackburn, Satish Thomas, and Melanie Nakagawa](https://www.youtube.com/watch?v=HZXBZIvG2eU)
 - [Microsoft at Smart City Expo World Congress 2023](https://www.youtube.com/watch?v=HUBhhpHIyVQ)
-- [Microsoft as Customer Zero: Using our data technology to guide and manage our sustainability journey](https://www.youtube.com/watch?v=GxAz0IKHI8o)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
