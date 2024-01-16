@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL April 2024 AMA | Data Exposed Live](https://www.youtube.com/watch?v=xA8-qymNLQ4)
 - [WingetCreate: Keeping WinGet packages up-to-date!](https://www.youtube.com/watch?v=uRXREXaPrb4)
 - [WingetCreate: Keeping WinGet packages up-to-date!](https://www.youtube.com/watch?v=CD5pwO348Oc)
 - [What happened to the &quot;laptop&quot; that was left at the airport?](https://www.youtube.com/watch?v=f576faq6NqQ)
 - [How does an AI plugin work? One Dev Question with Mollie Munoz](https://www.youtube.com/watch?v=BmUMuoj0kyE)
-- [What are the new skills developers need for making a great UX with AI?](https://www.youtube.com/watch?v=Z-Qj2DAW334)
 <!-- YOUTUBEAPPMOD:END -->
 
 
