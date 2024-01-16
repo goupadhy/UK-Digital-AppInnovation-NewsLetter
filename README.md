@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [WingetCreate: Keeping WinGet packages up-to-date!](https://www.youtube.com/watch?v=uRXREXaPrb4)
+- [WingetCreate: Keeping WinGet packages up-to-date!](https://www.youtube.com/watch?v=CD5pwO348Oc)
 - [What happened to the &quot;laptop&quot; that was left at the airport?](https://www.youtube.com/watch?v=f576faq6NqQ)
 - [How does an AI plugin work? One Dev Question with Mollie Munoz](https://www.youtube.com/watch?v=BmUMuoj0kyE)
 - [What are the new skills developers need for making a great UX with AI?](https://www.youtube.com/watch?v=Z-Qj2DAW334)
-- [Mr. Maeda&#39;s Cozy AI Kitchen: Secure Insights with Tracy Reinhold](https://www.youtube.com/watch?v=-w7J7jXg-CA)
-- [Get your App &amp; APIs on Kubernetes fast with Draft](https://www.youtube.com/watch?v=Es212osaEbU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
