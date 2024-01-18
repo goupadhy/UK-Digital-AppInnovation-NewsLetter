@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What is a local AI plugin?](https://www.youtube.com/watch?v=MsieBrr49o0)
 - [Why does a query fail when there is no error? | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=Vw86u05SDjc)
 - [How can teams be successful with LLMs? | One Dev Question](https://www.youtube.com/watch?v=k1ygyFDwtCY)
 - [Azure SQL April 2024 AMA | Data Exposed Live](https://www.youtube.com/watch?v=xA8-qymNLQ4)
 - [WingetCreate: Keeping WinGet packages up-to-date!](https://www.youtube.com/watch?v=uRXREXaPrb4)
-- [WingetCreate: Keeping WinGet packages up-to-date!](https://www.youtube.com/watch?v=CD5pwO348Oc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
