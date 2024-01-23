@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen: AI-Driven Design with Tim Allen](https://www.youtube.com/watch?v=_ogiNGTxke4)
+- [Quickly Deploy a Web App with database and cache, optimized for Speed and Performance](https://www.youtube.com/watch?v=Mrua_aGN1cQ)
+- [Quickly Deploy a Web App with database and cache, optimized for Speed and Performance](https://www.youtube.com/watch?v=MXZtN1Pbyvs)
 - [What is a local AI plugin?](https://www.youtube.com/watch?v=MsieBrr49o0)
 - [Why does a query fail when there is no error? | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=Vw86u05SDjc)
-- [How can teams be successful with LLMs? | One Dev Question](https://www.youtube.com/watch?v=k1ygyFDwtCY)
-- [Azure SQL April 2024 AMA | Data Exposed Live](https://www.youtube.com/watch?v=xA8-qymNLQ4)
-- [WingetCreate: Keeping WinGet packages up-to-date!](https://www.youtube.com/watch?v=uRXREXaPrb4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
