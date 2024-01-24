@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What are the secrets to making a great UX with AI?](https://www.youtube.com/watch?v=gFeh40rjLCs)
 - [Mr. Maeda&#39;s Cozy AI Kitchen: AI-Driven Design with Tim Allen](https://www.youtube.com/watch?v=_ogiNGTxke4)
 - [Quickly Deploy a Web App with database and cache, optimized for Speed and Performance](https://www.youtube.com/watch?v=Mrua_aGN1cQ)
 - [Quickly Deploy a Web App with database and cache, optimized for Speed and Performance](https://www.youtube.com/watch?v=MXZtN1Pbyvs)
 - [What is a local AI plugin?](https://www.youtube.com/watch?v=MsieBrr49o0)
-- [Why does a query fail when there is no error? | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=Vw86u05SDjc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
