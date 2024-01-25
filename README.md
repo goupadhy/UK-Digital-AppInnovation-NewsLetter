@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies/)
 - [GitHub Fund 2024 and beyond: Looking to the future](https://github.blog/2024-01-25-github-fund-2024-and-beyond-looking-to-the-future/)
 - [How GitHub’s Developer Experience team improved innerloop development](https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/)
 - [A guide to open source for the social sector](https://github.blog/2024-01-23-a-guide-to-open-source-for-the-social-sector/)
 - [Yes, good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/)
-- [How to get in the flow while coding (and why it’s important)](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
