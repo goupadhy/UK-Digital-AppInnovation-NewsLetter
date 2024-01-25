@@ -56,7 +56,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:START -->
 - [How GitHub’s Developer Experience team improved innerloop development](https://github.blog/2024-01-24-how-githubs-developer-experience-team-improved-innerloop-development/)
 - [A guide to open source for the social sector](https://github.blog/2024-01-23-a-guide-to-open-source-for-the-social-sector/)
-- [Good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/)
+- [Yes, good DevEx increases productivity. Here is the data.](https://github.blog/2024-01-23-good-devex-increases-productivity/)
 - [How to get in the flow while coding (and why it’s important)](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/)
 - [10 unexpected ways to use GitHub Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot/)
 <!-- BLOGGITHUB:END -->
