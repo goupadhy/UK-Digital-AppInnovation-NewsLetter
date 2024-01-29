@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Retail: application template for smart store analytics in Power BI](https://www.youtube.com/watch?v=mXjEk61Bj-0)
 - [Microsoft Cloud for Retail: copilot template for personalized shopping on Azure OpenAI Service](https://www.youtube.com/watch?v=jKxHW1JVBv0)
 - [Microsoft Cloud for Retail: copilot template for store operations on Azure OpenAI Service](https://www.youtube.com/watch?v=oPY6-duDLok)
 - [Microsoft Cloud for Retail: retail data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=gU0k29UcRXA)
 - [Explained: Accelerate Innovation with Low Code – Microsoft for Government](https://www.youtube.com/watch?v=VZlBI4JaCp8)
-- [Microsoft Retail Unlocked](https://www.youtube.com/watch?v=XhIemS18N-I)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
