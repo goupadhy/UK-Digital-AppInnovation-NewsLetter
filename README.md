@@ -26,7 +26,7 @@ We hope that these resources will help you innovate and address the real-world n
  
 <!-- YOUTUBECNA:START -->
 - [How to get Graph QL endpoints with Data API Builder](https://www.youtube.com/watch?v=nFo28OFDz0A)
-- [Data MVPs and Fabric Super Users | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Ptp6J3PYU6M)
+- [Data MVPs and Microsoft Fabric Super Users in the Era of AI | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Ptp6J3PYU6M)
 - [How to get Graph QL endpoints with Data API Builder](https://www.youtube.com/watch?v=OM_AD9iiZNQ)
 - [Why do binary contracts matter?](https://www.youtube.com/watch?v=gyrXXa1t5dg)
 - [Azure SQL DB license-free standby replica | Data Exposed](https://www.youtube.com/watch?v=S711h02JjSM)
