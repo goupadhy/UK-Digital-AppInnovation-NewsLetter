@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/)
 - [Accelerate developer productivity with Microsoft Power Platform](https://powerapps.microsoft.com/en-us/blog/accelerate-developer-productivity-with-microsoft-power-platform/)
 - [Join Microsoft at the DEVIntersection Conference in Orlando](https://powerapps.microsoft.com/en-us/blog/join-microsoft-the-devintersection-conference-in-orlando/)
 - [Accelerate Copilot extensibility and Power Apps creation with Microsoft Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2023/11/15/accelerate-copilot-extensibility-and-power-app-creation-with-microsoft-dataverse/)
 - [Microsoft again named a Leader in the 2023 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://powerapps.microsoft.com/en-us/blog/microsoft-again-named-a-leader-in-the-2023-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/)
+- [Microsoft Business Applications Launch Event introduces wave of new AI-powered capabilities for Dynamics 365 and Power Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2023/10/25/microsoft-business-applications-launch-event-introduces-wave-of-new-ai-powered-capabilities-for-dynamics-365-and-power-platform/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
