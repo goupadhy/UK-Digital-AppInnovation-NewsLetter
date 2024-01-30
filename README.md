@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How to get Graph QL endpoints with Data API Builder](https://www.youtube.com/watch?v=nFo28OFDz0A)
+- [Data MVPs and Fabric Super Users | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Ptp6J3PYU6M)
+- [How to get Graph QL endpoints with Data API Builder](https://www.youtube.com/watch?v=OM_AD9iiZNQ)
 - [Why do binary contracts matter?](https://www.youtube.com/watch?v=gyrXXa1t5dg)
 - [Azure SQL DB license-free standby replica | Data Exposed](https://www.youtube.com/watch?v=S711h02JjSM)
-- [What is a remote AI plugin? One Dev Question](https://www.youtube.com/watch?v=bEnzgC-eYGc)
-- [The Teaching Accelerator, combining Power Platform and Generative AI to boost education](https://www.youtube.com/watch?v=R__lrFZ1ReQ)
-- [What are the secrets to making a great UX with AI?](https://www.youtube.com/watch?v=gFeh40rjLCs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
