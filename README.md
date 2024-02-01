@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Can I develop an AI application with Semantic Kernel that can call remote AI plugins?](https://www.youtube.com/watch?v=afkQSZIqFTU)
 - [Why is getting started with AI so intimidating?](https://www.youtube.com/watch?v=jmILNRLHN1I)
 - [How to get Graph QL endpoints with Data API Builder](https://www.youtube.com/watch?v=nFo28OFDz0A)
 - [Data MVPs and Microsoft Fabric Super Users in the Era of AI | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Ptp6J3PYU6M)
 - [How to get Graph QL endpoints with Data API Builder](https://www.youtube.com/watch?v=OM_AD9iiZNQ)
-- [Why do binary contracts matter?](https://www.youtube.com/watch?v=gyrXXa1t5dg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
