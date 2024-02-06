@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Getting started with the Fluent UI Blazor library](https://www.youtube.com/watch?v=lUZ5mrg2Q8k)
+- [Mr. Maeda&#39;s Cozy AI Kitchen: Designing Trust with Sarah Gold](https://www.youtube.com/watch?v=Ur_QLRhQHms)
 - [What&#39;s winget.pro?](https://www.youtube.com/watch?v=feb6pnyrC3M)
 - [Save money with Arc SQL Server licensing - what you need to know | Data Exposed](https://www.youtube.com/watch?v=DW-S-_9wZCM)
 - [Can I develop an AI application with Semantic Kernel that can call remote AI plugins?](https://www.youtube.com/watch?v=afkQSZIqFTU)
-- [Why is getting started with AI so intimidating?](https://www.youtube.com/watch?v=jmILNRLHN1I)
-- [How to get Graph QL endpoints with Data API Builder](https://www.youtube.com/watch?v=nFo28OFDz0A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
