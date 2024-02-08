@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The future of financial services in the era of AI: Canadian perspectives](https://www.youtube.com/watch?v=BGhxQ29fRcU)
 - [Empowering women in financial services: Experiential perspectives and the elements of success](https://www.youtube.com/watch?v=AxF4655ncks)
 - [Envisioning the future of financial services in the era of AI](https://www.youtube.com/watch?v=Bdz8oBgcFUA)
 - [Microsoft Cloud for Retail: application template for smart store analytics in Power BI](https://www.youtube.com/watch?v=mXjEk61Bj-0)
 - [Microsoft Cloud for Retail: copilot template for personalized shopping on Azure OpenAI Service](https://www.youtube.com/watch?v=jKxHW1JVBv0)
-- [Microsoft Cloud for Retail: copilot template for store operations on Azure OpenAI Service](https://www.youtube.com/watch?v=oPY6-duDLok)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
