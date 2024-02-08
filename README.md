@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Hands-free tempdb | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=XPGg-Lg3tco)
+- [Can I develop a remote AI plugin to run on both ChatGPT and on Chat Copilot?](https://www.youtube.com/watch?v=oS2LGl31o5s)
 - [What&#39;s the biggest mistake you see teams make when adding AI to their app?](https://www.youtube.com/watch?v=O9O_O8z_cMM)
 - [Getting started with the Fluent UI Blazor library](https://www.youtube.com/watch?v=lUZ5mrg2Q8k)
 - [Mr. Maeda&#39;s Cozy AI Kitchen: Designing Trust with Sarah Gold](https://www.youtube.com/watch?v=Ur_QLRhQHms)
-- [What&#39;s winget.pro?](https://www.youtube.com/watch?v=feb6pnyrC3M)
-- [Save money with Arc SQL Server licensing - what you need to know | Data Exposed](https://www.youtube.com/watch?v=DW-S-_9wZCM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
