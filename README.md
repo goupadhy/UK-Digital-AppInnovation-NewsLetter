@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Get started with v4 of GitHub Actions Artifacts](https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/)
 - [The architecture of SAST tools: An explainer for developers](https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/)
 - [Copilot in GitHub Support is now available!](https://github.blog/2024-02-09-copilot-in-github-support-is-now-available/)
 - [GitHub&#8217;s Engineering Fundamentals program: How we deliver on availability, security, and accessibility](https://github.blog/2024-02-08-githubs-engineering-fundamentals-program-how-we-deliver-on-availability-security-and-accessibility/)
 - [AppSec is harder than you think. Here’s how AI can help.](https://github.blog/2024-02-06-appsec-is-harder-than-you-think-heres-how-ai-can-help/)
-- [Release Radar · January 2024 Edition](https://github.blog/2024-02-02-release-radar-jan-2024/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
