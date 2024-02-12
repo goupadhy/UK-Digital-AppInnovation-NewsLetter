@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Turn Conversation into Action with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=Mkc_wMGTXDc)
 - [2024 Super User Thank You from Charles Lamanna](https://www.youtube.com/watch?v=KGrVtD_LL2s)
 - [Next Best Actions with Process Mining | Power Platform Shorts](https://www.youtube.com/watch?v=7qZYh5KvcHA)
 - [Credentials in Power Automate - Effortless password rotations](https://www.youtube.com/watch?v=Meqw4d_GMP8)
 - [Power Automate Process Mining | Power Platform Shorts](https://www.youtube.com/watch?v=bvr27m8Ql_s)
-- [Power Pages Docusign e-signature | Power Platform Shorts](https://www.youtube.com/watch?v=xvxspc-jLDE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
