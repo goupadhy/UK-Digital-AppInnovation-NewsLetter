@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Exploring the Fluent UI Blazor components](https://www.youtube.com/watch?v=v1-jRfkczBA)
+- [Exploring the Fluent UI Blazor components](https://www.youtube.com/watch?v=jOv9ioCVDFU)
 - [Armchair Architects: The Danger Zone &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=XRh9LQtLlOs)
 - [Azure Data @ Microsoft Fabric Community Conference 2024 | Data Exposed Exclusive](https://www.youtube.com/watch?v=bX-lLAHnK3g)
 - [Why is nothing sometimes the best thing to do?](https://www.youtube.com/watch?v=749ydge_aKk)
-- [Hands-free tempdb | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=XPGg-Lg3tco)
-- [Can I develop a remote AI plugin to run on both ChatGPT and on Chat Copilot?](https://www.youtube.com/watch?v=oS2LGl31o5s)
 <!-- YOUTUBEAPPMOD:END -->
 
 
