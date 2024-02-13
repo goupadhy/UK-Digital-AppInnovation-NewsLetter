@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: The Danger Zone &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=XRh9LQtLlOs)
 - [Azure Data @ Microsoft Fabric Community Conference 2024 | Data Exposed Exclusive](https://www.youtube.com/watch?v=bX-lLAHnK3g)
 - [Why is nothing sometimes the best thing to do?](https://www.youtube.com/watch?v=749ydge_aKk)
 - [Hands-free tempdb | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=XPGg-Lg3tco)
 - [Can I develop a remote AI plugin to run on both ChatGPT and on Chat Copilot?](https://www.youtube.com/watch?v=oS2LGl31o5s)
-- [What&#39;s the biggest mistake you see teams make when adding AI to their app?](https://www.youtube.com/watch?v=O9O_O8z_cMM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
