@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What advice do you have for people who want to get started in AI?](https://www.youtube.com/watch?v=WG0VonxT9vY)
 - [Exploring the Fluent UI Blazor components](https://www.youtube.com/watch?v=v1-jRfkczBA)
 - [Exploring the Fluent UI Blazor components](https://www.youtube.com/watch?v=jOv9ioCVDFU)
 - [Armchair Architects: The Danger Zone &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=XRh9LQtLlOs)
 - [Azure Data @ Microsoft Fabric Community Conference 2024 | Data Exposed Exclusive](https://www.youtube.com/watch?v=bX-lLAHnK3g)
-- [Why is nothing sometimes the best thing to do?](https://www.youtube.com/watch?v=749ydge_aKk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
