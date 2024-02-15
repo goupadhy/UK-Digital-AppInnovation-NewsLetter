@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Encryption and Ledger in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=L-j2bZiUAZ8)
 - [Develop Your Copilot Skills &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=K1_14OtPgFQ)
 - [What advice do you have for people who want to get started in AI?](https://www.youtube.com/watch?v=WG0VonxT9vY)
 - [Exploring the Fluent UI Blazor components](https://www.youtube.com/watch?v=v1-jRfkczBA)
 - [Exploring the Fluent UI Blazor components](https://www.youtube.com/watch?v=jOv9ioCVDFU)
-- [Armchair Architects: The Danger Zone &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=XRh9LQtLlOs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
