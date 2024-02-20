@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - Inclusive Healthcare with AI, with Wendy Johansson](https://www.youtube.com/watch?v=RkV0aJdrkBg)
 - [Advanced scenario with FluentUI-Blazor](https://www.youtube.com/watch?v=B_-C3QdpEjY)
 - [Advanced scenario with FluentUI-Blazor](https://www.youtube.com/watch?v=HTUemhV9W-M)
 - [Demo of Azure AI &amp; pgvector with Azure Database for PostgreSQL](https://www.youtube.com/watch?v=em0PKDGzzlQ)
 - [Encryption and Ledger in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=L-j2bZiUAZ8)
-- [Develop Your Copilot Skills &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=K1_14OtPgFQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
