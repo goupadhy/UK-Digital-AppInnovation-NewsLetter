@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Overview of GitHub Actions deployments for Azure SQL | Data Exposed](https://www.youtube.com/watch?v=eVQWOVcDHm4)
 - [Microsoft JDConf 2024: Java, Cloud, and AI – Sneak Peek](https://www.youtube.com/watch?v=QuuziIQkDWs)
 - [Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=D-nknTYX0-w)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Inclusive Healthcare with AI, with Wendy Johansson](https://www.youtube.com/watch?v=RkV0aJdrkBg)
 - [Advanced scenario with FluentUI-Blazor](https://www.youtube.com/watch?v=B_-C3QdpEjY)
-- [Advanced scenario with FluentUI-Blazor](https://www.youtube.com/watch?v=HTUemhV9W-M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
