@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft JDConf 2024: Java, Cloud, and AI – Sneak Peek](https://www.youtube.com/watch?v=QuuziIQkDWs)
 - [Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=D-nknTYX0-w)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Inclusive Healthcare with AI, with Wendy Johansson](https://www.youtube.com/watch?v=RkV0aJdrkBg)
 - [Advanced scenario with FluentUI-Blazor](https://www.youtube.com/watch?v=B_-C3QdpEjY)
 - [Advanced scenario with FluentUI-Blazor](https://www.youtube.com/watch?v=HTUemhV9W-M)
-- [Demo of Azure AI &amp; pgvector with Azure Database for PostgreSQL](https://www.youtube.com/watch?v=em0PKDGzzlQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
