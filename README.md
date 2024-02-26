@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Troubleshooting a Cloud Flow with Copilot in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=A9QYbZCZ6ZA)
 - [Collaboration in Canvas Apps with Power Apps | Get Started with Power Shorts](https://www.youtube.com/watch?v=zOGQXz4-LnI)
 - [Enhance Conversational Experiences with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=GRAInU7i-xY)
 - [Turn Conversation into Action with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=Mkc_wMGTXDc)
 - [2024 Super User Thank You from Charles Lamanna](https://www.youtube.com/watch?v=KGrVtD_LL2s)
-- [Next Best Actions with Process Mining | Power Platform Shorts](https://www.youtube.com/watch?v=7qZYh5KvcHA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
