@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft for telecommunications](https://www.youtube.com/watch?v=tXNR-hkfIYc)
 - [New AI capabilities, including Copilot in Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=ZcqFkAbbcRg)
 - [Get your data AI-ready with Sustainability data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=RKJlaLrAbSw)
 - [Co-building the future of financial services in the era of AI](https://www.youtube.com/watch?v=p0On9b1ADj4)
 - [The future of financial services in the era of AI: Canadian perspectives](https://www.youtube.com/watch?v=BGhxQ29fRcU)
-- [Empowering women in financial services: Experiential perspectives and the elements of success](https://www.youtube.com/watch?v=AxF4655ncks)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
