@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Armchair Architects: The Danger Zone &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=xgLGUqFMUn4)
 - [Microsoft JDConf 2024: Java, Cloud, and AI – Sneak Peek](https://www.youtube.com/watch?v=NjMuoZ8Fx_0)
 - [Fluent UI Trainings: Core concepts, state management &amp; Triggers API](https://www.youtube.com/watch?v=19R2qAoLhdg)
 - [What&#39;s the weirdest project you&#39;ve ever worked on? | One Dev Question with Larry Osterman](https://www.youtube.com/watch?v=jP5YfPzP1nI)
 - [Overview of GitHub Actions deployments for Azure SQL | Data Exposed](https://www.youtube.com/watch?v=eVQWOVcDHm4)
-- [Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=D-nknTYX0-w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
