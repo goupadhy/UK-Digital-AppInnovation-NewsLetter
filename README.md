@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [[Some] SQL Server and Azure SQL DB Security Fundamentals | Data Exposed](https://www.youtube.com/watch?v=-XX2V_4-uZw)
 - [Develop Your Copilot Skills &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=AnXBVBfu4zI)
 - [Azure Developers - APIs in Action](https://www.youtube.com/watch?v=3MmDd3CR5is)
 - [How does .NET MAUI get me to market faster if I&#39;m a startup?](https://www.youtube.com/watch?v=MTas2AbKoNQ)
 - [Introduction to Dumpify](https://www.youtube.com/watch?v=coJe59TI33w)
-- [The ABCs of ADX: Learning the Basics of Azure Data Explorer | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=XVEAjwjpTng)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
