@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Editing your app with Copilot in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=g9fFoQ5CETk)
 - [Troubleshooting a Cloud Flow with Copilot in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=A9QYbZCZ6ZA)
 - [Getting Started with Copilot in Cloud Flows | Get Started with Power Shorts](https://www.youtube.com/watch?v=vTEdYmWjdVw)
 - [Collaboration in Canvas Apps with Power Apps | Get Started with Power Shorts](https://www.youtube.com/watch?v=zOGQXz4-LnI)
 - [Enhance Conversational Experiences with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=GRAInU7i-xY)
-- [Turn Conversation into Action with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=Mkc_wMGTXDc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
