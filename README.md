@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - Presenting to an AI Audience, with Nancy Duarte](https://www.youtube.com/watch?v=o6svCESNjg0)
 - [Fluent UI Trainings: Styling components &amp; theming](https://www.youtube.com/watch?v=UpzGL12GfoY)
 - [[Some] SQL Server and Azure SQL DB Security Fundamentals | Data Exposed](https://www.youtube.com/watch?v=-XX2V_4-uZw)
 - [Develop Your Copilot Skills &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=AnXBVBfu4zI)
 - [Azure Developers - APIs in Action](https://www.youtube.com/watch?v=3MmDd3CR5is)
-- [How does .NET MAUI get me to market faster if I&#39;m a startup?](https://www.youtube.com/watch?v=MTas2AbKoNQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
