@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Is GitHub Copilot the new rubber duck?](https://www.youtube.com/watch?v=SleZX6zMnOU)
 - [AI-in-a-Box: Unpacking AI and ML](https://www.youtube.com/watch?v=qKXNbtHr3AI)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Presenting to an AI Audience, with Nancy Duarte](https://www.youtube.com/watch?v=o6svCESNjg0)
 - [Fluent UI Trainings: Styling components &amp; theming](https://www.youtube.com/watch?v=UpzGL12GfoY)
 - [[Some] SQL Server and Azure SQL DB Security Fundamentals | Data Exposed](https://www.youtube.com/watch?v=-XX2V_4-uZw)
-- [Develop Your Copilot Skills &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=AnXBVBfu4zI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
