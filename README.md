@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Add intelligence into your apps with Dataverse AI functions](https://www.youtube.com/watch?v=5kFqjle7Mh8)
 - [Create a Canvas App from an Excel File | Get Started with Power Shorts](https://www.youtube.com/watch?v=IgpI0SNJmg0)
 - [Editing your app with Copilot in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=g9fFoQ5CETk)
 - [Troubleshooting a Cloud Flow with Copilot in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=A9QYbZCZ6ZA)
 - [Getting Started with Copilot in Cloud Flows | Get Started with Power Shorts](https://www.youtube.com/watch?v=vTEdYmWjdVw)
-- [Collaboration in Canvas Apps with Power Apps | Get Started with Power Shorts](https://www.youtube.com/watch?v=zOGQXz4-LnI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
