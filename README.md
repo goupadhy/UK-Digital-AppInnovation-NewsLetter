@@ -83,7 +83,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Is GitHub Copilot the new rubber duck?](https://www.youtube.com/watch?v=SleZX6zMnOU)
 - [AI-in-a-Box: Unpacking AI and ML](https://www.youtube.com/watch?v=qKXNbtHr3AI)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Presenting to an AI Audience, with Nancy Duarte](https://www.youtube.com/watch?v=o6svCESNjg0)
-- [Fluent UI Trainings: Styling components &amp; theming](https://www.youtube.com/watch?v=UpzGL12GfoY)
+- [Fluent UI React Trainings: Styling components &amp; theming](https://www.youtube.com/watch?v=UpzGL12GfoY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
