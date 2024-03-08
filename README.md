@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Shift Technology: Changing the way insurers detect fraud with Azure OpenAI Service](https://www.youtube.com/watch?v=kdcDRCNT1-w)
 - [Telkomsel customer support teams speak volumes—with help from copilot based on Azure OpenAI Service](https://www.youtube.com/watch?v=G77EX3Y1btg)
 - [Telstra dials in elevated customer service with Azure OpenAI Service](https://www.youtube.com/watch?v=iM6vyZreRRw)
 - [Microsoft for telecommunications](https://www.youtube.com/watch?v=tXNR-hkfIYc)
 - [New AI capabilities, including Copilot in Microsoft Cloud for Sustainability](https://www.youtube.com/watch?v=ZcqFkAbbcRg)
-- [Get your data AI-ready with Sustainability data solutions in Microsoft Fabric](https://www.youtube.com/watch?v=RKJlaLrAbSw)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
