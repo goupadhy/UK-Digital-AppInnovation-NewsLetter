@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Why doesn’t the BitLocker Wizard let me save my BitLocker key on an encrypted drive?](https://www.youtube.com/watch?v=0BgA6fd7CqY)
 - [Instant File Initialization for the transaction log | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=KqBtwF991yQ)
 - [Is GitHub Copilot the new rubber duck?](https://www.youtube.com/watch?v=SleZX6zMnOU)
 - [AI-in-a-Box: Unpacking AI and ML](https://www.youtube.com/watch?v=qKXNbtHr3AI)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Presenting to an AI Audience, with Nancy Duarte](https://www.youtube.com/watch?v=o6svCESNjg0)
-- [Fluent UI React Trainings: Styling components &amp; theming](https://www.youtube.com/watch?v=UpzGL12GfoY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
