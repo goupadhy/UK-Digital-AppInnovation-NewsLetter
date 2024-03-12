@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How to Simplify the Developer Experience with AKS](https://www.youtube.com/watch?v=vS0SXEkLDdQ)
 - [Armchair Architects: Are AI Charters Valuable?](https://www.youtube.com/watch?v=Xfcm235l9Gk)
 - [Fluent UI React Trainings: Styling best practices and icons](https://www.youtube.com/watch?v=XSPwgmUZ4Tw)
 - [Why doesn’t the BitLocker Wizard let me save my BitLocker key on an encrypted drive?](https://www.youtube.com/watch?v=0BgA6fd7CqY)
 - [Instant File Initialization for the transaction log | SQL Server 2022 Hidden Gems | Data Exposed](https://www.youtube.com/watch?v=KqBtwF991yQ)
-- [Is GitHub Copilot the new rubber duck?](https://www.youtube.com/watch?v=SleZX6zMnOU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
