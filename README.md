@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Site Building with Power Pages | Get Started with Power Shorts](https://www.youtube.com/watch?v=6X2v0cubh-g)
 - [How to leverage AI Builder GPT to extract information from documents](https://www.youtube.com/watch?v=wRruAfioXBE)
 - [Managing Websites from the Power Platform Admin Center | Power Platform Shorts](https://www.youtube.com/watch?v=YuBlXVBlPVk)
 - [What motivates Power Platform and Dynamics 365 Super Users?](https://www.youtube.com/watch?v=rQlQ1d_4GGI)
 - [Add intelligence into your apps with Dataverse AI functions](https://www.youtube.com/watch?v=5kFqjle7Mh8)
-- [Create a Canvas App from an Excel File | Get Started with Power Shorts](https://www.youtube.com/watch?v=IgpI0SNJmg0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
