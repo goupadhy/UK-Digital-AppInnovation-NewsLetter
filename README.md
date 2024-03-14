@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How to monitor the performance of your on-prem &amp; multi-cloud SQL Servers w/ Azure Arc | Data Exposed](https://www.youtube.com/watch?v=ggemofZDg_Q)
 - [Develop Your Copilot Skills &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=6PbGnqE5d_o)
 - [How to Simplify the Developer Experience with AKS](https://www.youtube.com/watch?v=vS0SXEkLDdQ)
 - [Armchair Architects: Are AI Charters Valuable?](https://www.youtube.com/watch?v=Xfcm235l9Gk)
 - [Fluent UI React Trainings: Styling best practices and icons](https://www.youtube.com/watch?v=XSPwgmUZ4Tw)
-- [Why doesn’t the BitLocker Wizard let me save my BitLocker key on an encrypted drive?](https://www.youtube.com/watch?v=0BgA6fd7CqY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
