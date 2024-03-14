@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Prompt engineering made easier with AI Builder](https://powerapps.microsoft.com/en-us/blog/prompt-engineering-made-easier-with-ai-builder/)
 - [How Microsoft Power Platform is driving real-world impact—January customer success stories](https://www.microsoft.com/en-us/power-platform/blog/2024/02/12/how-microsoft-power-platform-is-driving-real-world-impact-january-customer-success-stories/)
 - [2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/)
 - [Accelerate developer productivity with Microsoft Power Platform](https://powerapps.microsoft.com/en-us/blog/accelerate-developer-productivity-with-microsoft-power-platform/)
 - [Join Microsoft at the DEVIntersection Conference in Orlando](https://powerapps.microsoft.com/en-us/blog/join-microsoft-the-devintersection-conference-in-orlando/)
-- [Accelerate Copilot extensibility and Power Apps creation with Microsoft Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2023/11/15/accelerate-copilot-extensibility-and-power-app-creation-with-microsoft-dataverse/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
