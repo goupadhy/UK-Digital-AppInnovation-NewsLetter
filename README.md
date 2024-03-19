@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI-in-a-Box: AI Services](https://www.youtube.com/watch?v=i7_G1bNad3A)
+- [Mr. Maeda&#39;s Cozy AI Kitchen - Personalized Patient Care With AI, with Dr. Kim Morita](https://www.youtube.com/watch?v=_LvN25p3tBI)
 - [How to monitor the performance of your on-prem &amp; multi-cloud SQL Servers w/ Azure Arc | Data Exposed](https://www.youtube.com/watch?v=ggemofZDg_Q)
 - [Develop Your Copilot Skills &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=6PbGnqE5d_o)
 - [How to Simplify the Developer Experience with AKS](https://www.youtube.com/watch?v=vS0SXEkLDdQ)
-- [Armchair Architects: Are AI Charters Valuable?](https://www.youtube.com/watch?v=Xfcm235l9Gk)
-- [Fluent UI React Trainings: Styling best practices and icons](https://www.youtube.com/watch?v=XSPwgmUZ4Tw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
