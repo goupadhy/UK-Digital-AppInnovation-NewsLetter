@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Use the Power Automate Plug-in for Windows Copilot | Getting Started with Power Shorts](https://www.youtube.com/watch?v=xDj2lh7mQCw)
 - [How to get started with AI Classify in Power Apps](https://www.youtube.com/watch?v=UvNJSr6jncU)
 - [Add AI-generated code using Copilot in Visual Studio Code with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=OldCDObeipA)
 - [Power Site Building with Power Pages | Getting Started with Power Shorts](https://www.youtube.com/watch?v=6X2v0cubh-g)
 - [How to leverage AI Builder GPT to extract information from documents](https://www.youtube.com/watch?v=wRruAfioXBE)
-- [Managing Websites from the Power Platform Admin Center | Power Platform Shorts](https://www.youtube.com/watch?v=YuBlXVBlPVk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
