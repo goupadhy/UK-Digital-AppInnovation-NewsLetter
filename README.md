@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft as Sustainability Customer Zero: Managing Scope 3 emissions](https://www.youtube.com/watch?v=ppdXZU8MNr4)
 - [Introducing Art in the Cloud](https://www.youtube.com/watch?v=Kr49z3fYW2A)
 - [Award winning VFX in the cloud](https://www.youtube.com/watch?v=N7UkzyWOm4Y)
 - [Industry Cloud Conversations | Toggle AI](https://www.youtube.com/watch?v=PCRXr2MCdbw)
 - [Threat Protection for Government with SIEM and XDR](https://www.youtube.com/watch?v=20GS7s5TjcQ)
-- [Shift Technology: Changing the way insurers detect fraud with Azure OpenAI Service](https://www.youtube.com/watch?v=kdcDRCNT1-w)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
