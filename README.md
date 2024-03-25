@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Connect your own Virtual Network with Hosted Machine Group | Power Platform Shorts](https://www.youtube.com/watch?v=baw_33urHIo)
 - [Dataverse Hierarchical security and how to include or exclude disabled status direct report’s record](https://www.youtube.com/watch?v=EpUru3MA1kY)
 - [Use the Power Automate Plug-in for Windows Copilot | Getting Started with Power Shorts](https://www.youtube.com/watch?v=xDj2lh7mQCw)
 - [How to get started with AI Classify in Power Apps](https://www.youtube.com/watch?v=UvNJSr6jncU)
 - [Add AI-generated code using Copilot in Visual Studio Code with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=OldCDObeipA)
-- [Power Site Building with Power Pages | Getting Started with Power Shorts](https://www.youtube.com/watch?v=6X2v0cubh-g)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
