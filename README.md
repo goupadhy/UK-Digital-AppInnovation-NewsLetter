@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [GPT-powered task-optimized summarization](https://www.youtube.com/watch?v=SgnQHgYj5js)
 - [Inspektor Gadget Integrated with AKS Vscode Extension](https://www.youtube.com/watch?v=IK1uTboM138)
 - [Introduction to Optimized Locking in Azure SQL Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=9F3IciOIRZA)
 - [Armchair Architects: What Is Responsible AI?](https://www.youtube.com/watch?v=bdhgwh5y5TE)
 - [Fluent UI React Trainings: Accessibility basics](https://www.youtube.com/watch?v=Lm_ifAQVTUs)
-- [Meet Microsoft SQL Product Leader - Sanjay Mishra | Data Exposed](https://www.youtube.com/watch?v=4cYIll-U6ms)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
