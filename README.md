@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Armchair Architects: What Is Responsible AI?](https://www.youtube.com/watch?v=bdhgwh5y5TE)
 - [Fluent UI React Trainings: Accessibility basics](https://www.youtube.com/watch?v=Lm_ifAQVTUs)
 - [Meet Microsoft SQL Product Leader - Sanjay Mishra | Data Exposed](https://www.youtube.com/watch?v=4cYIll-U6ms)
 - [Fluent UI React Trainings: Advanced slots design &amp; Positioning API](https://www.youtube.com/watch?v=DfG0VZKXcL4)
 - [AI-in-a-Box: AI Services](https://www.youtube.com/watch?v=i7_G1bNad3A)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Personalized Patient Care With AI, with Dr. Kim Morita](https://www.youtube.com/watch?v=_LvN25p3tBI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
