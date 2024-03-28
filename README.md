@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Getting started with AI Prompts](https://www.youtube.com/watch?v=V0_WxHuef0c)
+- [Getting started with AI Prompts](https://www.youtube.com/watch?v=lLA2XVbMRbg)
 - [Copilot in Power Automate | Join us at the Microsoft Business Applications Launch Event](https://www.youtube.com/watch?v=kXoyou07sJ0)
 - [Automate using UI elements with Power Automate | Get Started with Power Shorts](https://www.youtube.com/watch?v=1yBW2IHK2mc)
 - [Connect your own Virtual Network with Hosted Machine Group | Power Platform Shorts](https://www.youtube.com/watch?v=baw_33urHIo)
