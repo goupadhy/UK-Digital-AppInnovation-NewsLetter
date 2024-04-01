@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introduction to PowerToys](https://www.youtube.com/watch?v=xU3w0h2W2DI)
+- [Introduction to PowerToys](https://www.youtube.com/watch?v=fgHiUDCag_o)
 - [How do you use GitHub Copilot?](https://www.youtube.com/watch?v=h3vAdpNF-wU)
 - [Introducing Copilot in Azure SQL Database &lpar;Private Preview&rpar; | Data Exposed](https://www.youtube.com/watch?v=B_96_R5oNs4)
 - [GPT-powered task-optimized summarization](https://www.youtube.com/watch?v=SgnQHgYj5js)
-- [Inspektor Gadget Integrated with AKS Vscode Extension](https://www.youtube.com/watch?v=IK1uTboM138)
-- [Introduction to Optimized Locking in Azure SQL Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=9F3IciOIRZA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
