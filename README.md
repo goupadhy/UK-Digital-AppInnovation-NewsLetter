@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Generative AI Hackathon - Sign Up Today](https://www.youtube.com/watch?v=NauZSmUXE8E)
 - [Introduction to PowerToys](https://www.youtube.com/watch?v=xU3w0h2W2DI)
 - [Introduction to PowerToys](https://www.youtube.com/watch?v=fgHiUDCag_o)
 - [How do you use GitHub Copilot?](https://www.youtube.com/watch?v=h3vAdpNF-wU)
 - [Introducing Copilot in Azure SQL Database &lpar;Private Preview&rpar; | Data Exposed](https://www.youtube.com/watch?v=B_96_R5oNs4)
-- [GPT-powered task-optimized summarization](https://www.youtube.com/watch?v=SgnQHgYj5js)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
