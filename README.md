@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Add an AI-Powered Chatbot with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=ohANXe1bfos)
 - [Getting started with AI Prompts](https://www.youtube.com/watch?v=lLA2XVbMRbg)
 - [Copilot in Power Automate | Join us at the Microsoft Business Applications Launch Event](https://www.youtube.com/watch?v=kXoyou07sJ0)
 - [Automate using UI elements with Power Automate | Get Started with Power Shorts](https://www.youtube.com/watch?v=1yBW2IHK2mc)
 - [Connect your own Virtual Network with Hosted Machine Group | Power Platform Shorts](https://www.youtube.com/watch?v=baw_33urHIo)
-- [Dataverse Hierarchical security and how to include or exclude disabled status direct report’s record](https://www.youtube.com/watch?v=EpUru3MA1kY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
