@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Industry Cloud Conversations | FRISS](https://www.youtube.com/watch?v=p3qKMxKiy7U)
 - [Industry Cloud Conversations | Bayer and Agriculture](https://www.youtube.com/watch?v=aocRKT1ucT8)
 - [Microsoft as Sustainability Customer Zero: Managing Scope 3 emissions](https://www.youtube.com/watch?v=ppdXZU8MNr4)
 - [Introducing Art in the Cloud](https://www.youtube.com/watch?v=Kr49z3fYW2A)
 - [Award winning VFX in the cloud](https://www.youtube.com/watch?v=N7UkzyWOm4Y)
-- [Industry Cloud Conversations | Toggle AI](https://www.youtube.com/watch?v=PCRXr2MCdbw)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
