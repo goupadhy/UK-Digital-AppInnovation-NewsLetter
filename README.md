@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Building AI ready applications | Data Exposed](https://www.youtube.com/watch?v=a1tn-Tj93Zg)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Cooking with Copilots, with Dona Sarkar](https://www.youtube.com/watch?v=ZKjAzhMb_Yw)
 - [Generative AI Hackathon - Sign Up Today](https://www.youtube.com/watch?v=NauZSmUXE8E)
 - [Introduction to PowerToys](https://www.youtube.com/watch?v=xU3w0h2W2DI)
 - [Introduction to PowerToys](https://www.youtube.com/watch?v=fgHiUDCag_o)
-- [How do you use GitHub Copilot?](https://www.youtube.com/watch?v=h3vAdpNF-wU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
