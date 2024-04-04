@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [What is retrieval-augmented generation, and what does it do for generative AI?](https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/)
 - [Security research without ever leaving GitHub: From code scanning to CVE via Codespaces and private vulnerability reporting](https://github.blog/2024-04-03-security-research-without-ever-leaving-github-from-code-scanning-to-cve-via-codespaces-and-private-vulnerability-reporting/)
 - [Bringing enterprise-level security and even more power to GitHub-hosted runners](https://github.blog/2024-04-02-bringing-enterprise-level-security-and-even-more-power-to-github-hosted-runners/)
 - [Empowering women through open source](https://github.blog/2024-03-28-empowering-women-through-open-source/)
 - [Game Bytes · March 2024](https://github.blog/2024-03-27-game-bytes-march-2024/)
-- [Using GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
