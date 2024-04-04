@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [The Microsoft Power Platform community is buzzing about Microsoft Copilot, governance, and scale](https://www.microsoft.com/en-us/power-platform/blog/2024/03/28/the-microsoft-power-platform-community-is-buzzing-about-microsoft-copilot-governance-and-scale/)
-- [A year of Microsoft Copilot: Accelerating innovation with AI-powered low-code](https://www.microsoft.com/en-us/power-platform/blog/2024/03/26/a-year-of-microsoft-copilot-accelerating-innovation-with-ai-powered-low-code/)
-- [Join us to see what’s new with AI in Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2024/03/25/join-us-to-see-whats-new-with-ai-in-microsoft-power-platform/)
-- [Protect enterprise solutions with new Microsoft Power Platform security features ](https://www.microsoft.com/en-us/power-platform/blog/2024/03/20/protect-enterprise-solutions-with-new-microsoft-power-platform-security-features/)
 - [Prompt engineering made easier with AI Builder](https://powerapps.microsoft.com/en-us/blog/prompt-engineering-made-easier-with-ai-builder/)
+- [How Microsoft Power Platform is driving real-world impact—January customer success stories](https://www.microsoft.com/en-us/power-platform/blog/2024/02/12/how-microsoft-power-platform-is-driving-real-world-impact-january-customer-success-stories/)
+- [2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/)
+- [Accelerate developer productivity with Microsoft Power Platform](https://powerapps.microsoft.com/en-us/blog/accelerate-developer-productivity-with-microsoft-power-platform/)
+- [Join Microsoft at the DEVIntersection Conference in Orlando](https://powerapps.microsoft.com/en-us/blog/join-microsoft-the-devintersection-conference-in-orlando/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
