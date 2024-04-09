@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to choose a LLM partner for your AI project](https://www.youtube.com/watch?v=t4f2XZ0E3oE)
 - [Building AI ready applications | Data Exposed](https://www.youtube.com/watch?v=a1tn-Tj93Zg)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Cooking with Copilots, with Dona Sarkar](https://www.youtube.com/watch?v=ZKjAzhMb_Yw)
 - [Generative AI Hackathon - Sign Up Today](https://www.youtube.com/watch?v=NauZSmUXE8E)
 - [Introduction to PowerToys](https://www.youtube.com/watch?v=xU3w0h2W2DI)
-- [Introduction to PowerToys](https://www.youtube.com/watch?v=fgHiUDCag_o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
