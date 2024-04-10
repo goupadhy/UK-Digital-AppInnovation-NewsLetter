@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft&#39;s AI Journey through Legal Operations | All in on AI](https://www.youtube.com/watch?v=8TAPGUYEgns)
 - [Microsoft&#39;s AI Journey through Customer Service | All in on AI](https://www.youtube.com/watch?v=AWDm6kAxjDA)
 - [Industry Cloud Conversations | Sight Machine](https://www.youtube.com/watch?v=vdaiQg26tlE)
 - [Transforming commercial banking on the Microsoft Cloud with generative AI - Trade Ledger](https://www.youtube.com/watch?v=R3dpOar5KIA)
 - [Industry Cloud Conversations | FRISS](https://www.youtube.com/watch?v=p3qKMxKiy7U)
-- [Industry Cloud Conversations | Bayer and Agriculture](https://www.youtube.com/watch?v=aocRKT1ucT8)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
