@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Process Work Queues with Power Automate | Getting Started with Power Shorts](https://www.youtube.com/watch?v=qi8isiV_dHs)
 - [Adding Generative AI to your Power Apps with AI Prompts](https://www.youtube.com/watch?v=l8tv4SwDhuE)
 - [Suggested Actions with Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=aXxX5bJSxi8)
 - [Trust Microsoft Copilot with your Power Platform and Dynamics 365 data - Power CAT Live](https://www.youtube.com/watch?v=TiapMpsAF4o)
 - [Deploy Solutions Using Pipelines in Power Apps | Getting Started with Power Shorts](https://www.youtube.com/watch?v=iziCkYl8Shc)
-- [Adding generative AI to your Cloud Flows with AI Prompts](https://www.youtube.com/watch?v=-4QqfrnGgm4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
