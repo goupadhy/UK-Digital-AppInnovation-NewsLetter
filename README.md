@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build a Podcast Copilot with .NET and Power Apps: Setting up the Azure OpenAI Service](https://www.youtube.com/watch?v=9SLirsMqbVI)
 - [What feature did you enjoy building in .NET 8?](https://www.youtube.com/watch?v=kOEOQL2ywNE)
 - [Focus on your app, not its infrastructure, with Radius Recipes](https://www.youtube.com/watch?v=giuBGfyohHw)
 - [Focus on your app, not its infrastructure, with Radius Recipes](https://www.youtube.com/watch?v=Ay_Cpoz-n5c)
 - [How to choose a LLM partner for your AI project](https://www.youtube.com/watch?v=t4f2XZ0E3oE)
-- [Building AI ready applications | Data Exposed](https://www.youtube.com/watch?v=a1tn-Tj93Zg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
