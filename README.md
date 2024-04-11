@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Build a Podcast Copilot with .NET and Power Apps: Setting up the Azure OpenAI Service](https://www.youtube.com/watch?v=9SLirsMqbVI)
-- [What feature did you enjoy building in .NET 8?](https://www.youtube.com/watch?v=kOEOQL2ywNE)
-- [Focus on your app, not its infrastructure, with Radius Recipes](https://www.youtube.com/watch?v=giuBGfyohHw)
-- [Focus on your app, not its infrastructure, with Radius Recipes](https://www.youtube.com/watch?v=Ay_Cpoz-n5c)
-- [How to choose a LLM partner for your AI project](https://www.youtube.com/watch?v=t4f2XZ0E3oE)
+- [Operationalizing - Continuously monitor your LLM apps in production](https://www.youtube.com/watch?v=qtxBsUY3eYQ)
+- [Building and Augmenting Part III - Evaluate your LLM flows with built-in metrics](https://www.youtube.com/watch?v=j3cZL0kc5Ug)
+- [Building and Augmenting Part II - Code-first Experiences in Prompt Flow](https://www.youtube.com/watch?v=gTp7z6mUYo4)
+- [Building and Augmenting - Augment LLM Capabilities with RAG](https://www.youtube.com/watch?v=5k3A-LMplME)
+- [Ideating and Exploring - How to Get Started with LLMOps](https://www.youtube.com/watch?v=pgyZteQJBf4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
