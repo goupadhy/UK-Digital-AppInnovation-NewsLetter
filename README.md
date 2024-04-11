@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Power Apps and Azure SQL Together | Data Exposed](https://www.youtube.com/watch?v=UgGTEBY89BM)
 - [Operationalizing - Continuously monitor your LLM apps in production](https://www.youtube.com/watch?v=qtxBsUY3eYQ)
 - [Building and Augmenting Part III - Evaluate your LLM flows with built-in metrics](https://www.youtube.com/watch?v=j3cZL0kc5Ug)
 - [Building and Augmenting Part II - Code-first Experiences in Prompt Flow](https://www.youtube.com/watch?v=gTp7z6mUYo4)
 - [Building and Augmenting - Augment LLM Capabilities with RAG](https://www.youtube.com/watch?v=5k3A-LMplME)
-- [Ideating and Exploring - How to Get Started with LLMOps](https://www.youtube.com/watch?v=pgyZteQJBf4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
