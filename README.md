@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cosmos DB Conf - Register and Attend April 16!](https://www.youtube.com/watch?v=Zy0pEpWfW58)
 - [Why did one solution cause more problems than it solved?](https://www.youtube.com/watch?v=tB4O3r-GbWI)
 - [What can you make with C#?](https://www.youtube.com/watch?v=xv6PHKDM7Io)
 - [Power Apps and Azure SQL Together | Data Exposed](https://www.youtube.com/watch?v=UgGTEBY89BM)
 - [Operationalizing - Continuously monitor your LLM apps in production](https://www.youtube.com/watch?v=qtxBsUY3eYQ)
-- [Building and Augmenting Part III - Evaluate your LLM flows with built-in metrics](https://www.youtube.com/watch?v=j3cZL0kc5Ug)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
