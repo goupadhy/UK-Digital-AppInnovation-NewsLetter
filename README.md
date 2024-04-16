@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Mr. Maeda&#39;s Cozy AI Kitchen - The Professor of Prompts, with Liz Danzico](https://www.youtube.com/watch?v=1mrxntPtmCU)
-- [How do I use .NET MAUI in VS code?](https://www.youtube.com/watch?v=hkFeA9n6dEc)
-- [Introduction to the Azure Developer CLI &lpar;AZD&rpar;](https://www.youtube.com/watch?v=KDgR-TXtOgM)
-- [Introduction to the Azure Developer CLI &lpar;AZD&rpar;](https://www.youtube.com/watch?v=70W3VW8Fi9o)
-- [What to Expect from Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=SHgzMKXoVeI)
+- [Portnox Trusts Azure Cosmos DB for Scalable Cloud Data Management](https://www.youtube.com/watch?v=xPRFs47WCf8)
+- [Exploring Dapr&#39;s integration wtih Azure Cosmos DB](https://www.youtube.com/watch?v=xoxAU1jppjw)
+- [Use EF Core to transition from SQL Server to Azure Cosmos DB](https://www.youtube.com/watch?v=qVR3tMiK7xg)
+- [How KPMG Australia Leverages Azure Cosmos DB for Generative AI](https://www.youtube.com/watch?v=uYIeFSKoX9w)
+- [Procedural Simulation, AI creativity and stochastic modeling. Using Azure Cosmos DB to make games.](https://www.youtube.com/watch?v=lyHNIyMjngc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
