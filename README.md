@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introduction to the Azure Developer CLI &lpar;AZD&rpar;](https://www.youtube.com/watch?v=KDgR-TXtOgM)
+- [Introduction to the Azure Developer CLI &lpar;AZD&rpar;](https://www.youtube.com/watch?v=70W3VW8Fi9o)
 - [What to Expect from Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=SHgzMKXoVeI)
 - [Azure Cosmos DB Conf - Register and Attend April 16!](https://www.youtube.com/watch?v=Zy0pEpWfW58)
 - [Why did one solution cause more problems than it solved?](https://www.youtube.com/watch?v=tB4O3r-GbWI)
-- [What can you make with C#?](https://www.youtube.com/watch?v=xv6PHKDM7Io)
-- [Power Apps and Azure SQL Together | Data Exposed](https://www.youtube.com/watch?v=UgGTEBY89BM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
