@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=D-nknTYX0-w)
 - [Azure Cosmos DB Conf 2024 Keynote](https://www.youtube.com/watch?v=9S4AqxI4Su8)
 - [Portnox Trusts Azure Cosmos DB for Scalable Cloud Data Management](https://www.youtube.com/watch?v=xPRFs47WCf8)
 - [Exploring Dapr&#39;s integration wtih Azure Cosmos DB](https://www.youtube.com/watch?v=xoxAU1jppjw)
 - [Use EF Core to transition from SQL Server to Azure Cosmos DB](https://www.youtube.com/watch?v=qVR3tMiK7xg)
-- [How KPMG Australia Leverages Azure Cosmos DB for Generative AI](https://www.youtube.com/watch?v=uYIeFSKoX9w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
