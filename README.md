@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Why are there two Azure Function .NET models and which one should I use?](https://www.youtube.com/watch?v=BXJdM54S4bU)
 - [Build a Podcast Copilot with .NET and Power Apps: .NET APIs and Custom Connectors](https://www.youtube.com/watch?v=nPMcJILg3NA)
 - [Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=D-nknTYX0-w)
 - [Portnox Trusts Azure Cosmos DB for Scalable Cloud Data Management](https://www.youtube.com/watch?v=xPRFs47WCf8)
 - [Exploring Dapr&#39;s integration wtih Azure Cosmos DB](https://www.youtube.com/watch?v=xoxAU1jppjw)
-- [Use EF Core to transition from SQL Server to Azure Cosmos DB](https://www.youtube.com/watch?v=qVR3tMiK7xg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
