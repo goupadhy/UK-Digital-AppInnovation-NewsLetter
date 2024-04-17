@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Build on a cloud you can trust: Microsoft security and compliance for financial services](https://www.youtube.com/watch?v=vdfhxuWOSlQ)
+- [Introducing new capabilities for Microsoft Cloud for Manufacturing](https://www.youtube.com/watch?v=dHdOQB--wHo)
 - [The Borden Line with Bill Borden and special guest Jim Marous](https://www.youtube.com/watch?v=eWCju1ZthQ8)
 - [Microsoft&#39;s AI Journey through Legal Operations | All in on AI](https://www.youtube.com/watch?v=8TAPGUYEgns)
 - [Microsoft&#39;s AI Journey through Customer Service | All in on AI](https://www.youtube.com/watch?v=AWDm6kAxjDA)
-- [Industry Cloud Conversations | Sight Machine](https://www.youtube.com/watch?v=vdaiQg26tlE)
-- [Transforming commercial banking on the Microsoft Cloud with generative AI - Trade Ledger](https://www.youtube.com/watch?v=R3dpOar5KIA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
