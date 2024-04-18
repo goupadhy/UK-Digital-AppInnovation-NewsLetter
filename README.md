@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Build Unplugged, Episode One: Registration is LIVE!](https://www.youtube.com/watch?v=cAtaDzejTXU)
 - [Build Great AI Apps using Azure SQL DB Hyperscale | Data Exposed](https://www.youtube.com/watch?v=WSorSPJogEA)
 - [FinOps: Introduction and Assessments](https://www.youtube.com/watch?v=jIv_37ZiN0o)
 - [Why are there two Azure Function .NET models and which one should I use?](https://www.youtube.com/watch?v=BXJdM54S4bU)
 - [Build a Podcast Copilot with .NET and Power Apps: .NET APIs and Custom Connectors](https://www.youtube.com/watch?v=nPMcJILg3NA)
-- [Azure Cosmos DB Conf 2024](https://www.youtube.com/watch?v=D-nknTYX0-w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
