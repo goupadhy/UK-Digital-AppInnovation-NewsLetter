@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Cosmos DB Conf 2024 Keynote](https://www.youtube.com/watch?v=s1TneZ6IqlI)
 - [Microsoft Build Unplugged, Episode One: Registration is LIVE!](https://www.youtube.com/watch?v=cAtaDzejTXU)
 - [Build Great AI Apps using Azure SQL DB Hyperscale | Data Exposed](https://www.youtube.com/watch?v=WSorSPJogEA)
 - [FinOps: Introduction and Assessments](https://www.youtube.com/watch?v=jIv_37ZiN0o)
 - [Why are there two Azure Function .NET models and which one should I use?](https://www.youtube.com/watch?v=BXJdM54S4bU)
-- [Build a Podcast Copilot with .NET and Power Apps: .NET APIs and Custom Connectors](https://www.youtube.com/watch?v=nPMcJILg3NA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
