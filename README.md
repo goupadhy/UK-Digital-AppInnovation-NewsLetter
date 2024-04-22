@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Using Modern Themes with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=xuyR2BikwyQ)
 - [Intelligent authoring with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=lRVpM4wQ_eA)
 - [Kelly uses Power Pages to revamp the customer experience](https://www.youtube.com/watch?v=EKnq0qLsTaM)
 - [Complete Forms Quickly with Copilot | Getting Started with Power Shorts](https://www.youtube.com/watch?v=Jwlaue-Skzk)
 - [Extend M365 Copilot with AI Prompt Plugins](https://www.youtube.com/watch?v=4QnKzY1uO9M)
-- [Quickly generate well-written text with Copilot | Power Platform Shorts](https://www.youtube.com/watch?v=XY1sWTi4nl8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
