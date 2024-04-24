@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build a Podcast Copilot with .NET &amp; Power Apps: Power Apps and Microsoft Copilot Studio Integration](https://www.youtube.com/watch?v=Psp0rr7kPAw)
 - [How can I learn C# and get certified as a beginner?](https://www.youtube.com/watch?v=641aSergr0s)
 - [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - What is AI?](https://www.youtube.com/watch?v=n4TNopUAWW8)
 - [Get started with your first Radius application](https://www.youtube.com/watch?v=_KrB4wuu-rk)
 - [Radius Liveness is just like Cloud Native](https://www.youtube.com/watch?v=IfEYCymbpUs)
-- [Armchair Architects: POC to Prod Must-haves](https://www.youtube.com/watch?v=D2FQXVSRgtw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
