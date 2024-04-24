@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How can I learn C# and get certified as a beginner?](https://www.youtube.com/watch?v=641aSergr0s)
 - [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - What is AI?](https://www.youtube.com/watch?v=n4TNopUAWW8)
 - [Get started with your first Radius application](https://www.youtube.com/watch?v=_KrB4wuu-rk)
 - [Radius Liveness is just like Cloud Native](https://www.youtube.com/watch?v=IfEYCymbpUs)
 - [Armchair Architects: POC to Prod Must-haves](https://www.youtube.com/watch?v=D2FQXVSRgtw)
-- [Microsoft Build Unplugged, Episode Three: BTS Content preview](https://www.youtube.com/watch?v=qrdJqCgb4Mw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
