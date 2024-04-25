@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [How Microsoft Power Platform is driving real-world impact—March customer success stories](https://www.microsoft.com/en-us/power-platform/blog/2024/04/18/how-microsoft-power-platform-is-driving-real-world-impact-march-customer-success-stories/)
 - [2024 release wave 1 kicks off with hundreds of AI-powered capabilities for Microsoft Dynamics 365 and Microsoft Power Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/10/2024-release-wave-1-kicks-off-with-hundreds-of-ai-powered-capabilities-for-microsoft-dynamics-365-and-microsoft-power-platform/)
 - [Increase efficiency with Microsoft Power Platform governance features ](https://www.microsoft.com/en-us/power-platform/blog/2024/04/04/increase-efficiency-with-microsoft-power-platform-governance-features/)
 - [The Microsoft Power Platform community is buzzing about Microsoft Copilot, governance, and scale](https://www.microsoft.com/en-us/power-platform/blog/2024/03/28/the-microsoft-power-platform-community-is-buzzing-about-microsoft-copilot-governance-and-scale/)
 - [A year of Microsoft Copilot: Accelerating innovation with AI-powered low-code](https://www.microsoft.com/en-us/power-platform/blog/2024/03/26/a-year-of-microsoft-copilot-accelerating-innovation-with-ai-powered-low-code/)
+- [Join us to see what’s new with AI in Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2024/03/25/join-us-to-see-whats-new-with-ai-in-microsoft-power-platform/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
