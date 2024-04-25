@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Up Program Announces New Video-Based Learning](https://www.youtube.com/watch?v=KwTT_C9PM2c)
 - [Build Apps Through Conversation | Getting Started with Power Shorts](https://www.youtube.com/watch?v=A4cBqQjnIBg)
 - [Sharing and Distributing your AI Prompts](https://www.youtube.com/watch?v=W_A2LwsTnFQ)
 - [Using Modern Themes with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=xuyR2BikwyQ)
 - [Intelligent authoring with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=lRVpM4wQ_eA)
-- [Kelly uses Power Pages to revamp the customer experience](https://www.youtube.com/watch?v=EKnq0qLsTaM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
