@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Build Unplugged, Episode Five: Session catalog is LIVE!](https://www.youtube.com/watch?v=U6Evipna0XY)
+- [Importing Managed Solutions - What has changed to the Upgrade verses Update Process?](https://www.youtube.com/watch?v=2Xgmipk9dSM)
 - [How can I get started with .NET?](https://www.youtube.com/watch?v=K3UU2Ie_I9c)
 - [Approximate Vector Search with KMeans and Azure SQL | Data Exposed](https://www.youtube.com/watch?v=2NSNOzHYDOM)
 - [Build a Podcast Copilot with .NET &amp; Power Apps: Power Apps and Microsoft Copilot Studio Integration](https://www.youtube.com/watch?v=Psp0rr7kPAw)
-- [How can I learn C# and get certified as a beginner?](https://www.youtube.com/watch?v=641aSergr0s)
-- [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - What is AI?](https://www.youtube.com/watch?v=n4TNopUAWW8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
