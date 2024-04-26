@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What are your favorite features in the C# Dev Kit?](https://www.youtube.com/watch?v=ktNvMb4RpM8)
 - [Microsoft Build Unplugged, Episode Five: Session catalog is LIVE!](https://www.youtube.com/watch?v=U6Evipna0XY)
 - [Importing Managed Solutions - What has changed to the Upgrade verses Update Process?](https://www.youtube.com/watch?v=2Xgmipk9dSM)
 - [How can I get started with .NET?](https://www.youtube.com/watch?v=K3UU2Ie_I9c)
 - [Approximate Vector Search with KMeans and Azure SQL | Data Exposed](https://www.youtube.com/watch?v=2NSNOzHYDOM)
-- [Build a Podcast Copilot with .NET &amp; Power Apps: Power Apps and Microsoft Copilot Studio Integration](https://www.youtube.com/watch?v=Psp0rr7kPAw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
