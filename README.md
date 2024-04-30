@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Where does your software (really) come from?](https://github.blog/2024-04-30-where-does-your-software-really-come-from/)
 - [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
 - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 - [CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/)
 - [GitHub Actions, Arm64, and the future of automotive software development](https://github.blog/2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development/)
-- [Securing millions of developers through 2FA](https://github.blog/2024-04-24-securing-millions-of-developers-through-2fa/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
