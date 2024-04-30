@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Creating a Custom AI Model with AI Builder](https://www.youtube.com/watch?v=PL6f4SDoGDA)
 - [Power Platform Community Conference 2024](https://www.youtube.com/watch?v=aIpTb1Wpkkk)
 - [Power Up Program Announces New Video-Based Learning](https://www.youtube.com/watch?v=KwTT_C9PM2c)
 - [Build Apps Through Conversation | Getting Started with Power Shorts](https://www.youtube.com/watch?v=A4cBqQjnIBg)
 - [Sharing and Distributing your AI Prompts](https://www.youtube.com/watch?v=W_A2LwsTnFQ)
-- [Using Modern Themes with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=xuyR2BikwyQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
