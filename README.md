@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Automate My Store with Sandeep Kalsi](https://www.youtube.com/watch?v=BnRuZ81_PGU)
-- [What are your favorite features in the C# Dev Kit?](https://www.youtube.com/watch?v=ktNvMb4RpM8)
-- [Microsoft Build Unplugged, Episode Five: Session catalog is LIVE!](https://www.youtube.com/watch?v=U6Evipna0XY)
-- [Importing Managed Solutions - What has changed to the Upgrade verses Update Process?](https://www.youtube.com/watch?v=2Xgmipk9dSM)
-- [How can I get started with .NET?](https://www.youtube.com/watch?v=K3UU2Ie_I9c)
+- [RoslynPad - or how to build a C# editor with Roslyn](https://www.youtube.com/watch?v=vGYG8vkrlyk)
+- [Code Analyze your SQL scripts in Visual Studio and elsewhere | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=lzoZNNZ-qNo)
+- [What is RoslynPad](https://www.youtube.com/watch?v=ffbW9w-SKgY)
+- [Easier solution management with preferred solutions](https://www.youtube.com/watch?v=ebguxyJ_t5I)
+- [Get involve in RoslynPad Community](https://www.youtube.com/watch?v=5ASTH_nIV6w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
