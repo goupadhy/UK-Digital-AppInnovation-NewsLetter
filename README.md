@@ -62,7 +62,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
-- [Microsoft&#39;s AI Journey through HR | All in on AI](https://www.youtube.com/watch?v=ffrmZhT3BJA)
+- [Microsoft&#39;s AI Journey in HR | All in on AI](https://www.youtube.com/watch?v=ffrmZhT3BJA)
 - [Learn how Microsoft Cloud for Sovereignty tools can help streamline process](https://www.youtube.com/watch?v=fbq3EfDIfX4)
 - [Industry Cloud Conversations | SLB Part 2](https://www.youtube.com/watch?v=uvc2xhJNsn4)
 - [Industry Cloud Conversations | SLB Part 1](https://www.youtube.com/watch?v=yssdcLSDMkw)
