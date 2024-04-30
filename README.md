@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - Automate My Store with Sandeep Kalsi](https://www.youtube.com/watch?v=BnRuZ81_PGU)
 - [What are your favorite features in the C# Dev Kit?](https://www.youtube.com/watch?v=ktNvMb4RpM8)
 - [Microsoft Build Unplugged, Episode Five: Session catalog is LIVE!](https://www.youtube.com/watch?v=U6Evipna0XY)
 - [Importing Managed Solutions - What has changed to the Upgrade verses Update Process?](https://www.youtube.com/watch?v=2Xgmipk9dSM)
 - [How can I get started with .NET?](https://www.youtube.com/watch?v=K3UU2Ie_I9c)
-- [Approximate Vector Search with KMeans and Azure SQL | Data Exposed](https://www.youtube.com/watch?v=2NSNOzHYDOM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
