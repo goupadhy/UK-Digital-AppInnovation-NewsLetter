@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introducing Regular Expressions &lpar;Regex&rpar; support in Azure SQL Database| Data Exposed](https://www.youtube.com/watch?v=CRRCp-2JT-w)
 - [RoslynPad - or how to build a C# editor with Roslyn](https://www.youtube.com/watch?v=vGYG8vkrlyk)
 - [Code Analyze your SQL scripts in Visual Studio and elsewhere | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=lzoZNNZ-qNo)
 - [What is RoslynPad](https://www.youtube.com/watch?v=ffbW9w-SKgY)
 - [Easier solution management with preferred solutions](https://www.youtube.com/watch?v=ebguxyJ_t5I)
-- [Get involve in RoslynPad Community](https://www.youtube.com/watch?v=5ASTH_nIV6w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
