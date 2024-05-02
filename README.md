@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Day in the life - How a developer uses Copilot](https://www.youtube.com/watch?v=pKIUOp3py2o)
+- [Tell me your a developer without telling me your a developer](https://www.youtube.com/watch?v=ERazpBHtDoo)
 - [Introducing Regular Expressions &lpar;Regex&rpar; support in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=CRRCp-2JT-w)
 - [RoslynPad - or how to build a C# editor with Roslyn](https://www.youtube.com/watch?v=vGYG8vkrlyk)
 - [Code Analyze your SQL scripts in Visual Studio and elsewhere | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=lzoZNNZ-qNo)
-- [What is RoslynPad](https://www.youtube.com/watch?v=ffbW9w-SKgY)
-- [Easier solution management with preferred solutions](https://www.youtube.com/watch?v=ebguxyJ_t5I)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
