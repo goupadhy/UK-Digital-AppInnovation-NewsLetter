@@ -79,7 +79,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Introducing Regular Expressions &lpar;Regex&rpar; support in Azure SQL Database| Data Exposed](https://www.youtube.com/watch?v=CRRCp-2JT-w)
+- [Introducing Regular Expressions &lpar;Regex&rpar; support in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=CRRCp-2JT-w)
 - [RoslynPad - or how to build a C# editor with Roslyn](https://www.youtube.com/watch?v=vGYG8vkrlyk)
 - [Code Analyze your SQL scripts in Visual Studio and elsewhere | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=lzoZNNZ-qNo)
 - [What is RoslynPad](https://www.youtube.com/watch?v=ffbW9w-SKgY)
