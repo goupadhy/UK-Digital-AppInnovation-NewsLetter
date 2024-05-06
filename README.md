@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What makes Azure AI Search different and better than other vector search systems?](https://www.youtube.com/watch?v=q-dTSBM6JMI)
-- [May the 4th be with you: Availability Sets and Zones for SQL Server on Azure VMs | Data Exposed](https://www.youtube.com/watch?v=GvdE4quY_eQ)
-- [Day in the life - How a developer uses Copilot](https://www.youtube.com/watch?v=pKIUOp3py2o)
-- [Tell me your a developer without telling me your a developer](https://www.youtube.com/watch?v=ERazpBHtDoo)
-- [Introducing Regular Expressions &lpar;Regex&rpar; support in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=CRRCp-2JT-w)
+- [What is Retrieval Augmented Generation &lpar;RAG&rpar; and how does Azure AI Search unlock RAG?](https://www.youtube.com/watch?v=g6R9PukXR6k)
+- [What are the techniques and strategies to generate quality follow up questions with RAG?](https://www.youtube.com/watch?v=e30ENF5jMTk)
+- [What temperature is recommended when doing RAG?](https://www.youtube.com/watch?v=XPpGSjzBaFE)
+- [What are the recommended steps to update or refresh source data for RAG?](https://www.youtube.com/watch?v=q6OOuYeldlI)
+- [How does the LLM deal with out-of-domain questions?](https://www.youtube.com/watch?v=bhmrkZ9AKO4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
