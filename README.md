@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Create truly portable applications with Dapr and Radius](https://www.youtube.com/watch?v=bbLVvOSMR2I)
+- [Create truly portable applications with Dapr and Radius](https://www.youtube.com/watch?v=S2P27agC3i0)
 - [What is Retrieval Augmented Generation &lpar;RAG&rpar; and how does Azure AI Search unlock RAG?](https://www.youtube.com/watch?v=g6R9PukXR6k)
 - [What are the techniques and strategies to generate quality follow up questions with RAG?](https://www.youtube.com/watch?v=e30ENF5jMTk)
 - [What temperature is recommended when doing RAG?](https://www.youtube.com/watch?v=XPpGSjzBaFE)
-- [What are the recommended steps to update or refresh source data for RAG?](https://www.youtube.com/watch?v=q6OOuYeldlI)
-- [How does the LLM deal with out-of-domain questions?](https://www.youtube.com/watch?v=bhmrkZ9AKO4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
