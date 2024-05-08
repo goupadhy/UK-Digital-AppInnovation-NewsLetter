@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Just launched: Second cohort of the DPG Open Source Community Manager Program!](https://github.blog/2024-05-08-just-launched-second-cohort-of-the-dpg-open-source-community-manager-program/)
 - [How we’re building more inclusive and accessible components at GitHub](https://github.blog/2024-05-07-how-were-building-more-inclusive-and-accessible-components-at-github/)
 - [GitHub Copilot Chat in GitHub Mobile is now generally available](https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/)
 - [Create a home for your community with GitHub Discussions](https://github.blog/2024-05-06-create-a-home-for-your-community-with-github-discussions/)
 - [Dependabot on GitHub Actions and self-hosted runners is now generally available](https://github.blog/2024-05-02-dependabot-on-github-actions-and-self-hosted-runners-is-now-generally-available/)
-- [Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
