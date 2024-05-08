@@ -25,7 +25,7 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [GitHub CoPilot - The Ecosystem is Larger than you Think](https://www.youtube.com/watch?v=SsxD59Dycug)
+- [GitHub Copilot - The Ecosystem Is Larger Than You Think](https://www.youtube.com/watch?v=SsxD59Dycug)
 - [Create truly portable applications with Dapr and Radius](https://www.youtube.com/watch?v=bbLVvOSMR2I)
 - [Create truly portable applications with Dapr and Radius](https://www.youtube.com/watch?v=S2P27agC3i0)
 - [What is Retrieval Augmented Generation &lpar;RAG&rpar; and how does Azure AI Search unlock RAG?](https://www.youtube.com/watch?v=g6R9PukXR6k)
