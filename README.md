@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power FX Copilot](https://www.youtube.com/watch?v=fz_v-_3oSxE)
+- [Copilot Studio Community Migration Announcement](https://www.youtube.com/watch?v=ULtoYMoFufk)
 - [Use plugin actions in Copilot Studio | Getting Started with Power Shorts](https://www.youtube.com/watch?v=3WYcLICEmnc)
 - [Extract Data from Invoices using a Document Processing Custom AI Model](https://www.youtube.com/watch?v=1b3DlAct21I)
 - [Use uploaded documents for generative answers with Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=-dKSxndH26o)
-- [Intro to Power Pages Security | Getting Started with Power Shorts](https://www.youtube.com/watch?v=ojAll5jmxss)
-- [Creating a Custom AI Model with AI Builder](https://www.youtube.com/watch?v=PL6f4SDoGDA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
