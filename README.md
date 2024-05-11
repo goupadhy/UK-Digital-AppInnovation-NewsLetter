@@ -28,7 +28,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Why is the DOS path length 260 bytes?](https://www.youtube.com/watch?v=kQDaaA1OLYk)
 - [Key Mirroring to Azure SQL Database in Fabric Benefits | Data Exposed](https://www.youtube.com/watch?v=vyKos_LZ6ck)
 - [Make Your Private Copilots Production-ready](https://www.youtube.com/watch?v=Y00dcS9biEA)
-- [GitHub Copilot - The Ecosystem Is Larger Than You Think!](https://www.youtube.com/watch?v=SsxD59Dycug)
+- [Copilot - The Ecosystem Is Larger Than You Think!](https://www.youtube.com/watch?v=SsxD59Dycug)
 - [Create truly portable applications with Dapr and Radius](https://www.youtube.com/watch?v=bbLVvOSMR2I)
 <!-- YOUTUBECNA:END -->
 
