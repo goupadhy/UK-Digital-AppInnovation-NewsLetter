@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Pages activity logging | Power Platform Shorts](https://www.youtube.com/watch?v=pBKkkkPpX0I)
 - [Accenture Empowers Citizen Developers with Microsoft Power Platform](https://www.youtube.com/watch?v=iPUD22TNmBU)
 - [Power Fx Copilot](https://www.youtube.com/watch?v=fz_v-_3oSxE)
 - [Copilot Studio Community Migration Announcement](https://www.youtube.com/watch?v=ULtoYMoFufk)
 - [Use plugin actions in Copilot Studio | Getting Started with Power Shorts](https://www.youtube.com/watch?v=3WYcLICEmnc)
-- [Extract Data from Invoices using a Document Processing Custom AI Model](https://www.youtube.com/watch?v=1b3DlAct21I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
