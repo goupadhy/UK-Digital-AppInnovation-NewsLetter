@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Build 2024: Day 3 #MSBuild](https://www.youtube.com/watch?v=8Zy9QtZ6czE)
+- [Microsoft Build 2024: Day 2 #MSBuild](https://www.youtube.com/watch?v=FwJ1Zz_DntY)
 - [Build intelligent apps with Python](https://www.youtube.com/watch?v=gJJ7hae3BVE)
 - [Why is the DOS path length 260 bytes?](https://www.youtube.com/watch?v=kQDaaA1OLYk)
-- [Key Mirroring to Azure SQL Database in Fabric Benefits | Data Exposed](https://www.youtube.com/watch?v=vyKos_LZ6ck)
-- [Make Your Private Copilots Production-ready](https://www.youtube.com/watch?v=Y00dcS9biEA)
-- [Copilot - The Ecosystem Is Larger Than You Think!](https://www.youtube.com/watch?v=SsxD59Dycug)
+- [Microsoft Build 2024: Day 1 #MSBuild](https://www.youtube.com/watch?v=2bnayWpTpW8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
