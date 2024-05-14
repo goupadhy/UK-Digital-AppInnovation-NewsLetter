@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn Optimization Skills on Learn Live](https://www.youtube.com/watch?v=9oexpl-4F0s)
 - [Microsoft Build 2024: Day 3 #MSBuild](https://www.youtube.com/watch?v=8Zy9QtZ6czE)
 - [Microsoft Build 2024: Day 2 #MSBuild](https://www.youtube.com/watch?v=FwJ1Zz_DntY)
 - [Build intelligent apps with Python](https://www.youtube.com/watch?v=gJJ7hae3BVE)
 - [Why is the DOS path length 260 bytes?](https://www.youtube.com/watch?v=kQDaaA1OLYk)
-- [Microsoft Build 2024: Day 1 #MSBuild](https://www.youtube.com/watch?v=2bnayWpTpW8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
