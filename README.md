@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build a Copilot with Azure AI Studio](https://www.youtube.com/watch?v=t46azJt2Myk)
 - [Azure Cosmos DB AI Developer Guide](https://www.youtube.com/watch?v=NvpxXpCtlmI)
 - [How To Deploy to Azure with the Azure Developer CLI &lpar;azd&rpar;](https://www.youtube.com/watch?v=f_HpDpEmWZ4)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Agentic UX, with Kwame Nyanning](https://www.youtube.com/watch?v=RX1GaPSXYPo)
 - [Learn Optimization Skills on Learn Live](https://www.youtube.com/watch?v=9oexpl-4F0s)
-- [Microsoft Build 2024: Day 3 #MSBuild](https://www.youtube.com/watch?v=8Zy9QtZ6czE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
