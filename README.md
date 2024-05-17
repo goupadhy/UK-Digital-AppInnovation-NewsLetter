@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Building Better Azure Apps with Better Together](https://www.youtube.com/watch?v=Z48PR2jkFCQ)
 - [Learn How to Migrate Windows Servers to Azure](https://www.youtube.com/watch?v=NWDGn8_CXsA)
 - [What’s new in SSMS 20 and what’s next in version 21| Data Exposed](https://www.youtube.com/watch?v=KujUVbj1In4)
 - [Data API builder is now Generally Available | Data Exposed](https://www.youtube.com/watch?v=Q9LhLNLrsOk)
 - [Build a Copilot with Azure AI Studio](https://www.youtube.com/watch?v=t46azJt2Myk)
-- [Azure Cosmos DB AI Developer Guide](https://www.youtube.com/watch?v=NvpxXpCtlmI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
