@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Add canvas apps and cloud flows to a solution by default | Power Platform Shorts](https://www.youtube.com/watch?v=z2KZ2v2znWg)
 - [Lumen Technologies lights the way for citizen development with Microsoft Power Platform](https://www.youtube.com/watch?v=w0YA1fwq2NE)
 - [Use a category classification custom model in Power Automate | GSW Power Shorts](https://www.youtube.com/watch?v=zgzpUylhaLQ)
 - [Natural language to script powered by copilot inside Power Automate Desktop](https://www.youtube.com/watch?v=XOnH5joKnC0)
 - [What has changed to the Upgrade vs Update Process when importing managed solutions? ✅](https://www.youtube.com/watch?v=JzTB-jfQYbo)
-- [Power Pages activity logging | Power Platform Shorts](https://www.youtube.com/watch?v=pBKkkkPpX0I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
