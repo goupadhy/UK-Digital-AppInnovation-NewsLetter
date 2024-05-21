@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Cineplex saves 30,000 hours a year with Microsoft Power Platform and generative AI](https://www.youtube.com/watch?v=vusYucX1OQ0)
+- [Peppermint Technology delivers solutions for law firms using Microsoft Power Platform and Copilot](https://www.youtube.com/watch?v=r8FodSEUpK4)
+- [Nsure reduce processing time with Microsoft Power Automate and Copilot](https://www.youtube.com/watch?v=6AK1VIQ3_C4)
+- [Zurich Insurance Group enables developers with Microsoft Power Platform](https://www.youtube.com/watch?v=0_WeSSg18jQ)
 - [Add canvas apps and cloud flows to a solution by default | Power Platform Shorts](https://www.youtube.com/watch?v=z2KZ2v2znWg)
-- [Lumen Technologies lights the way for citizen development with Microsoft Power Platform](https://www.youtube.com/watch?v=w0YA1fwq2NE)
-- [Use a category classification custom model in Power Automate | GSW Power Shorts](https://www.youtube.com/watch?v=zgzpUylhaLQ)
-- [Natural language to script powered by copilot inside Power Automate Desktop](https://www.youtube.com/watch?v=XOnH5joKnC0)
-- [What has changed to the Upgrade vs Update Process when importing managed solutions? ✅](https://www.youtube.com/watch?v=JzTB-jfQYbo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
