@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Expand your reach and revenue with Microsoft Store on Windows | OD500](https://www.youtube.com/watch?v=9hpYGylDZZY)
 - [Microsoft Build 2024: Day 1 #MSBuild](https://www.youtube.com/watch?v=2bnayWpTpW8)
 - [Building Better Azure Apps with Better Together](https://www.youtube.com/watch?v=Z48PR2jkFCQ)
 - [Learn How to Migrate Windows Servers to Azure](https://www.youtube.com/watch?v=NWDGn8_CXsA)
 - [What’s new in SSMS 20 and what’s next in version 21| Data Exposed](https://www.youtube.com/watch?v=KujUVbj1In4)
-- [Data API builder is now Generally Available | Data Exposed](https://www.youtube.com/watch?v=Q9LhLNLrsOk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
