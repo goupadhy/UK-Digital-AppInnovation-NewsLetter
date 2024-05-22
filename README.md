@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Custom copilot Teams Integration in Government applications | OD516](https://www.youtube.com/watch?v=DCZ9oJ9iRA4)
-- [Creating Immersive 3D Solutions with Microsoft Mesh | OD515](https://www.youtube.com/watch?v=Q5LUtwjobgA)
-- [Build intelligent collaborative apps with Copilot + Fluid Framework | OD510](https://www.youtube.com/watch?v=fjRfTdIYzWg)
-- [Edge for Business: secure productive optimized for AI | OD512](https://www.youtube.com/watch?v=3VkrXXGNaVM)
-- [Copilot: Bring protected AI chat to your organization at no additional cost. | OD511](https://www.youtube.com/watch?v=Awi8-pDKuIA)
+- [True zero-trust runtime security in AKS | ODFP606](https://www.youtube.com/watch?v=752usX5UPE0)
+- [Building a better way to manage Azure costs and achieve optimization | ODFP607](https://www.youtube.com/watch?v=FdZw4temAKc)
+- [Elevate team coordination and workflow integration with latest tools | ODFP603](https://www.youtube.com/watch?v=U7815rV-C0o)
+- [Securing Dockerized apps in the Microsoft ecosystem | ODFP604](https://www.youtube.com/watch?v=ty4W8t8Q2Q0)
+- [Dynamics 365 test automation with ACCELQ Copilot | ODFP605](https://www.youtube.com/watch?v=84W_20OWpso)
 <!-- YOUTUBEAPPMOD:END -->
 
 
