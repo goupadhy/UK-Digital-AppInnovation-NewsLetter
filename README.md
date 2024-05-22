@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Expand your reach and revenue with Microsoft Store on Windows | OD500](https://www.youtube.com/watch?v=9hpYGylDZZY)
-- [Microsoft Build 2024: Day 1 #MSBuild](https://www.youtube.com/watch?v=2bnayWpTpW8)
-- [Building Better Azure Apps with Better Together](https://www.youtube.com/watch?v=Z48PR2jkFCQ)
-- [Learn How to Migrate Windows Servers to Azure](https://www.youtube.com/watch?v=NWDGn8_CXsA)
-- [What’s new in SSMS 20 and what’s next in version 21| Data Exposed](https://www.youtube.com/watch?v=KujUVbj1In4)
+- [Custom copilot Teams Integration in Government applications | OD516](https://www.youtube.com/watch?v=DCZ9oJ9iRA4)
+- [Creating Immersive 3D Solutions with Microsoft Mesh | OD515](https://www.youtube.com/watch?v=Q5LUtwjobgA)
+- [Build intelligent collaborative apps with Copilot + Fluid Framework | OD510](https://www.youtube.com/watch?v=fjRfTdIYzWg)
+- [Edge for Business: secure productive optimized for AI | OD512](https://www.youtube.com/watch?v=3VkrXXGNaVM)
+- [Copilot: Bring protected AI chat to your organization at no additional cost. | OD511](https://www.youtube.com/watch?v=Awi8-pDKuIA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
