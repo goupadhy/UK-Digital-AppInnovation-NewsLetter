@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Explore AI-powered SDKs with Document and Medical Viewer Controls | ODFP615](https://www.youtube.com/watch?v=WeXfcf3N2NY)
-- [Bridge the platform difference and enhance dev workflow with Parallels | ODFP614](https://www.youtube.com/watch?v=G--bgc9m9tA)
-- [Build scalable automations with AI UiPath Autopilot | ODFP613](https://www.youtube.com/watch?v=NHZ7qNdYR-8)
-- [Generative AI application stack and providing long term memory to LLMs | ODFP612](https://www.youtube.com/watch?v=ZzuMFyvODZY)
-- [Quickly deploy NVIDIA optimized generative AI on Azure AI Studio | ODFP611](https://www.youtube.com/watch?v=8jM7y4aQqag)
+- [Improve Application Resilience using Azure Chaos Studio | OD540](https://www.youtube.com/watch?v=lk1yxLMj-7A)
+- [Accelerate Microsoft Azure deployment with infrastructure as code | ODFP666](https://www.youtube.com/watch?v=ihCCFbRKg2g)
+- [How you can develop a new breed of applications | ODFP664](https://www.youtube.com/watch?v=wsAhTXyb_BA)
+- [How to cut your Kubernetes cloud costs by over 50% | ODFP663](https://www.youtube.com/watch?v=LbhavX7B34I)
+- [Transcending microservice constraints in search of supergraph nirvana  | ODFP662](https://www.youtube.com/watch?v=ptkmaRmC1aE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
