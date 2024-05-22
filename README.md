@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Building LLM Agents with Tool Use  | ODFP621](https://www.youtube.com/watch?v=pjquG9hIOrw)
-- [Unlocking potential with eBPF &amp; Cilium integration | ODFP619](https://www.youtube.com/watch?v=B3MFkLMi2UA)
-- [Dapr at Scale: Dapr productivity powered by Conductor and Catalyst | ODFP647](https://www.youtube.com/watch?v=DZuxLwXMEoA)
-- [Speed up fixing app issues using Sentry | ODFP640](https://www.youtube.com/watch?v=AmOeEr8q0Og)
-- [How Microsoft and Seismic are enabling the modern seller | ODFP641](https://www.youtube.com/watch?v=t7rK9uhqolM)
+- [A Journey into Open Source Models with HuggingFace &amp; Mistral | OD524](https://www.youtube.com/watch?v=rU3nkr0YX7U)
+- [Disrupt and Grow with Microsoft Azure AI | OD523](https://www.youtube.com/watch?v=3UktwJ9odqw)
+- [Seamlessly leverage .NET on Ubuntu from development to deployment | ODFP655](https://www.youtube.com/watch?v=TdDJmfe81KM)
+- [Revolutionize reports with Fabric Copilot and Power BI | ODFP654](https://www.youtube.com/watch?v=Uc0GHJSG-Qo)
+- [Modernize desktop apps into state-of-the-art web ones with Wisej.NET | ODFP653](https://www.youtube.com/watch?v=GPzWnrLV9W4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
