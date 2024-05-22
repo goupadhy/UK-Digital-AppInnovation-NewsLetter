@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [True zero-trust runtime security in AKS | ODFP606](https://www.youtube.com/watch?v=752usX5UPE0)
-- [Building a better way to manage Azure costs and achieve optimization | ODFP607](https://www.youtube.com/watch?v=FdZw4temAKc)
-- [Elevate team coordination and workflow integration with latest tools | ODFP603](https://www.youtube.com/watch?v=U7815rV-C0o)
-- [Securing Dockerized apps in the Microsoft ecosystem | ODFP604](https://www.youtube.com/watch?v=ty4W8t8Q2Q0)
-- [Dynamics 365 test automation with ACCELQ Copilot | ODFP605](https://www.youtube.com/watch?v=84W_20OWpso)
+- [Building LLM Agents with Tool Use  | ODFP621](https://www.youtube.com/watch?v=pjquG9hIOrw)
+- [Unlocking potential with eBPF &amp; Cilium integration | ODFP619](https://www.youtube.com/watch?v=B3MFkLMi2UA)
+- [Dapr at Scale: Dapr productivity powered by Conductor and Catalyst | ODFP647](https://www.youtube.com/watch?v=DZuxLwXMEoA)
+- [Speed up fixing app issues using Sentry | ODFP640](https://www.youtube.com/watch?v=AmOeEr8q0Og)
+- [How Microsoft and Seismic are enabling the modern seller | ODFP641](https://www.youtube.com/watch?v=t7rK9uhqolM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
