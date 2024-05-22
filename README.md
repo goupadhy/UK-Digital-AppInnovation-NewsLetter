@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [A Journey into Open Source Models with HuggingFace &amp; Mistral | OD524](https://www.youtube.com/watch?v=rU3nkr0YX7U)
-- [Disrupt and Grow with Microsoft Azure AI | OD523](https://www.youtube.com/watch?v=3UktwJ9odqw)
-- [Seamlessly leverage .NET on Ubuntu from development to deployment | ODFP655](https://www.youtube.com/watch?v=TdDJmfe81KM)
-- [Revolutionize reports with Fabric Copilot and Power BI | ODFP654](https://www.youtube.com/watch?v=Uc0GHJSG-Qo)
-- [Modernize desktop apps into state-of-the-art web ones with Wisej.NET | ODFP653](https://www.youtube.com/watch?v=GPzWnrLV9W4)
+- [Explore AI-powered SDKs with Document and Medical Viewer Controls | ODFP615](https://www.youtube.com/watch?v=WeXfcf3N2NY)
+- [Bridge the platform difference and enhance dev workflow with Parallels | ODFP614](https://www.youtube.com/watch?v=G--bgc9m9tA)
+- [Build scalable automations with AI UiPath Autopilot | ODFP613](https://www.youtube.com/watch?v=NHZ7qNdYR-8)
+- [Generative AI application stack and providing long term memory to LLMs | ODFP612](https://www.youtube.com/watch?v=ZzuMFyvODZY)
+- [Quickly deploy NVIDIA optimized generative AI on Azure AI Studio | ODFP611](https://www.youtube.com/watch?v=8jM7y4aQqag)
 <!-- YOUTUBEAPPMOD:END -->
 
 
