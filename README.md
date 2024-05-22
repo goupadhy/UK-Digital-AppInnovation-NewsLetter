@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [True zero-trust runtime security in AKS | ODFP606](https://www.youtube.com/watch?v=752usX5UPE0)
-- [Building a better way to manage Azure costs and achieve optimization | ODFP607](https://www.youtube.com/watch?v=FdZw4temAKc)
-- [Elevate team coordination and workflow integration with latest tools | ODFP603](https://www.youtube.com/watch?v=U7815rV-C0o)
-- [Securing Dockerized apps in the Microsoft ecosystem | ODFP604](https://www.youtube.com/watch?v=ty4W8t8Q2Q0)
-- [Dynamics 365 test automation with ACCELQ Copilot | ODFP605](https://www.youtube.com/watch?v=84W_20OWpso)
+- [A Journey into Open Source Models with HuggingFace &amp; Mistral | OD524](https://www.youtube.com/watch?v=rU3nkr0YX7U)
+- [Disrupt and Grow with Microsoft Azure AI | OD523](https://www.youtube.com/watch?v=3UktwJ9odqw)
+- [Seamlessly leverage .NET on Ubuntu from development to deployment | ODFP655](https://www.youtube.com/watch?v=TdDJmfe81KM)
+- [Revolutionize reports with Fabric Copilot and Power BI | ODFP654](https://www.youtube.com/watch?v=Uc0GHJSG-Qo)
+- [Modernize desktop apps into state-of-the-art web ones with Wisej.NET | ODFP653](https://www.youtube.com/watch?v=GPzWnrLV9W4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
