@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create and edit elastic tables in Power Apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=qrQM7ouwknA)
 - [Nsure reduce processing time with Microsoft Power Automate and Copilot](https://www.youtube.com/watch?v=vfR3g2Zd09A)
 - [Cineplex saves 30,000 hours a year with Microsoft Power Platform and generative AI](https://www.youtube.com/watch?v=vusYucX1OQ0)
 - [Peppermint Technology delivers solutions for law firms using Microsoft Power Platform and Copilot](https://www.youtube.com/watch?v=r8FodSEUpK4)
 - [Zurich Insurance Group enables developers with Microsoft Power Platform](https://www.youtube.com/watch?v=0_WeSSg18jQ)
-- [Add canvas apps and cloud flows to a solution by default | Power Platform Shorts](https://www.youtube.com/watch?v=z2KZ2v2znWg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
