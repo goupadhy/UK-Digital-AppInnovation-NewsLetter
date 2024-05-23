@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Code-First LLMOps from prototype to production with GenAI tools | BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE)
-- [New multimodal vision AI models and their practical applications | BRK106](https://www.youtube.com/watch?v=iJYStEoqlWk)
-- [Build sophisticated custom copilots with Azure OpenAI Assistants | BRK101](https://www.youtube.com/watch?v=6Aa7eOdpTks)
-- [Developer-ready AI PCs - out of box support for DirectML on NPU &amp; GPU | StudioFP109](https://www.youtube.com/watch?v=37zwqLULOFw)
-- [Guidance: Make your Models Behave | BRK257](https://www.youtube.com/watch?v=qXMNPVVlCMs)
+- [Reach 320M+ users in flow of work building your own copilot for Teams | BRK146](https://www.youtube.com/watch?v=5oIZA_VaVcI)
+- [Building applications at hyper scale with the latest Azure innovations | BRK129](https://www.youtube.com/watch?v=MBKrzeuNsPM)
+- [RAG at scale: production-ready GenAI apps with Azure AI Search | BRK108](https://www.youtube.com/watch?v=T8pB_3vUkuE)
+- [TomTom brings AI-powered talking cars to life with Azure | BRK121](https://www.youtube.com/watch?v=XhYABIK72us)
+- [Give your GenAI apps a multilingual voice with Azure AI Speech | BRK111](https://www.youtube.com/watch?v=cJSk9XUa2mw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
