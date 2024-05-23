@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Microsoft Build 2024: Day 2 #MSBuild](https://www.youtube.com/watch?v=FwJ1Zz_DntY)
-- [Improve Application Resilience using Azure Chaos Studio | OD540](https://www.youtube.com/watch?v=lk1yxLMj-7A)
-- [Accelerate Microsoft Azure deployment with infrastructure as code | ODFP666](https://www.youtube.com/watch?v=ihCCFbRKg2g)
-- [How you can develop a new breed of applications | ODFP664](https://www.youtube.com/watch?v=wsAhTXyb_BA)
-- [How to cut your Kubernetes cloud costs by over 50% | ODFP663](https://www.youtube.com/watch?v=LbhavX7B34I)
+- [What&#39;s new with Microsoft Copilot Studio | BRK210](https://www.youtube.com/watch?v=Ihet_fgoC8c)
+- [Maximize joy minimize toil with great developer experiences | BRK192](https://www.youtube.com/watch?v=JXZy_c2S3Z0)
+- [Secure your AI application transformation with Microsoft Security | BRK225](https://www.youtube.com/watch?v=CI7apUjgamI)
+- [Platform Engineering: Creating Scalable and Resilient Systems | BRK188](https://www.youtube.com/watch?v=mGq442iwAF0)
+- [Understanding cloud powered development environments | BRK185](https://www.youtube.com/watch?v=y5d5S49kWtw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
