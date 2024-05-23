@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What&#39;s new with Microsoft Copilot Studio | BRK210](https://www.youtube.com/watch?v=Ihet_fgoC8c)
-- [Maximize joy minimize toil with great developer experiences | BRK192](https://www.youtube.com/watch?v=JXZy_c2S3Z0)
-- [Secure your AI application transformation with Microsoft Security | BRK225](https://www.youtube.com/watch?v=CI7apUjgamI)
-- [Platform Engineering: Creating Scalable and Resilient Systems | BRK188](https://www.youtube.com/watch?v=mGq442iwAF0)
-- [Understanding cloud powered development environments | BRK185](https://www.youtube.com/watch?v=y5d5S49kWtw)
+- [Accelerate insights with real-time Azure SQL data and Microsoft Fabric | BRK160](https://www.youtube.com/watch?v=CabXEDpfMB0)
+- [From personal Copilot to group Copilot... how AI in Microsoft 365 is evolving with | Studio86](https://www.youtube.com/watch?v=CXhn0geoAsA)
+- [2024 Imagine Cup World Championship | Studio65](https://www.youtube.com/watch?v=CAj_94wHeSo)
+- [Explore Oracle Database@Azure with Oracle and Microsoft experts | StudioFP140](https://www.youtube.com/watch?v=W5TRxT3xrA0)
+- [Supporting developers to deliver more impactful applications at scale | StudioFP133](https://www.youtube.com/watch?v=LwFt10EspW4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
