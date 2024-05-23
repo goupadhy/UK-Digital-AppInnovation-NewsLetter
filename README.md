@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Build 2024: Day 2 #MSBuild](https://www.youtube.com/watch?v=FwJ1Zz_DntY)
 - [Improve Application Resilience using Azure Chaos Studio | OD540](https://www.youtube.com/watch?v=lk1yxLMj-7A)
 - [Accelerate Microsoft Azure deployment with infrastructure as code | ODFP666](https://www.youtube.com/watch?v=ihCCFbRKg2g)
 - [How you can develop a new breed of applications | ODFP664](https://www.youtube.com/watch?v=wsAhTXyb_BA)
 - [How to cut your Kubernetes cloud costs by over 50% | ODFP663](https://www.youtube.com/watch?v=LbhavX7B34I)
-- [Transcending microservice constraints in search of supergraph nirvana  | ODFP662](https://www.youtube.com/watch?v=ptkmaRmC1aE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
