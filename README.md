@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Accelerate insights with real-time Azure SQL data and Microsoft Fabric | BRK160](https://www.youtube.com/watch?v=CabXEDpfMB0)
-- [From personal Copilot to group Copilot... how AI in Microsoft 365 is evolving with | Studio86](https://www.youtube.com/watch?v=CXhn0geoAsA)
-- [2024 Imagine Cup World Championship | Studio65](https://www.youtube.com/watch?v=CAj_94wHeSo)
-- [Explore Oracle Database@Azure with Oracle and Microsoft experts | StudioFP140](https://www.youtube.com/watch?v=W5TRxT3xrA0)
-- [Supporting developers to deliver more impactful applications at scale | StudioFP133](https://www.youtube.com/watch?v=LwFt10EspW4)
+- [Code-First LLMOps from prototype to production with GenAI tools | BRK110](https://www.youtube.com/watch?v=gvqsPhd27LE)
+- [New multimodal vision AI models and their practical applications | BRK106](https://www.youtube.com/watch?v=iJYStEoqlWk)
+- [Build sophisticated custom copilots with Azure OpenAI Assistants | BRK101](https://www.youtube.com/watch?v=6Aa7eOdpTks)
+- [Developer-ready AI PCs - out of box support for DirectML on NPU &amp; GPU | StudioFP109](https://www.youtube.com/watch?v=37zwqLULOFw)
+- [Guidance: Make your Models Behave | BRK257](https://www.youtube.com/watch?v=qXMNPVVlCMs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
