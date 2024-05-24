@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Empower your organization with production-ready RAG apps on Azure | StudioFP102](https://www.youtube.com/watch?v=SU_8zcgWXwM)
-- [Elevate enterprise DX with AI-powered and secure API collaboration | StudioFP108](https://www.youtube.com/watch?v=j7Xd8x5hOx0)
-- [Create a custom GPT with Blazor and .Net Maui Hybrid app | StudioFP104](https://www.youtube.com/watch?v=2R6helDo3C4)
-- [Prepare to master common generative AI use cases with ease | StudioFP113](https://www.youtube.com/watch?v=mO0OoouGnrs)
-- [Microsoft and Oracle come together with Oracle Database@Azure | StudioFP111](https://www.youtube.com/watch?v=wCOlSlx9rwU)
+- [Make RAGs easier with DataStax GitHub Copilot and Azure OpenAI | StudioFP142](https://www.youtube.com/watch?v=bLpRCOm3ch4)
+- [Transform operations through cutting edge GenAI frameworks with Amdocs | StudioFP137](https://www.youtube.com/watch?v=VCZv-hdje2E)
+- [Deepen strategic enterprise collaboration with Mural and Microsoft | StudioFP105](https://www.youtube.com/watch?v=QfZ3fI-9nDo)
+- [Power today&#39;s most sophisticated models with AMD Instinct MI300X | StudioFP127](https://www.youtube.com/watch?v=3HgidY5uMHA)
+- [Bridge the gap between visual collaboration and real-time data | StudioFP124](https://www.youtube.com/watch?v=rUUjj3ql2U4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
