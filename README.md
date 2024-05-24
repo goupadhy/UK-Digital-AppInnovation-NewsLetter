@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Building AI applications that leverage your data in object storage | BRK124](https://www.youtube.com/watch?v=e2zpe5T_Jf0)
-- [Adaptive cloud approach: Build and scale apps from cloud to edge | BRK126](https://www.youtube.com/watch?v=3N7QHqEnhRs)
-- [Grow your business with Copilot extensions and marketplace | BRK147](https://www.youtube.com/watch?v=8LdB0lRDixo)
-- [Accessibility in the era of generative AI | BRK140](https://www.youtube.com/watch?v=wsVALWW5nvo)
-- [Leverage AKS for your enterprise platform: H&amp;M’s journey | BRK123](https://www.youtube.com/watch?v=WeoZL4L12ag)
+- [Navigating Win32 App Development with WinUI and WPF | BRK241](https://www.youtube.com/watch?v=ZjaL3pL-OuM)
+- [Bring AI experiences to all your Windows Devices | BRK240](https://www.youtube.com/watch?v=MhYjyTgIgag)
+- [Remediating Cloud Risks with Microsoft Copilot for Security | BRK224](https://www.youtube.com/watch?v=0-Aq87t221I)
+- [Navigating the depths of API security testing | BRK222](https://www.youtube.com/watch?v=tGLpgYwz4CQ)
+- [Secure your Intelligent Applications with Microsoft Entra | BRK221](https://www.youtube.com/watch?v=e5aR_52oeBY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
