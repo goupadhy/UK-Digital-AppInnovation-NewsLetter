@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Top-of-mind on AI with Mark Russinovich | Studio71](https://www.youtube.com/watch?v=zXZmsEwT31Y)
-- [Realize new opportunities with Fortinet and Azure Integrations | StudioFP122](https://www.youtube.com/watch?v=4tOG0qHQoFQ)
-- [Deliver In-flight stream processing with Apache Flink on Azure | StudioFP123](https://www.youtube.com/watch?v=v7rTv-cWs3M)
-- [Deploy Hugging Face Models on Azure powered by AMD ROCm software | StudioFP106](https://www.youtube.com/watch?v=bLJoS3RQhfY)
-- [Five lessons Etsy learned building on Microsoft AI | BRK258](https://www.youtube.com/watch?v=dvC4dK9c7nQ)
+- [Empower your organization with production-ready RAG apps on Azure | StudioFP102](https://www.youtube.com/watch?v=SU_8zcgWXwM)
+- [Elevate enterprise DX with AI-powered and secure API collaboration | StudioFP108](https://www.youtube.com/watch?v=j7Xd8x5hOx0)
+- [Create a custom GPT with Blazor and .Net Maui Hybrid app | StudioFP104](https://www.youtube.com/watch?v=2R6helDo3C4)
+- [Prepare to master common generative AI use cases with ease | StudioFP113](https://www.youtube.com/watch?v=mO0OoouGnrs)
+- [Microsoft and Oracle come together with Oracle Database@Azure | StudioFP111](https://www.youtube.com/watch?v=wCOlSlx9rwU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
