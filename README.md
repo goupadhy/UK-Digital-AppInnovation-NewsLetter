@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Microsoft Build 2024: Day 3 #MSBuild](https://www.youtube.com/watch?v=8Zy9QtZ6czE)
-- [Reach 320M+ users in flow of work building your own copilot for Teams | BRK146](https://www.youtube.com/watch?v=5oIZA_VaVcI)
-- [Building applications at hyper scale with the latest Azure innovations | BRK129](https://www.youtube.com/watch?v=MBKrzeuNsPM)
-- [RAG at scale: production-ready GenAI apps with Azure AI Search | BRK108](https://www.youtube.com/watch?v=T8pB_3vUkuE)
-- [TomTom brings AI-powered talking cars to life with Azure | BRK121](https://www.youtube.com/watch?v=XhYABIK72us)
+- [Building AI applications that leverage your data in object storage | BRK124](https://www.youtube.com/watch?v=e2zpe5T_Jf0)
+- [Adaptive cloud approach: Build and scale apps from cloud to edge | BRK126](https://www.youtube.com/watch?v=3N7QHqEnhRs)
+- [Grow your business with Copilot extensions and marketplace | BRK147](https://www.youtube.com/watch?v=8LdB0lRDixo)
+- [Accessibility in the era of generative AI | BRK140](https://www.youtube.com/watch?v=wsVALWW5nvo)
+- [Leverage AKS for your enterprise platform: H&amp;M’s journey | BRK123](https://www.youtube.com/watch?v=WeoZL4L12ag)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
