@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Navigating Win32 App Development with WinUI and WPF | BRK241](https://www.youtube.com/watch?v=ZjaL3pL-OuM)
-- [Bring AI experiences to all your Windows Devices | BRK240](https://www.youtube.com/watch?v=MhYjyTgIgag)
-- [Remediating Cloud Risks with Microsoft Copilot for Security | BRK224](https://www.youtube.com/watch?v=0-Aq87t221I)
-- [Navigating the depths of API security testing | BRK222](https://www.youtube.com/watch?v=tGLpgYwz4CQ)
-- [Secure your Intelligent Applications with Microsoft Entra | BRK221](https://www.youtube.com/watch?v=e5aR_52oeBY)
+- [Top-of-mind on AI with Mark Russinovich | Studio71](https://www.youtube.com/watch?v=zXZmsEwT31Y)
+- [Realize new opportunities with Fortinet and Azure Integrations | StudioFP122](https://www.youtube.com/watch?v=4tOG0qHQoFQ)
+- [Deliver In-flight stream processing with Apache Flink on Azure | StudioFP123](https://www.youtube.com/watch?v=v7rTv-cWs3M)
+- [Deploy Hugging Face Models on Azure powered by AMD ROCm software | StudioFP106](https://www.youtube.com/watch?v=bLJoS3RQhfY)
+- [Five lessons Etsy learned building on Microsoft AI | BRK258](https://www.youtube.com/watch?v=dvC4dK9c7nQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
