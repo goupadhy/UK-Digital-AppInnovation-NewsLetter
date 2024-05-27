@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How Microsoft Approaches AI Red Teaming | BRK223](https://www.youtube.com/watch?v=zFRn_RMSPI4)
+- [Integrating your bots and Copilot experiences natively into SharePoint and Viva | BRK144](https://www.youtube.com/watch?v=41ma6c-5WNI)
 - [Make RAGs easier with DataStax GitHub Copilot and Azure OpenAI | StudioFP142](https://www.youtube.com/watch?v=bLpRCOm3ch4)
 - [Transform operations through cutting edge GenAI frameworks with Amdocs | StudioFP137](https://www.youtube.com/watch?v=VCZv-hdje2E)
 - [Deepen strategic enterprise collaboration with Mural and Microsoft | StudioFP105](https://www.youtube.com/watch?v=QfZ3fI-9nDo)
-- [Power today&#39;s most sophisticated models with AMD Instinct MI300X | StudioFP127](https://www.youtube.com/watch?v=3HgidY5uMHA)
-- [Bridge the gap between visual collaboration and real-time data | StudioFP124](https://www.youtube.com/watch?v=rUUjj3ql2U4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
