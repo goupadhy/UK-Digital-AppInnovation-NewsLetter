@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Extending GitHub Copilot | BRK149](https://www.youtube.com/watch?v=RXaLlCeaBIA)
-- [How Microsoft Approaches AI Red Teaming | BRK223](https://www.youtube.com/watch?v=zFRn_RMSPI4)
-- [Integrating your bots and Copilot experiences natively into SharePoint and Viva | BRK144](https://www.youtube.com/watch?v=41ma6c-5WNI)
-- [Make RAGs easier with DataStax GitHub Copilot and Azure OpenAI | StudioFP142](https://www.youtube.com/watch?v=bLpRCOm3ch4)
-- [Transform operations through cutting edge GenAI frameworks with Amdocs | StudioFP137](https://www.youtube.com/watch?v=VCZv-hdje2E)
+- [&quot;Highly Technical Talk&quot; with Hanselman and Toub | BRK194](https://www.youtube.com/watch?v=TRFfTdzpk-M)
+- [Optimizing the Microsoft developer experience with Docker | BRKFP295](https://www.youtube.com/watch?v=FaFRWuHgdNw)
+- [Running .NET on the NES | BRK252](https://www.youtube.com/watch?v=ASTqqvQo0dM)
+- [What’s new in C# 13 | BRK186](https://www.youtube.com/watch?v=O3hx6oPWzX8)
+- [Extend and enhance your analytics applications with Microsoft Fabric | BRK162](https://www.youtube.com/watch?v=yyuxB0tq9o8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
