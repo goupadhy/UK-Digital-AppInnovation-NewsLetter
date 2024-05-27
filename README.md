@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [A conversation with Charles Lamanna on building custom copilots with Microsoft | Studio20](https://www.youtube.com/watch?v=vY41voOW330)
 - [&quot;Highly Technical Talk&quot; with Hanselman and Toub | BRK194](https://www.youtube.com/watch?v=TRFfTdzpk-M)
 - [Optimizing the Microsoft developer experience with Docker | BRKFP295](https://www.youtube.com/watch?v=FaFRWuHgdNw)
 - [Running .NET on the NES | BRK252](https://www.youtube.com/watch?v=ASTqqvQo0dM)
 - [What’s new in C# 13 | BRK186](https://www.youtube.com/watch?v=O3hx6oPWzX8)
-- [Extend and enhance your analytics applications with Microsoft Fabric | BRK162](https://www.youtube.com/watch?v=yyuxB0tq9o8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
