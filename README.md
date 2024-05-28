@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introduction to FusionCache](https://www.youtube.com/watch?v=JIVtKGQFQ-Y)
+- [Introduction to FusionCache](https://www.youtube.com/watch?v=wGKSNqxN4KE)
+- [Copilot Studio + Dynamics 365 HR + ServiceNow](https://www.youtube.com/watch?v=1tx_Z-nUATY)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI Speech Capabilities, with Andy Beatman](https://www.youtube.com/watch?v=xnLqydakeGs)
 - [A conversation with Charles Lamanna on building custom copilots with Microsoft | Studio20](https://www.youtube.com/watch?v=vY41voOW330)
-- [&quot;Highly Technical Talk&quot; with Hanselman and Toub | BRK194](https://www.youtube.com/watch?v=TRFfTdzpk-M)
-- [Optimizing the Microsoft developer experience with Docker | BRKFP295](https://www.youtube.com/watch?v=FaFRWuHgdNw)
-- [Running .NET on the NES | BRK252](https://www.youtube.com/watch?v=ASTqqvQo0dM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
