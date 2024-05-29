@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [New T-SQL Enhancements in SQL Server 2022 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Cgsf7Ai8U8M)
 - [Introduction to FusionCache](https://www.youtube.com/watch?v=JIVtKGQFQ-Y)
 - [Introduction to FusionCache](https://www.youtube.com/watch?v=wGKSNqxN4KE)
 - [Copilot Studio + Dynamics 365 HR + ServiceNow](https://www.youtube.com/watch?v=1tx_Z-nUATY)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI Speech Capabilities, with Andy Beatman](https://www.youtube.com/watch?v=xnLqydakeGs)
-- [A conversation with Charles Lamanna on building custom copilots with Microsoft | Studio20](https://www.youtube.com/watch?v=vY41voOW330)
 <!-- YOUTUBEAPPMOD:END -->
 
 
