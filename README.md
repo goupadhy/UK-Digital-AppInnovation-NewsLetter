@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to create and test a copilot | Getting Started With Power Shorts](https://www.youtube.com/watch?v=RcYF0F_5CXY)
 - [Building Flows with Copilot](https://www.youtube.com/watch?v=U-HzMbGvITA)
 - [It&#39;s easier than ever to create Copilots | Power Platform Shorts](https://www.youtube.com/watch?v=pTu_BCDA0G4)
 - [Create and edit elastic tables in Power Apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=qrQM7ouwknA)
 - [Nsure reduce processing time with Microsoft Power Automate and Copilot](https://www.youtube.com/watch?v=vfR3g2Zd09A)
-- [Cineplex saves 30,000 hours a year with Microsoft Power Platform and generative AI](https://www.youtube.com/watch?v=vusYucX1OQ0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
