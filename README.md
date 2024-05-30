@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL DB standby replica is now generally available | Data Exposed](https://www.youtube.com/watch?v=A9yBUlV82ns)
 - [Enhancing Coastal Resilience with AI | Studio88](https://www.youtube.com/watch?v=HnwclZNGwQk)
 - [What&#39;s New with GitHub | Studio87](https://www.youtube.com/watch?v=Df2EH5i2rA4)
 - [MSLearn Placeholder Why earn a Microsoft Certification | Studio78](https://www.youtube.com/watch?v=IY6f06Els08)
 - [How Microsoft Applied Skills can boost your career | Studio77](https://www.youtube.com/watch?v=KkvaQQtSJcE)
-- [Continue your learning journey with Microsoft Learn | Studio76](https://www.youtube.com/watch?v=E_fQdUxjJzY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
