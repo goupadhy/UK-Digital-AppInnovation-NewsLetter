@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Introduction to FusionCache](https://www.youtube.com/watch?v=JIVtKGQFQ-Y)
-- [Introduction to FusionCache](https://www.youtube.com/watch?v=wGKSNqxN4KE)
-- [Copilot Studio + Dynamics 365 HR + ServiceNow](https://www.youtube.com/watch?v=1tx_Z-nUATY)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - AI Speech Capabilities, with Andy Beatman](https://www.youtube.com/watch?v=xnLqydakeGs)
-- [A conversation with Charles Lamanna on building custom copilots with Microsoft | Studio20](https://www.youtube.com/watch?v=vY41voOW330)
+- [Enhancing Coastal Resilience with AI | Studio88](https://www.youtube.com/watch?v=HnwclZNGwQk)
+- [What&#39;s New with GitHub | Studio87](https://www.youtube.com/watch?v=Df2EH5i2rA4)
+- [MSLearn Placeholder Why earn a Microsoft Certification | Studio78](https://www.youtube.com/watch?v=IY6f06Els08)
+- [How Microsoft Applied Skills can boost your career | Studio77](https://www.youtube.com/watch?v=KkvaQQtSJcE)
+- [Continue your learning journey with Microsoft Learn | Studio76](https://www.youtube.com/watch?v=E_fQdUxjJzY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
