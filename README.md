@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Confidently iterate on GenAI applications with Weave | ODFP665](https://www.youtube.com/watch?v=v5Qm7-OimBs)
+- [Building Impactful AI Products for the Masses: A Q&amp;A Session with startup founder | Studio05](https://www.youtube.com/watch?v=CE28iYvFhwg)
+- [Unlocking AI Innovation: A Conversation with Eric Boyd and Asha Sharma | Studio06](https://www.youtube.com/watch?v=w-C6XAjYk8s)
 - [Azure SQL DB standby replica is now generally available | Data Exposed](https://www.youtube.com/watch?v=A9yBUlV82ns)
 - [Enhancing Coastal Resilience with AI | Studio88](https://www.youtube.com/watch?v=HnwclZNGwQk)
-- [What&#39;s New with GitHub | Studio87](https://www.youtube.com/watch?v=Df2EH5i2rA4)
-- [MSLearn Placeholder Why earn a Microsoft Certification | Studio78](https://www.youtube.com/watch?v=IY6f06Els08)
-- [How Microsoft Applied Skills can boost your career | Studio77](https://www.youtube.com/watch?v=KkvaQQtSJcE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
