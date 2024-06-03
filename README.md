@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Learn How to Optimize Your Well-Architected Cloud](https://www.youtube.com/watch?v=Smo3jXJ07Iw)
 - [Confidently iterate on GenAI applications with Weave | ODFP665](https://www.youtube.com/watch?v=v5Qm7-OimBs)
 - [Building Impactful AI Products for the Masses: A Q&amp;A Session with startup founder | Studio05](https://www.youtube.com/watch?v=CE28iYvFhwg)
 - [Unlocking AI Innovation: A Conversation with Eric Boyd and Asha Sharma | Studio06](https://www.youtube.com/watch?v=w-C6XAjYk8s)
 - [Azure SQL DB standby replica is now generally available | Data Exposed](https://www.youtube.com/watch?v=A9yBUlV82ns)
-- [Enhancing Coastal Resilience with AI | Studio88](https://www.youtube.com/watch?v=HnwclZNGwQk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
