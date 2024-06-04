@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Testing Library - How can *I* help?](https://www.youtube.com/watch?v=b5260HAhEmo)
-- [Testing Library - How can *I* help?](https://www.youtube.com/watch?v=1n0cDw6-QaE)
-- [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - AI in your daily life](https://www.youtube.com/watch?v=3Q54eTj1hv4)
-- [Learn How to Optimize Your Well-Architected Cloud](https://www.youtube.com/watch?v=Smo3jXJ07Iw)
-- [Confidently iterate on GenAI applications with Weave | ODFP665](https://www.youtube.com/watch?v=v5Qm7-OimBs)
+- [Azure AI Content Safety Prompt Shields](https://www.youtube.com/watch?v=-vgLI5OSm0w)
+- [Azure AI Content Safety Groundedness Detection](https://www.youtube.com/watch?v=Wuk8fRatIE4)
+- [Azure AI Content Safety Image Moderation](https://www.youtube.com/watch?v=gNB_7xfCPrY)
+- [How to Create a Blocklist for Text Moderation](https://www.youtube.com/watch?v=9sAoPCDIVC0)
+- [Azure AI Content Safety Text Moderation](https://www.youtube.com/watch?v=ejiel1cwl5c)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
