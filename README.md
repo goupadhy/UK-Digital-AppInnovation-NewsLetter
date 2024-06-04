@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Testing Library - How can *I* help?](https://www.youtube.com/watch?v=b5260HAhEmo)
+- [Testing Library - How can *I* help?](https://www.youtube.com/watch?v=1n0cDw6-QaE)
+- [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - AI in your daily life](https://www.youtube.com/watch?v=3Q54eTj1hv4)
 - [Learn How to Optimize Your Well-Architected Cloud](https://www.youtube.com/watch?v=Smo3jXJ07Iw)
 - [Confidently iterate on GenAI applications with Weave | ODFP665](https://www.youtube.com/watch?v=v5Qm7-OimBs)
-- [Building Impactful AI Products for the Masses: A Q&amp;A Session with startup founder | Studio05](https://www.youtube.com/watch?v=CE28iYvFhwg)
-- [Unlocking AI Innovation: A Conversation with Eric Boyd and Asha Sharma | Studio06](https://www.youtube.com/watch?v=w-C6XAjYk8s)
-- [Azure SQL DB standby replica is now generally available | Data Exposed](https://www.youtube.com/watch?v=A9yBUlV82ns)
 <!-- YOUTUBEAPPMOD:END -->
 
 
