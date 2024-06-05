@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Approvals in Microsoft Teams | Getting Started With Power Shorts](https://www.youtube.com/watch?v=qDxfxSMkEn0)
 - [Let Copilot guide you in building desktop flows](https://www.youtube.com/watch?v=8_POEyq_OKk)
 - [Automation center | Power Platform Shorts](https://www.youtube.com/watch?v=VgdHSNraiu8)
 - [How to create and test a copilot | Getting Started With Power Shorts](https://www.youtube.com/watch?v=RcYF0F_5CXY)
 - [Building Flows with Copilot](https://www.youtube.com/watch?v=U-HzMbGvITA)
-- [It&#39;s easier than ever to create Copilots | Power Platform Shorts](https://www.youtube.com/watch?v=pTu_BCDA0G4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
