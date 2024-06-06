@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The power of AI and Copilot for Azure Databases | BRK171](https://www.youtube.com/watch?v=6VUfsY0kRxA)
 - [Azure SQL Database Availability metric | Data Exposed](https://www.youtube.com/watch?v=j_s3aelfaWI)
 - [What&#39;s your favorite thing at Build 2024 with Craig Loewen](https://www.youtube.com/watch?v=pNSK1rtSeEM)
 - [Azure AI Content Safety Prompt Shields](https://www.youtube.com/watch?v=-vgLI5OSm0w)
 - [Azure AI Content Safety Groundedness Detection](https://www.youtube.com/watch?v=Wuk8fRatIE4)
-- [Azure AI Content Safety Image Moderation](https://www.youtube.com/watch?v=gNB_7xfCPrY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
