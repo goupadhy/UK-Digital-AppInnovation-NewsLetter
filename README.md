@@ -36,10 +36,10 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
 - [Celebrating a year of innovation: Announcing the Microsoft Power Platform templates Cookbook Challenge](https://www.microsoft.com/en-us/power-platform/blog/2024/06/06/celebrating-a-year-of-innovation-announcing-the-microsoft-power-platform-templates-cookbook-challenge/)
+- [Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio](https://powerapps.microsoft.com/en-us/blog/unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio/)
 - [New ways of development with copilots and Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2024/05/21/new-ways-of-development-with-copilots-and-microsoft-power-platform/)
 - [How Microsoft Power Platform is driving real-world impact—March customer success stories](https://www.microsoft.com/en-us/power-platform/blog/2024/04/18/how-microsoft-power-platform-is-driving-real-world-impact-march-customer-success-stories/)
 - [2024 release wave 1 kicks off with hundreds of AI-powered capabilities for Microsoft Dynamics 365 and Microsoft Power Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/10/2024-release-wave-1-kicks-off-with-hundreds-of-ai-powered-capabilities-for-microsoft-dynamics-365-and-microsoft-power-platform/)
-- [Increase efficiency with Microsoft Power Platform governance features ](https://www.microsoft.com/en-us/power-platform/blog/2024/04/04/increase-efficiency-with-microsoft-power-platform-governance-features/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
