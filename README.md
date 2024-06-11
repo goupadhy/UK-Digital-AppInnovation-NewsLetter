@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How we improved push processing on GitHub](https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/)
 - [10 years of the GitHub Security Bug Bounty Program](https://github.blog/2024-06-11-10-years-of-the-github-security-bug-bounty-program/)
 - [Top 12 Git commands every developer must know](https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/)
 - [How GitHub reduced testing time for iOS apps with new runner features](https://github.blog/2024-06-03-how-github-reduced-testing-time-for-ios-apps-with-new-runner-features/)
 - [Arm64 on GitHub Actions: Powering faster, more efficient build systems](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)
-- [GitHub and JFrog partner to unify code and binaries for DevSecOps](https://github.blog/2024-05-29-github-and-jfrog/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
