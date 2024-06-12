@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s new in the Windows Subsystem for Linux](https://www.youtube.com/watch?v=UKVPYXbliFU)
+- [What&#39;s new in the Windows Subsystem for Linux?](https://www.youtube.com/watch?v=KSf7IXO0NLQ)
 - [Evolving education framework with Power Platform](https://www.youtube.com/watch?v=9_CN88INnwA)
 - [Introduction to Portainer](https://www.youtube.com/watch?v=N1crEJRkEt8)
 - [Introduction to Portainer](https://www.youtube.com/watch?v=1vpsiVkZJ4E)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Pondering AI Music, with Kaki King](https://www.youtube.com/watch?v=sZEGwJI19wI)
-- [The power of AI and Copilot for Azure Databases | BRK171](https://www.youtube.com/watch?v=6VUfsY0kRxA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
