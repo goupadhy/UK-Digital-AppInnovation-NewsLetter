@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What&#39;s new in the Windows Subsystem for Linux](https://www.youtube.com/watch?v=UKVPYXbliFU)
-- [What&#39;s new in the Windows Subsystem for Linux?](https://www.youtube.com/watch?v=KSf7IXO0NLQ)
-- [Evolving education framework with Power Platform](https://www.youtube.com/watch?v=9_CN88INnwA)
-- [Introduction to Portainer](https://www.youtube.com/watch?v=N1crEJRkEt8)
-- [Introduction to Portainer](https://www.youtube.com/watch?v=1vpsiVkZJ4E)
+- [All The Postgres Things at Microsoft, POSETTE edition](https://www.youtube.com/watch?v=MzXo1wtBVZQ)
+- [The Open Source Geospatial Community, PostGIS, &amp; Postgres](https://www.youtube.com/watch?v=gDK5LVrHDJY)
+- [Why I love open source development &amp; what I learned from K8s](https://www.youtube.com/watch?v=gHxE1QoCYFI)
+- [A Walking Tour of PostgreSQL](https://www.youtube.com/watch?v=6ci9v-FY8dE)
+- [Tuning Parameters in Postgres vs. Tuning Your Queries](https://www.youtube.com/watch?v=phR2hKwgs8E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
