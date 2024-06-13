@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure SQL DB Vector Functions Private Preview | Data Exposed](https://www.youtube.com/watch?v=_q9VL7L9xHY)
 - [Learn to Budget &amp; Optimize in Azure](https://www.youtube.com/watch?v=lIPsD4CHJwA)
 - [Understand Azure Pricing &amp; Resources](https://www.youtube.com/watch?v=4QhAPoCLPlo)
 - [What&#39;s your favorite thing at Build with Laurent Bugnion](https://www.youtube.com/watch?v=LwX5NIOk-B0)
 - [What&#39;s your favorite thing at Build with Laurent Bugnion](https://www.youtube.com/watch?v=KCpZ_daVqd4)
-- [All The Postgres Things at Microsoft, POSETTE edition](https://www.youtube.com/watch?v=MzXo1wtBVZQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
