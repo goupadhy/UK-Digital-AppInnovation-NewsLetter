@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Learn to Budget &amp; Optimize in Azure](https://www.youtube.com/watch?v=lIPsD4CHJwA)
+- [Understand Azure Pricing &amp; Resources](https://www.youtube.com/watch?v=4QhAPoCLPlo)
+- [What&#39;s your favorite thing at Build with Laurent Bugnion](https://www.youtube.com/watch?v=LwX5NIOk-B0)
+- [What&#39;s your favorite thing at Build with Laurent Bugnion](https://www.youtube.com/watch?v=KCpZ_daVqd4)
 - [All The Postgres Things at Microsoft, POSETTE edition](https://www.youtube.com/watch?v=MzXo1wtBVZQ)
-- [The Open Source Geospatial Community, PostGIS, &amp; Postgres](https://www.youtube.com/watch?v=gDK5LVrHDJY)
-- [Why I love open source development &amp; what I learned from K8s](https://www.youtube.com/watch?v=gHxE1QoCYFI)
-- [A Walking Tour of PostgreSQL](https://www.youtube.com/watch?v=6ci9v-FY8dE)
-- [Tuning Parameters in Postgres vs. Tuning Your Queries](https://www.youtube.com/watch?v=phR2hKwgs8E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
