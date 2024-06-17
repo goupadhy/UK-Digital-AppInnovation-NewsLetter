@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Run security scan with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=Mj8oIRmSjjE)
 - [Power Automate Hosted RPA - Efficiently scale RPA operations](https://www.youtube.com/watch?v=Niy0sIF-FXY)
 - [Copilot comment generated formulas | Getting Started With Power Shorts](https://www.youtube.com/watch?v=kV60VZoPoWw)
 - [Understand app functionality through code view | Power Platform Shorts](https://www.youtube.com/watch?v=qwXfvs9wzFY)
 - [Approvals in Microsoft Teams | Getting Started With Power Shorts](https://www.youtube.com/watch?v=qDxfxSMkEn0)
-- [Let Copilot guide you in building desktop flows](https://www.youtube.com/watch?v=8_POEyq_OKk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
