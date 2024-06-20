@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [JSON Type &amp; Aggregates Public Preview in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=WigP5PLQXhY)
 - [Be on Open at Microsoft!](https://www.youtube.com/watch?v=OdG-0Ioy8Hc)
 - [What is GitHub Copilot Workspace?](https://www.youtube.com/watch?v=D2pjHwj3oaE)
 - [Open-sourcing Sudo for Windows](https://www.youtube.com/watch?v=CmRfB-UQoe0)
 - [Why is a metric that is consistently at 100% probably broken?](https://www.youtube.com/watch?v=_UUxEim_Zco)
-- [Azure SQL DB Vector Functions Private Preview | Data Exposed](https://www.youtube.com/watch?v=_q9VL7L9xHY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
