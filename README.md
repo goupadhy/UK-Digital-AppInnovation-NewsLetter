@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s your favorite thing at Build with Jordan Matthiesen](https://www.youtube.com/watch?v=lHZiZM7ytFk)
 - [JSON Type &amp; Aggregates Public Preview in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=WigP5PLQXhY)
 - [Be on Open at Microsoft!](https://www.youtube.com/watch?v=OdG-0Ioy8Hc)
 - [What is GitHub Copilot Workspace?](https://www.youtube.com/watch?v=D2pjHwj3oaE)
 - [Open-sourcing Sudo for Windows](https://www.youtube.com/watch?v=CmRfB-UQoe0)
-- [Why is a metric that is consistently at 100% probably broken?](https://www.youtube.com/watch?v=_UUxEim_Zco)
 <!-- YOUTUBEAPPMOD:END -->
 
 
