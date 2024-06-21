@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Storage use for FlowRun records | Power Platform Shorts](https://www.youtube.com/watch?v=wZEluFRwezM)
 - [Enable site search with generative AI with Power Pages | Getting Started With Power Shorts](https://www.youtube.com/watch?v=2SEGiPhyYiQ)
 - [Run security scan with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=Mj8oIRmSjjE)
 - [Power Automate Hosted RPA - Efficiently scale RPA operations](https://www.youtube.com/watch?v=Niy0sIF-FXY)
 - [Copilot comment generated formulas | Getting Started With Power Shorts](https://www.youtube.com/watch?v=kV60VZoPoWw)
+- [Understand app functionality through code view | Power Platform Shorts](https://www.youtube.com/watch?v=qwXfvs9wzFY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
