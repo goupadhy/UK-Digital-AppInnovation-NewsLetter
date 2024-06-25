@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What aspects of your job bring you joy?](https://www.youtube.com/watch?v=sUKDlNXvvfI)
-- [What&#39;s your favorite thing at Build with Jordan Matthiesen](https://www.youtube.com/watch?v=lHZiZM7ytFk)
-- [JSON Type &amp; Aggregates Public Preview in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=WigP5PLQXhY)
-- [Be on Open at Microsoft!](https://www.youtube.com/watch?v=OdG-0Ioy8Hc)
-- [What is GitHub Copilot Workspace?](https://www.youtube.com/watch?v=D2pjHwj3oaE)
+- [AI Agents [Pt 17] | Generative AI for Beginners](https://www.youtube.com/watch?v=yAXVW-lUINc)
+- [Securing Your Generative AI Applications [Pt 13] | Generative AI for Beginners](https://www.youtube.com/watch?v=m0vXwsx5DNg)
+- [Introduction to Generative AI and LLMs [Pt 1] | Generative AI for Beginners](https://www.youtube.com/watch?v=lFXQkBvEe0o)
+- [Full Series [Part 1 to 18] | Generative AI for Beginners](https://www.youtube.com/watch?v=k7HaeJs-N-o)
+- [Using Generative AI Responsibly [Pt 3] | Generative AI for Beginners](https://www.youtube.com/watch?v=YOp-e1GjZdA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
