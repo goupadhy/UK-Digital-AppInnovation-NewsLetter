@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/2024-06-26-attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 - [Beginner&#8217;s guide to GitHub repositories: How to create your first repo](https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/)
 - [Execute commands by sending JSON? Learn how unsafe deserialization vulnerabilities work in Ruby projects](https://github.blog/2024-06-20-execute-commands-by-sending-json-learn-how-unsafe-deserialization-vulnerabilities-work-in-ruby-projects/)
 - [GitHub Enterprise Server 3.13 is now generally available](https://github.blog/2024-06-18-github-enterprise-server-3-13-is-now-generally-available/)
 - [Unlocking the power of unstructured data with RAG](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/)
-- [GitHub Availability Report: May 2024](https://github.blog/2024-06-12-github-availability-report-may-2024/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
