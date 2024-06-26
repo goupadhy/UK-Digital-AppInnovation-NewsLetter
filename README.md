@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s coming in .NET 9 for hybrid development?](https://www.youtube.com/watch?v=-MIGan4bfJs)
 - [What&#39;s coming in .NET 9 for hybrid development?](https://www.youtube.com/watch?v=UcAsJ2QxVA4)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI Magic with Marco Tempest](https://www.youtube.com/watch?v=PW-w1yVVRXc)
 - [AI Agents [Pt 17] | Generative AI for Beginners](https://www.youtube.com/watch?v=yAXVW-lUINc)
 - [Securing Your Generative AI Applications [Pt 13] | Generative AI for Beginners](https://www.youtube.com/watch?v=m0vXwsx5DNg)
-- [Introduction to Generative AI and LLMs [Pt 1] | Generative AI for Beginners](https://www.youtube.com/watch?v=lFXQkBvEe0o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
