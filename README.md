@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Trailer for Livestream 1 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=zgvBRI9YJkc)
+- [Trailer for Livestream 2 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=AZzDhVcP1G8)
+- [Trailer for Livestream 3 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=uZJsp1kt8Tg)
+- [Trailer for Livestream 4 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=c1yckWmaOiM)
 - [Similarity Search with FAISS and Azure SQL | Data Exposed](https://www.youtube.com/watch?v=FrR3jZE9z8Y)
-- [What&#39;s your favorite thing at Build with Jordi Adoumie](https://www.youtube.com/watch?v=jWubKGY_LFQ)
-- [What&#39;s coming in .NET 9 for hybrid development?](https://www.youtube.com/watch?v=-MIGan4bfJs)
-- [What&#39;s coming in .NET 9 for hybrid development?](https://www.youtube.com/watch?v=UcAsJ2QxVA4)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - AI Magic with Marco Tempest](https://www.youtube.com/watch?v=PW-w1yVVRXc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
