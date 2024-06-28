@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What sound does an asterisk make?](https://www.youtube.com/watch?v=Z10gO8ZQcGg)
 - [Trailer for Livestream 1 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=zgvBRI9YJkc)
 - [Trailer for Livestream 2 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=AZzDhVcP1G8)
 - [Trailer for Livestream 3 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=uZJsp1kt8Tg)
 - [Trailer for Livestream 4 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=c1yckWmaOiM)
-- [Similarity Search with FAISS and Azure SQL | Data Exposed](https://www.youtube.com/watch?v=FrR3jZE9z8Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
