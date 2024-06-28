@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Trailer for Livestream 1 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=zgvBRI9YJkc)
-- [Trailer for Livestream 2 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=AZzDhVcP1G8)
-- [Trailer for Livestream 3 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=uZJsp1kt8Tg)
-- [Trailer for Livestream 4 of POSETTE: An Event for Postgres 2024](https://www.youtube.com/watch?v=c1yckWmaOiM)
-- [Similarity Search with FAISS and Azure SQL | Data Exposed](https://www.youtube.com/watch?v=FrR3jZE9z8Y)
+- [Deploying to Azure Container Apps to power your LLMs](https://www.youtube.com/watch?v=w4CbMsuey9w)
+- [Azure Functions using Python: Exploring HTTP Streaming and Azure Blob Storage](https://www.youtube.com/watch?v=l3KDTgtLoT4)
+- [Github Copoilot live demo!](https://www.youtube.com/watch?v=OupqM6FFbn4)
+- [Language Server Protocol to accelerate your development and IntelliSense](https://www.youtube.com/watch?v=2PaGiJUHgfQ)
+- [Speedrunning the cloud with the Azure SDK and Developer CLI](https://www.youtube.com/watch?v=aJK6zPbw238)
 <!-- YOUTUBEAPPMOD:END -->
 
 
