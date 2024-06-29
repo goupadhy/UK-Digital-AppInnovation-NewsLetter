@@ -39,7 +39,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio](https://powerapps.microsoft.com/en-us/blog/unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio/)
 - [New ways of development with copilots and Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2024/05/21/new-ways-of-development-with-copilots-and-microsoft-power-platform/)
 - [How Microsoft Power Platform is driving real-world impact—March customer success stories](https://www.microsoft.com/en-us/power-platform/blog/2024/04/18/how-microsoft-power-platform-is-driving-real-world-impact-march-customer-success-stories/)
-- [2024 release wave 1 kicks off with hundreds of AI-powered capabilities for Microsoft Dynamics 365 and Microsoft Power Platform](https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/10/2024-release-wave-1-kicks-off-with-hundreds-of-ai-powered-capabilities-for-microsoft-dynamics-365-and-microsoft-power-platform/)
+- [2024 release wave 1 kicks off with hundreds of AI-powered capabilities for Microsoft Dynamics 365 and Microsoft Power Platform](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/04/10/2024-release-wave-1-kicks-off-with-hundreds-of-ai-powered-capabilities-for-microsoft-dynamics-365-and-microsoft-power-platform/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
