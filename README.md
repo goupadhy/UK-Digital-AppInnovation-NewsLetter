@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Real World Apps with Blazor and .NET Aspire](https://www.youtube.com/watch?v=5v2GNcrEabg)
 - [Azure AI Content Safety Run a Bulk Test for Images](https://www.youtube.com/watch?v=7hBSSygEdCE)
 - [Azure AI Content Safety Run a Bulk Test for Text](https://www.youtube.com/watch?v=baZ7dQmZEGE)
 - [Deploying to Azure Container Apps to power your LLMs](https://www.youtube.com/watch?v=w4CbMsuey9w)
 - [Azure Functions using Python: Exploring HTTP Streaming and Azure Blob Storage](https://www.youtube.com/watch?v=l3KDTgtLoT4)
-- [Github Copoilot live demo!](https://www.youtube.com/watch?v=OupqM6FFbn4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
