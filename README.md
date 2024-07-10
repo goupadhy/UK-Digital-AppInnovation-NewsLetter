@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Build and distribute a progressive web app | Getting Started With Power Shorts](https://www.youtube.com/watch?v=Pzs8zTXy8kI)
 - [Set up Bootstrap version 5 with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=rQe34jyVROQ)
 - [Find the renewal period for each machine | Getting Started With Power Shorts](https://www.youtube.com/watch?v=gKvNyBLA_KA)
 - [View desktop flow action groups | Power Platform Shorts](https://www.youtube.com/watch?v=TUmoWDA3NQU)
 - [Leverage FlowEvent data monitoring effectively | Getting started with Power Shorts](https://www.youtube.com/watch?v=cy_WW1aXQQQ)
-- [Storage use for FlowRun records | Power Platform Shorts](https://www.youtube.com/watch?v=wZEluFRwezM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
