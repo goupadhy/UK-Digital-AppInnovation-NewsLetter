@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Improve the Developers Experience from your Platform with Score](https://www.youtube.com/watch?v=eo15N9E-zi4)
+- [Improve the Developers Experience from your Platform with Score](https://www.youtube.com/watch?v=-Pa_gQCzki8)
 - [I wasn&#39;t able to attend Build - how can I learn more about AI?](https://www.youtube.com/watch?v=VSBaZq5yimY)
 - [I wasn&#39;t able to attend Build - how can I learn more about AI?](https://www.youtube.com/watch?v=U5eK-3NdvOc)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Evolution of Agents with Pattie Maes](https://www.youtube.com/watch?v=yY1gZN2yus0)
-- [Real World Apps with Blazor and .NET Aspire](https://www.youtube.com/watch?v=5v2GNcrEabg)
-- [Azure AI Content Safety Run a Bulk Test for Images](https://www.youtube.com/watch?v=7hBSSygEdCE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
