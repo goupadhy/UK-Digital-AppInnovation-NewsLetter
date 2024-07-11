@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SLM &lpar;Small Language Model&rpar; with your Data | Data Exposed](https://www.youtube.com/watch?v=s3CvH4uQAJo)
 - [What&#39;s your favorite thing at Build with Maddy Montequila](https://www.youtube.com/watch?v=hg7ykAG_wb4)
 - [What&#39;s your favorite thing at Build with Maddy Montaquila](https://www.youtube.com/watch?v=5yh2hpY7A2c)
 - [Improve the Developers Experience from your Platform with Score](https://www.youtube.com/watch?v=eo15N9E-zi4)
 - [Improve the Developers Experience from your Platform with Score](https://www.youtube.com/watch?v=-Pa_gQCzki8)
-- [I wasn&#39;t able to attend Build - how can I learn more about AI?](https://www.youtube.com/watch?v=VSBaZq5yimY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
