@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What&#39;s your favorite hardware problem? One Dev Question](https://www.youtube.com/watch?v=TB5IFVkMMIw)
-- [SLM &lpar;Small Language Model&rpar; with your Data | Data Exposed](https://www.youtube.com/watch?v=s3CvH4uQAJo)
-- [What&#39;s your favorite thing at Build with Maddy Montequila](https://www.youtube.com/watch?v=hg7ykAG_wb4)
-- [What&#39;s your favorite thing at Build with Maddy Montaquila](https://www.youtube.com/watch?v=5yh2hpY7A2c)
-- [Improve the Developers Experience from your Platform with Score](https://www.youtube.com/watch?v=eo15N9E-zi4)
+- [Extend your Copilot with plugins using Copilot Studio](https://www.youtube.com/watch?v=65xn6MNkohA)
+- [Create a fully functional support bot in less than 10 minutes](https://www.youtube.com/watch?v=zJMTgg95XoA)
+- [Golden path with GitHub Actions](https://www.youtube.com/watch?v=AkbKZWUqNjg)
+- [Optimize Azure Infrastructure as Code Deployments with VS Code](https://www.youtube.com/watch?v=Q8eUuNFO1jk)
+- [AI-Powered Personalized Learning](https://www.youtube.com/watch?v=Hmulxuk_i5A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
