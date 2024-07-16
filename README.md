@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Twitch Integration with 7 Lines of Code - ComfyJS](https://www.youtube.com/watch?v=TL9KssnGrtg)
+- [Twitch Integration with 7 Lines of Code - ComfyJS](https://www.youtube.com/watch?v=2rD34sErUUY)
 - [Extend your Copilot with plugins using Copilot Studio](https://www.youtube.com/watch?v=65xn6MNkohA)
 - [Create a fully functional support bot in less than 10 minutes](https://www.youtube.com/watch?v=zJMTgg95XoA)
 - [Golden path with GitHub Actions](https://www.youtube.com/watch?v=AkbKZWUqNjg)
-- [Optimize Azure Infrastructure as Code Deployments with VS Code](https://www.youtube.com/watch?v=Q8eUuNFO1jk)
-- [AI-Powered Personalized Learning](https://www.youtube.com/watch?v=Hmulxuk_i5A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
