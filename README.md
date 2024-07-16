@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Power Platform 2024 Release Wave 2 Release Highlights](https://www.youtube.com/watch?v=fo3mSmPpz7s)
+- [Power Platform 2024 Release Wave 2 Highlights](https://www.youtube.com/watch?v=fo3mSmPpz7s)
 - [Use object checker to diagnose a solution component | Power Platform Shorts](https://www.youtube.com/watch?v=h_OwFRgj1U8)
 - [Build and distribute a progressive web app | Getting Started With Power Shorts](https://www.youtube.com/watch?v=Pzs8zTXy8kI)
 - [Set up Bootstrap version 5 with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=rQe34jyVROQ)
