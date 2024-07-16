@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How Power Apps empowers every developer and user to achieve more](https://www.youtube.com/watch?v=JljagTqxkOk)
 - [Power Platform 2024 Release Wave 2 Highlights](https://www.youtube.com/watch?v=fo3mSmPpz7s)
 - [Use object checker to diagnose a solution component | Power Platform Shorts](https://www.youtube.com/watch?v=h_OwFRgj1U8)
 - [Build and distribute a progressive web app | Getting Started With Power Shorts](https://www.youtube.com/watch?v=Pzs8zTXy8kI)
 - [Set up Bootstrap version 5 with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=rQe34jyVROQ)
-- [Find the renewal period for each machine | Getting Started With Power Shorts](https://www.youtube.com/watch?v=gKvNyBLA_KA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
