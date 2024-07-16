@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s your favorite thing at Build 2024 with Craig Loewen](https://www.youtube.com/watch?v=vzPk2K7AXEs)
 - [What is GitHub Copilot Workspace?](https://www.youtube.com/watch?v=bW67LEsRqUs)
 - [Twitch Integration with 7 Lines of Code - ComfyJS](https://www.youtube.com/watch?v=TL9KssnGrtg)
 - [Twitch Integration with 7 Lines of Code - ComfyJS](https://www.youtube.com/watch?v=2rD34sErUUY)
 - [Extend your Copilot with plugins using Copilot Studio](https://www.youtube.com/watch?v=65xn6MNkohA)
-- [Create a fully functional support bot in less than 10 minutes](https://www.youtube.com/watch?v=zJMTgg95XoA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
