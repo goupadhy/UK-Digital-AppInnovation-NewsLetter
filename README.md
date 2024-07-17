@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How researchers are using GitHub Innovation Graph data to estimate the impact of ChatGPT](https://github.blog/2024-07-17-how-researchers-are-using-github-innovation-graph-data-to-estimate-the-impact-of-chatgpt/)
 - [GitHub Availability Report: June 2024](https://github.blog/2024-07-12-github-availability-report-june-2024/)
 - [Advancing responsible practices for open source AI](https://github.blog/2024-07-11-advancing-responsible-practices-for-open-source-ai/)
 - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 - [Beginner’s guide to GitHub: Uploading files and folders to GitHub](https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/)
-- [Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/2024-06-26-attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
