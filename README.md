@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Three New Capabilities to Modernize your SQL Server Anywhere with Azure Arc | Data Exposed](https://www.youtube.com/watch?v=DkIY4-qwhoU)
+- [What&#39;s your favorite thing at Build with Damian Brady](https://www.youtube.com/watch?v=d59tiH8I_Qs)
+- [What&#39;s your favorite thing at Build with Damian Brady](https://www.youtube.com/watch?v=LOlNJVPevNU)
 - [What&#39;s your favorite thing at Build with Jordi Adoumie](https://www.youtube.com/watch?v=fNrwqhg7A1Q)
 - [Copilot is great - how can I integrate it with my business?](https://www.youtube.com/watch?v=v69eVkjTQbg)
-- [Copilot is great - how can I integrate it with my business?](https://www.youtube.com/watch?v=SPUKbQbe38E)
-- [What&#39;s your favorite thing at Build 2024 with Craig Loewen](https://www.youtube.com/watch?v=vzPk2K7AXEs)
-- [What is GitHub Copilot Workspace?](https://www.youtube.com/watch?v=bW67LEsRqUs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
