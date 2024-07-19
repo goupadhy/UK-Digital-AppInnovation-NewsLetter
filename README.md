@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Let Copilot guide you in building desktop flows](https://www.youtube.com/watch?v=gZhyPI0fHbI)
 - [Set the preferred solution with Power Apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=WohjakB8OdE)
 - [How Power Apps empowers every developer and user to achieve more](https://www.youtube.com/watch?v=JljagTqxkOk)
 - [Power Platform 2024 Release Wave 2 Highlights](https://www.youtube.com/watch?v=fo3mSmPpz7s)
 - [Use object checker to diagnose a solution component | Power Platform Shorts](https://www.youtube.com/watch?v=h_OwFRgj1U8)
-- [Build and distribute a progressive web app | Getting Started With Power Shorts](https://www.youtube.com/watch?v=Pzs8zTXy8kI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
