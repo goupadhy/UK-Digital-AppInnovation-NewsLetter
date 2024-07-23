@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Using Query Store to Capture PostgreSQL Performance in Azure Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=zlGluGXZ0uM)
+- [Introduction to Cleipnir.Flows a tool to get resilient code](https://www.youtube.com/watch?v=XHLes8EZNas)
 - [Three New Capabilities to Modernize your SQL Server Anywhere with Azure Arc | Data Exposed](https://www.youtube.com/watch?v=DkIY4-qwhoU)
 - [What&#39;s your favorite thing at Build with Damian Brady](https://www.youtube.com/watch?v=d59tiH8I_Qs)
 - [What&#39;s your favorite thing at Build with Damian Brady](https://www.youtube.com/watch?v=LOlNJVPevNU)
-- [What&#39;s your favorite thing at Build with Jordi Adoumie](https://www.youtube.com/watch?v=fNrwqhg7A1Q)
-- [Copilot is great - how can I integrate it with my business?](https://www.youtube.com/watch?v=v69eVkjTQbg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
