@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - AI Home Automation with Matthew Bolaños](https://www.youtube.com/watch?v=quC_bhlMBSQ)
+- [What&#39;s your favorite thing at Build with Jordan Matthiesen](https://www.youtube.com/watch?v=vzK7Tj1fpVU)
 - [Using Query Store to Capture PostgreSQL Performance in Azure Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=zlGluGXZ0uM)
 - [Introduction to Cleipnir.Flows a tool to get resilient code](https://www.youtube.com/watch?v=XHLes8EZNas)
 - [Three New Capabilities to Modernize your SQL Server Anywhere with Azure Arc | Data Exposed](https://www.youtube.com/watch?v=DkIY4-qwhoU)
-- [What&#39;s your favorite thing at Build with Damian Brady](https://www.youtube.com/watch?v=d59tiH8I_Qs)
-- [What&#39;s your favorite thing at Build with Damian Brady](https://www.youtube.com/watch?v=LOlNJVPevNU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
