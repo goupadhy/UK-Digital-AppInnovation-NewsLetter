@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s new in Azure App Service at Build 2024?](https://www.youtube.com/watch?v=1mMcIz-zxWI)
+- [What&#39;s new in Azure App Service at Build 2024, with Yutang Lin](https://www.youtube.com/watch?v=k8ecMWt4JD4)
 - [What&#39;s your favorite thing at Build with Laurent Bugnion](https://www.youtube.com/watch?v=T61Km774kmI)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI Home Automation with Matthew Bolaños](https://www.youtube.com/watch?v=quC_bhlMBSQ)
 - [What&#39;s your favorite thing at Build with Jordan Matthiesen](https://www.youtube.com/watch?v=vzK7Tj1fpVU)
-- [Using Query Store to Capture PostgreSQL Performance in Azure Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=zlGluGXZ0uM)
-- [Introduction to Cleipnir.Flows a tool to get resilient code](https://www.youtube.com/watch?v=XHLes8EZNas)
 <!-- YOUTUBEAPPMOD:END -->
 
 
