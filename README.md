@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Leaders in AI | Learn from Dentsu&#39;s ​Transformation](https://www.youtube.com/watch?v=o3mTuhBSs5A)
 - [Energy transition insights from U.S. DOE Deputy Secretary David Turk](https://www.youtube.com/watch?v=kLKCoqnq6vw)
 - [Innovations from climatetech startups with Celine King, founder and CEO at GreenIRR](https://www.youtube.com/watch?v=0A4MJtXr4UQ)
 - [Learn how Profisee eliminates data siloes within Microsoft Fabric](https://www.youtube.com/watch?v=kMZE6KjCs98)
 - [Taking Stock Live - a conversation with Shelley Bransten &amp; Silvia Candiani](https://www.youtube.com/watch?v=NMEdNprUOzI)
-- [OpenAI creates Retrieval Augmented Generation features with Azure AI Search](https://www.youtube.com/watch?v=cjIE5fBInAE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
