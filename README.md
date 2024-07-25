@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build AI Applications with Redis and Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=ffEYgHSEATU)
 - [What&#39;s new in Azure App Service at Build 2024?](https://www.youtube.com/watch?v=1mMcIz-zxWI)
 - [What&#39;s new in Azure App Service at Build 2024, with Yutang Lin](https://www.youtube.com/watch?v=k8ecMWt4JD4)
 - [What&#39;s your favorite thing at Build with Laurent Bugnion](https://www.youtube.com/watch?v=T61Km774kmI)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI Home Automation with Matthew Bolaños](https://www.youtube.com/watch?v=quC_bhlMBSQ)
-- [What&#39;s your favorite thing at Build with Jordan Matthiesen](https://www.youtube.com/watch?v=vzK7Tj1fpVU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
