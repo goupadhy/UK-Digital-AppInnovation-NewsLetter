@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Nonprofit organization expands career programs using Power Pages](https://www.youtube.com/watch?v=8qwDJ_RZF6M)
 - [Join Power Platform Applications VP Ryan Cunningham at PPCC24!](https://www.youtube.com/watch?v=rsPUWvsX7bo)
 - [Kelly uses Power Pages to revamp the customer experience](https://www.youtube.com/watch?v=cTKesJ6t55s)
 - [Use governance controls to disable anonymous access | Getting Started With Power Shorts](https://www.youtube.com/watch?v=F32I4P4HQNw)
 - [Set up telemetry monitoring using enhanced data model | Power Platform Shorts](https://www.youtube.com/watch?v=WtZS68RPo5E)
-- [Let Copilot guide you in building desktop flows](https://www.youtube.com/watch?v=gZhyPI0fHbI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
