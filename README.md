@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Extending Copilot and connect to your API&#39;s with Power Platform Connectors](https://www.youtube.com/watch?v=4NZruw67lYU)
 - [Does App Service have a session at Build?](https://www.youtube.com/watch?v=G3EP84f6_Yk)
 - [Does App Service have a session at Build?](https://www.youtube.com/watch?v=T9DBmVJb5sw)
 - [Build AI Applications with Redis and Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=ffEYgHSEATU)
 - [What&#39;s new in Azure App Service at Build 2024?](https://www.youtube.com/watch?v=1mMcIz-zxWI)
-- [What&#39;s new in Azure App Service at Build 2024, with Yutang Lin](https://www.youtube.com/watch?v=k8ecMWt4JD4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
