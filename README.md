@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introduction to Blockman - Visual helper extension for VS Code](https://www.youtube.com/watch?v=y79Okx8oEao)
+- [Generate a report with generative AI | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Oqi8PTUBvYw)
+- [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - AI in Education](https://www.youtube.com/watch?v=cHHDovpdxUk)
 - [Improving Healthcare Using Azure OpenAI](https://www.youtube.com/watch?v=inI0KBvtVYA)
 - [How do I get started using Microsoft Copilot?](https://www.youtube.com/watch?v=-t5VuxPic1I)
-- [How do I get started using Microsoft Copilot?](https://www.youtube.com/watch?v=7OPlXUGNdX8)
-- [Extending Copilot and connect to your API&#39;s with Power Platform Connectors](https://www.youtube.com/watch?v=4NZruw67lYU)
-- [Does App Service have a session at Build?](https://www.youtube.com/watch?v=G3EP84f6_Yk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
