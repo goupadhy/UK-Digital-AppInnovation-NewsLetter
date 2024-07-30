@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Improving Healthcare Using Azure OpenAI](https://www.youtube.com/watch?v=inI0KBvtVYA)
 - [How do I get started using Microsoft Copilot?](https://www.youtube.com/watch?v=-t5VuxPic1I)
 - [How do I get started using Microsoft Copilot?](https://www.youtube.com/watch?v=7OPlXUGNdX8)
 - [Extending Copilot and connect to your API&#39;s with Power Platform Connectors](https://www.youtube.com/watch?v=4NZruw67lYU)
 - [Does App Service have a session at Build?](https://www.youtube.com/watch?v=G3EP84f6_Yk)
-- [Does App Service have a session at Build?](https://www.youtube.com/watch?v=T9DBmVJb5sw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
