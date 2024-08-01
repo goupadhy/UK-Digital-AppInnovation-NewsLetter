@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=lMNYsyFJCTw)
+- [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=VW779kOPh7Y)
 - [Introduction to Blockman - Visual helper extension for VS Code](https://www.youtube.com/watch?v=y79Okx8oEao)
 - [Generate a report with generative AI | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Oqi8PTUBvYw)
 - [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - AI in Education](https://www.youtube.com/watch?v=cHHDovpdxUk)
-- [Improving Healthcare Using Azure OpenAI](https://www.youtube.com/watch?v=inI0KBvtVYA)
-- [How do I get started using Microsoft Copilot?](https://www.youtube.com/watch?v=-t5VuxPic1I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
