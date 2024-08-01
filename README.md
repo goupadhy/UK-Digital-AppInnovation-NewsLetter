@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL free database: Azure Data Studio, PowerApps, GitHub copilot, Power BI, and Generative AI](https://www.youtube.com/watch?v=GmJ5eOL5FTU)
 - [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=lMNYsyFJCTw)
 - [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=VW779kOPh7Y)
 - [Introduction to Blockman - Visual helper extension for VS Code](https://www.youtube.com/watch?v=y79Okx8oEao)
 - [Generate a report with generative AI | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Oqi8PTUBvYw)
-- [Mr. Maeda&#39;s Cozy AI Kitchen Desserts Corner - AI in Education](https://www.youtube.com/watch?v=cHHDovpdxUk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
