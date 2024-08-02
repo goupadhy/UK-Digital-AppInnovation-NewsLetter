@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Win tickets for PPCC24 with the Community Giveback Program!](https://www.youtube.com/watch?v=4fmi4EdDCak)
 - [Join Microsoft Fabric &amp; Power BI Power Platform Applications Vice President Kim Manis at PPCC24!](https://www.youtube.com/watch?v=pGJ0xPzbzQo)
 - [How to add a connection in Power Automate | Getting Started With Power Shorts](https://www.youtube.com/watch?v=u9EkJGjgfhY)
 - [T-Mobile uses RPA in Power Automate to integrate systems during Sprint merger](https://www.youtube.com/watch?v=lgxtfTyfjqI)
 - [Export and import your Process Mining process | Power Platform Shorts](https://www.youtube.com/watch?v=CnLMsYTED3Y)
-- [Citizen developers find creative ways to help Shell run smarter and more efficiently](https://www.youtube.com/watch?v=J-vJd8XCKqs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
