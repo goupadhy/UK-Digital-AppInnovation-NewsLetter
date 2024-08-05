@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What are some ways to extend Copilot?](https://www.youtube.com/watch?v=lgI_3P5icXY)
 - [How did tax laws affect PC upgrades? | With Raymond Chen](https://www.youtube.com/watch?v=Wxc6wnTKEJw)
 - [Azure SQL free database: Azure Data Studio, PowerApps, GitHub copilot, Power BI, and Generative AI](https://www.youtube.com/watch?v=GmJ5eOL5FTU)
 - [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=lMNYsyFJCTw)
 - [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=VW779kOPh7Y)
-- [Introduction to Blockman - Visual helper extension for VS Code](https://www.youtube.com/watch?v=y79Okx8oEao)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
