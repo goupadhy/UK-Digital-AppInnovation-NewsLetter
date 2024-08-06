@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - AI for Product Managers, with Kayla Lozano](https://www.youtube.com/watch?v=Sc7Mwj1Zos8)
+- [Introduction to Supabase - an Open Source Firebase Alternative](https://www.youtube.com/watch?v=rXMRtpWZdXE)
+- [Introduction to Supabase - an Open Source Firebase Alternative](https://www.youtube.com/watch?v=Eh8z88vSHXw)
 - [What are some ways to extend Copilot?](https://www.youtube.com/watch?v=lgI_3P5icXY)
 - [How did tax laws affect PC upgrades? | With Raymond Chen](https://www.youtube.com/watch?v=Wxc6wnTKEJw)
-- [Azure SQL free database: Azure Data Studio, PowerApps, GitHub copilot, Power BI, and Generative AI](https://www.youtube.com/watch?v=GmJ5eOL5FTU)
-- [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=lMNYsyFJCTw)
-- [What are GitHub Copilot Extensions?](https://www.youtube.com/watch?v=VW779kOPh7Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
