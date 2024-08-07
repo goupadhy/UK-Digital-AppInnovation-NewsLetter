@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What can I do with the Azure SQL free database?](https://www.youtube.com/watch?v=jNz38gJCy_Q)
+- [What can I do with the Azure SQL free database?](https://www.youtube.com/watch?v=a0GQ0ZAYiAg)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI for Product Managers, with Kayla Lozano](https://www.youtube.com/watch?v=Sc7Mwj1Zos8)
 - [Introduction to Supabase - an Open Source Firebase Alternative](https://www.youtube.com/watch?v=rXMRtpWZdXE)
 - [Introduction to Supabase - an Open Source Firebase Alternative](https://www.youtube.com/watch?v=Eh8z88vSHXw)
-- [What are some ways to extend Copilot?](https://www.youtube.com/watch?v=lgI_3P5icXY)
-- [How did tax laws affect PC upgrades? | With Raymond Chen](https://www.youtube.com/watch?v=Wxc6wnTKEJw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
