@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Database Watcher: Your perfmon in the cloud | Data Exposed](https://www.youtube.com/watch?v=bjXuEsNUsHg)
+- [Why should I use a Dev Drive?](https://www.youtube.com/watch?v=M-WLhYQMvGM)
+- [Why should I use a Dev Drive?](https://www.youtube.com/watch?v=_kubz4CeTe8)
 - [What can I do with the Azure SQL free database?](https://www.youtube.com/watch?v=jNz38gJCy_Q)
 - [What can I do with the Azure SQL free database?](https://www.youtube.com/watch?v=a0GQ0ZAYiAg)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - AI for Product Managers, with Kayla Lozano](https://www.youtube.com/watch?v=Sc7Mwj1Zos8)
-- [Introduction to Supabase - an Open Source Firebase Alternative](https://www.youtube.com/watch?v=rXMRtpWZdXE)
-- [Introduction to Supabase - an Open Source Firebase Alternative](https://www.youtube.com/watch?v=Eh8z88vSHXw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
