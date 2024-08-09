@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s your second favorite hardware problem?](https://www.youtube.com/watch?v=CEiCuLIgkBs)
 - [Database Watcher: Your perfmon in the cloud | Data Exposed](https://www.youtube.com/watch?v=bjXuEsNUsHg)
 - [Why should I use a Dev Drive?](https://www.youtube.com/watch?v=M-WLhYQMvGM)
 - [Why should I use a Dev Drive?](https://www.youtube.com/watch?v=_kubz4CeTe8)
 - [What can I do with the Azure SQL free database?](https://www.youtube.com/watch?v=jNz38gJCy_Q)
-- [What can I do with the Azure SQL free database?](https://www.youtube.com/watch?v=a0GQ0ZAYiAg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
