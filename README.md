@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Fast track development with AI and low-code](https://www.microsoft.com/en-us/power-platform/blog/2024/08/06/fast-track-development-with-ai-and-low-code/)
+- [Litera and Accenture transform business processes with Microsoft Copilot connectors](https://www.microsoft.com/en-us/power-platform/blog/2024/07/25/litera-and-accenture-transform-business-processes-with-microsoft-copilot-connectors/)
 - [2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available ](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/)
 - [5 ways IT departments can get started with low-code and AI ](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/5-ways-it-departments-can-get-started-with-low-code-and-ai/)
 - [How Microsoft Power Platform is driving real-world impact—April and May customer success stories](https://www.microsoft.com/en-us/power-platform/blog/2024/06/26/how-microsoft-power-platform-is-driving-real-world-impact-april-and-may-customer-success-stories/)
-- [Celebrating a year of innovation: Announcing the Microsoft Power Platform templates Cookbook Challenge](https://www.microsoft.com/en-us/power-platform/blog/2024/06/06/celebrating-a-year-of-innovation-announcing-the-microsoft-power-platform-templates-cookbook-challenge/)
-- [Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio](https://powerapps.microsoft.com/en-us/blog/unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
