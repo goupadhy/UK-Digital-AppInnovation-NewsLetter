@@ -79,10 +79,10 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [DevDay Asia 2024 | Day 1 Keynote](https://www.youtube.com/watch?v=cvAKKR22xhk)
 - [How can Copilot help me test my software?](https://www.youtube.com/watch?v=UGkQOSEoXuk)
 - [How can Copilot help me test my software?](https://www.youtube.com/watch?v=8MUxTk17k6c)
 - [DevDay Asia 2024 | Day 2 Keynote](https://www.youtube.com/watch?v=L0PkyrArEf4)
-- [DevDay Asia 2024 | Day 1 Keynote](https://www.youtube.com/watch?v=cvAKKR22xhk)
 - [What&#39;s your second favorite hardware problem?](https://www.youtube.com/watch?v=CEiCuLIgkBs)
 <!-- YOUTUBEAPPMOD:END -->
 
