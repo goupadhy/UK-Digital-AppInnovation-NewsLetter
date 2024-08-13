@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Retina: eBPF distributed networking observability tool for Kubernetes](https://www.youtube.com/watch?v=tTaWFrIrZQM)
+- [Retina: eBPF distributed networking observability tool for Kubernetes](https://www.youtube.com/watch?v=JqUcrMhF-rQ)
+- [Mr. Maeda&#39;s Cozy AI Kitchen - Not just for Chats](https://www.youtube.com/watch?v=Z4e6TwGnvUo)
 - [DevDay Asia 2024 | Day 2 Keynote](https://www.youtube.com/watch?v=L0PkyrArEf4)
 - [DevDay Asia 2024 | Day 1 Keynote](https://www.youtube.com/watch?v=cvAKKR22xhk)
-- [How can Copilot help me test my software?](https://www.youtube.com/watch?v=UGkQOSEoXuk)
-- [How can Copilot help me test my software?](https://www.youtube.com/watch?v=8MUxTk17k6c)
-- [What&#39;s your second favorite hardware problem?](https://www.youtube.com/watch?v=CEiCuLIgkBs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
