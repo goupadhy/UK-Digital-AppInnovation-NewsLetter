@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Run an Automated Evaluation in Azure AI Studio](https://www.youtube.com/watch?v=iztYnan2uQE)
+- [Run a Manual Evaluation in Azure AI Studio](https://www.youtube.com/watch?v=VeeZQ6u0iP0)
+- [Create a Content Filter in Azure AI Studio](https://www.youtube.com/watch?v=DR9l8gJPfPY)
 - [What is Advanced Paste?](https://www.youtube.com/watch?v=-RgBerNlzQo)
 - [What is Advanced Paste?](https://www.youtube.com/watch?v=egEjEjzE9K0)
-- [Native Windows principals for SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=kJE6nHrq1Do)
-- [How do SLMs differ from LLMs?](https://www.youtube.com/watch?v=ZYegkHTuHcM)
-- [How do SLMs differ from LLMs?](https://www.youtube.com/watch?v=ec1DlPkauYI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
