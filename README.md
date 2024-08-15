@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What is Advanced Paste?](https://www.youtube.com/watch?v=-RgBerNlzQo)
+- [What is Advanced Paste?](https://www.youtube.com/watch?v=egEjEjzE9K0)
+- [Native Windows principals for SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=kJE6nHrq1Do)
 - [How do SLMs differ from LLMs?](https://www.youtube.com/watch?v=ZYegkHTuHcM)
 - [How do SLMs differ from LLMs?](https://www.youtube.com/watch?v=ec1DlPkauYI)
-- [Retina: eBPF distributed networking observability tool for Kubernetes](https://www.youtube.com/watch?v=tTaWFrIrZQM)
-- [Retina: eBPF distributed networking observability tool for Kubernetes](https://www.youtube.com/watch?v=JqUcrMhF-rQ)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Not just for Chats](https://www.youtube.com/watch?v=Z4e6TwGnvUo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
