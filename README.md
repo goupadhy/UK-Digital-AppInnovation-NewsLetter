@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Microsoft Conversational AI Vice President Omar Aftab at PPCC24!](https://www.youtube.com/watch?v=Zie1_msI3yo)
 - [Pacific Gas &amp; Electric saves millions each year by automating business processes with Power Platform](https://www.youtube.com/watch?v=9a_IJJiY3SY)
 - [Join Power Platform Intelligent Automations Vice President Sangya Singh at PPCC24!](https://www.youtube.com/watch?v=Klcprco2fr0)
 - [Have you entered the &quot;PPCC&#39;s Got Power&quot; awards yet?](https://www.youtube.com/watch?v=Tu5njOjkzuo)
 - [Avocados From Mexico use Power Platform to streamline its purchase order process](https://www.youtube.com/watch?v=eLLIoYSEVD0)
-- [Win tickets for PPCC24 with the Community Giveback Program!](https://www.youtube.com/watch?v=4fmi4EdDCak)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
