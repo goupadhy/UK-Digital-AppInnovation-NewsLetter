@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Radical Business Transformation of AI &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=BIHlff0R-Wg)
 - [What was the Mach 20?](https://www.youtube.com/watch?v=8T7dS5H-I3I)
 - [Run an Automated Evaluation in Azure AI Studio](https://www.youtube.com/watch?v=iztYnan2uQE)
 - [Run a Manual Evaluation in Azure AI Studio](https://www.youtube.com/watch?v=VeeZQ6u0iP0)
 - [Create a Content Filter in Azure AI Studio](https://www.youtube.com/watch?v=DR9l8gJPfPY)
-- [What is Advanced Paste?](https://www.youtube.com/watch?v=-RgBerNlzQo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
