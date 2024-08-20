@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introduction to Phi-3Cookbook](https://www.youtube.com/watch?v=Ai0WI7A8HC4)
+- [Introduction to Phi-3Cookbook](https://www.youtube.com/watch?v=86RcdfJ14g0)
+- [Stephen Toub visits Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=6hMDyi84G4Y)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI in .NET, with Stephen Toub](https://www.youtube.com/watch?v=37IHd5oiB_U)
 - [Radical Business Transformation of AI &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=BIHlff0R-Wg)
-- [What was the Mach 20?](https://www.youtube.com/watch?v=8T7dS5H-I3I)
-- [Run an Automated Evaluation in Azure AI Studio](https://www.youtube.com/watch?v=iztYnan2uQE)
-- [Run a Manual Evaluation in Azure AI Studio](https://www.youtube.com/watch?v=VeeZQ6u0iP0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
