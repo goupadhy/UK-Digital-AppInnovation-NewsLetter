@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What is the mssql extension in VSCode?](https://www.youtube.com/watch?v=HSZwtgk7srY)
+- [What is the mssql extension in VSCode?](https://www.youtube.com/watch?v=zAlXKbUANDw)
 - [Let&#39;s Learn .NET Semantic Kernel](https://www.youtube.com/watch?v=8chnnhyCX28)
 - [Introduction to Phi-3Cookbook](https://www.youtube.com/watch?v=Ai0WI7A8HC4)
 - [Introduction to Phi-3Cookbook](https://www.youtube.com/watch?v=86RcdfJ14g0)
-- [Stephen Toub visits Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=6hMDyi84G4Y)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - AI in .NET, with Stephen Toub](https://www.youtube.com/watch?v=37IHd5oiB_U)
 <!-- YOUTUBEAPPMOD:END -->
 
 
