@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Microsoft Dataverse Corporate Vice President Nirav Shah at PPCC24!](https://www.youtube.com/watch?v=YDj4NSz08oY)
 - [Epiq automates employee onboarding with Power Platform and saves over $500,000 a year](https://www.youtube.com/watch?v=qUB6dFd6-JI)
 - [Join Microsoft Conversational AI Vice President Omar Aftab at PPCC24!](https://www.youtube.com/watch?v=Zie1_msI3yo)
 - [Pacific Gas &amp; Electric saves millions each year by automating business processes with Power Platform](https://www.youtube.com/watch?v=9a_IJJiY3SY)
 - [Join Power Platform Intelligent Automations Vice President Sangya Singh at PPCC24!](https://www.youtube.com/watch?v=Klcprco2fr0)
-- [Have you entered the &quot;PPCC&#39;s Got Power&quot; awards yet?](https://www.youtube.com/watch?v=Tu5njOjkzuo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
