@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s your favorite unknown feature of Microsoft Copilot?](https://www.youtube.com/watch?v=Q9Rm_tnZwtA)
+- [What&#39;s your favorite unknown feature of Microsoft Copilot?](https://www.youtube.com/watch?v=-dBRdDFT8fo)
 - [Native Windows principals for SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=b4ZlZPu8LiE)
 - [What is Quickstart Playground?](https://www.youtube.com/watch?v=wCTgoAlELhg)
 - [What is Quickstart Playground?](https://www.youtube.com/watch?v=CThUIHVttxA)
-- [Data Classification and Labelling in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=l992MJHZ4mc)
-- [What is the mssql extension in VSCode?](https://www.youtube.com/watch?v=HSZwtgk7srY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
