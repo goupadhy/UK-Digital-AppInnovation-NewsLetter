@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Microsoft 365 Collaborative Apps and Platforms President Jeff Teper at PPCC24!](https://www.youtube.com/watch?v=-yiq9YsKxZM)
 - [Improved canvas keyboard navigation in canvas apps](https://www.youtube.com/watch?v=p_tCI6Kpj68)
 - [ECS unlocks strategic advantage with generative AI in Power Platform](https://www.youtube.com/watch?v=hS2b1FpLMpY)
 - [Join Microsoft Dataverse Corporate Vice President Nirav Shah at PPCC24!](https://www.youtube.com/watch?v=YDj4NSz08oY)
 - [Epiq automates employee onboarding with Power Platform and saves over $500,000 a year](https://www.youtube.com/watch?v=qUB6dFd6-JI)
-- [Join Microsoft Conversational AI Vice President Omar Aftab at PPCC24!](https://www.youtube.com/watch?v=Zie1_msI3yo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
