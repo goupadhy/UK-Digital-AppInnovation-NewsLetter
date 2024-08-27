@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Copilot in Data Factory | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=oc6VMiPBMn8)
 - [Retina Distributed Capture integrated with AKS VsCode Extension](https://www.youtube.com/watch?v=X_vMltAb3qs)
 - [Retina Distributed Capture integrated with AKS VsCode Extension](https://www.youtube.com/watch?v=yszYA5iu7B4)
 - [Track savings opportunities with Advisor workbooks](https://www.youtube.com/watch?v=PhQz61LV-sM)
 - [What&#39;s your favorite unknown feature of Microsoft Copilot?](https://www.youtube.com/watch?v=Q9Rm_tnZwtA)
-- [What&#39;s your favorite unknown feature of Microsoft Copilot?](https://www.youtube.com/watch?v=-dBRdDFT8fo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
