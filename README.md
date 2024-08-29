@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How do Large Language Models work?](https://www.youtube.com/watch?v=CtjwG5tIV7k)
+- [How do Large Language Models work?](https://www.youtube.com/watch?v=C4XsPkGA30g)
 - [How do I monitor availability for SQL DB?](https://www.youtube.com/watch?v=z1r-xpXtxJA)
 - [How do I monitor availability for SQL DB?](https://www.youtube.com/watch?v=81d541oNdGY)
 - [Copilot in Data Factory | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=oc6VMiPBMn8)
-- [Retina Distributed Capture integrated with AKS VsCode Extension](https://www.youtube.com/watch?v=X_vMltAb3qs)
-- [Retina Distributed Capture integrated with AKS VsCode Extension](https://www.youtube.com/watch?v=yszYA5iu7B4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
