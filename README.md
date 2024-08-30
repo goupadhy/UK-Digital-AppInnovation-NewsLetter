@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s your favorite performance testing story?](https://www.youtube.com/watch?v=OBy_dhntYDw)
 - [SQL AI @ PASS Data Community Summit 2024 | Data Exposed Exclusive](https://www.youtube.com/watch?v=nf3_045w_fE)
 - [How do Large Language Models work?](https://www.youtube.com/watch?v=CtjwG5tIV7k)
 - [How do Large Language Models work?](https://www.youtube.com/watch?v=C4XsPkGA30g)
 - [How do I monitor availability for SQL DB?](https://www.youtube.com/watch?v=z1r-xpXtxJA)
-- [How do I monitor availability for SQL DB?](https://www.youtube.com/watch?v=81d541oNdGY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
