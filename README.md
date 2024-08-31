@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Coca-Cola Vietnam automates sales, purchasing, and distribution processes with Power Platform](https://www.youtube.com/watch?v=dpGikKvIUYw)
 - [Join Microsoft Power Pages General Manager Justin Graham at PPCC24!](https://www.youtube.com/watch?v=KiMb_QLkp-U)
 - [Create or edit model-driven app web resources | Getting Started With Power Shorts](https://www.youtube.com/watch?v=8JRZQGX5mUU)
 - [Join Microsoft 365 Collaborative Apps and Platforms President Jeff Teper at PPCC24!](https://www.youtube.com/watch?v=-yiq9YsKxZM)
 - [Improved canvas keyboard navigation in canvas apps](https://www.youtube.com/watch?v=p_tCI6Kpj68)
-- [ECS unlocks strategic advantage with generative AI in Power Platform](https://www.youtube.com/watch?v=hS2b1FpLMpY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
