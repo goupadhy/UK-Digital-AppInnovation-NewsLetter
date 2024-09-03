@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Mark an input variable as sensitive in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=4Jh-dLc5EUY)
 - [Power Apps Pulse: August 2024](https://www.youtube.com/watch?v=3FvChwijrSg)
 - [Coca-Cola Vietnam automates sales, purchasing, and distribution processes with Power Platform](https://www.youtube.com/watch?v=dpGikKvIUYw)
 - [Join Microsoft Power Pages General Manager Justin Graham at PPCC24!](https://www.youtube.com/watch?v=KiMb_QLkp-U)
 - [Create or edit model-driven app web resources | Getting Started With Power Shorts](https://www.youtube.com/watch?v=8JRZQGX5mUU)
-- [Join Microsoft 365 Collaborative Apps and Platforms President Jeff Teper at PPCC24!](https://www.youtube.com/watch?v=-yiq9YsKxZM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
