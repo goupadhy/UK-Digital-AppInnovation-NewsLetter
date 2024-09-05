@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How does mirrored mode neworking work in WSL?](https://www.youtube.com/watch?v=bvW_2rXCOQw)
+- [How does mirrored mode networking work in WSL?](https://www.youtube.com/watch?v=yq1xeqmBGYM)
+- [Enhancing Developer Experience with Dev Container Templates for Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=wmOmjjeWiW0)
 - [What are the new JSON capabilities available in SQL database Public Preview](https://www.youtube.com/watch?v=GcABiOKxxlk)
 - [What are the new JSON capabilities available in SQL database Public Preview?](https://www.youtube.com/watch?v=TV0kqKF_Htc)
-- [EvenireDB aka: what really is an event?](https://www.youtube.com/watch?v=h-_tFEiJL94)
-- [EvenireDB aka: what really is an event?](https://www.youtube.com/watch?v=_l1JSvGZwRc)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Multi-agents, with Marco Casalaina](https://www.youtube.com/watch?v=7VCkdxKNBl4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
