@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to check if a variable is numeric | Getting Started With Power Shorts](https://www.youtube.com/watch?v=2yvww3oob9g)
 - [Create a Custom Copilot using Natural Language](https://www.youtube.com/watch?v=JKLTTjCyPYk)
 - [Mark an input variable as sensitive in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=4Jh-dLc5EUY)
 - [Power Apps Pulse: August 2024](https://www.youtube.com/watch?v=3FvChwijrSg)
 - [Coca-Cola Vietnam automates sales, purchasing, and distribution processes with Power Platform](https://www.youtube.com/watch?v=dpGikKvIUYw)
-- [Join Microsoft Power Pages General Manager Justin Graham at PPCC24!](https://www.youtube.com/watch?v=KiMb_QLkp-U)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
