@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Reduce development times and increase ROI with Microsoft Power Platform ](https://www.microsoft.com/en-us/power-platform/blog/2024/09/03/reduce-development-times-and-increase-roi-with-microsoft-power-platform/)
 - [Showcasing AI innovation at the third annual Power Platform Community Conference](https://www.microsoft.com/en-us/power-platform/blog/2024/08/12/showcasing-ai-innovation-at-the-third-annual-power-platform-community-conference/)
 - [Fast track development with AI and low-code](https://www.microsoft.com/en-us/power-platform/blog/2024/08/06/fast-track-development-with-ai-and-low-code/)
 - [Litera and Accenture transform business processes with Microsoft Copilot connectors](https://www.microsoft.com/en-us/power-platform/blog/2024/07/25/litera-and-accenture-transform-business-processes-with-microsoft-copilot-connectors/)
 - [2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available ](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/)
-- [5 ways IT departments can get started with low-code and AI ](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/5-ways-it-departments-can-get-started-with-low-code-and-ai/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
