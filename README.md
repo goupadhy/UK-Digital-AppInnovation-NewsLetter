@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [Beginner’s guide to GitHub: Setting up and securing your profile](https://github.blog/developer-skills/github/beginners-guide-to-github-setting-up-and-securing-your-profile/)
 - [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
 - [2024 is the biggest global election year in history. What’s at stake for developers?](https://github.blog/news-insights/policy-news-and-insights/2024-is-the-biggest-global-election-year-in-history-whats-at-stake-for-developers/)
 - [GitHub Enterprise: The best migration path from AWS CodeCommit](https://github.blog/enterprise-software/collaboration/github-enterprise-the-best-migration-path-from-aws-codecommit/)
 - [Beginner’s guide to GitHub: Merging a pull request](https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/)
+- [GitHub named a Leader in the Gartner first-ever Magic Quadrant for AI Code Assistants](https://github.blog/news-insights/company-news/github-named-a-leader-in-the-gartner-first-ever-magic-quadrant-for-ai-code-assistants/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
