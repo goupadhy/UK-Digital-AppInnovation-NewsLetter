@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Can we use FAISS with Azure DB today?](https://www.youtube.com/watch?v=LkeGWbJwWBY)
+- [Can we use FAISS with Azure DB today?](https://www.youtube.com/watch?v=4vZ5nC5vcjs)
 - [Introduction to Gepsio, a XBRL for .NET](https://www.youtube.com/watch?v=DywUBF7X2BY)
 - [How does mirrored mode neworking work in WSL?](https://www.youtube.com/watch?v=bvW_2rXCOQw)
 - [How does mirrored mode networking work in WSL?](https://www.youtube.com/watch?v=yq1xeqmBGYM)
-- [Enhancing Developer Experience with Dev Container Templates for Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=wmOmjjeWiW0)
-- [What are the new JSON capabilities available in SQL database Public Preview](https://www.youtube.com/watch?v=GcABiOKxxlk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
