@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Enable or disable web channel security with Copilot Studio | Getting Started With Power Shorts](https://www.youtube.com/watch?v=zbeQODmf4rc)
 - [Build prompt actions for your copilot](https://www.youtube.com/watch?v=AVttCtUJhfQ)
 - [Deploy the Copilot Studio app | Power Platform Shorts](https://www.youtube.com/watch?v=jYKenDH6XSg)
 - [Community Fibre reduce business process handling times by 85% using Power Automate](https://www.youtube.com/watch?v=9ZZb01b18WQ)
 - [How to check if a variable is numeric | Getting Started With Power Shorts](https://www.youtube.com/watch?v=2yvww3oob9g)
-- [Add knowledge to your copilots](https://www.youtube.com/watch?v=DKd5sb-iikE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
