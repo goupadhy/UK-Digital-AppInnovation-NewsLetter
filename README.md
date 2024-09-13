@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Get Skilled on GitHub Advanced Security](https://www.youtube.com/watch?v=F--0bo3TV4w)
 - [How many Copilot scenarios are there?](https://www.youtube.com/watch?v=OwMgYIh8h8c)
 - [Dynamic Data Masking in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=NiAg0sGsGtw)
 - [Can we use FAISS with Azure DB today?](https://www.youtube.com/watch?v=LkeGWbJwWBY)
 - [Can we use FAISS with Azure DB today?](https://www.youtube.com/watch?v=4vZ5nC5vcjs)
-- [Introduction to Gepsio, a XBRL for .NET](https://www.youtube.com/watch?v=DywUBF7X2BY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
