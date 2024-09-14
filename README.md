@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The City of Everett serves its community with municipal innovation by adopting Power Platform](https://www.youtube.com/watch?v=YWgD1HIa_S0)
 - [Work and Automate Simultaneously with Picture-in-Picture in Power Automate](https://www.youtube.com/watch?v=K05O8-v_00g)
 - [Enable or disable web channel security with Copilot Studio | Getting Started With Power Shorts](https://www.youtube.com/watch?v=zbeQODmf4rc)
 - [Build prompt actions for your copilot](https://www.youtube.com/watch?v=AVttCtUJhfQ)
 - [Deploy the Copilot Studio app | Power Platform Shorts](https://www.youtube.com/watch?v=jYKenDH6XSg)
-- [Community Fibre reduce business process handling times by 85% using Power Automate](https://www.youtube.com/watch?v=9ZZb01b18WQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
