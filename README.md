@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [This Month in Copilot Studio: September Updates and Announcements](https://www.youtube.com/watch?v=rZS9kfDJRt8)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Low Code Multi-agents, with Jingya Chen](https://www.youtube.com/watch?v=IWNDFwG4LD0)
 - [Portainer + Azure ACI, the simplest way to run Containers](https://www.youtube.com/watch?v=CuCbc0dqxXE)
 - [Looking Ahead: GenAI is a Journey](https://www.youtube.com/watch?v=P2HffFbabUw)
 - [What was the unusual cause of a network outage?](https://www.youtube.com/watch?v=KAwoW6Buwdg)
-- [Get Skilled on GitHub Advanced Security](https://www.youtube.com/watch?v=F--0bo3TV4w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
