@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - Low Code Multi-agents, with Jingya Chen](https://www.youtube.com/watch?v=IWNDFwG4LD0)
+- [Portainer + Azure ACI, the simplest way to run Containers](https://www.youtube.com/watch?v=CuCbc0dqxXE)
 - [Looking Ahead: GenAI is a Journey](https://www.youtube.com/watch?v=P2HffFbabUw)
 - [What was the unusual cause of a network outage?](https://www.youtube.com/watch?v=KAwoW6Buwdg)
 - [Get Skilled on GitHub Advanced Security](https://www.youtube.com/watch?v=F--0bo3TV4w)
-- [How many Copilot scenarios are there?](https://www.youtube.com/watch?v=OwMgYIh8h8c)
-- [Dynamic Data Masking in Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=NiAg0sGsGtw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
