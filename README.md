@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Enhancing Developer Productivity with Microsoft Fabric | Data Exposed: Super Users Edition](https://www.youtube.com/watch?v=hWvhZaOqqzU)
 - [Introduction to Zero Trust](https://www.youtube.com/watch?v=Vqd0rFZlU68)
 - [How does the current Azure SQL Database free offering differ from the previous offer?](https://www.youtube.com/watch?v=DjoDcdYwlc0)
 - [How does the current Azure SQL Database free offering differ from the previous offer?](https://www.youtube.com/watch?v=t9cF_RXCCwc)
 - [This Month in Copilot Studio: September Updates and Announcements](https://www.youtube.com/watch?v=rZS9kfDJRt8)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Low Code Multi-agents, with Jingya Chen](https://www.youtube.com/watch?v=IWNDFwG4LD0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
