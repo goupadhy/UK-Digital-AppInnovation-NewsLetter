@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Try out OpenAI o1 in GitHub Copilot and Models](https://github.blog/news-insights/product-news/try-out-openai-o1-in-github-copilot-and-models/)
 - [The 10 best tools to green your software](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/)
 - [Software as a public good](https://github.blog/open-source/social-impact/software-as-a-public-good/)
 - [Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/)
 - [First Look: Exploring OpenAI o1 in GitHub Copilot](https://github.blog/news-insights/product-news/openai-o1-in-github-copilot/)
-- [GitHub Availability Report: August 2024](https://github.blog/news-insights/company-news/github-availability-report-august-2024/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
