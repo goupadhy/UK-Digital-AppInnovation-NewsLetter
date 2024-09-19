@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What do you use Copilot for?](https://www.youtube.com/watch?v=Vmauy4vBehU)
+- [What do you use Copilot for?](https://www.youtube.com/watch?v=Z0abk6-BFUs)
 - [Enhancing Developer Productivity with Microsoft Fabric | Data Exposed: Super Users Edition](https://www.youtube.com/watch?v=hWvhZaOqqzU)
 - [Introduction to Zero Trust](https://www.youtube.com/watch?v=Vqd0rFZlU68)
 - [How does the current Azure SQL Database free offering differ from the previous offer?](https://www.youtube.com/watch?v=DjoDcdYwlc0)
-- [How does the current Azure SQL Database free offering differ from the previous offer?](https://www.youtube.com/watch?v=t9cF_RXCCwc)
-- [This Month in Copilot Studio: September Updates and Announcements](https://www.youtube.com/watch?v=rZS9kfDJRt8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
