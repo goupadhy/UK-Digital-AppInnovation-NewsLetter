@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [User authentication for plugin actions](https://www.youtube.com/watch?v=atwrXTgJvCk)
 - [Configure question behavior | Getting Started With Power Shorts](https://www.youtube.com/watch?v=cRAXiXhxNEY)
 - [Add actions to Copilot using connectors](https://www.youtube.com/watch?v=FasyKQMsFmI)
 - [Configure voice capabilities | Power Platform Shorts](https://www.youtube.com/watch?v=wHblgqEUL1A)
 - [The City of Everett serves its community with municipal innovation by adopting Power Platform](https://www.youtube.com/watch?v=YWgD1HIa_S0)
-- [Work and Automate Simultaneously with Picture-in-Picture in Power Automate](https://www.youtube.com/watch?v=K05O8-v_00g)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
