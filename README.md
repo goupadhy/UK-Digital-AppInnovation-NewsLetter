@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create an automated low-code plug-in with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=hwqVochKJJA)
 - [Standard Bank of South Africa expands use of Power Platform to enterprise applications](https://www.youtube.com/watch?v=CdxKDaNjLgE)
 - [User authentication for plugin actions](https://www.youtube.com/watch?v=atwrXTgJvCk)
 - [Configure question behavior | Getting Started With Power Shorts](https://www.youtube.com/watch?v=cRAXiXhxNEY)
 - [Add actions to Copilot using connectors](https://www.youtube.com/watch?v=FasyKQMsFmI)
-- [Configure voice capabilities | Power Platform Shorts](https://www.youtube.com/watch?v=wHblgqEUL1A)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
