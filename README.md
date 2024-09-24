@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Implementing RAG with SQL Database Vector Search and Semantic Kernel | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Xjj02G8QlUE)
 - [What do you use Copilot for?](https://www.youtube.com/watch?v=Vmauy4vBehU)
 - [What do you use Copilot for?](https://www.youtube.com/watch?v=Z0abk6-BFUs)
 - [Enhancing Developer Productivity with Microsoft Fabric | Data Exposed: Super Users Edition](https://www.youtube.com/watch?v=hWvhZaOqqzU)
 - [Introduction to Zero Trust](https://www.youtube.com/watch?v=Vqd0rFZlU68)
-- [How does the current Azure SQL Database free offering differ from the previous offer?](https://www.youtube.com/watch?v=DjoDcdYwlc0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
