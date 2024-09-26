@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Up Program empowers learning](https://www.youtube.com/watch?v=eSXRTFSvIzU)
+- [Microsoft Business Applications Launch Event - October 2024](https://www.youtube.com/watch?v=Neo-VTHA0t0)
 - [Create an instant low-code plug-in with Power Apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=2Bj57PiUr0E)
 - [User authentication for plugin actions](https://www.youtube.com/watch?v=atwrXTgJvCk)
 - [Create an automated low-code plug-in with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=hwqVochKJJA)
-- [Standard Bank of South Africa expands use of Power Platform to enterprise applications](https://www.youtube.com/watch?v=CdxKDaNjLgE)
-- [Configure question behavior | Getting Started With Power Shorts](https://www.youtube.com/watch?v=cRAXiXhxNEY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
