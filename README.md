@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Server Audit Redesign for Azure SQL Database  | Data Exposed](https://www.youtube.com/watch?v=ihcOlEhNjRs)
+- [What are some web accessibility hacks for devs?](https://www.youtube.com/watch?v=w4TWMMNpZL4)
+- [What are some web accessibility hacks for devs?](https://www.youtube.com/watch?v=9x60FPXRRfA)
 - [Data API Builder was just released into GA. What is that exactly?](https://www.youtube.com/watch?v=2yNSMC-Lv3c)
 - [Data API Builder was just released into GA. What is that exactly?](https://www.youtube.com/watch?v=NWLLSqY2KQ4)
-- [Implementing RAG with SQL Database Vector Search and Semantic Kernel | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Xjj02G8QlUE)
-- [What do you use Copilot for?](https://www.youtube.com/watch?v=Vmauy4vBehU)
-- [What do you use Copilot for?](https://www.youtube.com/watch?v=Z0abk6-BFUs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
