@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Evergy saves over 120,000 hours per year with Power Platform](https://www.youtube.com/watch?v=F8UGiMJvtCk)
 - [Power Up Program empowers learning](https://www.youtube.com/watch?v=eSXRTFSvIzU)
 - [Microsoft Business Applications Launch Event - October 2024](https://www.youtube.com/watch?v=Neo-VTHA0t0)
 - [Create an instant low-code plug-in with Power Apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=2Bj57PiUr0E)
 - [User authentication for plugin actions](https://www.youtube.com/watch?v=atwrXTgJvCk)
-- [Create an automated low-code plug-in with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=hwqVochKJJA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
