@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What is go-sqlcmd?](https://www.youtube.com/watch?v=f0QatIu5V7Q)
+- [What is go-sqlcmd?](https://www.youtube.com/watch?v=4CPdFs74Pkg)
 - [Transforming Blazor Applications into 2D Games with Blazorex](https://www.youtube.com/watch?v=Og3RJeMRwq4)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI Avatars, with Cenyu Zhang](https://www.youtube.com/watch?v=QcR1irMyjV0)
 - [Data As a Corporate Asset—the GenAI-era Take &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=I0nlGoQC0js)
-- [Server Audit Redesign for Azure SQL Database  | Data Exposed](https://www.youtube.com/watch?v=ihcOlEhNjRs)
-- [What are some web accessibility hacks for devs?](https://www.youtube.com/watch?v=w4TWMMNpZL4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
