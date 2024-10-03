@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Manage sensitive input like passwords with Power Automate | Getting Started With Power Shorts](https://www.youtube.com/watch?v=HyLeQrmK1H0)
 - [Power Apps Pulse September 2024](https://www.youtube.com/watch?v=k9LrwPSIHZA)
 - [Author Topics using Natural Language](https://www.youtube.com/watch?v=swGwm_3B8xw)
 - [Use copilot to analyze desktop flow activity in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=so49fnAhs3A)
 - [Evergy saves over 120,000 hours per year with Power Platform](https://www.youtube.com/watch?v=F8UGiMJvtCk)
-- [Power Up Program empowers learning](https://www.youtube.com/watch?v=eSXRTFSvIzU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
