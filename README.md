@@ -26,10 +26,10 @@ We hope that these resources will help you innovate and address the real-world n
  
 <!-- YOUTUBECNA:START -->
 - [What&#39;s your favorite use case for Microsoft Copilot?](https://www.youtube.com/watch?v=qlK0HhLVtek)
-- [SQL Server Settings Configuration Showdown | Data Exposed Exclusive](https://www.youtube.com/watch?v=p_ntGni4KH4)
 - [Implementing Zero Trust with Azure Landing Zones](https://www.youtube.com/watch?v=sZlbmqxA6TQ)
 - [What is go-sqlcmd?](https://www.youtube.com/watch?v=f0QatIu5V7Q)
 - [What is go-sqlcmd?](https://www.youtube.com/watch?v=4CPdFs74Pkg)
+- [Transforming Blazor Applications into 2D Games with Blazorex](https://www.youtube.com/watch?v=Og3RJeMRwq4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
