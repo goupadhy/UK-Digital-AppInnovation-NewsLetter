@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [How to coordinate multi-agency disaster response with Microsoft 365 Copilot](https://www.youtube.com/watch?v=4DY4Gt35SSw)
 - [Innovations from Climatetech Startups with Donnel Baird, Founder of BlocPower](https://www.youtube.com/watch?v=P7aRekkVFTA)
 - [AI Luminaries | H&amp;R Block reimagines the tax experience with Microsoft generative AI](https://www.youtube.com/watch?v=Qc9bIoOc1Ps)
 - [Explore Microsoft&#39;s Connected Fleets reference architecture](https://www.youtube.com/watch?v=EdVX9IEk2DI)
 - [AI Luminaries | How Lumen embraces AI for human-powered disruption](https://www.youtube.com/watch?v=AHCH4eVZrp8)
-- [Migrate and secure your Windows Server, SQL and Linux estate with the Microsoft Cloud](https://www.youtube.com/watch?v=3cs5WTB1cHQ)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
