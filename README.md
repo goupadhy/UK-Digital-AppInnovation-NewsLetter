@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Deploy Faster with Azure Verified Modules](https://www.youtube.com/watch?v=Qp8E-z5BdO0)
 - [What is the &#39;Brisket problem&#39;?](https://www.youtube.com/watch?v=GM6u_QOmSOE)
 - [Tabs or Spaces?](https://www.youtube.com/watch?v=iqhJev33Qno)
 - [What&#39;s your favorite use case for Microsoft Copilot?](https://www.youtube.com/watch?v=qlK0HhLVtek)
 - [Implementing Zero Trust with Azure Landing Zones](https://www.youtube.com/watch?v=sZlbmqxA6TQ)
-- [What is go-sqlcmd?](https://www.youtube.com/watch?v=f0QatIu5V7Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
