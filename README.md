@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create desktop flows using the AI Recorder | Power Platform Shorts](https://www.youtube.com/watch?v=rkbzxIy05X4)
 - [Extend topics using Cloud Flows](https://www.youtube.com/watch?v=xhy1EGtQJlU)
 - [Signetic help to transform your pharmacy with Power Platform](https://www.youtube.com/watch?v=QN04oh9DZ3E)
 - [Lerøy Seafood Group uses Power Platform to improve reporting and reduce costs by millions of dollars](https://www.youtube.com/watch?v=fCtoA1TNfdo)
 - [Manage sensitive input like passwords with Power Automate | Getting Started With Power Shorts](https://www.youtube.com/watch?v=HyLeQrmK1H0)
-- [Power Apps Pulse September 2024](https://www.youtube.com/watch?v=k9LrwPSIHZA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
