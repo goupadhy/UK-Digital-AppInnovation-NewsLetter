@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s your favorite use case for Microsoft Copilot?](https://www.youtube.com/watch?v=lTiPHULVLDM)
+- [What’s your favorite use case for Copilot?](https://www.youtube.com/watch?v=_Nt4db_Yz1w)
 - [Introducing the SDK-style SQL projects in Visual Studio | Data Exposed](https://www.youtube.com/watch?v=z8or_71GUf4)
 - [Are they any cost optimization techniques for enabling disaster recovery &lpar;DR&rpar; in SQL DB.mp4](https://www.youtube.com/watch?v=x5zUCgHrMZ0)
 - [Are they any cost optimization techniques for enabling disaster recovery &lpar;DR&rpar; in SQL DB](https://www.youtube.com/watch?v=ZLy8_6HCb8Y)
-- [Deploy Faster with Azure Verified Modules](https://www.youtube.com/watch?v=Qp8E-z5BdO0)
-- [What is the &#39;Brisket problem&#39;?](https://www.youtube.com/watch?v=GM6u_QOmSOE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
