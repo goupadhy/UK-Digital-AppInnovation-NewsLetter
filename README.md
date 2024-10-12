@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Call2Recycle expands battery recycling programs using Dynamics 365 and Power Platform](https://www.youtube.com/watch?v=XBRZK-7DE7U)
 - [Create a cloud flow to view Dataverse long term retained data | Getting Started With Power Shorts](https://www.youtube.com/watch?v=4f1Ebu2vbWE)
 - [Create desktop flows using the AI Recorder | Power Platform Shorts](https://www.youtube.com/watch?v=rkbzxIy05X4)
 - [Extend topics using Cloud Flows](https://www.youtube.com/watch?v=xhy1EGtQJlU)
 - [Signetic help to transform your pharmacy with Power Platform](https://www.youtube.com/watch?v=QN04oh9DZ3E)
-- [Lerøy Seafood Group uses Power Platform to improve reporting and reduce costs by millions of dollars](https://www.youtube.com/watch?v=fCtoA1TNfdo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
