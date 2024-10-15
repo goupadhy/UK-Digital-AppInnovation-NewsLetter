@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Mr. Maeda&#39;s Cozy AI Kitchen - The Book of AI, with Rob Chambers](https://www.youtube.com/watch?v=YPzf9soAyjQ)
-- [Data As a Corporate Asset—the GenAI-era Take &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=LcbK5lNluIo)
-- [What&#39;s your favorite use case for Microsoft Copilot?](https://www.youtube.com/watch?v=lTiPHULVLDM)
-- [What’s your favorite use case for Copilot?](https://www.youtube.com/watch?v=_Nt4db_Yz1w)
-- [Introducing the SDK-style SQL projects in Visual Studio | Data Exposed](https://www.youtube.com/watch?v=z8or_71GUf4)
+- [Generative AI with JavaScript - Introduction](https://www.youtube.com/watch?v=vLYtDgs_zx8)
+- [Improve AI accuracy and reliability with RAG [Pt 3]](https://www.youtube.com/watch?v=xkFOmx5yxIA)
+- [Essential prompt engineering techniques [Pt 2]](https://www.youtube.com/watch?v=gQ6TlyxBmWs)
+- [Streaming Generative AI output with the AI Chat Protocol [Pt 10]](https://www.youtube.com/watch?v=fzDCW-6hMtU)
+- [Run AI models on your local machine with Ollama [Pt 5]](https://www.youtube.com/watch?v=dLfNnoPv4AQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
