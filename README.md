@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Data As a Corporate Asset—the GenAI-era Take &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=LcbK5lNluIo)
 - [What&#39;s your favorite use case for Microsoft Copilot?](https://www.youtube.com/watch?v=lTiPHULVLDM)
 - [What’s your favorite use case for Copilot?](https://www.youtube.com/watch?v=_Nt4db_Yz1w)
 - [Introducing the SDK-style SQL projects in Visual Studio | Data Exposed](https://www.youtube.com/watch?v=z8or_71GUf4)
 - [Are they any cost optimization techniques for enabling disaster recovery &lpar;DR&rpar; in SQL DB.mp4](https://www.youtube.com/watch?v=x5zUCgHrMZ0)
-- [Are they any cost optimization techniques for enabling disaster recovery &lpar;DR&rpar; in SQL DB](https://www.youtube.com/watch?v=ZLy8_6HCb8Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
