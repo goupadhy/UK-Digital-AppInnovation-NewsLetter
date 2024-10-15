@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Generative AI with JavaScript - Introduction](https://www.youtube.com/watch?v=vLYtDgs_zx8)
 - [Improve AI accuracy and reliability with RAG [Pt 3]](https://www.youtube.com/watch?v=xkFOmx5yxIA)
 - [Essential prompt engineering techniques [Pt 2]](https://www.youtube.com/watch?v=gQ6TlyxBmWs)
 - [Streaming Generative AI output with the AI Chat Protocol [Pt 10]](https://www.youtube.com/watch?v=fzDCW-6hMtU)
 - [Run AI models on your local machine with Ollama [Pt 5]](https://www.youtube.com/watch?v=dLfNnoPv4AQ)
+- [Azure tools &amp; services for hosting and storing AI apps [Pt 9]](https://www.youtube.com/watch?v=WB6Fpzhwyug)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
