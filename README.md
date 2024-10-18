@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Copilot for Azure SQL Fall 2024 Update | Data Exposed](https://www.youtube.com/watch?v=QvTd_VDJhoA)
 - [Data As a Corporate Asset—the GenAI-era Take &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=Vlj2hey_zVY)
 - [Generative AI with JavaScript - Introduction](https://www.youtube.com/watch?v=vLYtDgs_zx8)
 - [Improve AI accuracy and reliability with RAG [Pt 3]](https://www.youtube.com/watch?v=xkFOmx5yxIA)
 - [Essential prompt engineering techniques [Pt 2]](https://www.youtube.com/watch?v=gQ6TlyxBmWs)
+- [Streaming Generative AI output with the AI Chat Protocol [Pt 10]](https://www.youtube.com/watch?v=fzDCW-6hMtU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
