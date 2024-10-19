@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Nsure.com reduces manual processing time by 60% using generative AI and Power Automate](https://www.youtube.com/watch?v=I0ykNx4XLE8)
 - [Create formula columns with decimal | Getting Started With Power Shorts](https://www.youtube.com/watch?v=NmpPG0_sPX0)
 - [Building Adaptive Cards with Power FX](https://www.youtube.com/watch?v=Pa-aFBYODSo)
 - [Set managed properties for columns with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=nKlRG5tHW2M)
 - [Call2Recycle expands battery recycling programs using Dynamics 365 and Power Platform](https://www.youtube.com/watch?v=XBRZK-7DE7U)
-- [Create a cloud flow to view Dataverse long term retained data | Getting Started With Power Shorts](https://www.youtube.com/watch?v=4f1Ebu2vbWE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
