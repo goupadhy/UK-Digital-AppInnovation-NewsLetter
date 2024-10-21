@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Configuring rich responses](https://www.youtube.com/watch?v=so2TLye0cUo)
 - [Embed a model-driven app in Microsoft Teams | Power Platform Shorts](https://www.youtube.com/watch?v=vRzJAN5P4X8)
 - [Nsure.com reduces manual processing time by 60% using generative AI and Power Automate](https://www.youtube.com/watch?v=I0ykNx4XLE8)
 - [Create formula columns with decimal | Getting Started With Power Shorts](https://www.youtube.com/watch?v=NmpPG0_sPX0)
 - [Building Adaptive Cards with Power FX](https://www.youtube.com/watch?v=Pa-aFBYODSo)
-- [Set managed properties for columns with Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=nKlRG5tHW2M)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
