@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Securing the open source supply chain: The essential role of CVEs](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-the-essential-role-of-cves/)
 - [GitHub for Nonprofits: Drive social impact one commit at a time](https://github.blog/news-insights/product-news/github-for-nonprofits-drive-social-impact-one-commit-at-a-time/)
 - [Career growth, learning, and fun, oh my! Your guide to GitHub Universe 2024](https://github.blog/news-insights/company-news/career-growth-learning-and-fun-oh-my-your-guide-to-github-universe-2024/)
 - [GitHub Availability Report: September 2024](https://github.blog/news-insights/company-news/github-availability-report-september-2024/)
 - [5 tips and tricks when using GitHub Copilot Workspace](https://github.blog/ai-and-ml/github-copilot/5-tips-and-tricks-when-using-github-copilot-workspace/)
-- [The second half of software supply chain security on GitHub](https://github.blog/security/supply-chain-security/the-second-half-of-software-supply-chain-security-on-github/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
