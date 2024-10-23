@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Change screen size and orientation of canvas apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=dsow8q4LzA8)
 - [2024 Power Platform Community Conference Recap](https://www.youtube.com/watch?v=MdYdPSFtfMk)
 - [PPCC24 Keynote Panel - Day Three](https://www.youtube.com/watch?v=j_TLQFUKNRg)
 - [PPCC24 Keynote with Microsoft Fabric and Power BI Vice President of Product - Kim Manis](https://www.youtube.com/watch?v=RPYbaarti7U)
 - [PPCC24 Keynote with Microsoft Business and Industry Copilots CVP - Charles Lamanna](https://www.youtube.com/watch?v=R7tNtLxQaSY)
-- [PPCC24 Keynote with Microsoft 365 Collaborative Apps and Platforms President - Jeff Teper](https://www.youtube.com/watch?v=AeOVJ5jRBZo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
