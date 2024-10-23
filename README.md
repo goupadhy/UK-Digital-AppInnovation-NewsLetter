@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Enhancing data management with SLB enterprise data solutions](https://www.youtube.com/watch?v=Z-SF42l7y0Y)
 - [Create connected experiences at every point of care with Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=3wDM4RbEMgA)
 - [Unify your intelligent data and analytics platform with Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=IvFHwhCAjzs)
 - [Microsoft and Rezolve AI partner to drive global retail innovation with AI](https://www.youtube.com/watch?v=bos5HLw2jlk)
 - [Burns &amp; McDonnell leveraged Microsoft Azure to manage, store, and secure data](https://www.youtube.com/watch?v=Hmy0CAvKi28)
-- [How to coordinate multi-agency disaster response with Microsoft 365 Copilot](https://www.youtube.com/watch?v=4DY4Gt35SSw)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
