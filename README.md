@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Database performance and scalability with Azure SQL Database Hyperscale elastic pools | Data Exposed](https://www.youtube.com/watch?v=Zhj_EiUEaFk)
+- [How can Copilot help me make my software more accessible?](https://www.youtube.com/watch?v=ECl1bBh6Bdo)
+- [How can Copilot help me make my software more accessible?](https://www.youtube.com/watch?v=vHERV9H5Vyo)
 - [What&#39;s your favorite use case for Copilot?](https://www.youtube.com/watch?v=UMwGTuSmMlA)
 - [What&#39;s your favorite use case for Copilot?](https://www.youtube.com/watch?v=YqzhEBkx7XU)
-- [Boost your local development with Dev Container templates for Azure SQL](https://www.youtube.com/watch?v=hSllXf9EMfc)
-- [Boost your local development with Dev Container templates for Azure SQL](https://www.youtube.com/watch?v=0qyjbOPeKP4)
-- [Data As a Corporate Asset—the GenAI-era Take &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=Vlj2hey_zVY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
