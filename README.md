@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What languages are supported by Copilot?](https://www.youtube.com/watch?v=aGm4q_D1ZIo)
+- [What languages are supported by Copilot?](https://www.youtube.com/watch?v=V8127Bjt2_A)
 - [Database performance and scalability with Azure SQL Database Hyperscale elastic pools | Data Exposed](https://www.youtube.com/watch?v=Zhj_EiUEaFk)
 - [How can Copilot help me make my software more accessible?](https://www.youtube.com/watch?v=ECl1bBh6Bdo)
 - [How can Copilot help me make my software more accessible?](https://www.youtube.com/watch?v=vHERV9H5Vyo)
-- [What&#39;s your favorite use case for Copilot?](https://www.youtube.com/watch?v=UMwGTuSmMlA)
-- [What&#39;s your favorite use case for Copilot?](https://www.youtube.com/watch?v=YqzhEBkx7XU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
