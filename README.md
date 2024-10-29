@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Bringing developer choice to Copilot with Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/)
+- [Octoverse: AI leads Python to top language as the number of global developers surges](https://github.blog/news-insights/octoverse/octoverse-2024/)
 - [Attacking browser extensions](https://github.blog/security/vulnerability-research/attacking-browser-extensions/)
 - [Cybersecurity spotlight on bug bounty researcher @adrianoapj](https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-adrianoapj/)
 - [Diversity, inclusion, and belonging at GitHub in 2024](https://github.blog/news-insights/company-news/diversity-inclusion-and-belonging-at-github-in-2024/)
-- [Securing the open source supply chain: The essential role of CVEs](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-the-essential-role-of-cves/)
-- [GitHub for Nonprofits: Drive social impact one commit at a time](https://github.blog/news-insights/product-news/github-for-nonprofits-drive-social-impact-one-commit-at-a-time/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
