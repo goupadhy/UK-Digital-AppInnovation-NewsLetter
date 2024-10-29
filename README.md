@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Data Engineering in Fabric using Copilot | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MaehobyW8G4)
 - [Use Copilots To Put Esoteric Tools to Work](https://www.youtube.com/watch?v=Pl14zbblr9s)
 - [Azure Essentials: Improve the reliability, security, and performance of cloud and AI investments](https://www.youtube.com/watch?v=shHLGtDr9bg)
 - [What languages are supported by Copilot?](https://www.youtube.com/watch?v=aGm4q_D1ZIo)
 - [What languages are supported by Copilot?](https://www.youtube.com/watch?v=V8127Bjt2_A)
-- [Database performance and scalability with Azure SQL Database Hyperscale elastic pools | Data Exposed](https://www.youtube.com/watch?v=Zhj_EiUEaFk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
