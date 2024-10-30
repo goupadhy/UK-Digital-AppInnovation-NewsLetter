@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Mr. Maeda&#39;s Cozy AI Kitchen - AI Coaching the Coach, with Pat Cavanaugh](https://www.youtube.com/watch?v=eyTfBJKl9lg)
-- [Data Engineering in Fabric using Copilot | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=MaehobyW8G4)
-- [Use Copilots To Put Esoteric Tools to Work](https://www.youtube.com/watch?v=Pl14zbblr9s)
-- [Azure Essentials: Improve the reliability, security, and performance of cloud and AI investments](https://www.youtube.com/watch?v=shHLGtDr9bg)
-- [What languages are supported by Copilot?](https://www.youtube.com/watch?v=aGm4q_D1ZIo)
+- [GitHub Copilot for Azure: Planning a Migration to Azure](https://www.youtube.com/watch?v=oMuBtlU5BcA)
+- [GitHub Copilot for Azure: Understanding and Managing Your Models in Azure AI](https://www.youtube.com/watch?v=j-yhG0y9ei4)
+- [GitHub Copilot for Azure: Deploying to Azure With Context](https://www.youtube.com/watch?v=Wp336cdzE4Y)
+- [GitHub Copilot for Azure: Exploring Your Azure Resources](https://www.youtube.com/watch?v=tRArkUyTuHU)
+- [GitHub Copilot for Azure: Deploying to Azure Kubernetes Service](https://www.youtube.com/watch?v=SCUAdAxS8ZY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
