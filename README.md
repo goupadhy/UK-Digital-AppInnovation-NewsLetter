@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Add OAuth authentication for HTTP request triggers | Getting Started With Power Shorts](https://www.youtube.com/watch?v=USzJtkkHSD0)
 - [Convert a time zone with Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=ssq7h8kFhJs)
 - [Edit your copilot with code editor](https://www.youtube.com/watch?v=y_2L884NuQc)
 - [Cineplex saves 30,000 hours a year with Power Platform and generative AI](https://www.youtube.com/watch?v=aQJ-SwBeyL8)
 - [Change screen size and orientation of canvas apps | Getting Started With Power Shorts](https://www.youtube.com/watch?v=dsow8q4LzA8)
-- [2024 Power Platform Community Conference Recap](https://www.youtube.com/watch?v=MdYdPSFtfMk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
