@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [“How does Copilot for Azure SQL work?” and more of your questions answered! | Data Exposed](https://www.youtube.com/watch?v=3RqhefWEbgo)
 - [GitHub Copilot for Azure: Planning a Migration to Azure](https://www.youtube.com/watch?v=oMuBtlU5BcA)
 - [GitHub Copilot for Azure: Understanding and Managing Your Models in Azure AI](https://www.youtube.com/watch?v=j-yhG0y9ei4)
 - [GitHub Copilot for Azure: Deploying to Azure With Context](https://www.youtube.com/watch?v=Wp336cdzE4Y)
 - [GitHub Copilot for Azure: Exploring Your Azure Resources](https://www.youtube.com/watch?v=tRArkUyTuHU)
-- [GitHub Copilot for Azure: Deploying to Azure Kubernetes Service](https://www.youtube.com/watch?v=SCUAdAxS8ZY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
