@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Pass variables between Topics for your agents built in Microsoft Copilot Studio](https://www.youtube.com/watch?v=rcd1-CUlV_Y)
 - [Power Apps Pulse October 2024](https://www.youtube.com/watch?v=2GpSNTD255g)
 - [Add OAuth authentication for HTTP request triggers | Getting Started With Power Shorts](https://www.youtube.com/watch?v=USzJtkkHSD0)
 - [Convert a time zone with Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=ssq7h8kFhJs)
 - [Edit your copilot with code editor](https://www.youtube.com/watch?v=y_2L884NuQc)
-- [Cineplex saves 30,000 hours a year with Power Platform and generative AI](https://www.youtube.com/watch?v=aQJ-SwBeyL8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
