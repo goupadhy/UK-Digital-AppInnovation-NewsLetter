@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Explore Microsoft Solution for Hybrid Courts](https://www.youtube.com/watch?v=ZAXgl0HXyok)
 - [Innovations from Climatetech Startups with Sandhya Murali, Co-Founder and CEO of Solstice](https://www.youtube.com/watch?v=_nqADWg4N8w)
 - [AI on the Go: Smart City Expo World Congress 2024](https://www.youtube.com/watch?v=5X4wekVY24Y)
 - [Foster Health team collaboration with Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=I3xL_A10JAI)
 - [Enhancing data management with SLB enterprise data solutions](https://www.youtube.com/watch?v=Z-SF42l7y0Y)
-- [Create connected experiences at every point of care with Microsoft Cloud for Healthcare](https://www.youtube.com/watch?v=3wDM4RbEMgA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
