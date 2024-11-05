@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Automated Deployment from AKS VsCode Extension](https://www.youtube.com/watch?v=h3mbOFbZDJI)
 - [Deploy OpenAI Services at Scale Using Provision Throughput Units](https://www.youtube.com/watch?v=XLXHEPqnwUM)
 - [Streamline agreement workflows with Docusign](https://www.youtube.com/watch?v=gGFoEhKrRs0)
 - [How did you get started writing books for Windows and .NET?](https://www.youtube.com/watch?v=MnICLnmQ0uo)
 - [“How does Copilot for Azure SQL work?” and more of your questions answered! | Data Exposed](https://www.youtube.com/watch?v=3RqhefWEbgo)
-- [GitHub Copilot for Azure: Planning a Migration to Azure](https://www.youtube.com/watch?v=oMuBtlU5BcA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
