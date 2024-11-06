@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What’s New in SQL Server &amp; Azure SQL | Data Exposed Live @ PASS Summit 2024](https://www.youtube.com/watch?v=8g-FN2_RcM4)
 - [Microsoft 365 Copilot: Developer Camp](https://www.youtube.com/watch?v=f5vwy-2BXlc)
 - [Automated Deployment from AKS VsCode Extension](https://www.youtube.com/watch?v=h3mbOFbZDJI)
 - [Deploy OpenAI Services at Scale Using Provision Throughput Units](https://www.youtube.com/watch?v=XLXHEPqnwUM)
 - [Streamline agreement workflows with Docusign](https://www.youtube.com/watch?v=gGFoEhKrRs0)
-- [How did you get started writing books for Windows and .NET?](https://www.youtube.com/watch?v=MnICLnmQ0uo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
