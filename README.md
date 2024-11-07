@@ -46,9 +46,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEPOWER:START -->
 - [Handling Event Driven Triggers](https://www.youtube.com/watch?v=RNrvMG0lGa0)
 - [Microsoft modernizes its datacenter leasing cycle with Power Platform](https://www.youtube.com/watch?v=FM345kOmF7Y)
+- [Pass variables between Topics for your agents built in Microsoft Copilot Studio](https://www.youtube.com/watch?v=rcd1-CUlV_Y)
 - [Power Apps Pulse October 2024](https://www.youtube.com/watch?v=2GpSNTD255g)
 - [Add OAuth authentication for HTTP request triggers | Getting Started With Power Shorts](https://www.youtube.com/watch?v=USzJtkkHSD0)
-- [Convert a time zone with Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=ssq7h8kFhJs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
