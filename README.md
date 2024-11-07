@@ -25,8 +25,8 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [What’s New in SQL Server &amp; Azure SQL | Data Exposed Live @ PASS Summit 2024](https://www.youtube.com/watch?v=8g-FN2_RcM4)
 - [Microsoft 365 Copilot: Developer Camp](https://www.youtube.com/watch?v=f5vwy-2BXlc)
+- [What’s New in SQL Server &amp; Azure SQL | Data Exposed Live @ PASS Summit 2024](https://www.youtube.com/watch?v=8g-FN2_RcM4)
 - [Automated Deployment from AKS VsCode Extension](https://www.youtube.com/watch?v=h3mbOFbZDJI)
 - [Deploy OpenAI Services at Scale Using Provision Throughput Units](https://www.youtube.com/watch?v=XLXHEPqnwUM)
 - [Streamline agreement workflows with Docusign](https://www.youtube.com/watch?v=gGFoEhKrRs0)
