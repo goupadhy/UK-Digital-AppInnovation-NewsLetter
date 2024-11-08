@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Microsoft 365 Copilot: Developer Camp](https://www.youtube.com/watch?v=f5vwy-2BXlc)
-- [What’s New in SQL Server &amp; Azure SQL | Data Exposed Live @ PASS Summit 2024](https://www.youtube.com/watch?v=8g-FN2_RcM4)
-- [Automated Deployment from AKS VsCode Extension](https://www.youtube.com/watch?v=h3mbOFbZDJI)
-- [Deploy OpenAI Services at Scale Using Provision Throughput Units](https://www.youtube.com/watch?v=XLXHEPqnwUM)
-- [Streamline agreement workflows with Docusign](https://www.youtube.com/watch?v=gGFoEhKrRs0)
+- [Panel Interview: A Conversation with the Leaders Behind the Developer Tools](https://www.youtube.com/watch?v=ocyBgi3m9Zo)
+- [Developer&#39;s Guide to Building Copilot Agents](https://www.youtube.com/watch?v=SkpAicAt42U)
+- [Extending Declarative Agents](https://www.youtube.com/watch?v=IXTWvYrdVKU)
+- [Introducing  Declarative Agents](https://www.youtube.com/watch?v=QfgmvoWDDrw)
+- [Interview: The Future of Declarative Agents](https://www.youtube.com/watch?v=f2hITAkh0IQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
