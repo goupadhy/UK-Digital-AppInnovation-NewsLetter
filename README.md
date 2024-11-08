@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Panel Interview: A Conversation with the Leaders Behind the Developer Tools](https://www.youtube.com/watch?v=ocyBgi3m9Zo)
+- [A Conversation with the Leaders Behind the Developer Tools](https://www.youtube.com/watch?v=ocyBgi3m9Zo)
 - [Developer&#39;s Guide to Building Copilot Agents](https://www.youtube.com/watch?v=SkpAicAt42U)
 - [Extending Declarative Agents](https://www.youtube.com/watch?v=IXTWvYrdVKU)
 - [Introducing  Declarative Agents](https://www.youtube.com/watch?v=QfgmvoWDDrw)
-- [Interview: The Future of Declarative Agents](https://www.youtube.com/watch?v=f2hITAkh0IQ)
+- [The Future of Declarative Agents](https://www.youtube.com/watch?v=f2hITAkh0IQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
