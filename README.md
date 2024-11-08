@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What’s the origins of .NET generics?](https://www.youtube.com/watch?v=yuk0lEMwMw4)
 - [Azure SQL Revealed 2nd Edition Book | Data Exposed](https://www.youtube.com/watch?v=vOlD3SVs35g)
 - [A Conversation with the Leaders Behind the Developer Tools](https://www.youtube.com/watch?v=ocyBgi3m9Zo)
 - [Developer&#39;s Guide to Building Copilot Agents](https://www.youtube.com/watch?v=SkpAicAt42U)
 - [Extending Declarative Agents](https://www.youtube.com/watch?v=IXTWvYrdVKU)
-- [Introducing  Declarative Agents](https://www.youtube.com/watch?v=QfgmvoWDDrw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
