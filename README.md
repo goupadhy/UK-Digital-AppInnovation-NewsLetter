@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Essential Azure Skilling and Guidance](https://www.youtube.com/watch?v=MFEzl1VWpdc)
 - [What’s the origins of .NET generics?](https://www.youtube.com/watch?v=yuk0lEMwMw4)
 - [Azure SQL Revealed 2nd Edition Book | Data Exposed](https://www.youtube.com/watch?v=vOlD3SVs35g)
 - [A Conversation with the Leaders Behind the Developer Tools](https://www.youtube.com/watch?v=ocyBgi3m9Zo)
 - [Developer&#39;s Guide to Building Copilot Agents](https://www.youtube.com/watch?v=SkpAicAt42U)
-- [Extending Declarative Agents](https://www.youtube.com/watch?v=IXTWvYrdVKU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
