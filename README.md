@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Manage Copilot with admin center | Power Platform Shorts](https://www.youtube.com/watch?v=N4LZ_dN7h_8)
+- [Pass variables between Topics for your agents built in Microsoft Copilot Studio](https://www.youtube.com/watch?v=wR56W4Ki2LQ)
 - [EY streamlines customer onboarding processes, improves customer service with Power Platform](https://www.youtube.com/watch?v=UPwJzWHWuaw)
 - [Power Up Champs – empowering the next wave of Power Platform makers](https://www.youtube.com/watch?v=fjBXKuIrRmQ)
 - [Handling Event Driven Triggers](https://www.youtube.com/watch?v=RNrvMG0lGa0)
-- [Microsoft modernizes its datacenter leasing cycle with Power Platform](https://www.youtube.com/watch?v=FM345kOmF7Y)
-- [Pass variables between Topics for your agents built in Microsoft Copilot Studio](https://www.youtube.com/watch?v=rcd1-CUlV_Y)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
