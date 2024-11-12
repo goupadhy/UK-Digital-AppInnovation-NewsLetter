@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - Composite AI, with Hiromichi Kobashi](https://www.youtube.com/watch?v=4sKSaXS3irQ)
 - [Master Azure Resiliency, Performance, and Security](https://www.youtube.com/watch?v=vKhZh6qeQn0)
 - [Unlocking Multilingual Accessibility with Co-op Translator: A Case Study on Phi-3 Cookbook](https://www.youtube.com/watch?v=jX_swfH_KNU)
 - [Essential Azure Skilling and Guidance](https://www.youtube.com/watch?v=MFEzl1VWpdc)
 - [What’s the origins of .NET generics?](https://www.youtube.com/watch?v=yuk0lEMwMw4)
-- [Azure SQL Revealed 2nd Edition Book | Data Exposed](https://www.youtube.com/watch?v=vOlD3SVs35g)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
