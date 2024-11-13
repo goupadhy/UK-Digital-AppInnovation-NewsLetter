@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Tell us a story from the era when you got your 5 &lpar;and 3!?!&rpar; year service award](https://www.youtube.com/watch?v=qNYWOdvauKI)
 - [Build Intelligent Apps on Azure](https://www.youtube.com/watch?v=jGf1QBoV7Po)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Composite AI, with Hiromichi Kobashi](https://www.youtube.com/watch?v=4sKSaXS3irQ)
 - [Master Azure Resiliency, Performance, and Security](https://www.youtube.com/watch?v=vKhZh6qeQn0)
 - [Unlocking Multilingual Accessibility with Co-op Translator: A Case Study on Phi-3 Cookbook](https://www.youtube.com/watch?v=jX_swfH_KNU)
-- [Essential Azure Skilling and Guidance](https://www.youtube.com/watch?v=MFEzl1VWpdc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
