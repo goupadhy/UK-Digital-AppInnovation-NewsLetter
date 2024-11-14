@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Tell us a story from the era when you got your 10-year service award](https://www.youtube.com/watch?v=yjVUT8D1C4I)
 - [Next Gen Data Analytics with Microsoft Fabric](https://www.youtube.com/watch?v=VV7X3liimKg)
 - [Tell us a story from the era when you got your 5 &lpar;and 3!?!&rpar; year service award](https://www.youtube.com/watch?v=qNYWOdvauKI)
 - [Build Intelligent Apps on Azure](https://www.youtube.com/watch?v=jGf1QBoV7Po)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Composite AI, with Hiromichi Kobashi](https://www.youtube.com/watch?v=4sKSaXS3irQ)
-- [Master Azure Resiliency, Performance, and Security](https://www.youtube.com/watch?v=vKhZh6qeQn0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
