@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Trustworthy AI: From Principles to Practice](https://www.youtube.com/watch?v=-gFk1XJVA0Y)
 - [Building the ultimate chatbot on your own data with Azure SQL and Semantic | Data Exposed](https://www.youtube.com/watch?v=HAu2APLuj_8)
 - [Tell us a story from the era when you got your 10-year service award](https://www.youtube.com/watch?v=yjVUT8D1C4I)
 - [Next Gen Data Analytics with Microsoft Fabric](https://www.youtube.com/watch?v=VV7X3liimKg)
 - [Tell us a story from the era when you got your 5 &lpar;and 3!?!&rpar; year service award](https://www.youtube.com/watch?v=qNYWOdvauKI)
-- [Build Intelligent Apps on Azure](https://www.youtube.com/watch?v=jGf1QBoV7Po)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
