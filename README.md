@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Tell us a story from the era when you got your 25-year service award](https://www.youtube.com/watch?v=Eib98bOmLeI)
 - [Tell us a story from the era when you got your 20-year service award](https://www.youtube.com/watch?v=5drl0_kmYkk)
 - [Tell us a story from the era when you got your 15-year service award](https://www.youtube.com/watch?v=4_d8-RjqlqQ)
 - [Trustworthy AI: From Principles to Practice](https://www.youtube.com/watch?v=-gFk1XJVA0Y)
 - [Building the ultimate chatbot on your own data with Azure SQL and Semantic | Data Exposed](https://www.youtube.com/watch?v=HAu2APLuj_8)
-- [Tell us a story from the era when you got your 10-year service award](https://www.youtube.com/watch?v=yjVUT8D1C4I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
