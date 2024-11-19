@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Tell us a story from the era when you got your 35-year service award](https://www.youtube.com/watch?v=56uhA82j7Mg)
 - [Tell us a story from the era when you got your 30-year service award](https://www.youtube.com/watch?v=Sq5szua2MLk)
 - [Tell us a story from the era when you got your 25-year service award](https://www.youtube.com/watch?v=Eib98bOmLeI)
 - [Tell us a story from the era when you got your 20-year service award](https://www.youtube.com/watch?v=5drl0_kmYkk)
 - [Tell us a story from the era when you got your 15-year service award](https://www.youtube.com/watch?v=4_d8-RjqlqQ)
-- [Trustworthy AI: From Principles to Practice](https://www.youtube.com/watch?v=-gFk1XJVA0Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
