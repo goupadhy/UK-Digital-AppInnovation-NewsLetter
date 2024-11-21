@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Tell us a bonus story about 18 wheelers and Slurpees](https://www.youtube.com/watch?v=Q0f56pE22FE)
 - [Copilot Dev Camp in Person!](https://www.youtube.com/watch?v=jTE620Zumfc)
 - [Intro - Geo Locator Game](https://www.youtube.com/watch?v=PRVtfbjnDo4)
 - [Doodle break! Summary of custom engine agents](https://www.youtube.com/watch?v=ALw0cBrgQSs)
 - [Doodle break! Summary of declarative agents](https://www.youtube.com/watch?v=ptJoGsNHa80)
-- [Introducing the .NET Aspire Community Toolkit](https://www.youtube.com/watch?v=T5mHDaNWYHM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
