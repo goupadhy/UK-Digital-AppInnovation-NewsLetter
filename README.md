@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Seamless authentication on Power Pages with Microsoft Entra External ID](https://www.youtube.com/watch?v=wagvRLJy40I)
+- [Implement authentication on mobile apps with Native Authentication for Microsoft Entra External ID](https://www.youtube.com/watch?v=hV1FU6ShSxo)
 - [Announcing SQL database in Microsoft Fabric public preview | Data Exposed](https://www.youtube.com/watch?v=uYBIBZDHAeg)
 - [Tell us a bonus story about 18 wheelers and Slurpees](https://www.youtube.com/watch?v=Q0f56pE22FE)
 - [Copilot Dev Camp in Person!](https://www.youtube.com/watch?v=jTE620Zumfc)
-- [Intro - Geo Locator Game](https://www.youtube.com/watch?v=PRVtfbjnDo4)
-- [Doodle break! Summary of custom engine agents](https://www.youtube.com/watch?v=ALw0cBrgQSs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
