@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Degrees of Change expand their career programs using Power Pages and generative AI](https://www.youtube.com/watch?v=deAeui3jBVc)
 - [Accenture encourages a culture of innovation, empowering citizen developers with Power Platform](https://www.youtube.com/watch?v=NDiIpUfI6Tk)
 - [Fill forms faster with smart paste | Getting Started With Power Shorts](https://www.youtube.com/watch?v=UBGzIxUZPPc)
 - [Pass variables between Topics for your agents built in Microsoft Copilot Studio](https://www.youtube.com/watch?v=wR56W4Ki2LQ)
 - [Manage Copilot with admin center | Power Platform Shorts](https://www.youtube.com/watch?v=N4LZ_dN7h_8)
-- [EY streamlines customer onboarding processes, improves customer service with Power Platform](https://www.youtube.com/watch?v=UPwJzWHWuaw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
