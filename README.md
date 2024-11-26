@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - AI Flash Cards with Alvaro Videla Godoy](https://www.youtube.com/watch?v=Ifi2GMrjGUQ)
 - [Use Copilots to Break Process and Discipline Silos &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=n564B1Eaz10)
 - [Tell us a bonus story about breaking the build](https://www.youtube.com/watch?v=EW4xW1FK678)
 - [Seamless authentication on Power Pages with Microsoft Entra External ID](https://www.youtube.com/watch?v=wagvRLJy40I)
 - [Implement authentication on mobile apps with Native Authentication for Microsoft Entra External ID](https://www.youtube.com/watch?v=hV1FU6ShSxo)
-- [Announcing SQL database in Microsoft Fabric public preview | Data Exposed](https://www.youtube.com/watch?v=uYBIBZDHAeg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
