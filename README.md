@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Creating a multilingual agent with Microsoft Copilot Studio](https://www.youtube.com/watch?v=Fq0Yja3-Yj4)
 - [On-premises data gateway management | Power Platform Shorts](https://www.youtube.com/watch?v=5GDTqnYQPag)
 - [Degrees of Change expand their career programs using Power Pages and generative AI](https://www.youtube.com/watch?v=deAeui3jBVc)
 - [Accenture encourages a culture of innovation, empowering citizen developers with Power Platform](https://www.youtube.com/watch?v=NDiIpUfI6Tk)
 - [Fill forms faster with smart paste | Getting Started With Power Shorts](https://www.youtube.com/watch?v=UBGzIxUZPPc)
-- [Pass variables between Topics for your agents built in Microsoft Copilot Studio](https://www.youtube.com/watch?v=wR56W4Ki2LQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
