@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud Industry Solutions: Partners Make More Possible](https://www.youtube.com/watch?v=NY_tV5vpUvM)
 - [Unlocking Industrial Transformation: Volkswagen Enhances Engineering Efficiency with Microsoft &amp; PTC](https://www.youtube.com/watch?v=3JxBKao8_J8)
 - [Real-world businesses are transforming with Microsoft AI](https://www.youtube.com/watch?v=_3Ko7RVWlqo)
 - [Unlocking Financial Insights with Innovative AI Solutions](https://www.youtube.com/watch?v=XQsUlCrcnYc)
 - [Streamline Your Financial Meeting Prep in Microsoft Teams](https://www.youtube.com/watch?v=_MwhbMYmDs8)
-- [Azure Migrate guided application aware user experience](https://www.youtube.com/watch?v=aquRVLvau7c)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
