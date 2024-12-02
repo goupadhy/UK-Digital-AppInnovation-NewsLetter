@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introduction to Oqtane: Rocket Fuel For Blazor!](https://www.youtube.com/watch?v=ZMd-DsiiPXE)
 - [This Month in Copilot Studio: November Advancements, Agent Types, and Security Features](https://www.youtube.com/watch?v=6Q6zcwCB8x0)
 - [Automate the testing of your data with GitHub Copilot | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=bhaTyIzGVbI)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI Flash Cards with Alvaro Videla Godoy](https://www.youtube.com/watch?v=Ifi2GMrjGUQ)
 - [Use Copilots to Break Process and Discipline Silos &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=n564B1Eaz10)
-- [Tell us a bonus story about breaking the build](https://www.youtube.com/watch?v=EW4xW1FK678)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
