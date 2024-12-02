@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Turn on Purview audit logging | Power Platform Shorts](https://www.youtube.com/watch?v=UGys8QrnE4U)
 - [Auto-claim policies for Power Apps licenses | Getting Started With Power Shorts](https://www.youtube.com/watch?v=Yohjv507l6s)
 - [Creating a multilingual agent with Microsoft Copilot Studio](https://www.youtube.com/watch?v=Fq0Yja3-Yj4)
 - [On-premises data gateway management | Power Platform Shorts](https://www.youtube.com/watch?v=5GDTqnYQPag)
 - [Degrees of Change expand their career programs using Power Pages and generative AI](https://www.youtube.com/watch?v=deAeui3jBVc)
-- [Accenture encourages a culture of innovation, empowering citizen developers with Power Platform](https://www.youtube.com/watch?v=NDiIpUfI6Tk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
