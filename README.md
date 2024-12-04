@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Configure guest access | Power Platform Shorts](https://www.youtube.com/watch?v=XbGZ9rq1Dik)
 - [Power Apps Pulse November 2024](https://www.youtube.com/watch?v=lapN37ywlEY)
 - [Deploying an agent to Microsoft Teams](https://www.youtube.com/watch?v=UrmUnHsrB_s)
 - [Turn on Purview audit logging | Power Platform Shorts](https://www.youtube.com/watch?v=UGys8QrnE4U)
 - [Auto-claim policies for Power Apps licenses | Getting Started With Power Shorts](https://www.youtube.com/watch?v=Yohjv507l6s)
-- [Creating a multilingual agent with Microsoft Copilot Studio](https://www.youtube.com/watch?v=Fq0Yja3-Yj4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
