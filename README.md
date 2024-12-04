@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Redefine development: AI-first innovation with agents and Microsoft Copilot in Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2024/11/19/redefine-development-ai-first-innovation-with-agents-and-microsoft-copilot-in-power-platform/)
 - [2024 release wave 2 launches with hundreds of Copilot capabilities](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/29/2024-release-wave-2-launches-with-hundreds-of-copilot-capabilities/)
 - [AI-powered business innovation with the Power Platform Community](https://www.microsoft.com/en-us/power-platform/blog/2024/09/18/ai-powered-business-innovation-with-the-power-platform-community/)
 - [Unveiling agents built with Microsoft Copilot Studio to supercharge your business](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/unveiling-copilot-agents-built-with-microsoft-copilot-studio-to-supercharge-your-business/)
 - [Enable reusability and maintain best practices with the catalog in Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2024/09/11/enable-reusability-and-maintain-best-practices-with-the-catalog-in-microsoft-power-platform/)
-- [How the Microsoft Power Platform community is using low-code and AI to transform work and lives](https://www.microsoft.com/en-us/power-platform/blog/2024/09/10/how-the-microsoft-power-platform-community-is-using-low-code-and-ai-to-transform-work-and-lives/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
