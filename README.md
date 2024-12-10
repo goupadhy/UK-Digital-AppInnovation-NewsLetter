@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introduction to LibVLCSharp, the cross-platform multimedia SDK for .NET](https://www.youtube.com/watch?v=R5TQi41Mc-I)
+- [Introduction to LibVLCSharp, the cross-platform multimedia SDK for .NET](https://www.youtube.com/watch?v=-tmgtqM4X8c)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Responsible AI, with William Bartholomew](https://www.youtube.com/watch?v=BbDgwfMR6Bo)
 - [Use Copilots to Break Process and Discipline Silos &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=VBJ9lEagoI4)
 - [Connect customers to agents securely with Microsoft Entra External ID and Copilot Studio integration](https://www.youtube.com/watch?v=BLyME148rYQ)
-- [Why SQL Database in Fabric is the Best Database for Low-Code/No-Code Developers | Data Exposed](https://www.youtube.com/watch?v=fNMssCWtTT4)
-- [Introduction to Oqtane: Rocket Fuel For Blazor!](https://www.youtube.com/watch?v=ZMd-DsiiPXE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
