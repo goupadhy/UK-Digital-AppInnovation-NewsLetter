@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Use Copilots to Break Process and Discipline Silos &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=VBJ9lEagoI4)
 - [Connect customers to agents securely with Microsoft Entra External ID and Copilot Studio integration](https://www.youtube.com/watch?v=BLyME148rYQ)
 - [Why SQL Database in Fabric is the Best Database for Low-Code/No-Code Developers | Data Exposed](https://www.youtube.com/watch?v=fNMssCWtTT4)
 - [Introduction to Oqtane: Rocket Fuel For Blazor!](https://www.youtube.com/watch?v=ZMd-DsiiPXE)
 - [This Month in Copilot Studio: November Advancements, Agent Types, and Security Features](https://www.youtube.com/watch?v=6Q6zcwCB8x0)
-- [Automate the testing of your data with GitHub Copilot | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=bhaTyIzGVbI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
