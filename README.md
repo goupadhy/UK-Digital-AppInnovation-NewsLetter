@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The Borden Line with Bill Borden | Transforming Financial Services with Wells Fargo’s Ather Williams](https://www.youtube.com/watch?v=5Idldl1NDSo)
 - [AI Challenger: Novo Nordisk: AI in Pharma: unlocking data to optimise treatments](https://www.youtube.com/watch?v=gRKoeEbqv-8)
 - [AI Challenger: Leading Digital Transformation at KPMG with Trusted AI](https://www.youtube.com/watch?v=htfqIxWdQjQ)
 - [Microsoft Cloud Industry Solutions: Partners Make More Possible](https://www.youtube.com/watch?v=NY_tV5vpUvM)
 - [Unlocking Industrial Transformation: Volkswagen Enhances Engineering Efficiency with Microsoft &amp; PTC](https://www.youtube.com/watch?v=3JxBKao8_J8)
-- [Real-world businesses are transforming with Microsoft AI](https://www.youtube.com/watch?v=_3Ko7RVWlqo)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
