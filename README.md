@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [AI and Low Code / No Code Hackathons](https://www.youtube.com/watch?v=cwqvXHGqwts)
 - [String interpolation in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=JM5nRsfqCR8)
 - [Extend Microsoft 365 Copilot with Copilot agents | Power Platform Shorts](https://www.youtube.com/watch?v=CKv4_XKpgSA)
 - [Configure guest access | Power Platform Shorts](https://www.youtube.com/watch?v=XbGZ9rq1Dik)
 - [Power Apps Pulse November 2024](https://www.youtube.com/watch?v=lapN37ywlEY)
-- [Deploying an agent to Microsoft Teams](https://www.youtube.com/watch?v=UrmUnHsrB_s)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
