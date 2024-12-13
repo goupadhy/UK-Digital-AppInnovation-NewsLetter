@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [John Cockerill engages pro developers to build enterprise-wide apps with Power Platform](https://www.youtube.com/watch?v=0jLiPGt2MeY)
+- [Holland America Line sees early signs of more informed purchasing using Microsoft Copilot Studio](https://www.youtube.com/watch?v=8ww_VtCs96w)
 - [Securing and Auditing your Copilot Studio Agents](https://www.youtube.com/watch?v=uEtmfQJQAFg)
 - [AI and Low Code / No Code Hackathons](https://www.youtube.com/watch?v=cwqvXHGqwts)
 - [String interpolation in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=JM5nRsfqCR8)
-- [Extend Microsoft 365 Copilot with Copilot agents | Power Platform Shorts](https://www.youtube.com/watch?v=CKv4_XKpgSA)
-- [Configure guest access | Power Platform Shorts](https://www.youtube.com/watch?v=XbGZ9rq1Dik)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
