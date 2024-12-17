@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Seamless Integration of Azure SQL Database and Azure Logic Apps | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=tXPo-xVS6B8)
 - [GraphQL for SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=nk1lU_aB0jI)
 - [Introduction to LibVLCSharp, the cross-platform multimedia SDK for .NET](https://www.youtube.com/watch?v=R5TQi41Mc-I)
 - [Introduction to LibVLCSharp, the cross-platform multimedia SDK for .NET](https://www.youtube.com/watch?v=-tmgtqM4X8c)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Responsible AI, with William Bartholomew](https://www.youtube.com/watch?v=BbDgwfMR6Bo)
-- [Use Copilots to Break Process and Discipline Silos &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=VBJ9lEagoI4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
