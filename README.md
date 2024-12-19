@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Sip and Sync with Azure - Coming in 2025](https://www.youtube.com/watch?v=SGgCIu_Z7Ss)
+- [Sip and Sync with Azure - Coming in 2025](https://www.youtube.com/watch?v=gN1gr9LtXY0)
 - [Seamless Integration of Azure SQL Database and Azure Logic Apps | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=tXPo-xVS6B8)
 - [GraphQL for SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=nk1lU_aB0jI)
 - [Introduction to LibVLCSharp, the cross-platform multimedia SDK for .NET](https://www.youtube.com/watch?v=R5TQi41Mc-I)
-- [Introduction to LibVLCSharp, the cross-platform multimedia SDK for .NET](https://www.youtube.com/watch?v=-tmgtqM4X8c)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Responsible AI, with William Bartholomew](https://www.youtube.com/watch?v=BbDgwfMR6Bo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
