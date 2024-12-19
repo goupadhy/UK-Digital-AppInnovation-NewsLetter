@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Introducing Annotated Logger: A Python package to aid in adding metadata to logs](https://github.blog/developer-skills/programming-languages-and-frameworks/introducing-annotated-logger-a-python-package-to-aid-in-adding-metadata-to-logs/)
 - [Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
 - [Uncovering GStreamer secrets](https://github.blog/security/vulnerability-research/uncovering-gstreamer-secrets/)
 - [GitHub Availability Report: November 2024](https://github.blog/news-insights/company-news/github-availability-report-november-2024/)
 - [So many tokens, so little time: Introducing a faster, more flexible byte-pair tokenizer](https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/)
-- [CodeQL zero to hero part 4: Gradio framework case study](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
