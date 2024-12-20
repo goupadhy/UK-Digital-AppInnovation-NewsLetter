@@ -54,7 +54,7 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [How researchers are studying the impact of GitHub Copilot on the nature of work for open source maintainers](https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-studying-the-impact-of-github-copilot-on-the-nature-of-work-for-open-source-maintainers/)
+- [Inside the research: How GitHub Copilot impacts the nature of work for open source maintainers](https://github.blog/news-insights/policy-news-and-insights/inside-the-research-github-copilot/)
 - [OpenAI’s latest o1 model now available in GitHub Copilot and GitHub Models](https://github.blog/news-insights/openais-o1-model-available-in-copilot-chat-and-github-models/)
 - [Enhance build security and reach SLSA Level 3 with GitHub Artifact Attestations](https://github.blog/enterprise-software/devsecops/enhance-build-security-and-reach-slsa-level-3-with-github-artifact-attestations/)
 - [Introducing Annotated Logger: A Python package to aid in adding metadata to logs](https://github.blog/developer-skills/programming-languages-and-frameworks/introducing-annotated-logger-a-python-package-to-aid-in-adding-metadata-to-logs/)
