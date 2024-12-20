@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to discover, install and customize your agents in Copilot studio](https://www.youtube.com/watch?v=Yn_NQqwxpc4)
 - [SKF accelerates app development with Snowflake connector](https://www.youtube.com/watch?v=D8_bYMfaabw)
 - [Securing your agent with DLP](https://www.youtube.com/watch?v=SL811x4Ilv8)
 - [Teleperformance utilizes Power Platform and Copilot Studio to enhance their customer&#39;s experience](https://www.youtube.com/watch?v=ehxO5RsdpxQ)
 - [Adding Telemetry to your Copilot Studio Agents](https://www.youtube.com/watch?v=ytdMLmQFXhc)
-- [John Cockerill engages pro developers to build enterprise-wide apps with Power Platform](https://www.youtube.com/watch?v=0jLiPGt2MeY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
