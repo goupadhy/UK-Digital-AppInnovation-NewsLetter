@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Retail: Personalized Shopping Agent](https://www.youtube.com/watch?v=FG_jlDI-nyg)
 - [AI-Driven Transformation: ANZ Bank uses curiosity and safe innovation to help communities thrive](https://www.youtube.com/watch?v=f-mAL3_lu3g)
 - [University of Vermont Medical Center shares their experience with PowerScribe Smart Impression](https://www.youtube.com/watch?v=4-mr3yE8tzA)
 - [The Borden Line with Bill Borden | Transforming Financial Services with Wells Fargo’s Ather Williams](https://www.youtube.com/watch?v=5Idldl1NDSo)
 - [AI Challenger | How Novo Nordisk is using AI in Pharma to unlock data and optimize treatments](https://www.youtube.com/watch?v=gRKoeEbqv-8)
-- [AI Challenger | Leading digital transformation at KPMG with trusted AI](https://www.youtube.com/watch?v=htfqIxWdQjQ)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
