@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Tour the Editor in SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=mkq8S29AGJo)
 - [Introduction to the source control built-in with SQL database in Fabric | Data Exposed](https://www.youtube.com/watch?v=6bBrrPY0H_Y)
 - [Sip and Sync with Azure - Coming in 2025](https://www.youtube.com/watch?v=SGgCIu_Z7Ss)
 - [Sip and Sync with Azure - Coming in 2025](https://www.youtube.com/watch?v=gN1gr9LtXY0)
 - [Seamless Integration of Azure SQL Database and Azure Logic Apps | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=tXPo-xVS6B8)
-- [GraphQL for SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=nk1lU_aB0jI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
