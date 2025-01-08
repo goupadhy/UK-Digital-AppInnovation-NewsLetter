@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Retail: Personalized Shopping Agent](https://www.youtube.com/watch?v=4ERrmMKS2Og)
 - [AI Challenger | ABB uses AI to unlock the future of industry](https://www.youtube.com/watch?v=uLIAdzHQfaA)
 - [AI on the Go for Microsoft Partners: NRF 2025](https://www.youtube.com/watch?v=pry8rCcTfWw)
 - [AI Challenger | Empowering connectivity: Telstra’s vision for AI-enabled telecoms](https://www.youtube.com/watch?v=9emUsNTufXQ)
 - [Achieve more with AI you can trust](https://www.youtube.com/watch?v=9mu0aXee6FE)
-- [Microsoft Cloud for Retail: Personalized Shopping Agent](https://www.youtube.com/watch?v=FG_jlDI-nyg)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
