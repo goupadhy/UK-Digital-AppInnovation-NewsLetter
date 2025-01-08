@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AI on the Go for Microsoft Partners: NRF 2025](https://www.youtube.com/watch?v=pry8rCcTfWw)
 - [AI Challenger | Empowering connectivity: Telstra’s vision for AI-enabled telecoms](https://www.youtube.com/watch?v=9emUsNTufXQ)
 - [Achieve more with AI you can trust](https://www.youtube.com/watch?v=9mu0aXee6FE)
 - [Microsoft Cloud for Retail: Personalized Shopping Agent](https://www.youtube.com/watch?v=FG_jlDI-nyg)
 - [AI Challenger |  ANZ Bank uses curiosity and safe innovation to help communities thrive](https://www.youtube.com/watch?v=f-mAL3_lu3g)
-- [University of Vermont Medical Center shares their experience with PowerScribe Smart Impression](https://www.youtube.com/watch?v=4-mr3yE8tzA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
