@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How to secure your GitHub Actions workflows with CodeQL](https://github.blog/security/application-security/how-to-secure-your-github-actions-workflows-with-codeql/)
 - [How to use GitHub Copilot: What it can do and real-world examples](https://github.blog/developer-skills/github/what-can-github-copilot-do-examples/)
 - [Building LATAM&#8217;s future tech workforce with AI](https://github.blog/developer-skills/github-education/building-latams-future-tech-workforce-with-ai/)
 - [GitHub’s top blogs of 2024](https://github.blog/developer-skills/githubs-top-blog-posts-of-2024/)
 - [Announcing CodeQL Community Packs](https://github.blog/security/vulnerability-research/announcing-codeql-community-packs/)
-- [Inside the research: How GitHub Copilot impacts the nature of work for open source maintainers](https://github.blog/news-insights/policy-news-and-insights/inside-the-research-github-copilot/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
