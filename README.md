@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introducing Copilot for SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=XJFZsuJBCqw)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Task Specific Models with Marco Casalaina](https://www.youtube.com/watch?v=ELT5W02Vq38)
 - [Deploy and manage application with GitHub Copilot for Azure and AKS](https://www.youtube.com/watch?v=O4yBKzXKwhk)
 - [Deploy and manage application with GitHub Copilot for Azure and AKS](https://www.youtube.com/watch?v=NsQ16CfeE_E)
 - [Tour the Editor in SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=mkq8S29AGJo)
-- [Introduction to the source control built-in with SQL database in Fabric | Data Exposed](https://www.youtube.com/watch?v=6bBrrPY0H_Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
