@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Retail: Partners Make More Possible](https://www.youtube.com/watch?v=WDkYz4_pafY)
+- [Empowering retail employees with AI: MediaMarktSaturn partners with Accenture, Avanade &amp; Microsoft](https://www.youtube.com/watch?v=1jK_bUp_oDA)
 - [Microsoft Cloud for Retail: Personalized Shopping Agent](https://www.youtube.com/watch?v=4ERrmMKS2Og)
 - [AI Challenger | ABB uses AI to unlock the future of industry](https://www.youtube.com/watch?v=uLIAdzHQfaA)
 - [AI on the Go for Microsoft Partners: NRF 2025](https://www.youtube.com/watch?v=pry8rCcTfWw)
-- [AI Challenger | Empowering connectivity: Telstra’s vision for AI-enabled telecoms](https://www.youtube.com/watch?v=9emUsNTufXQ)
-- [Achieve more with AI you can trust](https://www.youtube.com/watch?v=9mu0aXee6FE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
