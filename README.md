@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Content Delivery Network with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=jS8Hn9zposI)
 - [Manage custom certificates with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=noUdjtfUCkQ)
 - [Join us for the Powerful Devs Hack Together](https://www.youtube.com/watch?v=4WjlEJpJQ9s)
 - [Copilot Studio Kit - Prompt Advisor](https://www.youtube.com/watch?v=HY8V7tH-UHA)
 - [Define alternate keys using solution explorer | Power Platform Shorts](https://www.youtube.com/watch?v=MxP6iGELjY0)
-- [Deleting process log rows | Power Platform Shorts](https://www.youtube.com/watch?v=9DanMlOpCaM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
