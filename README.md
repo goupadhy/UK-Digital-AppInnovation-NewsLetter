@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [5 things to know about SQL and AI | Data Exposed](https://www.youtube.com/watch?v=oZk2mSstOXk)
 - [Build AI Agents &amp; Apps FAST with Azure AI Foundry!](https://www.youtube.com/watch?v=mnfNZmKtZ-4)
 - [Get started with AI application templates](https://www.youtube.com/watch?v=yKtAbK7ndmM)
 - [Get started with AI application templates](https://www.youtube.com/watch?v=NNy6qPMAg60)
 - [Sip &amp; Sync With Azure - Coming soon!!](https://www.youtube.com/watch?v=0jL-hbN9H-0)
-- [Introducing Copilot for SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=XJFZsuJBCqw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
