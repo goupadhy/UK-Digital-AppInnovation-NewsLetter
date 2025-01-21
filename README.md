@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Update the Conversational boosting system topic | Power Platform Shorts](https://www.youtube.com/watch?v=18hkIY61gJQ)
 - [Copilot in Power Automate - Your Desktop Flows Productivity Partner](https://www.youtube.com/watch?v=LaTRbtUhpYA)
 - [Content Delivery Network with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=jS8Hn9zposI)
 - [Manage custom certificates with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=noUdjtfUCkQ)
 - [Join us for the Powerful Devs Hack Together](https://www.youtube.com/watch?v=4WjlEJpJQ9s)
-- [Copilot Studio Kit - Prompt Advisor](https://www.youtube.com/watch?v=HY8V7tH-UHA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
