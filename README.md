@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Streamline Your Financial Meeting Prep in Microsoft Teams](https://www.youtube.com/watch?v=ZJ0Or9zsqGE)
 - [Accelerating Banking Transformation with AI](https://www.youtube.com/watch?v=KD-rkl9XFNg)
 - [Build and Modernize AI Apps in Government](https://www.youtube.com/watch?v=hSijQAhF84o)
 - [Retail Ready: Power your AI transformation with Microsoft Cloud for Retail](https://www.youtube.com/watch?v=HEH6W-iX4JE)
 - [Microsoft customers create breakthrough innovations with Microsoft AI](https://www.youtube.com/watch?v=S6ZuXlZ8qLs)
-- [Optimize operations with Microsoft AI](https://www.youtube.com/watch?v=8BNs-67x_co)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
