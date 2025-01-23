@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=ZcA3hVWpCbw)
+- [Microsoft Copilot Studio 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=x2KQOxTfCuQ)
+- [Power Automate 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=YOZTOVH7GzQ)
 - [Add an Azure AI Search connector | Power Platform Shorts](https://www.youtube.com/watch?v=HwCIZQ3jWEY)
 - [Update the Conversational boosting system topic | Power Platform Shorts](https://www.youtube.com/watch?v=18hkIY61gJQ)
-- [Copilot in Power Automate - Your Desktop Flows Productivity Partner](https://www.youtube.com/watch?v=LaTRbtUhpYA)
-- [Content Delivery Network with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=jS8Hn9zposI)
-- [Manage custom certificates with Power Pages | Power Platform Shorts](https://www.youtube.com/watch?v=noUdjtfUCkQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
