@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL will be in force at the Microsoft Fabric Community Conference | Data Exposed](https://www.youtube.com/watch?v=aaXDXMMFo88)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Creative Coding Agents, with Veronica Ward](https://www.youtube.com/watch?v=JSHBWDAJ2B4)
 - [How did you get your name into the Spy ++ About box?](https://www.youtube.com/watch?v=464tXBQ6Ohs)
 - [5 things to know about SQL and AI | Data Exposed](https://www.youtube.com/watch?v=oZk2mSstOXk)
 - [Build AI Agents &amp; Apps FAST with Azure AI Foundry!](https://www.youtube.com/watch?v=mnfNZmKtZ-4)
-- [Get started with AI application templates](https://www.youtube.com/watch?v=yKtAbK7ndmM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
