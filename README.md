@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Considerations for making a tree view component accessible](https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/)
+- [Open source AI is already finding its way into production](https://github.blog/ai-and-ml/generative-ai/open-source-ai-is-already-finding-its-way-into-production/)
 - [New to open source? Here’s everything you need to get started](https://github.blog/open-source/new-to-open-source-heres-everything-you-need-to-get-started/)
 - [That’s a wrap: GitHub Innovation Graph in 2024](https://github.blog/news-insights/policy-news-and-insights/thats-a-wrap-github-innovation-graph-in-2024/)
 - [Attacks on Maven proxy repositories](https://github.blog/security/vulnerability-research/attacks-on-maven-proxy-repositories/)
-- [Modernizing legacy code with GitHub Copilot: Tips and examples](https://github.blog/ai-and-ml/github-copilot/modernizing-legacy-code-with-github-copilot-tips-and-examples/)
-- [Seven years of open source: A more secure and diverse ecosystem](https://github.blog/news-insights/seven-years-of-open-source-a-more-secure-and-diverse-ecosystem/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
