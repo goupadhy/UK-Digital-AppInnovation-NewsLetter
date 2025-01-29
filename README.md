@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What productivity tips do you have for VS Code and .NET MAUI development?](https://www.youtube.com/watch?v=ScSLX9wcfNM)
+- [What productivity tips do you have for VS Code and .NET MAUI development.mp4](https://www.youtube.com/watch?v=UKuNpSEvltA)
 - [Why is it important to make my apps accessible?](https://www.youtube.com/watch?v=uSiK5wFZSJk)
 - [Why is it important to make my apps accessible?](https://www.youtube.com/watch?v=BcqcYjlV5gA)
 - [SQL will be in force at the Microsoft Fabric Community Conference | Data Exposed](https://www.youtube.com/watch?v=aaXDXMMFo88)
-- [Mr. Maeda&#39;s Cozy AI Kitchen - Creative Coding Agents, with Veronica Ward](https://www.youtube.com/watch?v=JSHBWDAJ2B4)
-- [How did you get your name into the Spy ++ About box?](https://www.youtube.com/watch?v=464tXBQ6Ohs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
