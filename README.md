@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How the Microsoft Power Platform community is using low-code and AI to transform work and lives](https://www.youtube.com/watch?v=-RVLp0yV5_4)
 - [Run flow on a schedule | Power Platform Shorts](https://www.youtube.com/watch?v=6VArfIIDx8A)
 - [Copilot Studio Agent Builder](https://www.youtube.com/watch?v=_R4U5FJlXJw)
 - [Power Apps 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=ZcA3hVWpCbw)
 - [Microsoft Copilot Studio 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=x2KQOxTfCuQ)
-- [Power Automate 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=YOZTOVH7GzQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
