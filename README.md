@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Bringing DevOps to SQL in Fabric | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=bn9-2D7hKSE)
 - [What productivity tips do you have for VS Code and .NET MAUI development?](https://www.youtube.com/watch?v=ScSLX9wcfNM)
 - [What productivity tips do you have for VS Code and .NET MAUI development.mp4](https://www.youtube.com/watch?v=UKuNpSEvltA)
 - [Why is it important to make my apps accessible?](https://www.youtube.com/watch?v=uSiK5wFZSJk)
 - [Why is it important to make my apps accessible?](https://www.youtube.com/watch?v=BcqcYjlV5gA)
-- [SQL will be in force at the Microsoft Fabric Community Conference | Data Exposed](https://www.youtube.com/watch?v=aaXDXMMFo88)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
