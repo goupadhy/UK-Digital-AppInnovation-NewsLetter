@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Merck Innovates with Power Platform and Microsoft Copilot to Transform Operations](https://www.youtube.com/watch?v=GJZfZ_BGyn0)
 - [Webhook for Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=DtsQNZwxIi0)
 - [How the Microsoft Power Platform community is using low-code and AI to transform work and lives](https://www.youtube.com/watch?v=-RVLp0yV5_4)
 - [Run flow on a schedule | Power Platform Shorts](https://www.youtube.com/watch?v=6VArfIIDx8A)
 - [Copilot Studio Agent Builder](https://www.youtube.com/watch?v=_R4U5FJlXJw)
-- [Power Apps 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=ZcA3hVWpCbw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
