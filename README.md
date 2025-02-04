@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mr. Maeda&#39;s Cozy AI Kitchen - AI &amp; Exploration, with Corey Jaskolski](https://www.youtube.com/watch?v=e2W7AXHKEcs)
 - [How did IDisposable and Finalize get introduced into .NET?](https://www.youtube.com/watch?v=FMgQSzBJqT8)
 - [Strategic capacity monitoring and cost analysis for SQL database in Fabric | Data Exposed](https://www.youtube.com/watch?v=xzPFcY7wTQg)
 - [Computer use agents for fun and profit](https://www.youtube.com/watch?v=FYUSiV0-Oco)
 - [Bringing DevOps to SQL in Fabric | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=bn9-2D7hKSE)
-- [What productivity tips do you have for VS Code and .NET MAUI development?](https://www.youtube.com/watch?v=ScSLX9wcfNM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
