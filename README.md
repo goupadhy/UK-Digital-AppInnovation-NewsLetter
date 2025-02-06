@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL Database in Fabric - Secured and governed by default | Data Exposed](https://www.youtube.com/watch?v=GkxjYNvesFA)
 - [Microsoft AI Tour, New York City | Keynote](https://www.youtube.com/watch?v=VaE2Cm2TEfQ)
 - [What is my favorite VS Code feature for .NET MAUI development?](https://www.youtube.com/watch?v=46BfbMeBCgA)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - AI &amp; Exploration, with Corey Jaskolski](https://www.youtube.com/watch?v=e2W7AXHKEcs)
 - [How did IDisposable and Finalize get introduced into .NET?](https://www.youtube.com/watch?v=FMgQSzBJqT8)
-- [Strategic capacity monitoring and cost analysis for SQL database in Fabric | Data Exposed](https://www.youtube.com/watch?v=xzPFcY7wTQg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
