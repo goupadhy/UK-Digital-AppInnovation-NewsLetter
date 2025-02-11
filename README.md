@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Agentic AI: A Philosophical Take](https://www.youtube.com/watch?v=ItXRpj8-XVk)
 - [What are some built-in accessibility features in .NET MAUI?](https://www.youtube.com/watch?v=EKoqtnUQ7uM)
 - [AI Adoption with the Microsoft Cloud Adoption Framework for Azure](https://www.youtube.com/watch?v=qwya48TSzfg)
 - [SQL Database in Fabric - Secured and governed by default | Data Exposed](https://www.youtube.com/watch?v=GkxjYNvesFA)
 - [Microsoft AI Tour, New York City | Keynote](https://www.youtube.com/watch?v=VaE2Cm2TEfQ)
-- [What is my favorite VS Code feature for .NET MAUI development?](https://www.youtube.com/watch?v=46BfbMeBCgA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
