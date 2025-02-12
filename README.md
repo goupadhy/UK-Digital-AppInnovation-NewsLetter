@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Innovation from Climatetech Startups: Dr. Etosha Cave, Co-Founder &amp; Chief Science Officer of Twelve](https://www.youtube.com/watch?v=CscWCQcPIVY)
 - [AI Challenger | Zurich Insurance redefines what’s possible with AI](https://www.youtube.com/watch?v=s5SepB5PXQ0)
 - [AI innovation in financial services: A conversation with Allison Nachtigal and Jared Lambert](https://www.youtube.com/watch?v=ezH4QF6i4oA)
 - [Microsoft: The Power of Partnership](https://www.youtube.com/watch?v=wlyqKsOKy24)
 - [Transforming Financial Services with AI and Microsoft Cloud for Financial Services](https://www.youtube.com/watch?v=GpsZDLaE3q4)
-- [AI Challenger: AI at Coles: Transforming the grocery experience from checkout to supply chain](https://www.youtube.com/watch?v=z0TQR5WX53c)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
