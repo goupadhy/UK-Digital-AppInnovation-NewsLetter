@@ -45,10 +45,10 @@ We hope that these resources will help you innovate and address the real-world n
     
 <!-- YOUTUBEPOWER:START -->
 - [Configure the security profiles | Power Platform Shorts](https://www.youtube.com/watch?v=78EH-C4XlEQ)
+- [Powerful Devs Conference 2025](https://www.youtube.com/watch?v=VagupaCVpfI)
 - [Test a trigger | Power Platform Shorts](https://www.youtube.com/watch?v=epKWWNOMpW8)
 - [Add an event trigger | Power Platform Shorts](https://www.youtube.com/watch?v=UiKQXQIUuAw)
 - [Power Apps Pulse January 2025](https://www.youtube.com/watch?v=91Wh13Xx9hQ)
-- [Merck Innovates with Power Platform and Microsoft Copilot to Transform Operations](https://www.youtube.com/watch?v=GJZfZ_BGyn0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
