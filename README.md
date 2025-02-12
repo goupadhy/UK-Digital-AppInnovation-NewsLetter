@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Powerful Devs Conference 2025](https://www.youtube.com/watch?v=s8jCViGUtUs)
 - [The Science Behind Microsoft&#39;s Thermal Energy Center](https://www.youtube.com/watch?v=Pj_WWveRwF8)
 - [Agentic AI: A Philosophical Take](https://www.youtube.com/watch?v=ItXRpj8-XVk)
 - [What are some built-in accessibility features in .NET MAUI?](https://www.youtube.com/watch?v=EKoqtnUQ7uM)
 - [AI Adoption with the Microsoft Cloud Adoption Framework for Azure](https://www.youtube.com/watch?v=qwya48TSzfg)
-- [SQL Database in Fabric - Secured and governed by default | Data Exposed](https://www.youtube.com/watch?v=GkxjYNvesFA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
