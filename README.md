@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What is my favorite VS Code feature for C# development?](https://www.youtube.com/watch?v=ZopskA8BbxI)
 - [Introducing SSMS 21 Preview | Data Exposed](https://www.youtube.com/watch?v=8aBYHyUGKRU)
 - [Powerful Devs Conference 2025](https://www.youtube.com/watch?v=s8jCViGUtUs)
 - [The Science Behind Microsoft&#39;s Thermal Energy Center](https://www.youtube.com/watch?v=Pj_WWveRwF8)
 - [Agentic AI: A Philosophical Take](https://www.youtube.com/watch?v=ItXRpj8-XVk)
-- [What are some built-in accessibility features in .NET MAUI?](https://www.youtube.com/watch?v=EKoqtnUQ7uM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
