@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [State Farm | Power Platform Customer Story](https://www.youtube.com/watch?v=8BlAmUIAFWk)
 - [Powerful Devs Conference 2025](https://www.youtube.com/watch?v=VagupaCVpfI)
 - [Secure a column | Power Platform Shorts](https://www.youtube.com/watch?v=qLz9zqXWaNM)
 - [Configure the security profiles | Power Platform Shorts](https://www.youtube.com/watch?v=78EH-C4XlEQ)
 - [Test a trigger | Power Platform Shorts](https://www.youtube.com/watch?v=epKWWNOMpW8)
-- [Add an event trigger | Power Platform Shorts](https://www.youtube.com/watch?v=UiKQXQIUuAw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
