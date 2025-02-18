@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Manage public views with security roles | Power Platform Shorts](https://www.youtube.com/watch?v=cH318VQeF-w)
+- [Powerful Devs Hack Together Final Overview: Building Powerful Solutions](https://www.youtube.com/watch?v=BNA3plDd2Ic)
+- [Securing Microsoft Copilot Studio integration with external connectors](https://www.youtube.com/watch?v=-dQOqZSIhKU)
+- [The Developer&#39;s Approach to Power Automate](https://www.youtube.com/watch?v=pRotb0Wcehw)
 - [Powerful Devs Hack Together Kickoff: All About AI](https://www.youtube.com/watch?v=AmkmcR3bWk0)
-- [State Farm | Power Platform Customer Story](https://www.youtube.com/watch?v=8BlAmUIAFWk)
-- [Powerful Devs Conference 2025](https://www.youtube.com/watch?v=VagupaCVpfI)
-- [Secure a column | Power Platform Shorts](https://www.youtube.com/watch?v=qLz9zqXWaNM)
-- [Configure the security profiles | Power Platform Shorts](https://www.youtube.com/watch?v=78EH-C4XlEQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
