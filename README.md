@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Introducing Azure Managed Redis - Cost Effective Caching for Your AI Apps](https://www.youtube.com/watch?v=8Ghl3jgJKvg)
+- [How can you test accessibility in your applications?](https://www.youtube.com/watch?v=AYFkY5Ta_Cg)
 - [Mr. Maeda&#39;s Cozy AI Kitchen - Agents Era, with Fabian Williams](https://www.youtube.com/watch?v=XP6zvzucMXI)
 - [Mastering Automated Testing in Power Platform: From Unit Tests to CI/CD Integration](https://www.youtube.com/watch?v=vaq8UDUqkYw)
 - [The different flavors of ALM in the Power Platform: which one is right for you?](https://www.youtube.com/watch?v=qka5qPpfM6c)
-- [Building Cross-Platform Desktop Applications with Dataverse and .NET MAUI](https://www.youtube.com/watch?v=sRvfzoim9_Q)
-- [Extend Your Copilot with Connectors](https://www.youtube.com/watch?v=eEfMpMfOdtQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
