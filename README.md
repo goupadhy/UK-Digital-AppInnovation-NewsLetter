@@ -46,7 +46,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEPOWER:START -->
 - [Amtrak improve efficiency and safety with Microsoft Power Platform](https://www.youtube.com/watch?v=292tyXQLie0)
 - [The Developer&#39;s Approach to Power Automate](https://www.youtube.com/watch?v=pRotb0Wcehw)
-- [What’s new with Credentials in Power Automate – Enable password-less RPA operations with CBA.](https://www.youtube.com/watch?v=imoYNQmuj48)
+- [What’s new with Credentials in Power Automate – Enable password-less RPA operations with CBA](https://www.youtube.com/watch?v=imoYNQmuj48)
 - [Powerful Devs Hack Together Kickoff: All About AI](https://www.youtube.com/watch?v=AmkmcR3bWk0)
 - [Manage public views with security roles | Power Platform Shorts](https://www.youtube.com/watch?v=cH318VQeF-w)
 <!-- YOUTUBEPOWER:END -->
