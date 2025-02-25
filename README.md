@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Securing Microsoft Copilot Studio integration with external connectors](https://www.youtube.com/watch?v=-dQOqZSIhKU)
 - [Add an image to your email in flows | Power Platform Shorts](https://www.youtube.com/watch?v=SX3xhckvP9E)
 - [Add a lookup column | Power Platform Shorts](https://www.youtube.com/watch?v=E3nbySJNol8)
 - [Amtrak improve efficiency and safety with Microsoft Power Platform](https://www.youtube.com/watch?v=292tyXQLie0)
 - [The Developer&#39;s Approach to Power Automate](https://www.youtube.com/watch?v=pRotb0Wcehw)
-- [What’s new with Credentials in Power Automate – Enable password-less RPA operations with CBA](https://www.youtube.com/watch?v=imoYNQmuj48)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
