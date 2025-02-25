@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL Databases in Fabric – is it different from Azure SQL? | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ma2AI-7s0zA)
 - [What are the origins of the Azure SDK Architecture?](https://www.youtube.com/watch?v=8ToFcCM7fvc)
 - [Should I build hybrid apps with .NET MAUI?](https://www.youtube.com/watch?v=ZBcBwDsElO4)
 - [How to use Automatic backups in SQL database in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=GZn6_zDlrp4)
 - [Introducing Azure Managed Redis - Cost Effective Caching for Your AI Apps](https://www.youtube.com/watch?v=8Ghl3jgJKvg)
-- [How can you test accessibility in your applications?](https://www.youtube.com/watch?v=AYFkY5Ta_Cg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
