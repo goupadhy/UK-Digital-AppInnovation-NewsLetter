@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Understanding Fabric: A guide to effective resource management for SQL in Fabric | Data Exposed](https://www.youtube.com/watch?v=oHH9onH8Lao)
 - [Join us in RAG Time this March!](https://www.youtube.com/watch?v=FwVw-02BYoE)
 - [AI in Action - Engineers Chat on Building a RAG Plugin for Copilot for Azure](https://www.youtube.com/watch?v=6qQqgq7_G1k)
 - [Project Stormbreaker: Open-Source Cloud-Native HPC for Climatology on AKS](https://www.youtube.com/watch?v=v7XHX3jV9Eo)
 - [SQL Databases in Fabric – is it different from Azure SQL? | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ma2AI-7s0zA)
-- [Journey 1: RAG and Knowledge Retrieval Fundamentals](https://www.youtube.com/watch?v=UOsboxxyqew)
 <!-- YOUTUBEAPPMOD:END -->
 
 
