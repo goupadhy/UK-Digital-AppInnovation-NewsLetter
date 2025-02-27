@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Powerful Devs Hack Together Final Overview: Building Powerful Solutions](https://www.youtube.com/watch?v=BNA3plDd2Ic)
 - [Allocate or change capacity in an environment | Power Platform Shorts](https://www.youtube.com/watch?v=cqc7wkU2YVE)
 - [Securing Microsoft Copilot Studio integration with external connectors](https://www.youtube.com/watch?v=-dQOqZSIhKU)
 - [Add an image to your email in flows | Power Platform Shorts](https://www.youtube.com/watch?v=SX3xhckvP9E)
 - [Add a lookup column | Power Platform Shorts](https://www.youtube.com/watch?v=E3nbySJNol8)
-- [Amtrak improve efficiency and safety with Microsoft Power Platform](https://www.youtube.com/watch?v=292tyXQLie0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
