@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Introducing Dragon Copilot](https://www.youtube.com/watch?v=VYNz_VUoMZQ)
 - [Innovative AI Partnerships Transform Financial Services](https://www.youtube.com/watch?v=vk2shVmtRtE)
 - [Microsoft at NRF 2025: The value customers are receiving from AI](https://www.youtube.com/watch?v=6F0ejkAgN_8)
 - [The Borden Line with Bill Borden | Getting Banking Data AI-Ready with Novobanco and Quantexa](https://www.youtube.com/watch?v=KaO4SAxqKLw)
 - [Innovation from Climatetech Startups: Dr. Etosha Cave, Co-Founder &amp; Chief Science Officer of Twelve](https://www.youtube.com/watch?v=CscWCQcPIVY)
-- [AI Challenger | Zurich Insurance redefines what’s possible with AI](https://www.youtube.com/watch?v=s5SepB5PXQ0)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
