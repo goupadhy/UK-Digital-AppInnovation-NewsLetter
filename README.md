@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Journey 5: Hero Use Cases for RAG](https://www.youtube.com/watch?v=-yyONUB5b88)
+- [Journey 4: RAG for All Your Data: Multimodal and Beyond](https://www.youtube.com/watch?v=OFuO9sI5BQc)
+- [Journey 3: Optimize Your Vector Index for Scale](https://www.youtube.com/watch?v=J3eDgwS8wpo)
+- [Journey 2: Build the Ultimate Retrieval System for RAG](https://www.youtube.com/watch?v=bURCZeCSx2A)
 - [10 Free Azure SQL Databases: Powering AI, Advanced Analytics &amp; Enterprise Innovation | Data Exposed](https://www.youtube.com/watch?v=oHH9onH8Lao)
-- [Join us in RAG Time this March!](https://www.youtube.com/watch?v=FwVw-02BYoE)
-- [AI in Action - Engineers Chat on Building a RAG Plugin for Copilot for Azure](https://www.youtube.com/watch?v=6qQqgq7_G1k)
-- [Project Stormbreaker: Open-Source Cloud-Native HPC for Climatology on AKS](https://www.youtube.com/watch?v=v7XHX3jV9Eo)
-- [SQL Databases in Fabric – is it different from Azure SQL? | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=ma2AI-7s0zA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
