@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Generative AI Scripting with Peli de Halleux, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=ajEbAm6kjI4)
 - [Journey 5: Hero Use Cases for RAG](https://www.youtube.com/watch?v=-yyONUB5b88)
 - [Journey 4: RAG for All Your Data: Multimodal and Beyond](https://www.youtube.com/watch?v=OFuO9sI5BQc)
 - [Journey 3: Optimize Your Vector Index for Scale](https://www.youtube.com/watch?v=J3eDgwS8wpo)
 - [Journey 2: Build the Ultimate Retrieval System for RAG](https://www.youtube.com/watch?v=bURCZeCSx2A)
-- [10 Free Azure SQL Databases: Powering AI, Advanced Analytics &amp; Enterprise Innovation | Data Exposed](https://www.youtube.com/watch?v=oHH9onH8Lao)
 <!-- YOUTUBEAPPMOD:END -->
 
 
