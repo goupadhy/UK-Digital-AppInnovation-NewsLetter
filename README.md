@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Understanding Capacities in Fabric: A guide to effective resource management for SQL in Fabric](https://www.youtube.com/watch?v=OW7oeG-qxNw)
+- [Journey 1: RAG and Knowledge Retrieval Fundamentals](https://www.youtube.com/watch?v=UOsboxxyqew)
 - [Introduction to External Secrets - Secrets Operator for Kubernetes](https://www.youtube.com/watch?v=2FOB49oXts8)
 - [Introduction to External Secrets - Secrets Operator for Kubernetes](https://www.youtube.com/watch?v=1BuXWMm7wHQ)
 - [Generative AI Scripting with Peli de Halleux, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=ajEbAm6kjI4)
-- [Journey 5: Hero Use Cases for RAG](https://www.youtube.com/watch?v=-yyONUB5b88)
-- [Journey 4: RAG for All Your Data: Multimodal and Beyond](https://www.youtube.com/watch?v=OFuO9sI5BQc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
