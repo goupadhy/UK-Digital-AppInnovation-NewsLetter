@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [GitHub Copilot for Azure: Context Improvements](https://www.youtube.com/watch?v=mQ7TjTAZURk)
 - [What is the best way to manage VS Code extensions?](https://www.youtube.com/watch?v=zqqj55PUaRQ)
 - [Understanding Capacities in Fabric: A guide to effective resource management for SQL in Fabric](https://www.youtube.com/watch?v=OW7oeG-qxNw)
 - [Journey 1: RAG and Knowledge Retrieval Fundamentals](https://www.youtube.com/watch?v=UOsboxxyqew)
 - [Introduction to External Secrets - Secrets Operator for Kubernetes](https://www.youtube.com/watch?v=2FOB49oXts8)
-- [Introduction to External Secrets - Secrets Operator for Kubernetes](https://www.youtube.com/watch?v=1BuXWMm7wHQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
