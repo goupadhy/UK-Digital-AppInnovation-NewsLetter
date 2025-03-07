@@ -46,7 +46,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEPOWER:START -->
 - [Who&#39;s Using Copilot? | HYPE Customer Story](https://www.youtube.com/watch?v=nD9YZjARVWk)
 - [Select and connect the right triggers | Power Platform Shorts](https://www.youtube.com/watch?v=vDeVJN8AJm4)
-- [T-Mobile enhance their customer experience program with Microsoft Copilot Studio](https://www.youtube.com/watch?v=6oY9CYM7VNM)
+- [Who&#39;s Using Copilot? | T-Mobile Customer Story](https://www.youtube.com/watch?v=6oY9CYM7VNM)
 - [Customize a trigger by adding conditions | Power Platform Shorts](https://www.youtube.com/watch?v=D7HrOzfxMUM)
 - [Powerful Devs Hack Together Final Overview: Building Powerful Solutions](https://www.youtube.com/watch?v=BNA3plDd2Ic)
 <!-- YOUTUBEPOWER:END -->
