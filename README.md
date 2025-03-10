@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Develop data-driven applications by using Azure SQL Database | Data Exposed](https://www.youtube.com/watch?v=xOa7e178h8Q)
 - [Build Gen AI applications with LangChain and SQL | Data Exposed](https://www.youtube.com/watch?v=XQrOujLheCk)
 - [GitHub Copilot for Azure: Context Improvements](https://www.youtube.com/watch?v=mQ7TjTAZURk)
 - [What is the best way to manage VS Code extensions?](https://www.youtube.com/watch?v=zqqj55PUaRQ)
 - [Understanding Capacities in Fabric: A guide to effective resource management for SQL in Fabric](https://www.youtube.com/watch?v=OW7oeG-qxNw)
+- [Journey 1: RAG and Knowledge Retrieval Fundamentals](https://www.youtube.com/watch?v=UOsboxxyqew)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
