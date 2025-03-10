@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Full exposure: A practical approach to handling sensitive data leaks](https://github.blog/security/full-exposure-a-practical-approach-to-handling-sensitive-data-leaks/)
 - [Four steps toward building an open source community](https://github.blog/open-source/maintainers/four-steps-toward-building-an-open-source-community/)
 - [Video: How to run dependency audits with GitHub Copilot](https://github.blog/developer-skills/github/video-how-to-run-dependency-audits-with-github-copilot/)
 - [Not just for developers: How product and security teams can use GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/not-just-for-developers-how-product-and-security-teams-can-use-github-copilot/)
 - [Finding leaked passwords with AI: How we built Copilot secret scanning](https://github.blog/engineering/platform-security/finding-leaked-passwords-with-ai-how-we-built-copilot-secret-scanning/)
-- [GitHub for Beginners: How to get started with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-started-with-github-copilot/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
