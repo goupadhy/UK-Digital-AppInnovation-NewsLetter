@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Control AI Services with Azure API Management](https://www.youtube.com/watch?v=yYt1-a7RocU)
 - [Headlamp - Your Kubernetes UI focused on extensibility](https://www.youtube.com/watch?v=2I71_49AxDs)
 - [Headlamp - Your Kubernetes UI focused on extensibility](https://www.youtube.com/watch?v=0AFvS9nxFE8)
 - [A 10x faster TypeScript](https://www.youtube.com/watch?v=pNlq-EVld70)
 - [Armchair Architects: Zero Trust Architecture &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=dsCAeUKJvcw)
-- [Armchair Architects: Zero Trust Architecture](https://www.youtube.com/watch?v=YyStEKxSlqY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
