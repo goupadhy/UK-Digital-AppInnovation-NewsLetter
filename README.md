@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [A 10x faster TypeScript](https://www.youtube.com/watch?v=pNlq-EVld70)
 - [Armchair Architects: Zero Trust Architecture &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=dsCAeUKJvcw)
 - [Armchair Architects: Zero Trust Architecture](https://www.youtube.com/watch?v=YyStEKxSlqY)
 - [Build Gen AI applications with LangChain and SQL | Data Exposed](https://www.youtube.com/watch?v=XQrOujLheCk)
 - [GitHub Copilot for Azure: Context Improvements](https://www.youtube.com/watch?v=mQ7TjTAZURk)
-- [What is the best way to manage VS Code extensions?](https://www.youtube.com/watch?v=zqqj55PUaRQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
