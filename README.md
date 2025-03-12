@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Deploy an App to AKS using Helm](https://www.youtube.com/watch?v=WJz4v0fwqZU)
+- [Add Azure Cache for Redis to an App](https://www.youtube.com/watch?v=RbACdpzW1fs)
+- [Set token limits for your GenAI APIs](https://www.youtube.com/watch?v=B7w9WW1gaYM)
 - [Journey 2: Build the Ultimate Retrieval System for RAG](https://www.youtube.com/watch?v=bURCZeCSx2A)
 - [Save on Azure SQL with Azure Hybrid Benefit](https://www.youtube.com/watch?v=T70bbuC7UP4)
-- [Control AI Services with Azure API Management](https://www.youtube.com/watch?v=yYt1-a7RocU)
-- [Headlamp - Your Kubernetes UI focused on extensibility](https://www.youtube.com/watch?v=2I71_49AxDs)
-- [Headlamp - Your Kubernetes UI focused on extensibility](https://www.youtube.com/watch?v=0AFvS9nxFE8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
