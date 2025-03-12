@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Enhance data accuracy with choice columns | Power Platform Shorts](https://www.youtube.com/watch?v=vuzyrwEmBew)
 - [Who&#39;s Using Copilot? | Eneco](https://www.youtube.com/watch?v=ablNwQDNbiE)
 - [Create and utilize reusable functions | Power Platform Shorts](https://www.youtube.com/watch?v=GJzbDR2mK1Q)
 - [Who&#39;s Using Copilot? | HYPE Customer Story](https://www.youtube.com/watch?v=nD9YZjARVWk)
 - [Select and connect the right triggers | Power Platform Shorts](https://www.youtube.com/watch?v=vDeVJN8AJm4)
-- [Who&#39;s Using Copilot? | T-Mobile Customer Story](https://www.youtube.com/watch?v=6oY9CYM7VNM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
