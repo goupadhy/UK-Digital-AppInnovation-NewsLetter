@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [A 10x faster TypeScript](https://www.youtube.com/watch?v=e2FgESRT_8I)
 - [How can I access third-party native libraries like Firebase in my .NET MAUI apps?](https://www.youtube.com/watch?v=Fn5DldcOr28)
 - [Deploy an App to AKS using Helm](https://www.youtube.com/watch?v=WJz4v0fwqZU)
 - [Add Azure Cache for Redis to an App](https://www.youtube.com/watch?v=RbACdpzW1fs)
 - [Set token limits for your GenAI APIs](https://www.youtube.com/watch?v=B7w9WW1gaYM)
-- [Journey 2: Build the Ultimate Retrieval System for RAG](https://www.youtube.com/watch?v=bURCZeCSx2A)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
