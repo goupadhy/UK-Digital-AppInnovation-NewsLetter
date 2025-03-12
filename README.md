@@ -25,7 +25,7 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [aes when to apply ahb v2 1080p](https://www.youtube.com/watch?v=T70bbuC7UP4)
+- [Save on Azure SQL with Azure Hybrid Benefit](https://www.youtube.com/watch?v=T70bbuC7UP4)
 - [Control AI Services with Azure API Management](https://www.youtube.com/watch?v=yYt1-a7RocU)
 - [Headlamp - Your Kubernetes UI focused on extensibility](https://www.youtube.com/watch?v=2I71_49AxDs)
 - [Headlamp - Your Kubernetes UI focused on extensibility](https://www.youtube.com/watch?v=0AFvS9nxFE8)
