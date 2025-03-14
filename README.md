@@ -81,9 +81,9 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEAPPMOD:START -->
 - [A 10x faster TypeScript](https://www.youtube.com/watch?v=e2FgESRT_8I)
 - [How can I access third-party native libraries like Firebase in my .NET MAUI apps?](https://www.youtube.com/watch?v=Fn5DldcOr28)
-- [Deploy an App to AKS using Helm](https://www.youtube.com/watch?v=WJz4v0fwqZU)
-- [Add Azure Cache for Redis to an App](https://www.youtube.com/watch?v=RbACdpzW1fs)
-- [Set token limits for your GenAI APIs](https://www.youtube.com/watch?v=B7w9WW1gaYM)
+- [GitHub Copilot for Azure: Deploy an app to AKS using Helm](https://www.youtube.com/watch?v=WJz4v0fwqZU)
+- [GitHub Copilot for Azure: Add Azure cache for Redis to an app](https://www.youtube.com/watch?v=RbACdpzW1fs)
+- [GitHub Copilot for Azure: Set token limits for your GenAI APIs](https://www.youtube.com/watch?v=B7w9WW1gaYM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
