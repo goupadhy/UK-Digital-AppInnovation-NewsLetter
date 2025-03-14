@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Unlock the Potential of Copilot Studio - Power CAT AI Webinar](https://www.youtube.com/watch?v=UJBx_zAd3Fg)
 - [Power Pages 2025 Release Wave 1 Release Highlights](https://www.youtube.com/watch?v=sHmqZwJZ_Mo)
 - [Enhance data accuracy with choice columns | Power Platform Shorts](https://www.youtube.com/watch?v=vuzyrwEmBew)
 - [Who&#39;s Using Copilot? | Eneco](https://www.youtube.com/watch?v=ablNwQDNbiE)
 - [Create and utilize reusable functions | Power Platform Shorts](https://www.youtube.com/watch?v=GJzbDR2mK1Q)
-- [Who&#39;s Using Copilot? | HYPE Customer Story](https://www.youtube.com/watch?v=nD9YZjARVWk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
