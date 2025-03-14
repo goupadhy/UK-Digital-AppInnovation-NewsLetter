@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Highlights from Git 2.49](https://github.blog/open-source/git/highlights-from-git-2-49/)
 - [How GitHub engineers learn new codebases](https://github.blog/developer-skills/application-development/how-github-engineers-learn-new-codebases/)
 - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 - [GitHub Availability Report: February 2025](https://github.blog/news-insights/company-news/github-availability-report-february-2025/)
 - [Why Java endures: The foundation of modern enterprise development](https://github.blog/developer-skills/why-java-endures-the-foundation-of-modern-enterprise-development/)
-- [Full exposure: A practical approach to handling sensitive data leaks](https://github.blog/security/full-exposure-a-practical-approach-to-handling-sensitive-data-leaks/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
