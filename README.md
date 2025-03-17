@@ -25,8 +25,8 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Azure Functions with OpenAI Extension](https://www.youtube.com/watch?v=BRPxGi--REU)
-- [Deploy an AI RAG App to ACA using AZD](https://www.youtube.com/watch?v=jX1fa9r5gqE)
+- [GitHub Copilot for Azure: Azure Functions with OpenAI Extension](https://www.youtube.com/watch?v=BRPxGi--REU)
+- [GitHub Copilot for Azure: Deploy an AI RAG App to ACA using AZD](https://www.youtube.com/watch?v=jX1fa9r5gqE)
 - [A 10x faster TypeScript](https://www.youtube.com/watch?v=e2FgESRT_8I)
 - [How can I access third-party native libraries like Firebase in my .NET MAUI apps?](https://www.youtube.com/watch?v=Fn5DldcOr28)
 - [GitHub Copilot for Azure: Deploy an app to AKS using Helm](https://www.youtube.com/watch?v=WJz4v0fwqZU)
