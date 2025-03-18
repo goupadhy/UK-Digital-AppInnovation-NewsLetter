@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=efWxH4j46mk)
+- [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=SAScGJLHdSA)
+- [Build Your Own Health Coach Agents with Govind Kamtamneni, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=0bGLgmZJ6DE)
 - [GitHub Copilot for Azure: Azure Functions with OpenAI Extension](https://www.youtube.com/watch?v=BRPxGi--REU)
 - [GitHub Copilot for Azure: Deploy an AI RAG App to ACA using AZD](https://www.youtube.com/watch?v=jX1fa9r5gqE)
-- [A 10x faster TypeScript](https://www.youtube.com/watch?v=e2FgESRT_8I)
-- [How can I access third-party native libraries like Firebase in my .NET MAUI apps?](https://www.youtube.com/watch?v=Fn5DldcOr28)
-- [GitHub Copilot for Azure: Deploy an app to AKS using Helm](https://www.youtube.com/watch?v=WJz4v0fwqZU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
