@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AI on the Go for Microsoft Partners: Telecom](https://www.youtube.com/watch?v=uFSIGIhG6kk)
 - [AI on the Go for Microsoft Partners: Healthcare](https://www.youtube.com/watch?v=psf6_PzsMJg)
 - [AI Challenger | Eaton uses AI to Reshape Operations and Customer Service](https://www.youtube.com/watch?v=bhgvHWpe7WA)
 - [Transform Your Business with Microsoft AI](https://www.youtube.com/watch?v=Ae5BeG3wkZg)
 - [AI Challenger | ABB uses AI to unlock the future of industry](https://www.youtube.com/watch?v=1AW3bgj7NWA)
-- [Making investments to help partners unite through the commercial marketplace](https://www.youtube.com/watch?v=B6GyTda9tQE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
