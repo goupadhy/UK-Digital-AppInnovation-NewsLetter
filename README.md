@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Journey 3: Optimize Your Vector Index for Scale](https://www.youtube.com/watch?v=J3eDgwS8wpo)
+- [MVVM is hard How do I make it easier?](https://www.youtube.com/watch?v=Ewpf3z1mSvM)
 - [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=efWxH4j46mk)
 - [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=SAScGJLHdSA)
 - [Build Your Own Health Coach Agents with Govind Kamtamneni, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=0bGLgmZJ6DE)
-- [GitHub Copilot for Azure: Azure Functions with OpenAI Extension](https://www.youtube.com/watch?v=BRPxGi--REU)
-- [GitHub Copilot for Azure: Deploy an AI RAG App to ACA using AZD](https://www.youtube.com/watch?v=jX1fa9r5gqE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
