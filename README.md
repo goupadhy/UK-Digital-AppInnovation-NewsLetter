@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How are you using AI in your day-to-day .NET MAUI development?](https://www.youtube.com/watch?v=Igmer9kbEM8)
 - [Journey 3: Optimize Your Vector Index for Scale](https://www.youtube.com/watch?v=J3eDgwS8wpo)
 - [MVVM is hard How do I make it easier?](https://www.youtube.com/watch?v=Ewpf3z1mSvM)
 - [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=efWxH4j46mk)
 - [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=SAScGJLHdSA)
-- [Build Your Own Health Coach Agents with Govind Kamtamneni, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=0bGLgmZJ6DE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
