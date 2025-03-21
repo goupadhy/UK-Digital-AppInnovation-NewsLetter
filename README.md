@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Reduce risk and drive innovation with Azure Essentials](https://www.youtube.com/watch?v=uCQRivBwQP8)
 - [How are you using AI in your day-to-day .NET MAUI development?](https://www.youtube.com/watch?v=Igmer9kbEM8)
 - [Journey 3: Optimize Your Vector Index for Scale](https://www.youtube.com/watch?v=J3eDgwS8wpo)
 - [MVVM is hard How do I make it easier?](https://www.youtube.com/watch?v=Ewpf3z1mSvM)
 - [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=efWxH4j46mk)
-- [Deep dive on Inspektor Gadget](https://www.youtube.com/watch?v=SAScGJLHdSA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
