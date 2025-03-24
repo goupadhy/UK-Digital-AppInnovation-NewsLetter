@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Generate data tables with Plan Designer | Power Platform Shorts](https://www.youtube.com/watch?v=_EO5hIv9BEo)
 - [Who&#39;s Using Copilot? | ABN AMRO Bank Customer Story](https://www.youtube.com/watch?v=Z--FYJDGxFs)
 - [What are Agents?](https://www.youtube.com/watch?v=wiEXRtJU-3o)
 - [Where Agents Meet Opportunity - Power CAT AI Webinar](https://www.youtube.com/watch?v=5GwBpFSIQ_g)
 - [Install featured agents from Microsoft | Power Platform Shorts](https://www.youtube.com/watch?v=8cXvX3EXV_Y)
-- [Create reusable component collections | Power Platform Shorts](https://www.youtube.com/watch?v=lMowrlwpHfU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
