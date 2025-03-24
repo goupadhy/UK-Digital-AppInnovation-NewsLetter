@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Inside Microsoft Dev Box: Scalable Cloud Development](https://www.youtube.com/watch?v=qT_6bnbMtbs)
-- [What are the origins of async/await in C#?](https://www.youtube.com/watch?v=MtDdO9YXgq0)
-- [Reduce risk and drive innovation with Azure Essentials](https://www.youtube.com/watch?v=uCQRivBwQP8)
-- [How are you using AI in your day-to-day .NET MAUI development?](https://www.youtube.com/watch?v=Igmer9kbEM8)
-- [Journey 3: Optimize Your Vector Index for Scale](https://www.youtube.com/watch?v=J3eDgwS8wpo)
+- [What Is the Agent Tool Use Design Pattern?](https://www.youtube.com/watch?v=vieRiPRx-gI)
+- [How to design good AI agents](https://www.youtube.com/watch?v=m9lM8qqoOEA)
+- [How to build effective AI agents](https://www.youtube.com/watch?v=iZKkMEGBCUQ)
+- [How to deploy AI agents into production](https://www.youtube.com/watch?v=l4TP6IyJxmQ)
+- [What Is the AI Agent Planning Design Pattern?](https://www.youtube.com/watch?v=kPfJ2BrBCMY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
