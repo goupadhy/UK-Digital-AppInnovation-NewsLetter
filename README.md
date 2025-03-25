@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Armchair Architects: Enterprise Security and Governance &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=nlXrHux5Ej4)
+- [Armchair Architects: Enterprise Security and Governance &lpar;pt 1&rpar;](https://www.youtube.com/watch?v=o5ZPsrpQQ60)
 - [What Is the Agent Tool Use Design Pattern?](https://www.youtube.com/watch?v=vieRiPRx-gI)
 - [How to design good AI agents](https://www.youtube.com/watch?v=m9lM8qqoOEA)
 - [How to build effective AI agents](https://www.youtube.com/watch?v=iZKkMEGBCUQ)
-- [How to deploy AI agents into production](https://www.youtube.com/watch?v=l4TP6IyJxmQ)
-- [What Is the AI Agent Planning Design Pattern?](https://www.youtube.com/watch?v=kPfJ2BrBCMY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
