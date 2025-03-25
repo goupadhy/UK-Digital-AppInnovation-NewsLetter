@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [FABRICate SQL database with dbt | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Xx8ZSnCpoao)
 - [Armchair Architects: Enterprise Security and Governance &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=nlXrHux5Ej4)
 - [Armchair Architects: Enterprise Security and Governance &lpar;pt 1&rpar;](https://www.youtube.com/watch?v=o5ZPsrpQQ60)
 - [What Is the Agent Tool Use Design Pattern?](https://www.youtube.com/watch?v=vieRiPRx-gI)
 - [How to design good AI agents](https://www.youtube.com/watch?v=m9lM8qqoOEA)
-- [How to build effective AI agents](https://www.youtube.com/watch?v=iZKkMEGBCUQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
