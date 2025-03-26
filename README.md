@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Revolutionizing Voice with GenAI on Azure](https://www.youtube.com/watch?v=0sqgYfLCug0)
 - [Journey 4: RAG for All Your Data: Multimodal and Beyond](https://www.youtube.com/watch?v=OFuO9sI5BQc)
 - [FABRICate SQL database with dbt | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Xx8ZSnCpoao)
 - [Armchair Architects: Enterprise Security and Governance &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=nlXrHux5Ej4)
 - [Armchair Architects: Enterprise Security and Governance &lpar;pt 1&rpar;](https://www.youtube.com/watch?v=o5ZPsrpQQ60)
-- [What Is the Agent Tool Use Design Pattern?](https://www.youtube.com/watch?v=vieRiPRx-gI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
