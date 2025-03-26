@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Generate user roles and user stories | Power Platform Shorts](https://www.youtube.com/watch?v=TxPnhXfqLus)
 - [Join us for the Microsoft Copilot Studio AMA coming soon!](https://www.youtube.com/watch?v=haJpbqBAIQM)
 - [Generate data tables with Plan Designer | Power Platform Shorts](https://www.youtube.com/watch?v=_EO5hIv9BEo)
 - [Who&#39;s Using Copilot? | ABN AMRO Bank Customer Story](https://www.youtube.com/watch?v=Z--FYJDGxFs)
 - [What are Agents?](https://www.youtube.com/watch?v=wiEXRtJU-3o)
-- [Where Agents Meet Opportunity - Power CAT AI Webinar](https://www.youtube.com/watch?v=5GwBpFSIQ_g)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
