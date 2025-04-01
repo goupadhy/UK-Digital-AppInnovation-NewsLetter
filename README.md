@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure AI Talk and Watch, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=HMY4cy30k6I)
 - [Perf Dashboard in Fabric SQL DB | Data Exposed](https://www.youtube.com/watch?v=F0WDEp8UHmI)
 - [Revolutionizing Voice with GenAI on Azure](https://www.youtube.com/watch?v=0sqgYfLCug0)
 - [Journey 4: RAG for All Your Data: Multimodal and Beyond](https://www.youtube.com/watch?v=OFuO9sI5BQc)
 - [FABRICate SQL database with dbt | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Xx8ZSnCpoao)
-- [Armchair Architects: Enterprise Security and Governance &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=nlXrHux5Ej4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
