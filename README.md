@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Create and Publish Agents for Microsoft 365 in Office 365 | Copilot Studio](https://www.youtube.com/watch?v=Fyzme9ulh9g)
+- [Create and Publish Agents in Copilot Chat using Copilot Studio | Copilot Studio](https://www.youtube.com/watch?v=Fyzme9ulh9g)
 - [Notes configuration for basic forms | Power Platform Shorts](https://www.youtube.com/watch?v=p0iywxkvNwo)
 - [Enable rich text editor | Power Platform Shorts](https://www.youtube.com/watch?v=d3cU_T7y59Q)
 - [Kickstart Your Microsoft Copilot Studio](https://www.youtube.com/watch?v=v1viJ2j_NO4)
