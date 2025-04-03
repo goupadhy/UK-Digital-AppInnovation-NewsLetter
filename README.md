@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Notes configuration for basic forms | Power Platform Shorts](https://www.youtube.com/watch?v=p0iywxkvNwo)
 - [Enable rich text editor | Power Platform Shorts](https://www.youtube.com/watch?v=d3cU_T7y59Q)
 - [Kickstart Your Microsoft Copilot Studio](https://www.youtube.com/watch?v=v1viJ2j_NO4)
 - [Introducing Model Context Protocol &lpar;MCP&rpar; in Copilot Studio](https://www.youtube.com/watch?v=GNfQM88Vthc)
 - [Generate user roles and user stories | Power Platform Shorts](https://www.youtube.com/watch?v=TxPnhXfqLus)
-- [Join us for the Microsoft Copilot Studio AMA coming soon!](https://www.youtube.com/watch?v=haJpbqBAIQM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
