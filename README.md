@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Safeguard your people, health data and infrastructure](https://www.youtube.com/watch?v=NmTv5iWY8mE)
 - [Enhance patient and member experiences](https://www.youtube.com/watch?v=ZJm0UcSEwxU)
 - [Microsoft Cloud for Manufacturing: Partners make more possible](https://www.youtube.com/watch?v=NY6M3EZdXBc)
 - [Unlock value from clinical and operational data](https://www.youtube.com/watch?v=G9nyHbPdr2U)
 - [AI on the Go for Microsoft Partners: Energy](https://www.youtube.com/watch?v=93F__0rpTG8)
-- [Boost Factory Efficiency with Factory Operations Agent](https://www.youtube.com/watch?v=6tQqsb1uj-k)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
