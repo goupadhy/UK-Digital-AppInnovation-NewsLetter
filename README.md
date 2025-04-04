@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Lead Blocker Introduced in Performance Dashboard for SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=BUJHvbsIZPA)
 - [New features in DMS extension - Azure SQL Migration v1.5.6  | Data Exposed](https://www.youtube.com/watch?v=vcARriCDj80)
 - [Journey 5: Hero Use Cases for RAG](https://www.youtube.com/watch?v=-yyONUB5b88)
 - [What is the first thing I should do when starting a .NET MAUI project?](https://www.youtube.com/watch?v=KRvnDobyagE)
 - [Azure AI Talk and Watch, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=HMY4cy30k6I)
-- [Perf Dashboard in Fabric SQL DB | Data Exposed](https://www.youtube.com/watch?v=F0WDEp8UHmI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
