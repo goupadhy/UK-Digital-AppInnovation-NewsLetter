@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 - [Localhost dangers: CORS and DNS rebinding](https://github.blog/security/application-security/localhost-dangers-cors-and-dns-rebinding/)
 - [GitHub found 39M secret leaks in 2024. Here&#8217;s what we&#8217;re doing to help](https://github.blog/security/application-security/next-evolution-github-advanced-security/)
 - [GitHub for Beginners: How to get LLMs to do what you want](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-llms-to-do-what-you-want/)
 - [5 GitHub Actions every maintainer needs to know](https://github.blog/open-source/maintainers/5-github-actions-every-maintainer-needs-to-know/)
-- [How engineers can use one-on-ones with their manager to accelerate career growth](https://github.blog/developer-skills/career-growth/how-engineers-can-use-one-on-ones-with-their-manager-to-accelerate-career-growth/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
