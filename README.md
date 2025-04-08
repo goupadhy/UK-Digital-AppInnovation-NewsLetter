@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft Cloud for Healthcare Overview Video](https://www.youtube.com/watch?v=ju7-s7Sb8Yg)
 - [Empower your healthcare workforce](https://www.youtube.com/watch?v=WLwRRsCrBXs)
 - [Safeguard your people, health data and infrastructure](https://www.youtube.com/watch?v=NmTv5iWY8mE)
 - [Enhance patient and member experiences](https://www.youtube.com/watch?v=ZJm0UcSEwxU)
 - [Microsoft Cloud for Manufacturing: Partners make more possible](https://www.youtube.com/watch?v=NY6M3EZdXBc)
-- [Unlock value from clinical and operational data](https://www.youtube.com/watch?v=G9nyHbPdr2U)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
