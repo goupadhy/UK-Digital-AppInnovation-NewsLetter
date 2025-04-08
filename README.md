@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Secure Software Development Lifecycle &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=6V7eRgFF5tM)
+- [Armchair Architects: Secure Software Development Lifecycle &lpar;pt 1&rpar;](https://www.youtube.com/watch?v=H-AtJx9PYLE)
 - [New features in DMS extension - Azure SQL Migration v1.5.6  | Data Exposed](https://www.youtube.com/watch?v=vcARriCDj80)
 - [Journey 5: Hero Use Cases for RAG](https://www.youtube.com/watch?v=-yyONUB5b88)
 - [What is the first thing I should do when starting a .NET MAUI project?](https://www.youtube.com/watch?v=KRvnDobyagE)
-- [Azure AI Talk and Watch, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=HMY4cy30k6I)
-- [Perf Dashboard in Fabric SQL DB | Data Exposed](https://www.youtube.com/watch?v=F0WDEp8UHmI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
