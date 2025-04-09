@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What is GraphQL used for in SQL database in Fabric?](https://www.youtube.com/watch?v=Cmi4jzaYdPw)
+- [What is GraphQL used for in SQL database in Fabric?](https://www.youtube.com/watch?v=r7Bg2_QfVrE)
 - [Build a Smart Contact Center with Azure Communication Services and OpenAI with Hieu Nguyen Nhu](https://www.youtube.com/watch?v=p44C1H6Ahgk)
 - [Armchair Architects: Secure Software Development Lifecycle &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=6V7eRgFF5tM)
 - [Armchair Architects: Secure Software Development Lifecycle &lpar;pt 1&rpar;](https://www.youtube.com/watch?v=H-AtJx9PYLE)
-- [New features in DMS extension - Azure SQL Migration v1.5.6  | Data Exposed](https://www.youtube.com/watch?v=vcARriCDj80)
-- [Journey 5: Hero Use Cases for RAG](https://www.youtube.com/watch?v=-yyONUB5b88)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
