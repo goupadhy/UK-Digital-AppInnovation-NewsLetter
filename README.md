@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Platform Community AMA: Microsoft Copilot Studio | April 2025](https://www.youtube.com/watch?v=-8y-4nDefDc)
 - [Create and Publish Agents in Copilot Chat using Copilot Studio](https://www.youtube.com/watch?v=Y2KUi_wuKC0)
 - [Extend your agent with Model Context Protocol | Power Platform Shorts](https://www.youtube.com/watch?v=MaMUWK-wMQk)
 - [Agents with enterprise Knowledge from Snowflake](https://www.youtube.com/watch?v=2dqXUtPTGL0)
 - [Power Apps Pulse March 2025](https://www.youtube.com/watch?v=TRmtgIRwInY)
-- [Notes configuration for basic forms | Power Platform Shorts](https://www.youtube.com/watch?v=p0iywxkvNwo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
