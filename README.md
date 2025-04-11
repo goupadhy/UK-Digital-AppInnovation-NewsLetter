@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How can I learn more about distributed cloud applications?](https://www.youtube.com/watch?v=ESw8I3yjkEs)
 - [Azure SQL Database Hyperscale: Elevating Performance with Continuous Priming | Data Exposed](https://www.youtube.com/watch?v=9AfmK2VLp8M)
 - [Why would I add vectors to a relational database?](https://www.youtube.com/watch?v=vHhKEN7Ru_k)
 - [Why would I add vectors to a relational database?](https://www.youtube.com/watch?v=ja4zVc-f-GI)
 - [What is GraphQL used for in SQL database in Fabric?](https://www.youtube.com/watch?v=Cmi4jzaYdPw)
-- [What is GraphQL used for in SQL database in Fabric?](https://www.youtube.com/watch?v=r7Bg2_QfVrE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
