@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Introducing sub-issues: Enhancing issue management on GitHub](https://github.blog/engineering/architecture-optimization/introducing-sub-issues-enhancing-issue-management-on-github/)
 - [What the heck is MCP and why is everyone talking about it?](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/)
 - [How we’re making security easier for the average developer](https://github.blog/security/application-security/how-were-making-security-easier-for-the-average-developer/)
 - [How to request a change to a CVE record](https://github.blog/security/vulnerability-research/how-to-request-a-change-to-a-cve-record/)
 - [Found means fixed: Reduce security debt at scale with GitHub security campaigns](https://github.blog/security/application-security/found-means-fixed-reduce-security-debt-at-scale-with-github-security-campaigns/)
-- [Git turns 20: A Q&#038;A with Linus Torvalds](https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
