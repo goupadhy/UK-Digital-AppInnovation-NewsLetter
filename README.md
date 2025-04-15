@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Responsible AI &amp; Synthetic Data with April Speight, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=Bd7g3Uasdn0)
 - [Cilium: Scaling and Securing Kubernetes Networking with eBPF](https://www.youtube.com/watch?v=hIX_A7LqUJE)
 - [Cilium: Scaling and Securing Kubernetes Networking with eBPF](https://www.youtube.com/watch?v=4jxduD0BcGA)
 - [GitHub Copilot for Azure: Add Semantic Cache to Azure API Management](https://www.youtube.com/watch?v=zZCHHdCECGU)
 - [How can I learn more about distributed cloud applications?](https://www.youtube.com/watch?v=ESw8I3yjkEs)
-- [Azure SQL Database Hyperscale: Elevating Performance with Continuous Priming | Data Exposed](https://www.youtube.com/watch?v=9AfmK2VLp8M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
