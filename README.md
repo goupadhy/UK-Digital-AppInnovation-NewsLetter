@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Cilium: Scaling and Securing Kubernetes Networking with eBPF](https://www.youtube.com/watch?v=hIX_A7LqUJE)
+- [Cilium: Scaling and Securing Kubernetes Networking with eBPF](https://www.youtube.com/watch?v=4jxduD0BcGA)
 - [GitHub Copilot for Azure: Add Semantic Cache to Azure API Management](https://www.youtube.com/watch?v=zZCHHdCECGU)
 - [How can I learn more about distributed cloud applications?](https://www.youtube.com/watch?v=ESw8I3yjkEs)
 - [Azure SQL Database Hyperscale: Elevating Performance with Continuous Priming | Data Exposed](https://www.youtube.com/watch?v=9AfmK2VLp8M)
-- [Why would I add vectors to a relational database?](https://www.youtube.com/watch?v=vHhKEN7Ru_k)
-- [Why would I add vectors to a relational database?](https://www.youtube.com/watch?v=ja4zVc-f-GI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
