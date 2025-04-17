@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Enable maker welcome content | Power Platform Shorts](https://www.youtube.com/watch?v=AcUsL4bZrho)
 - [Environment routing | Power Platform Shorts](https://www.youtube.com/watch?v=pvb9_mkiSYI)
 - [From manual to automated: Grupo Bimbo embraces Microsoft Power Platform](https://www.youtube.com/watch?v=118HvUBDDqc)
 - [ABN AMRO Bank migrates to Microsoft Copilot Studio](https://www.youtube.com/watch?v=BszqCjg9f6U)
 - [Unlocking the Power of Transactions in Power Fx Functions](https://www.youtube.com/watch?v=m6GbQDZ4pas)
-- [Use prompts to make your agent perform specific tasks | Power Platform Shorts](https://www.youtube.com/watch?v=oUeEkZNrcxo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
