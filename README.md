@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Elevating SQL Development with the Enhanced MSSQL Extension for VS Code | Data Exposed](https://www.youtube.com/watch?v=zFgJespwu9A)
+- [Azure AI Content Understanding: How to Get Started](https://www.youtube.com/watch?v=kYwq9HNVj1s)
+- [RAG on Video using Azure AI Content Understanding](https://www.youtube.com/watch?v=fafneWnT2kw)
+- [Post-call analytics using Azure AI Content Understanding](https://www.youtube.com/watch?v=bVAhBA_gjuw)
 - [How can I monitor my capacity and usage for SQL Database in Fabric?](https://www.youtube.com/watch?v=ODGSkXBsnC8)
-- [How can I monitor my capacity and usage for SQL Database in Fabric?](https://www.youtube.com/watch?v=pO-Lsriritc)
-- [Responsible AI &amp; Synthetic Data with April Speight, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=Bd7g3Uasdn0)
-- [Cilium: Scaling and Securing Kubernetes Networking with eBPF](https://www.youtube.com/watch?v=hIX_A7LqUJE)
-- [Cilium: Scaling and Securing Kubernetes Networking with eBPF](https://www.youtube.com/watch?v=4jxduD0BcGA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
