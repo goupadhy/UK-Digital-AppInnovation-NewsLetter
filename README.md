@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [How to make your images in Markdown on GitHub adjust for dark mode and light mode](https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/)
 - [Cracking the code: How to wow the acceptance committee at your next tech event](https://github.blog/developer-skills/career-growth/cracking-the-code-how-to-wow-the-acceptance-committee-at-your-next-tech-event/)
 - [Which AI model should I use with GitHub Copilot?](https://github.blog/ai-and-ml/github-copilot/which-ai-model-should-i-use-with-github-copilot/)
 - [GitHub Availability Report: March 2025](https://github.blog/news-insights/company-news/github-availability-report-march-2025/)
 - [When to choose GitHub-Hosted runners or self-hosted runners with GitHub Actions](https://github.blog/enterprise-software/ci-cd/when-to-choose-github-hosted-runners-or-self-hosted-runners-with-github-actions/)
+- [GitHub for Beginners: Security best practices with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-security-best-practices-with-github-copilot/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
