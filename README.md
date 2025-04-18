@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AI Challenger | AvePoint uses AI to transform their business inside and out](https://www.youtube.com/watch?v=ioXJEEZgLfc)
 - [Power your AI transformation with Microsoft for Consumer Goods](https://www.youtube.com/watch?v=Pwujsn-mKWg)
 - [Accelerate research, discovery, and development](https://www.youtube.com/watch?v=v_vxP1ckAIk)
 - [Microsoft Cloud for Healthcare Overview Video](https://www.youtube.com/watch?v=ju7-s7Sb8Yg)
 - [Empower your healthcare workforce](https://www.youtube.com/watch?v=WLwRRsCrBXs)
-- [Safeguard your people, health data and infrastructure](https://www.youtube.com/watch?v=NmTv5iWY8mE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
