@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/16/preview-upcoming-dynamics-365-features-at-the-microsoft-business-applications-launch-event/)
 - [Identify your readiness for AI-first development with agents and Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2025/04/14/identify-your-readiness-for-ai-first-development-with-agents-and-microsoft-power-platform/)
 - [Elevate your Microsoft Power Platform development experience with Power CAT Tools ](https://www.microsoft.com/en-us/power-platform/blog/2025/03/04/elevate-your-microsoft-power-platform-development-experience-with-power-cat-tools/)
 - [2025 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Copilot offerings](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/01/23/2025-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-copilot-offerings/)
 - [Redefine development: AI-first innovation with agents and Microsoft Copilot in Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2024/11/19/redefine-development-ai-first-innovation-with-agents-and-microsoft-copilot-in-power-platform/)
-- [2024 release wave 2 launches with hundreds of Copilot capabilities](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/29/2024-release-wave-2-launches-with-hundreds-of-copilot-capabilities/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
