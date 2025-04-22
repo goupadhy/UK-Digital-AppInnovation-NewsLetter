@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Automating Container Patching with Copacetic and GitHub Actions](https://www.youtube.com/watch?v=YR61GnAA4As)
+- [Automating Container Patching with Copacetic and GitHub Actions](https://www.youtube.com/watch?v=LBJFh1zfHjg)
 - [Armchair Architects: API and Endpoint Security](https://www.youtube.com/watch?v=0SNsdCgYXo0)
 - [Elevating SQL Development with the Enhanced MSSQL Extension for VS Code | Data Exposed](https://www.youtube.com/watch?v=zFgJespwu9A)
 - [Azure AI Content Understanding: How to Get Started](https://www.youtube.com/watch?v=kYwq9HNVj1s)
-- [RAG on Video using Azure AI Content Understanding](https://www.youtube.com/watch?v=fafneWnT2kw)
-- [Post-call analytics using Azure AI Content Understanding](https://www.youtube.com/watch?v=bVAhBA_gjuw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
