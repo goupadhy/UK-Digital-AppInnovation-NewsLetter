@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=HaPhR9vymQE)
+- [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=TO24EzojgfM)
 - [Manage Azure OpenAI Service Provisioned Reservations](https://www.youtube.com/watch?v=o5hCnWfqAzc)
 - [Monitor Azure OpenAI Service Provisioned Reservations](https://www.youtube.com/watch?v=TBL03TBZR2I)
 - [Multi-Agent Custom Automation Engine with Loren Henderson](https://www.youtube.com/watch?v=8bjdA8s3rFI)
-- [Automating Container Patching with Copacetic and GitHub Actions](https://www.youtube.com/watch?v=YR61GnAA4As)
-- [Automating Container Patching with Copacetic and GitHub Actions](https://www.youtube.com/watch?v=LBJFh1zfHjg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
