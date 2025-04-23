@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Leave Management agent | Power Platform Shorts](https://www.youtube.com/watch?v=spxTdejgdGI)
+- [Evolving AI Governance - Power CAT AI Webinars](https://www.youtube.com/watch?v=CAB6C3MM9bA)
+- [Navigating AI Risks - Power CAT AI Webinars](https://www.youtube.com/watch?v=Gy1bce2HjF0)
 - [Wellness Check agent | Power Platform Shorts](https://www.youtube.com/watch?v=jR3pVMmZxR0)
 - [Enable maker welcome content | Power Platform Shorts](https://www.youtube.com/watch?v=AcUsL4bZrho)
-- [Environment routing | Power Platform Shorts](https://www.youtube.com/watch?v=pvb9_mkiSYI)
-- [From manual to automated: Grupo Bimbo embraces Microsoft Power Platform](https://www.youtube.com/watch?v=118HvUBDDqc)
-- [ABN AMRO Bank migrates to Microsoft Copilot Studio](https://www.youtube.com/watch?v=BszqCjg9f6U)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
