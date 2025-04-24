@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Fabric Data Engineer Certification](https://www.youtube.com/watch?v=Id3w6H0w_bY)
 - [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=HaPhR9vymQE)
 - [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=TO24EzojgfM)
 - [Manage Azure OpenAI Service Provisioned Reservations](https://www.youtube.com/watch?v=o5hCnWfqAzc)
 - [Monitor Azure OpenAI Service Provisioned Reservations](https://www.youtube.com/watch?v=TBL03TBZR2I)
-- [Multi-Agent Custom Automation Engine with Loren Henderson](https://www.youtube.com/watch?v=8bjdA8s3rFI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
