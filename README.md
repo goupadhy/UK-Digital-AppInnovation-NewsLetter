@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL MI pools: optimize costs with small 2-vcore instances | Data Exposed](https://www.youtube.com/watch?v=Ru_rh_E9C9w)
 - [How can I learn more about .NET Aspire?](https://www.youtube.com/watch?v=U-riUtvSTsw)
 - [Microsoft Fabric Data Engineer Certification](https://www.youtube.com/watch?v=Id3w6H0w_bY)
 - [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=HaPhR9vymQE)
 - [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=TO24EzojgfM)
-- [Manage Azure OpenAI Service Provisioned Reservations](https://www.youtube.com/watch?v=o5hCnWfqAzc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
