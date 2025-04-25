@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Windows Server Migration &amp; Skilling](https://www.youtube.com/watch?v=8jSz6mCjP70)
 - [SQL MI pools: optimize costs with small 2-vcore instances | Data Exposed](https://www.youtube.com/watch?v=Ru_rh_E9C9w)
 - [How can I learn more about .NET Aspire?](https://www.youtube.com/watch?v=U-riUtvSTsw)
 - [Microsoft Fabric Data Engineer Certification](https://www.youtube.com/watch?v=Id3w6H0w_bY)
 - [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=HaPhR9vymQE)
-- [How can I explore SQL Database in Fabric with no initial costs?](https://www.youtube.com/watch?v=TO24EzojgfM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
