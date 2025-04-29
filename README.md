@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build GenAI Apps with Azure Cosmos DB](https://www.youtube.com/watch?v=jMWAGeSK-sM)
 - [Wordle and AI, with Jennifer Marsman on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=yxc4Nt37New)
 - [Conversational AI Meets SQL Server: Real-Time Orchestration with LangGraph and LangChain](https://www.youtube.com/watch?v=LpuGSuR5AnU)
 - [Spin and SpinKube: Bringing Serverless WebAssembly into Kubernetes](https://www.youtube.com/watch?v=GET_Bgigu80)
 - [Spin and SpinKube: Bringing Serverless WebAssembly into Kubernetes](https://www.youtube.com/watch?v=1KY74cb_Mfk)
-- [Windows Server Migration &amp; Skilling](https://www.youtube.com/watch?v=8jSz6mCjP70)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
