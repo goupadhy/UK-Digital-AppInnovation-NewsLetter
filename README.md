@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What is Mirrored data in SQL database in Fabric?](https://www.youtube.com/watch?v=xnl6Vnr7l8E)
+- [What is Mirrored data in SQL database in Fabric?](https://www.youtube.com/watch?v=6ctHZBDok34)
 - [Enhancing user efficiency in Power Platform model-driven apps with UX tools from Magnetism](https://www.youtube.com/watch?v=kA77ecFgXK4)
 - [Build GenAI Apps with Azure Cosmos DB](https://www.youtube.com/watch?v=jMWAGeSK-sM)
 - [Wordle and AI, with Jennifer Marsman on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=yxc4Nt37New)
-- [Conversational AI Meets SQL Server: Real-Time Orchestration with LangGraph and LangChain](https://www.youtube.com/watch?v=LpuGSuR5AnU)
-- [Spin and SpinKube: Bringing Serverless WebAssembly into Kubernetes](https://www.youtube.com/watch?v=GET_Bgigu80)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
