@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [From MCP to multi-agents: The top 10 open source AI projects on GitHub right now and why they matter](https://github.blog/open-source/maintainers/from-mcp-to-multi-agents-the-top-10-open-source-ai-projects-on-github-right-now-and-why-they-matter/)
 - [Cutting through the noise: How to prioritize Dependabot alerts](https://github.blog/security/application-security/cutting-through-the-noise-how-to-prioritize-dependabot-alerts/)
 - [GitHub for Beginners: Building a REST API with Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-rest-api-with-copilot/)
 - [How the GitHub CLI can now enable triangular workflows](https://github.blog/open-source/git/how-the-github-cli-can-now-enable-triangular-workflows/)
 - [A guide to deciding what AI model to use in GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/a-guide-to-deciding-what-ai-model-to-use-in-github-copilot/)
-- [From prompt to production: Building a landing page with Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/from-prompt-to-production-building-a-landing-page-with-copilot-agent-mode/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
