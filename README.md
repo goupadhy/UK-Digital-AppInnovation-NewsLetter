@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Vector Support Public Preview in Azure SQL Database &amp; Managed Instance | Data Exposed](https://www.youtube.com/watch?v=LisIYAnzv_8)
 - [Azure Migration Benefits and Guidance](https://www.youtube.com/watch?v=6w7bwvG04BM)
 - [What is Mirrored data in SQL database in Fabric?](https://www.youtube.com/watch?v=xnl6Vnr7l8E)
 - [What is Mirrored data in SQL database in Fabric?](https://www.youtube.com/watch?v=6ctHZBDok34)
 - [Enhancing user efficiency in Power Platform model-driven apps with UX tools from Magnetism](https://www.youtube.com/watch?v=kA77ecFgXK4)
-- [Build GenAI Apps with Azure Cosmos DB](https://www.youtube.com/watch?v=jMWAGeSK-sM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
