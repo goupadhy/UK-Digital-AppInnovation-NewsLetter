@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [AI Builder consumption report | Power Platform Shorts](https://www.youtube.com/watch?v=Amp95Alv23Q)
+- [Power Apps Pulse April 2025](https://www.youtube.com/watch?v=H2Tmj8BvRP0)
 - [New Lab! Learn How to Connect MCP to Copilot Studio](https://www.youtube.com/watch?v=jG-XTzXxFCk)
 - [Monitor model activity | Power Platform Shorts](https://www.youtube.com/watch?v=1ahAlj2xFVo)
 - [Leave Management agent | Power Platform Shorts](https://www.youtube.com/watch?v=spxTdejgdGI)
-- [Evolving AI Governance - Power CAT AI Webinars](https://www.youtube.com/watch?v=CAB6C3MM9bA)
-- [Navigating AI Risks - Power CAT AI Webinars](https://www.youtube.com/watch?v=Gy1bce2HjF0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
