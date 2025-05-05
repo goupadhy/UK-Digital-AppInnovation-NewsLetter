@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Agents Intro Session - May 7 at 10am PST!](https://www.youtube.com/watch?v=-_JzY4xoCJE)
 - [AI Builder consumption report | Power Platform Shorts](https://www.youtube.com/watch?v=Amp95Alv23Q)
 - [Power Apps Pulse April 2025](https://www.youtube.com/watch?v=H2Tmj8BvRP0)
 - [New Lab! Learn How to Connect MCP to Copilot Studio](https://www.youtube.com/watch?v=jG-XTzXxFCk)
 - [Monitor model activity | Power Platform Shorts](https://www.youtube.com/watch?v=1ahAlj2xFVo)
-- [Leave Management agent | Power Platform Shorts](https://www.youtube.com/watch?v=spxTdejgdGI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
