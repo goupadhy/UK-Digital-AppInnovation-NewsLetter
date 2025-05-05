@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Build 2025 | Day 1 Keynote](https://www.youtube.com/watch?v=FKpszUwbZ48)
 - [Build a Well-Architected SaaS Solution](https://www.youtube.com/watch?v=fv5QPD8Hab0)
 - [What were the aspirations for .NET Aspire?](https://www.youtube.com/watch?v=R_uK7Tcg3BQ)
 - [What were the aspirations for .NET Aspire?](https://www.youtube.com/watch?v=tvqk95LDqq0)
 - [Vector Support Public Preview in Azure SQL Database &amp; Managed Instance | Data Exposed](https://www.youtube.com/watch?v=LisIYAnzv_8)
-- [Azure Migration Benefits and Guidance](https://www.youtube.com/watch?v=6w7bwvG04BM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
