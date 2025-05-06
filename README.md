@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Modernizing your Legacy Applications with Crowdbotics](https://www.youtube.com/watch?v=6tzZHQ7pWUY)
+- [KubeFleet: Multi-Cluster Kubernetes Application Management](https://www.youtube.com/watch?v=Q1g8JnftwyA)
+- [KubeFleet: Multi-Cluster Kubernetes Application Management](https://www.youtube.com/watch?v=GO-GWtLtWcc)
 - [Armchair Architects: Data Privacy and Data Security &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=IGV4fk2St2Y)
 - [Armchair Architects: Data Privacy and Data Security &lpar;pt 1&rpar;](https://www.youtube.com/watch?v=UvpDxVNszng)
-- [Build a Well-Architected SaaS Solution](https://www.youtube.com/watch?v=fv5QPD8Hab0)
-- [What were the aspirations for .NET Aspire?](https://www.youtube.com/watch?v=R_uK7Tcg3BQ)
-- [What were the aspirations for .NET Aspire?](https://www.youtube.com/watch?v=tvqk95LDqq0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
