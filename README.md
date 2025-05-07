@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do I track a database in source control?](https://www.youtube.com/watch?v=1YwJfo5ATUA)
+- [How do I track a database in source control?](https://www.youtube.com/watch?v=xzqpf0Nq06o)
 - [Modernizing your Legacy Applications with Crowdbotics](https://www.youtube.com/watch?v=6tzZHQ7pWUY)
 - [KubeFleet: Multi-Cluster Kubernetes Application Management](https://www.youtube.com/watch?v=Q1g8JnftwyA)
 - [KubeFleet: Multi-Cluster Kubernetes Application Management](https://www.youtube.com/watch?v=GO-GWtLtWcc)
-- [Armchair Architects: Data Privacy and Data Security &lpar;pt 2&rpar;](https://www.youtube.com/watch?v=IGV4fk2St2Y)
-- [Armchair Architects: Data Privacy and Data Security &lpar;pt 1&rpar;](https://www.youtube.com/watch?v=UvpDxVNszng)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
