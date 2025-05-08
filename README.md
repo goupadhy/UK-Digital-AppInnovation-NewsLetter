@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Ask Me Anything - May 14 at 10am PST!](https://www.youtube.com/watch?v=dtD6tD_TVRg)
 - [Initialize a variable | Power Platform Shorts](https://www.youtube.com/watch?v=WDjZkXbb-Ac)
 - [Increment variable | Power Platform Shorts](https://www.youtube.com/watch?v=vAfjz3zD9c4)
 - [Understanding Agents Intro Session - May 7 at 10am PST!](https://www.youtube.com/watch?v=-_JzY4xoCJE)
 - [AI Builder consumption report | Power Platform Shorts](https://www.youtube.com/watch?v=Amp95Alv23Q)
-- [Power Apps Pulse April 2025](https://www.youtube.com/watch?v=H2Tmj8BvRP0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
