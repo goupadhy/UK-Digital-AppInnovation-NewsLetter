@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What are you most excited about in .NET right now?](https://www.youtube.com/watch?v=bNJuA5EwAjA)
+- [Understanding SQL Managed Instance Mirroring in Fabric: The Key to Seamless Data Integration](https://www.youtube.com/watch?v=qYhCq6dUbAU)
 - [Elevating pro-code developers with GitHub Copilot and AI in Power Platform](https://www.youtube.com/watch?v=PMcXcMPXMlI)
 - [How do I track a database in source control?](https://www.youtube.com/watch?v=1YwJfo5ATUA)
 - [How do I track a database in source control?](https://www.youtube.com/watch?v=xzqpf0Nq06o)
-- [Modernizing your Legacy Applications with Crowdbotics](https://www.youtube.com/watch?v=6tzZHQ7pWUY)
-- [KubeFleet: Multi-Cluster Kubernetes Application Management](https://www.youtube.com/watch?v=Q1g8JnftwyA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
