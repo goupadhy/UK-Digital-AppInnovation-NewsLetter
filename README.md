@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Unlocking the Potential of AI with Copilot Studio: Power CAT AI Webinars](https://www.youtube.com/watch?v=_h3HVIueS68)
+- [Data Foundations for AI: Power CAT AI Webinars](https://www.youtube.com/watch?v=Ixxe106OHxs)
 - [Understanding Microsoft Agents | Community Call](https://www.youtube.com/watch?v=d9MX_uEUIIs)
 - [Power Apps Ask Me Anything - May 14 at 10am PST!](https://www.youtube.com/watch?v=dtD6tD_TVRg)
 - [Initialize a variable | Power Platform Shorts](https://www.youtube.com/watch?v=WDjZkXbb-Ac)
-- [Increment variable | Power Platform Shorts](https://www.youtube.com/watch?v=vAfjz3zD9c4)
-- [Understanding Agents Intro Session - May 7 at 10am PST!](https://www.youtube.com/watch?v=-_JzY4xoCJE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
