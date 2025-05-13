@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [VSCode AKS integration with KAITO](https://www.youtube.com/watch?v=zGQiLeJwLiQ)
 - [Where can I learn more designing and versioning HTTP/REST APIs?](https://www.youtube.com/watch?v=CVt9YuSaSkY)
 - [2025 Imagine Cup World Championship](https://www.youtube.com/watch?v=bLe4EcqA7D0)
 - [What are you most excited about in .NET right now?](https://www.youtube.com/watch?v=bNJuA5EwAjA)
 - [Understanding SQL Managed Instance Mirroring in Fabric: The Key to Seamless Data Integration](https://www.youtube.com/watch?v=qYhCq6dUbAU)
-- [Elevating pro-code developers with GitHub Copilot and AI in Power Platform](https://www.youtube.com/watch?v=PMcXcMPXMlI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
