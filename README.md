@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Why read Azure SQL Revealed 2nd edition?](https://www.youtube.com/watch?v=etK2q2MJT7o)
+- [Why read Azure SQL Revealed 2nd edition?](https://www.youtube.com/watch?v=7A7MAVVdOgY)
 - [Self-replicating AI Agents, with Evan Boyle, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=FS93NX8xW-Q)
 - [VSCode AKS integration with KAITO](https://www.youtube.com/watch?v=IrPhrq0mN4M)
 - [VSCode AKS integration with KAITO](https://www.youtube.com/watch?v=zGQiLeJwLiQ)
-- [Where can I learn more designing and versioning HTTP/REST APIs?](https://www.youtube.com/watch?v=CVt9YuSaSkY)
-- [2025 Imagine Cup World Championship](https://www.youtube.com/watch?v=bLe4EcqA7D0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
