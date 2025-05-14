@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Documentation done right: A developer’s guide](https://github.blog/developer-skills/documentation-done-right-a-developers-guide/)
 - [GitHub Issues search now supports nested queries and boolean operators: Here&#8217;s how we (re)built it](https://github.blog/developer-skills/application-development/github-issues-search-now-supports-nested-queries-and-boolean-operators-heres-how-we-rebuilt-it/)
 - [GitHub for Beginners: Building a React App with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-react-app-with-github-copilot/)
 - [Real‑world video demo: Using different AI models in GitHub Copilot](https://github.blog/ai-and-ml/real%e2%80%91world-video-demo-using-different-ai-models-in-github-copilot/)
 - [Design system annotations, part 2: Advanced methods of annotating components](https://github.blog/engineering/user-experience/design-system-annotations-part-2-advanced-methods-of-annotating-components/)
-- [Design system annotations, part 1: How accessibility gets left out of components](https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
