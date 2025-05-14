@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Final call for the Power Apps AMA - May 14 at 10am PST!](https://www.youtube.com/watch?v=O4jX55fqS0E)
-- [Understanding Microsoft Agents | Community Call](https://www.youtube.com/watch?v=FT-C0ESc7n4)
-- [Unlocking the Potential of AI with Copilot Studio: Power CAT AI Webinars](https://www.youtube.com/watch?v=_h3HVIueS68)
-- [Data Foundations for AI: Power CAT AI Webinars](https://www.youtube.com/watch?v=Ixxe106OHxs)
-- [Power Apps Ask Me Anything - May 14 at 10am PST!](https://www.youtube.com/watch?v=dtD6tD_TVRg)
+- [Demo of an Incident Triage autonomous agent | EP05](https://www.youtube.com/watch?v=unPrqi0e3iA)
+- [What is Copilot Studio and why you need it? | EP02](https://www.youtube.com/watch?v=H9cJ147Rs8g)
+- [Copilot Studio for Power Platform Makers | Course Intro](https://www.youtube.com/watch?v=LGvutTGw5zc)
+- [Wrapping up the demos | EP07](https://www.youtube.com/watch?v=N2v7xZjovs8)
+- [Demo of Deep Reasoning | EP06](https://www.youtube.com/watch?v=Glsulc2KmSM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
