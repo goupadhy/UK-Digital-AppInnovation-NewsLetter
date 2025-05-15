@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Demo of an Incident Triage autonomous agent | EP05](https://www.youtube.com/watch?v=unPrqi0e3iA)
-- [What is Copilot Studio and why you need it? | EP02](https://www.youtube.com/watch?v=H9cJ147Rs8g)
-- [Copilot Studio for Power Platform Makers | Course Intro](https://www.youtube.com/watch?v=LGvutTGw5zc)
-- [Wrapping up the demos | EP07](https://www.youtube.com/watch?v=N2v7xZjovs8)
-- [Demo of Deep Reasoning | EP06](https://www.youtube.com/watch?v=Glsulc2KmSM)
+- [IT FAQ and Services Agent | Building a Custom Conversational Agent step-by-step | Summary | EP15](https://www.youtube.com/watch?v=c5O4GIo5N1E)
+- [IT FAQ and Services Agent | Building a Conversational Agent step-by-step | Publish your agent | EP14](https://www.youtube.com/watch?v=sdJsLxlv31o)
+- [IT FAQ and Services Agent | Building a Conversational Agent step-by-step | Adaptive Cards | EP13](https://www.youtube.com/watch?v=jXsUQ6t41qc)
+- [IT FAQ and Services Agent | Building an Agent step-by-step | Create a Topic with an Action | EP12](https://www.youtube.com/watch?v=eEOX7QzmRYg)
+- [IT FAQ and Services Agent | Building a Conversational Agent step-by-step | Creating Actions | EP11](https://www.youtube.com/watch?v=OCl12oA0XTE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
