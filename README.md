@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Application Lifecycle management with Copilot Studio: Power CAT AI Webinars](https://www.youtube.com/watch?v=hTbGOkq_lwE)
-- [Are you ready for the 2025 Power Platform Community Conference?](https://www.youtube.com/watch?v=cMFzvtmSe1Q)
-- [IT FAQ and Services Agent | Building a Custom Conversational Agent step-by-step | Summary | EP15](https://www.youtube.com/watch?v=c5O4GIo5N1E)
-- [IT FAQ and Services Agent | Building a Conversational Agent step-by-step | Publish your agent | EP14](https://www.youtube.com/watch?v=sdJsLxlv31o)
-- [IT FAQ and Services Agent | Building a Conversational Agent step-by-step | Adaptive Cards | EP13](https://www.youtube.com/watch?v=jXsUQ6t41qc)
+- [Incident Reporting Agent | Building a Custom Autonomous Agent step-by-step | Wrap up | EP25](https://www.youtube.com/watch?v=oCQum6jfDSI)
+- [Incident Reporting Agent | Building an Autonomous Agent step-by-step | Sending emails | EP23](https://www.youtube.com/watch?v=JRClYGDPB7k)
+- [Incident Reporting Agent | Building a Autonomous Agent step by step | Publishing | EP24](https://www.youtube.com/watch?v=qaqpz7i7eKg)
+- [Incident Reporting Agent | Building an Autonomous Agent step-by-step | SharePoint Knowledge | EP22](https://www.youtube.com/watch?v=ZSBAQd703VE)
+- [Incident Reporting Agent | Building a Autonomous Agent step-by-step | Update Dataverse | EP21](https://www.youtube.com/watch?v=GzMpEyut8W0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
