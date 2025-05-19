@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The Agentic Web: A conversation with Jay Parikh [Part 2] | KEY035](https://www.youtube.com/watch?v=xvZdki3FqzY)
+- [The Agentic Web [Part 1] | KEY030](https://www.youtube.com/watch?v=bmHJFRNHmoc)
 - [Upgrade your SQL projects with confidence with DacpacVerify | Data Exposed](https://www.youtube.com/watch?v=lHxZ5_MrFk0)
 - [What&#39;s my favorite .NET MAUI feature in .NET 9?](https://www.youtube.com/watch?v=FQAlgs24i9U)
 - [Why read Azure SQL Revealed 2nd edition?](https://www.youtube.com/watch?v=etK2q2MJT7o)
-- [Why read Azure SQL Revealed 2nd edition?](https://www.youtube.com/watch?v=7A7MAVVdOgY)
-- [Self-replicating AI Agents, with Evan Boyle, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=FS93NX8xW-Q)
 <!-- YOUTUBEAPPMOD:END -->
 
 
