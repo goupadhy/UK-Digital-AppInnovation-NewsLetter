@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Boost Your App’s Success with the Latest Microsoft Store Features | OD801](https://www.youtube.com/watch?v=1H5FSEQDTo8)
-- [Generate Your First App with Dreamspace | ODFP956](https://www.youtube.com/watch?v=HOacjhWwLWU)
-- [Vibe debugging with GitHub Copilot and Sentry | ODFP957](https://www.youtube.com/watch?v=sxCUyIg6GXk)
-- [Build smarter reports directly in Visual Studio with ActiveReports.NET | ODFP955](https://www.youtube.com/watch?v=ewnT4VMsJas)
-- [ACCELQ Autopilot: Agentic test automation for all enterprise apps | ODFP954](https://www.youtube.com/watch?v=NaitfHn4fsI)
+- [Sorry I don’t speak engineer but let’s try visualizing it | ODFP970](https://www.youtube.com/watch?v=VJ0KLz3t9kQ)
+- [Simplify data collaboration and build AI apps with Snowflake | ODFP969](https://www.youtube.com/watch?v=nRyHsRaRzjg)
+- [Leverage document processing to drive digital transformation today | ODFP967](https://www.youtube.com/watch?v=5tHq6xtsOG4)
+- [Build reliable software in age of AI: AI Code Assurance + AI CodeFix | ODFP968](https://www.youtube.com/watch?v=vDZLBN57K48)
+- [Automating Secure and Scalable AI Deployments on Azure with HashiCorp | ODFP966](https://www.youtube.com/watch?v=0DVJFCjkhAg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
