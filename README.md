@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Knowledge in Copilot Studio | OD812](https://www.youtube.com/watch?v=DpbpbVD-Twk)
+- [Create with Windows AI: Practices For Safe Responsible Experiences | OD810](https://www.youtube.com/watch?v=6CVrtXTYvE8)
+- [Tools for agents | OD811](https://www.youtube.com/watch?v=CsFT475O8is)
+- [Create Seamless Cross-Device Experiences with Windows for your app | OD802](https://www.youtube.com/watch?v=e3ixnHI3z1k)
 - [Protecting users apps and data on Windows from a high threat world | OD800](https://www.youtube.com/watch?v=Ii1IT_S0D3Y)
-- [2025 Imagine Cup World Championship](https://www.youtube.com/watch?v=bLe4EcqA7D0)
-- [Vibe Coding at Microsoft Build - Day 1](https://www.youtube.com/watch?v=hBTUPCRWl2c)
-- [The Agentic Web: A conversation with Jay Parikh [Part 2] | KEY035](https://www.youtube.com/watch?v=xvZdki3FqzY)
-- [The Agentic Web [Part 1] | KEY030](https://www.youtube.com/watch?v=bmHJFRNHmoc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
