@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Build 2025 | Day 2 Keynote](https://www.youtube.com/watch?v=5sM3JguEMzQ)
+- [Enable scalable structured AI agent coordination with Dapr Workflows | ODFP976](https://www.youtube.com/watch?v=4aE1oIf_-vM)
 - [Enhancing Microsoft Intune Security with Modern Authentication | OD860](https://www.youtube.com/watch?v=Zr1m62mqqm4)
 - [Level up your testing game with AI-native QA and testing automation | ODFP972](https://www.youtube.com/watch?v=dmdoccM3LbA)
 - [Run PyTorch natively on Windows on Arm using GitHub Runners | ODFP974](https://www.youtube.com/watch?v=uhGg7wb6jV4)
-- [Simplify AI development maximizing the power of local models and MCPs | ODFP973](https://www.youtube.com/watch?v=R-cJ5HO-rkc)
-- [10x Your Productivity: VS Code + GitHub Copilot Agent Mode &amp; MCP | ODFP971](https://www.youtube.com/watch?v=uXOHOpqhkng)
 <!-- YOUTUBEAPPMOD:END -->
 
 
