@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create and publish your first agent in Microsoft Copilot Studio](https://www.youtube.com/watch?v=jjaEk6oHA10)
 - [Final thoughts on the Copilot Studio Power Platform Makers series | EP29](https://www.youtube.com/watch?v=ehMmq9ikWYU)
 - [Next steps on your Microsoft Copilot Studio journey | EP28](https://www.youtube.com/watch?v=aLB8dNu4_U8)
 - [Using Microsoft Power Automate with Copilot Studio | EP27](https://www.youtube.com/watch?v=JqcxylzMSFY)
 - [Using Power FX with Microsoft Copilot Studio | EP26](https://www.youtube.com/watch?v=wOEKVS7AQZY)
-- [Incident Reporting Agent | Building a Custom Autonomous Agent step-by-step | Wrap up | EP25](https://www.youtube.com/watch?v=oCQum6jfDSI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
