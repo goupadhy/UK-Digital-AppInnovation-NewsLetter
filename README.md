@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Enhancing Microsoft Intune Security with Modern Authentication | OD860](https://www.youtube.com/watch?v=Zr1m62mqqm4)
-- [Level up your testing game with AI-native QA and testing automation | ODFP972](https://www.youtube.com/watch?v=dmdoccM3LbA)
-- [Run PyTorch natively on Windows on Arm using GitHub Runners | ODFP974](https://www.youtube.com/watch?v=uhGg7wb6jV4)
-- [Simplify AI development maximizing the power of local models and MCPs | ODFP973](https://www.youtube.com/watch?v=R-cJ5HO-rkc)
-- [10x Your Productivity: VS Code + GitHub Copilot Agent Mode &amp; MCP | ODFP971](https://www.youtube.com/watch?v=uXOHOpqhkng)
+- [Microsoft Build opening keynote | KEY010](https://www.youtube.com/watch?v=vY5SU3codsE)
+- [Prototype build and deploy AI apps quickly with GitHub Models | DEM500](https://www.youtube.com/watch?v=xJR5Dnz_yuM)
+- [Advanced Playwright Debugging and Test Resilience | DEM499](https://www.youtube.com/watch?v=zyOJfGtJ3Rw)
+- [Insider tips to supercharge your GitHub workflow | DEM501](https://www.youtube.com/watch?v=BAHM0PHj8dA)
+- [Mission: Scalable – Elastic Cloud Serverless Meets Azure OpenAI | ODFP977](https://www.youtube.com/watch?v=PmPt9uOxMJY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
