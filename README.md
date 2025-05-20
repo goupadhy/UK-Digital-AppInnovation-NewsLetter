@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Vibe Coding at Microsoft Build - Day 1](https://www.youtube.com/watch?v=hBTUPCRWl2c)
 - [The Agentic Web: A conversation with Jay Parikh [Part 2] | KEY035](https://www.youtube.com/watch?v=xvZdki3FqzY)
 - [The Agentic Web [Part 1] | KEY030](https://www.youtube.com/watch?v=bmHJFRNHmoc)
 - [Upgrade your SQL projects with confidence with DacpacVerify | Data Exposed](https://www.youtube.com/watch?v=lHxZ5_MrFk0)
 - [What&#39;s my favorite .NET MAUI feature in .NET 9?](https://www.youtube.com/watch?v=FQAlgs24i9U)
-- [Why read Azure SQL Revealed 2nd edition?](https://www.youtube.com/watch?v=etK2q2MJT7o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
