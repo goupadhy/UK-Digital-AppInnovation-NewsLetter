@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Battling the Republic with Azure SQL Database AI | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=p0_cWbZx3sY)
-- [Sorry I don’t speak engineer but let’s try visualizing it | ODFP970](https://www.youtube.com/watch?v=VJ0KLz3t9kQ)
-- [Simplify data collaboration and build AI apps with Snowflake | ODFP969](https://www.youtube.com/watch?v=nRyHsRaRzjg)
-- [Leverage document processing to drive digital transformation today | ODFP967](https://www.youtube.com/watch?v=5tHq6xtsOG4)
-- [Build reliable software in age of AI: AI Code Assurance + AI CodeFix | ODFP968](https://www.youtube.com/watch?v=vDZLBN57K48)
+- [Enhancing Microsoft Intune Security with Modern Authentication | OD860](https://www.youtube.com/watch?v=Zr1m62mqqm4)
+- [Level up your testing game with AI-native QA and testing automation | ODFP972](https://www.youtube.com/watch?v=dmdoccM3LbA)
+- [Run PyTorch natively on Windows on Arm using GitHub Runners | ODFP974](https://www.youtube.com/watch?v=uhGg7wb6jV4)
+- [Simplify AI development maximizing the power of local models and MCPs | ODFP973](https://www.youtube.com/watch?v=R-cJ5HO-rkc)
+- [10x Your Productivity: VS Code + GitHub Copilot Agent Mode &amp; MCP | ODFP971](https://www.youtube.com/watch?v=uXOHOpqhkng)
 <!-- YOUTUBEAPPMOD:END -->
 
 
