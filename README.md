@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Knowledge in Copilot Studio | OD812](https://www.youtube.com/watch?v=DpbpbVD-Twk)
-- [Create with Windows AI: Practices For Safe Responsible Experiences | OD810](https://www.youtube.com/watch?v=6CVrtXTYvE8)
-- [Tools for agents | OD811](https://www.youtube.com/watch?v=CsFT475O8is)
-- [Create Seamless Cross-Device Experiences with Windows for your app | OD802](https://www.youtube.com/watch?v=e3ixnHI3z1k)
-- [Protecting users apps and data on Windows from a high threat world | OD800](https://www.youtube.com/watch?v=Ii1IT_S0D3Y)
+- [Boost Your App’s Success with the Latest Microsoft Store Features | OD801](https://www.youtube.com/watch?v=1H5FSEQDTo8)
+- [Generate Your First App with Dreamspace | ODFP956](https://www.youtube.com/watch?v=HOacjhWwLWU)
+- [Vibe debugging with GitHub Copilot and Sentry | ODFP957](https://www.youtube.com/watch?v=sxCUyIg6GXk)
+- [Build smarter reports directly in Visual Studio with ActiveReports.NET | ODFP955](https://www.youtube.com/watch?v=ewnT4VMsJas)
+- [ACCELQ Autopilot: Agentic test automation for all enterprise apps | ODFP954](https://www.youtube.com/watch?v=NaitfHn4fsI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
