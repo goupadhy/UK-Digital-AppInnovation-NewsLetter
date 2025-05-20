@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Battling the Republic with Azure SQL Database AI | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=p0_cWbZx3sY)
 - [Sorry I don’t speak engineer but let’s try visualizing it | ODFP970](https://www.youtube.com/watch?v=VJ0KLz3t9kQ)
 - [Simplify data collaboration and build AI apps with Snowflake | ODFP969](https://www.youtube.com/watch?v=nRyHsRaRzjg)
 - [Leverage document processing to drive digital transformation today | ODFP967](https://www.youtube.com/watch?v=5tHq6xtsOG4)
 - [Build reliable software in age of AI: AI Code Assurance + AI CodeFix | ODFP968](https://www.youtube.com/watch?v=vDZLBN57K48)
-- [Automating Secure and Scalable AI Deployments on Azure with HashiCorp | ODFP966](https://www.youtube.com/watch?v=0DVJFCjkhAg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
