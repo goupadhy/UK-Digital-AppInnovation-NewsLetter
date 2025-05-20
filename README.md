@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI Startup Spotlight: Unlocking the Power of Multimodal Video and Image Data | DEM591](https://www.youtube.com/watch?v=z9dBUIeoXI8)
+- [Optimize Your Infrastructure as Code: Build Once Deploy Anywhere | DEM539](https://www.youtube.com/watch?v=wfLNifO0-Cs)
+- [Configure your Power Apps Copilot to talk with your Dataverse data | DEM525](https://www.youtube.com/watch?v=YRMj6mrVtjg)
+- [What’s new and what’s next for RPA developers | DEM503](https://www.youtube.com/watch?v=MvzmW6Aryqo)
 - [Microsoft Build opening keynote | KEY010](https://www.youtube.com/watch?v=vY5SU3codsE)
-- [Prototype build and deploy AI apps quickly with GitHub Models | DEM500](https://www.youtube.com/watch?v=xJR5Dnz_yuM)
-- [Advanced Playwright Debugging and Test Resilience | DEM499](https://www.youtube.com/watch?v=zyOJfGtJ3Rw)
-- [Insider tips to supercharge your GitHub workflow | DEM501](https://www.youtube.com/watch?v=BAHM0PHj8dA)
-- [Mission: Scalable – Elastic Cloud Serverless Meets Azure OpenAI | ODFP977](https://www.youtube.com/watch?v=PmPt9uOxMJY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
