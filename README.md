@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Microsoft Build 2025 | Day 2 Keynote](https://www.youtube.com/watch?v=5sM3JguEMzQ)
-- [Enable scalable structured AI agent coordination with Dapr Workflows | ODFP976](https://www.youtube.com/watch?v=4aE1oIf_-vM)
-- [Enhancing Microsoft Intune Security with Modern Authentication | OD860](https://www.youtube.com/watch?v=Zr1m62mqqm4)
-- [Level up your testing game with AI-native QA and testing automation | ODFP972](https://www.youtube.com/watch?v=dmdoccM3LbA)
-- [Run PyTorch natively on Windows on Arm using GitHub Runners | ODFP974](https://www.youtube.com/watch?v=uhGg7wb6jV4)
+- [Microsoft Build opening keynote | KEY010](https://www.youtube.com/watch?v=vY5SU3codsE)
+- [Prototype build and deploy AI apps quickly with GitHub Models | DEM500](https://www.youtube.com/watch?v=xJR5Dnz_yuM)
+- [Advanced Playwright Debugging and Test Resilience | DEM499](https://www.youtube.com/watch?v=zyOJfGtJ3Rw)
+- [Insider tips to supercharge your GitHub workflow | DEM501](https://www.youtube.com/watch?v=BAHM0PHj8dA)
+- [Mission: Scalable – Elastic Cloud Serverless Meets Azure OpenAI | ODFP977](https://www.youtube.com/watch?v=PmPt9uOxMJY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
