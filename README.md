@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Azure AI Foundry Agent Service: Transform agentic workflows | BRK149](https://www.youtube.com/watch?v=66fYrB1frUg)
-- [Architecting your multi agent solutions with Copilot Studio and M365 Agents SDK | BRK176](https://www.youtube.com/watch?v=pG01UDoM3xE)
-- [Solving the Unsolvable: Advanced Agentic AI Models in Azure AI Foundry | BRK171](https://www.youtube.com/watch?v=h2go_ExhKZ4)
-- [Exploring the Agent landscape | BRK147](https://www.youtube.com/watch?v=EVL6Ao6Cdjk)
-- [Unpacking the tech | KEY020](https://www.youtube.com/watch?v=PYZgUj8iTC4)
+- [Microsoft Cost Management — Overview in the Azure portal](https://www.youtube.com/watch?v=q8SwTcJ3PkU)
+- [Microsoft Cost Management – Creating Budgets and Alerts](https://www.youtube.com/watch?v=-hwZanVM3r4)
+- [Microsoft Cost Management – Cost Analysis in the Azure portal  &lpar;part 2&rpar;](https://www.youtube.com/watch?v=naex6x6erBQ)
+- [Microsoft Cost Management – Cost Analysis in the Azure portal  &lpar;part 1&rpar;](https://www.youtube.com/watch?v=JY05_w1MlVM)
+- [Microsoft Cost Management – Exporting your Cost Data with Scheduled Exports](https://www.youtube.com/watch?v=NxCUwKd6n1c)
 <!-- YOUTUBEAPPMOD:END -->
 
 
