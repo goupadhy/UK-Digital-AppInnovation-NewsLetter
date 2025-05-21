@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Run PyTorch natively on Windows on Arm using GitHub Runners | ODFP974](https://www.youtube.com/watch?v=iUN5FGfc_rQ)
+- [Unleash AI-Powered Innovation with Confluent and Microsoft Azure | ODFP952](https://www.youtube.com/watch?v=ZMrWZ1s86ow)
+- [When they don&#39;t speak engineer try visualizing it | DEMFP780](https://www.youtube.com/watch?v=QYoNGfR7BVs)
 - [Build autonomous agents in Copilot Studio | BRK160](https://www.youtube.com/watch?v=83leFnyAiJI)
 - [Unleashing price-performance: Cobalt 100 and the future of cloud-native on Arm | BRKFP256](https://www.youtube.com/watch?v=23ty1qG2mjY)
-- [Azure AI Foundry: The AI app and Agent Factory | BRK155](https://www.youtube.com/watch?v=DUdRdeUtuZQ)
-- [Customizable Solution Patterns in Azure AI Foundry | BRK153](https://www.youtube.com/watch?v=P4XEuk1cJDM)
-- [Make AI apps easily and securely with MCP and Models on Docker | DEMFP793](https://www.youtube.com/watch?v=YJ4w6Go4ZiQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
