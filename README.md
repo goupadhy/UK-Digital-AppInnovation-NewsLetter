@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Reimagining Software Development and DevOps with Agentic AI | BRK100](https://www.youtube.com/watch?v=eVPHMMrORbA)
 - [Vibe Coding at Microsoft Build - Day 2](https://www.youtube.com/watch?v=Zl_vr3nUN1Y)
 - [AI Startup Spotlight: Unlocking the Power of Multimodal Video and Image Data | DEM591](https://www.youtube.com/watch?v=z9dBUIeoXI8)
 - [Optimize Your Infrastructure as Code: Build Once Deploy Anywhere | DEM539](https://www.youtube.com/watch?v=wfLNifO0-Cs)
 - [Configure your Power Apps Copilot to talk with your Dataverse data | DEM525](https://www.youtube.com/watch?v=YRMj6mrVtjg)
-- [What’s new and what’s next for RPA developers | DEM503](https://www.youtube.com/watch?v=MvzmW6Aryqo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
