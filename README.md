@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Under the Hood: Optimizing Azure applications for performance and efficiency | BRK179](https://www.youtube.com/watch?v=yzj-M_IZChE)
-- [From Prompt to Product: Build an AI Agent That Generates UI | DEMFP781](https://www.youtube.com/watch?v=18OqzxhqNuY)
-- [Accelerate development with industry-specific AI app generation | DEMFP788](https://www.youtube.com/watch?v=RVHAkTD4LFo)
-- [Copiloting Apache Kafka® &amp; Apache Flink® with Confluent for VS Code | DEMFP791](https://www.youtube.com/watch?v=ctbVF7Y6tAY)
-- [When they don&#39;t speak engineer try visualizing it | DEMFP780](https://www.youtube.com/watch?v=QYoNGfR7BVs)
+- [Azure AI Foundry Agent Service: Transform agentic workflows | BRK149](https://www.youtube.com/watch?v=66fYrB1frUg)
+- [Architecting your multi agent solutions with Copilot Studio and M365 Agents SDK | BRK176](https://www.youtube.com/watch?v=pG01UDoM3xE)
+- [Solving the Unsolvable: Advanced Agentic AI Models in Azure AI Foundry | BRK171](https://www.youtube.com/watch?v=h2go_ExhKZ4)
+- [Exploring the Agent landscape | BRK147](https://www.youtube.com/watch?v=EVL6Ao6Cdjk)
+- [Unpacking the tech | KEY020](https://www.youtube.com/watch?v=PYZgUj8iTC4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
