@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Microsoft Cost Management — Overview in the Azure portal](https://www.youtube.com/watch?v=q8SwTcJ3PkU)
-- [Microsoft Cost Management – Creating Budgets and Alerts](https://www.youtube.com/watch?v=-hwZanVM3r4)
-- [Microsoft Cost Management – Cost Analysis in the Azure portal  &lpar;part 2&rpar;](https://www.youtube.com/watch?v=naex6x6erBQ)
-- [Microsoft Cost Management – Cost Analysis in the Azure portal  &lpar;part 1&rpar;](https://www.youtube.com/watch?v=JY05_w1MlVM)
-- [Microsoft Cost Management – Exporting your Cost Data with Scheduled Exports](https://www.youtube.com/watch?v=NxCUwKd6n1c)
+- [Agent Mode in Action: AI Coding with Vibe and Spec-Driven Flows | BRK102](https://www.youtube.com/watch?v=1DlNVROQ6DI)
+- [The Agent Awakens: Collaborative Development with GitHub Copilot | BRK113](https://www.youtube.com/watch?v=CKAs9bRMDcQ)
+- [Foundry Local: Building cutting-edge on-device AI experiences | BRK146](https://www.youtube.com/watch?v=TLcyybeF2to)
+- [Pioneering the future: Agentic DevOps with Nicole Forsgren &amp; Gene Kim | BRK135](https://www.youtube.com/watch?v=xuvejc3Y5tA)
+- [Design scalable data layers for multi-tenant apps with Azure Cosmos DB | BRK212](https://www.youtube.com/watch?v=j5p3D24lXeI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
