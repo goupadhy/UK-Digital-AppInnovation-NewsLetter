@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build agent-first solutions with Power Platform and Copilot Studio | BRK128](https://www.youtube.com/watch?v=D5N6BeXZBDU)
+- [VS Code Live! | BRK111](https://www.youtube.com/watch?v=mQaK7lMsUh0)
+- [Develop Build and Deploy LLM Apps using GitHub Models and Azure AI Foundry | BRK107](https://www.youtube.com/watch?v=HJEDoPRnZDA)
 - [Data-intensive AI Training and Inferencing with Azure Blob Storage | BRK192](https://www.youtube.com/watch?v=lJ9ZiiVP1-w)
 - [Agent Mode in Action: AI Coding with Vibe and Spec-Driven Flows | BRK102](https://www.youtube.com/watch?v=1DlNVROQ6DI)
-- [The Agent Awakens: Collaborative Development with GitHub Copilot | BRK113](https://www.youtube.com/watch?v=CKAs9bRMDcQ)
-- [Foundry Local: Building cutting-edge on-device AI experiences | BRK146](https://www.youtube.com/watch?v=TLcyybeF2to)
-- [Pioneering the future: Agentic DevOps with Nicole Forsgren &amp; Gene Kim | BRK135](https://www.youtube.com/watch?v=xuvejc3Y5tA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
