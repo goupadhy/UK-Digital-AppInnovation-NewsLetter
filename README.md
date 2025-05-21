@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Explore generative AI API frameworks and agentic AI tool chain | DEMFP784](https://www.youtube.com/watch?v=eRh6PKqZN10)
+- [API Collaboration - Building APIs Together: a Multi-Player Strategy | ODFP958](https://www.youtube.com/watch?v=sEhaGCcQ9lc)
 - [Knowledge Retrieval: RAG for enterprise agents with Azure AI Search | BRK141](https://www.youtube.com/watch?v=Fjef7uhV3gw)
 - [What&#39;s Next in C# | BRK114](https://www.youtube.com/watch?v=ssqGEBW-gpo)
 - [How Microsoft Developers Use AI in Real-World Coding | BRK103](https://www.youtube.com/watch?v=gieL0bxyTUU)
-- [Speed AI Agent development and deployment with NVIDIA on Azure | BRKFP257](https://www.youtube.com/watch?v=KWRVF6wGi84)
-- [Envision a secure AI-accelerated developer experience with Docker | BRKFP253](https://www.youtube.com/watch?v=7OYE1Vq-__0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
