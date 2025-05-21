@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Run PyTorch natively on Windows on Arm using GitHub Runners | ODFP974](https://www.youtube.com/watch?v=iUN5FGfc_rQ)
-- [Unleash AI-Powered Innovation with Confluent and Microsoft Azure | ODFP952](https://www.youtube.com/watch?v=ZMrWZ1s86ow)
+- [Under the Hood: Optimizing Azure applications for performance and efficiency | BRK179](https://www.youtube.com/watch?v=yzj-M_IZChE)
+- [From Prompt to Product: Build an AI Agent That Generates UI | DEMFP781](https://www.youtube.com/watch?v=18OqzxhqNuY)
+- [Accelerate development with industry-specific AI app generation | DEMFP788](https://www.youtube.com/watch?v=RVHAkTD4LFo)
+- [Copiloting Apache Kafka® &amp; Apache Flink® with Confluent for VS Code | DEMFP791](https://www.youtube.com/watch?v=ctbVF7Y6tAY)
 - [When they don&#39;t speak engineer try visualizing it | DEMFP780](https://www.youtube.com/watch?v=QYoNGfR7BVs)
-- [Build autonomous agents in Copilot Studio | BRK160](https://www.youtube.com/watch?v=83leFnyAiJI)
-- [Unleashing price-performance: Cobalt 100 and the future of cloud-native on Arm | BRKFP256](https://www.youtube.com/watch?v=23ty1qG2mjY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
