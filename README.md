@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build autonomous agents in Copilot Studio | BRK160](https://www.youtube.com/watch?v=83leFnyAiJI)
+- [Unleashing price-performance: Cobalt 100 and the future of cloud-native on Arm | BRKFP256](https://www.youtube.com/watch?v=23ty1qG2mjY)
+- [Azure AI Foundry: The AI app and Agent Factory | BRK155](https://www.youtube.com/watch?v=DUdRdeUtuZQ)
+- [Customizable Solution Patterns in Azure AI Foundry | BRK153](https://www.youtube.com/watch?v=P4XEuk1cJDM)
 - [Make AI apps easily and securely with MCP and Models on Docker | DEMFP793](https://www.youtube.com/watch?v=YJ4w6Go4ZiQ)
-- [Explore generative AI API frameworks and agentic AI tool chain | DEMFP784](https://www.youtube.com/watch?v=eRh6PKqZN10)
-- [API Collaboration - Building APIs Together: a Multi-Player Strategy | ODFP958](https://www.youtube.com/watch?v=sEhaGCcQ9lc)
-- [Knowledge Retrieval: RAG for enterprise agents with Azure AI Search | BRK141](https://www.youtube.com/watch?v=Fjef7uhV3gw)
-- [What&#39;s Next in C# | BRK114](https://www.youtube.com/watch?v=ssqGEBW-gpo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
