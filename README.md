@@ -29,7 +29,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Optimize Your Infrastructure as Code: Build Once Deploy Anywhere | DEM539](https://www.youtube.com/watch?v=wfLNifO0-Cs)
 - [Configure your Power Apps Copilot to talk with your Dataverse data | DEM525](https://www.youtube.com/watch?v=YRMj6mrVtjg)
 - [What’s new and what’s next for RPA developers | DEM503](https://www.youtube.com/watch?v=MvzmW6Aryqo)
-- [Microsoft Build opening keynote | KEY010](https://www.youtube.com/watch?v=vY5SU3codsE)
+- [Prototype build and deploy AI apps quickly with GitHub Models | DEM500](https://www.youtube.com/watch?v=xJR5Dnz_yuM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
