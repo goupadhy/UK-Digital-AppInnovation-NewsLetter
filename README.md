@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Data-intensive AI Training and Inferencing with Azure Blob Storage | BRK192](https://www.youtube.com/watch?v=lJ9ZiiVP1-w)
 - [Agent Mode in Action: AI Coding with Vibe and Spec-Driven Flows | BRK102](https://www.youtube.com/watch?v=1DlNVROQ6DI)
 - [The Agent Awakens: Collaborative Development with GitHub Copilot | BRK113](https://www.youtube.com/watch?v=CKAs9bRMDcQ)
 - [Foundry Local: Building cutting-edge on-device AI experiences | BRK146](https://www.youtube.com/watch?v=TLcyybeF2to)
 - [Pioneering the future: Agentic DevOps with Nicole Forsgren &amp; Gene Kim | BRK135](https://www.youtube.com/watch?v=xuvejc3Y5tA)
-- [Design scalable data layers for multi-tenant apps with Azure Cosmos DB | BRK212](https://www.youtube.com/watch?v=j5p3D24lXeI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
