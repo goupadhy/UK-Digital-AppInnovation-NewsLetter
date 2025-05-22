@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
-- [GitHub Availability Report: April 2025](https://github.blog/news-insights/company-news/github-availability-report-april-2025/)
-- [Documentation done right: A developer’s guide](https://github.blog/developer-skills/documentation-done-right-a-developers-guide/)
-- [GitHub Issues search now supports nested queries and boolean operators: Here&#8217;s how we (re)built it](https://github.blog/developer-skills/application-development/github-issues-search-now-supports-nested-queries-and-boolean-operators-heres-how-we-rebuilt-it/)
-- [GitHub for Beginners: Building a React App with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-building-a-react-app-with-github-copilot/)
-- [Real‑world video demo: Using different AI models in GitHub Copilot](https://github.blog/ai-and-ml/real%e2%80%91world-video-demo-using-different-ai-models-in-github-copilot/)
+- [How to thrive as a junior engineer: Tips and insights](https://github.blog/developer-skills/career-growth/how-to-thrive-as-a-junior-engineer-tips-and-insights/)
+- [GitHub Copilot: Meet the new coding agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/)
+- [Code. Create. Commit. Welcome to dev/core](https://github.blog/news-insights/company-news/code-create-commit-welcome-to-dev-core/)
+- [Vibe coding: Your roadmap to becoming an AI developer](https://github.blog/ai-and-ml/vibe-coding-your-roadmap-to-becoming-an-ai-developer/)
+- [Our pledge to help improve the accessibility of open source software at scale](https://github.blog/open-source/social-impact/our-pledge-to-help-improve-the-accessibility-of-open-source-software-at-scale/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
