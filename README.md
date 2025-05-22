@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Reasoning on multimodal content for efficient agentic AI app building | BRK169](https://www.youtube.com/watch?v=D3WyLnMhvtY)
-- [AI and Agent Observability in Azure AI Foundry and Azure Monitor | BRK168](https://www.youtube.com/watch?v=QGVoTJLKnYk)
-- [Add more knowledge to Microsoft 365 Copilot with Copilot connectors and actions | BRK167](https://www.youtube.com/watch?v=KAxmJiP_7N4)
-- [Java App Modernization Simplified with AI | BRK131](https://www.youtube.com/watch?v=TBS2sv-e80o)
-- [Extend your Copilot Agent in Power Apps with Copilot Studio and new SDK&#39;s | BRK130](https://www.youtube.com/watch?v=iwrMubn2Al8)
+- [Use agents and automations to transform business processes with Copilot Studio | BRK161](https://www.youtube.com/watch?v=fcaSPE1NJYs)
+- [Unleashing price-performance: Cobalt 100 and the future of cloud-native on Arm | BRKFP256](https://www.youtube.com/watch?v=haR9cg5kWso)
+- [Fine-tune models for task-specific agents in Microsoft 365 Copilot | BRK177](https://www.youtube.com/watch?v=4-nrs2MvZzA)
+- [Boost your app’s search: using Azure LLM functions with Elasticsearch | BRKFP252](https://www.youtube.com/watch?v=uRctlPUAL64)
+- [The future of web development with ASP.NET Core &amp; Blazor | BRK122](https://www.youtube.com/watch?v=l32fiBG9YeQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
