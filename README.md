@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Using agentic AI to simplify .NET upgrades with GitHub Copilot | DEM549](https://www.youtube.com/watch?v=3NFWcHrsba0)
-- [Accelerate AI app delivery from discovery through deployment with marketplace | DEM595](https://www.youtube.com/watch?v=yDEGVACGAzE)
-- [Transforming NFL Combine with Real-Time AI Insights by SOUTHWORKS | DEM590](https://www.youtube.com/watch?v=A0WK9VPs4E0)
-- [Building Secure Applications with Azure and Rust | DEM511](https://www.youtube.com/watch?v=ogU36-BDHTQ)
-- [Build and ship cross-platform apps on-device with Foundry Local | DEM526](https://www.youtube.com/watch?v=bKhQ8nT0PcM)
+- [Architecting highly resilient applications in Azure: A technical guide for developers | BRK197](https://www.youtube.com/watch?v=9YzkpHiJ2us)
+- [AI Agents Power Compliance with Saifr on Azure AI Foundry | DEM588](https://www.youtube.com/watch?v=BM6mbdqLAxQ)
+- [Optimize your GenAI applications at scale in Azure AI Foundry | BRK178](https://www.youtube.com/watch?v=N6SYd1y3e4g)
+- [Skip the YAML! Easily deploy apps to AKS with Automated Deployments | BRK193](https://www.youtube.com/watch?v=tg2GgWZblfM)
+- [Top GitHub Copilot features you missed in Visual Studio 2022 | BRK120](https://www.youtube.com/watch?v=Fq7myF58Odc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
