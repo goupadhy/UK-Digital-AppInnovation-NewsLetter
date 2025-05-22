@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [SQL Server 2025: The Database Developer Reimagined | BRK207](https://www.youtube.com/watch?v=6EEhG1VQWnc)
-- [What&#39;s Coming in Fabric Automation and CI/CD | BRK205](https://www.youtube.com/watch?v=-3OjBT6f_Yw)
-- [Scale and secure MongoDB-compatible apps with Azure Cosmos DB | BRK202](https://www.youtube.com/watch?v=Gz9sQshVX7Y)
-- [Deploying an end-to-end secure AI application | BRK234](https://www.youtube.com/watch?v=-4Pu0ELX3sk)
-- [Build AI apps and unlock the power of your data with Azure Databricks | BRK210](https://www.youtube.com/watch?v=-dvLsph-qdI)
+- [Reasoning on multimodal content for efficient agentic AI app building | BRK169](https://www.youtube.com/watch?v=D3WyLnMhvtY)
+- [AI and Agent Observability in Azure AI Foundry and Azure Monitor | BRK168](https://www.youtube.com/watch?v=QGVoTJLKnYk)
+- [Add more knowledge to Microsoft 365 Copilot with Copilot connectors and actions | BRK167](https://www.youtube.com/watch?v=KAxmJiP_7N4)
+- [Java App Modernization Simplified with AI | BRK131](https://www.youtube.com/watch?v=TBS2sv-e80o)
+- [Extend your Copilot Agent in Power Apps with Copilot Studio and new SDK&#39;s | BRK130](https://www.youtube.com/watch?v=iwrMubn2Al8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
