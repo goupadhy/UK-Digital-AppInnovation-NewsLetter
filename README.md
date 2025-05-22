@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Lessons: Deploying Copilot Studio in enterprise software environments | BRK157](https://www.youtube.com/watch?v=lpx4inUcgJs)
+- [Shift Left: Secure Your Code and AI from the Start | BRK230](https://www.youtube.com/watch?v=-cu9S7mGmBY)
+- [Building advanced agentic apps with PostgreSQL on Azure | BRK211](https://www.youtube.com/watch?v=WDMwTO3OKQg)
+- [Debug Like a Pro: Improve Your Efficiency with Visual Studio &amp; Copilot | BRK119](https://www.youtube.com/watch?v=58TS3PBsMgc)
 - [Vibe Coding at Microsoft Build - Day 3](https://www.youtube.com/watch?v=67LKcINZTLk)
-- [Build agent-first solutions with Power Platform and Copilot Studio | BRK128](https://www.youtube.com/watch?v=D5N6BeXZBDU)
-- [VS Code Live! | BRK111](https://www.youtube.com/watch?v=mQaK7lMsUh0)
-- [Develop Build and Deploy LLM Apps using GitHub Models and Azure AI Foundry | BRK107](https://www.youtube.com/watch?v=HJEDoPRnZDA)
-- [Data-intensive AI Training and Inferencing with Azure Blob Storage | BRK192](https://www.youtube.com/watch?v=lJ9ZiiVP1-w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
