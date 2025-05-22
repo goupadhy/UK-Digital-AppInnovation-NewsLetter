@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [GenAI for Enterprise: Intelligent Apps and Agents with Dataverse &amp; MCP | BRK129](https://www.youtube.com/watch?v=J4IOvgLOYV4)
-- [Fastest &amp; easiest way to integrate AI using Windows AI APIs | BRK224](https://www.youtube.com/watch?v=6-zgm83vb6M)
-- [Boost your app&#39;s reach and engagement with AI via App Actions on Windows | BRK220](https://www.youtube.com/watch?v=Ex9PtkkS-0Y)
-- [Beyond the Game: How AI and Data Are Powering the Future of Sports | BRK143](https://www.youtube.com/watch?v=dD3km9aTQKA)
-- [SQL Server 2025: The Database Developer Reimagined | BRK207](https://www.youtube.com/watch?v=6EEhG1VQWnc)
+- [Reasoning on multimodal content for efficient agentic AI app building | BRK169](https://www.youtube.com/watch?v=D3WyLnMhvtY)
+- [AI and Agent Observability in Azure AI Foundry and Azure Monitor | BRK168](https://www.youtube.com/watch?v=QGVoTJLKnYk)
+- [Add more knowledge to Microsoft 365 Copilot with Copilot connectors and actions | BRK167](https://www.youtube.com/watch?v=KAxmJiP_7N4)
+- [Java App Modernization Simplified with AI | BRK131](https://www.youtube.com/watch?v=TBS2sv-e80o)
+- [Extend your Copilot Agent in Power Apps with Copilot Studio and new SDK&#39;s | BRK130](https://www.youtube.com/watch?v=iwrMubn2Al8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
