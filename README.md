@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Lessons: Deploying Copilot Studio in enterprise software environments | BRK157](https://www.youtube.com/watch?v=lpx4inUcgJs)
-- [Shift Left: Secure Your Code and AI from the Start | BRK230](https://www.youtube.com/watch?v=-cu9S7mGmBY)
-- [Building advanced agentic apps with PostgreSQL on Azure | BRK211](https://www.youtube.com/watch?v=WDMwTO3OKQg)
-- [Debug Like a Pro: Improve Your Efficiency with Visual Studio &amp; Copilot | BRK119](https://www.youtube.com/watch?v=58TS3PBsMgc)
-- [Vibe Coding at Microsoft Build - Day 3](https://www.youtube.com/watch?v=67LKcINZTLk)
+- [Build and scale your AI apps with Kubernetes and Azure Arc | BRK188](https://www.youtube.com/watch?v=rN2Obzui3fU)
+- [Use VS Code to build AI apps and agents | BRK117](https://www.youtube.com/watch?v=g0uOOGRYHT4)
+- [Making Azure DevOps and GitHub Greater than the Sum of their Parts | BRK110](https://www.youtube.com/watch?v=gch8n74yCgY)
+- [Event-Driven Architectures: Serverless Apps That Slay at Scale | BRK187](https://www.youtube.com/watch?v=ZrC4DAHoseA)
+- [Maximizing efficiency in cloud-native app design | BRK185](https://www.youtube.com/watch?v=9Im07Qumw-0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
