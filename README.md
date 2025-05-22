@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Orchestrate E2E automation and build adaptive AI agents with UiPath | BRKFP254](https://www.youtube.com/watch?v=Lc53EQjkpJo)
-- [Developer essentials for agents and apps in Azure AI Foundry | BRK154](https://www.youtube.com/watch?v=e-xMRE7S_2o)
-- [Best practices for building agentic apps with Azure AI Foundry | BRK152](https://www.youtube.com/watch?v=WH9iBu9hT4E)
-- [Fine-tuning and distillation with Azure AI Foundry | BRK150](https://www.youtube.com/watch?v=hw6-rrYtUy8)
-- [Building Secure AI Agents with Microsoft Entra External ID | BRK231](https://www.youtube.com/watch?v=WcpCEGb9WL4)
+- [GenAI for Enterprise: Intelligent Apps and Agents with Dataverse &amp; MCP | BRK129](https://www.youtube.com/watch?v=J4IOvgLOYV4)
+- [Fastest &amp; easiest way to integrate AI using Windows AI APIs | BRK224](https://www.youtube.com/watch?v=6-zgm83vb6M)
+- [Boost your app&#39;s reach and engagement with AI via App Actions on Windows | BRK220](https://www.youtube.com/watch?v=Ex9PtkkS-0Y)
+- [Beyond the Game: How AI and Data Are Powering the Future of Sports | BRK143](https://www.youtube.com/watch?v=dD3km9aTQKA)
+- [SQL Server 2025: The Database Developer Reimagined | BRK207](https://www.youtube.com/watch?v=6EEhG1VQWnc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
