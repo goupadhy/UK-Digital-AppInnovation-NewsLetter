@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Vibe Coding at Microsoft Build - Day 3](https://www.youtube.com/watch?v=67LKcINZTLk)
 - [Build agent-first solutions with Power Platform and Copilot Studio | BRK128](https://www.youtube.com/watch?v=D5N6BeXZBDU)
 - [VS Code Live! | BRK111](https://www.youtube.com/watch?v=mQaK7lMsUh0)
 - [Develop Build and Deploy LLM Apps using GitHub Models and Azure AI Foundry | BRK107](https://www.youtube.com/watch?v=HJEDoPRnZDA)
 - [Data-intensive AI Training and Inferencing with Azure Blob Storage | BRK192](https://www.youtube.com/watch?v=lJ9ZiiVP1-w)
-- [Agent Mode in Action: AI Coding with Vibe and Spec-Driven Flows | BRK102](https://www.youtube.com/watch?v=1DlNVROQ6DI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
