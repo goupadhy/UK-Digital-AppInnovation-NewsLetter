@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Inside Hyperscale elastic pools: 5 Key Insights | Data Exposed](https://www.youtube.com/watch?v=YCa1cBipzvg)
+- [Transform your agentic apps with voice in Foundry | BRK144](https://www.youtube.com/watch?v=nk4j6Ggpes4)
+- [Accelerating AI Startups: Build Scale and Go to Market | BRK175](https://www.youtube.com/watch?v=MVoEEi_0mNY)
 - [Use agents and automations to transform business processes with Copilot Studio | BRK161](https://www.youtube.com/watch?v=fcaSPE1NJYs)
 - [Unleashing price-performance: Cobalt 100 and the future of cloud-native on Arm | BRKFP256](https://www.youtube.com/watch?v=haR9cg5kWso)
-- [Fine-tune models for task-specific agents in Microsoft 365 Copilot | BRK177](https://www.youtube.com/watch?v=4-nrs2MvZzA)
-- [Boost your app’s search: using Azure LLM functions with Elasticsearch | BRKFP252](https://www.youtube.com/watch?v=uRctlPUAL64)
-- [The future of web development with ASP.NET Core &amp; Blazor | BRK122](https://www.youtube.com/watch?v=l32fiBG9YeQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
