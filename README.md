@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Orchestrate E2E automation and build adaptive AI agents with UiPath | BRKFP254](https://www.youtube.com/watch?v=Lc53EQjkpJo)
-- [Developer essentials for agents and apps in Azure AI Foundry | BRK154](https://www.youtube.com/watch?v=e-xMRE7S_2o)
-- [Best practices for building agentic apps with Azure AI Foundry | BRK152](https://www.youtube.com/watch?v=WH9iBu9hT4E)
-- [Fine-tuning and distillation with Azure AI Foundry | BRK150](https://www.youtube.com/watch?v=hw6-rrYtUy8)
-- [Building Secure AI Agents with Microsoft Entra External ID | BRK231](https://www.youtube.com/watch?v=WcpCEGb9WL4)
+- [SQL Server 2025: The Database Developer Reimagined | BRK207](https://www.youtube.com/watch?v=6EEhG1VQWnc)
+- [What&#39;s Coming in Fabric Automation and CI/CD | BRK205](https://www.youtube.com/watch?v=-3OjBT6f_Yw)
+- [Scale and secure MongoDB-compatible apps with Azure Cosmos DB | BRK202](https://www.youtube.com/watch?v=Gz9sQshVX7Y)
+- [Deploying an end-to-end secure AI application | BRK234](https://www.youtube.com/watch?v=-4Pu0ELX3sk)
+- [Build AI apps and unlock the power of your data with Azure Databricks | BRK210](https://www.youtube.com/watch?v=-dvLsph-qdI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
