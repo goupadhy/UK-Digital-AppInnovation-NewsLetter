@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Inside Hyperscale elastic pools: 5 Key Insights | Data Exposed](https://www.youtube.com/watch?v=YCa1cBipzvg)
-- [Transform your agentic apps with voice in Foundry | BRK144](https://www.youtube.com/watch?v=nk4j6Ggpes4)
-- [Accelerating AI Startups: Build Scale and Go to Market | BRK175](https://www.youtube.com/watch?v=MVoEEi_0mNY)
-- [Use agents and automations to transform business processes with Copilot Studio | BRK161](https://www.youtube.com/watch?v=fcaSPE1NJYs)
-- [Unleashing price-performance: Cobalt 100 and the future of cloud-native on Arm | BRKFP256](https://www.youtube.com/watch?v=haR9cg5kWso)
+- [Using agentic AI to simplify .NET upgrades with GitHub Copilot | DEM549](https://www.youtube.com/watch?v=3NFWcHrsba0)
+- [Accelerate AI app delivery from discovery through deployment with marketplace | DEM595](https://www.youtube.com/watch?v=yDEGVACGAzE)
+- [Transforming NFL Combine with Real-Time AI Insights by SOUTHWORKS | DEM590](https://www.youtube.com/watch?v=A0WK9VPs4E0)
+- [Building Secure Applications with Azure and Rust | DEM511](https://www.youtube.com/watch?v=ogU36-BDHTQ)
+- [Build and ship cross-platform apps on-device with Foundry Local | DEM526](https://www.youtube.com/watch?v=bKhQ8nT0PcM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
