@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Build and scale your AI apps with Kubernetes and Azure Arc | BRK188](https://www.youtube.com/watch?v=rN2Obzui3fU)
-- [Use VS Code to build AI apps and agents | BRK117](https://www.youtube.com/watch?v=g0uOOGRYHT4)
-- [Making Azure DevOps and GitHub Greater than the Sum of their Parts | BRK110](https://www.youtube.com/watch?v=gch8n74yCgY)
-- [Event-Driven Architectures: Serverless Apps That Slay at Scale | BRK187](https://www.youtube.com/watch?v=ZrC4DAHoseA)
-- [Maximizing efficiency in cloud-native app design | BRK185](https://www.youtube.com/watch?v=9Im07Qumw-0)
+- [Orchestrate E2E automation and build adaptive AI agents with UiPath | BRKFP254](https://www.youtube.com/watch?v=Lc53EQjkpJo)
+- [Developer essentials for agents and apps in Azure AI Foundry | BRK154](https://www.youtube.com/watch?v=e-xMRE7S_2o)
+- [Best practices for building agentic apps with Azure AI Foundry | BRK152](https://www.youtube.com/watch?v=WH9iBu9hT4E)
+- [Fine-tuning and distillation with Azure AI Foundry | BRK150](https://www.youtube.com/watch?v=hw6-rrYtUy8)
+- [Building Secure AI Agents with Microsoft Entra External ID | BRK231](https://www.youtube.com/watch?v=WcpCEGb9WL4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
