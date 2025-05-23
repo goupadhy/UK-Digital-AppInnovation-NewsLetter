@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Legal Contracting w/AI: DraftWise&#39;s Integration of Cohere&#39;s Models​ | DEM530](https://www.youtube.com/watch?v=CWrZtgEPml0)
-- [Is your LLM-powered app safe? Evaluate it! | DEM522](https://www.youtube.com/watch?v=sZzcSX7BFVA)
-- [Local AI development with Foundry Local and .NET Aspire | DEM520](https://www.youtube.com/watch?v=K4rOILCzkI4)
-- [Extending your application with the new PowerToys Command Palette | DEM571](https://www.youtube.com/watch?v=XZ4ba1OBfOc)
-- [Build Agentic RAG solutions with Azure SQL OpenAI &amp; Data API builder | DEM563](https://www.youtube.com/watch?v=suqgkUZ9TgU)
+- [Inside Azure AI Foundry Labs: Experimenting with the Future of AI | BRK139](https://www.youtube.com/watch?v=tDpEQINtLF8)
+- [Scott and Mark Learn to...LIVE | KEY040](https://www.youtube.com/watch?v=KIFDVOXMNDc)
+- [Deploy AI Apps on Azure Red Hat OpenShift: Connecting OpenAI Services | DEM540](https://www.youtube.com/watch?v=mbzmkT0F87w)
+- [How to measure the impact of AI code assistants like GitHub Copilot | ODFP953](https://www.youtube.com/watch?v=VUEqCcY14hA)
+- [Extending Microsoft Fabric: Build and Deploy Custom Workloads | DEM565](https://www.youtube.com/watch?v=duIGIxyRqyI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
