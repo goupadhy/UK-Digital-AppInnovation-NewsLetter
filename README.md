@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Build opening keynote | KEY010](https://www.youtube.com/watch?v=0kyZkPW7XIY)
 - [The Making of NLWeb | BRK240](https://www.youtube.com/watch?v=EF6uywH-Yzo)
 - [AI Developer Workstations in Action | DEM574](https://www.youtube.com/watch?v=Lnx1z4zo0Yw)
 - [Fortifying AI Frontiers - Securing APIs the path to your AI app | DEM551](https://www.youtube.com/watch?v=xQVlmBt_PM8)
 - [Orchestrate distributed AI Agents with Azure Functions | DEM541](https://www.youtube.com/watch?v=pSBrgsmB-zs)
-- [No projects just C# with `dotnet run app.cs` | DEM518](https://www.youtube.com/watch?v=98MizuB7i-w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
