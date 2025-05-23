@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Update your .NET MAUI app UI at design time | DEM516](https://www.youtube.com/watch?v=saHaq9m_Jq0)
-- [Learn how to write better C# code in 15 minutes | DEM515](https://www.youtube.com/watch?v=-Jyj4xlwss8)
-- [From risk to reward: AI governance integrations for Azure AI Foundry | DEM527](https://www.youtube.com/watch?v=QWgE5pGH3PA)
-- [Supercharging Developer Productivity with GitHub Copilot | DEM504](https://www.youtube.com/watch?v=z9528I7aSJM)
-- [Easily setup dev environments with WinGet and Microsoft DSC V3 | DEM572](https://www.youtube.com/watch?v=vvdnel6ffTc)
+- [Essential AI Prompts for Developers | DEM509](https://www.youtube.com/watch?v=0xZ1vLUSQl8)
+- [Discover and create specialized agents with Azure AI Agent Service and tools | DEM534](https://www.youtube.com/watch?v=klvAezp13ss)
+- [Build AI native applications and agents with SharePoint Embedded | DEM532](https://www.youtube.com/watch?v=_m3QzXOTzQA)
+- [Boost Your Development Workflows with PostgreSQL extension for VS Code | DEM564](https://www.youtube.com/watch?v=q32uE-bSKSc)
+- [Build and protect MCPs faster with governance in Azure API Management | DEM545](https://www.youtube.com/watch?v=pr8ltV8XY7g)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
