@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Inside Azure AI Foundry Labs: Experimenting with the Future of AI | BRK139](https://www.youtube.com/watch?v=tDpEQINtLF8)
-- [Scott and Mark Learn to...LIVE | KEY040](https://www.youtube.com/watch?v=KIFDVOXMNDc)
-- [Deploy AI Apps on Azure Red Hat OpenShift: Connecting OpenAI Services | DEM540](https://www.youtube.com/watch?v=mbzmkT0F87w)
-- [How to measure the impact of AI code assistants like GitHub Copilot | ODFP953](https://www.youtube.com/watch?v=VUEqCcY14hA)
-- [Extending Microsoft Fabric: Build and Deploy Custom Workloads | DEM565](https://www.youtube.com/watch?v=duIGIxyRqyI)
+- [Building secure agents with Azure AI Foundry and Microsoft Security | BRK145](https://www.youtube.com/watch?v=sKzsh9cKOFs)
+- [Secure and govern your enterprise-scale agents with Copilot Studio | BRK159](https://www.youtube.com/watch?v=1v4cSWpUiKg)
+- [Building agents in Copilot Studio using Model Context Protocol open standards and more | BRK158](https://www.youtube.com/watch?v=7AHj1azyPwc)
+- [AI infused mobile &amp; desktop app development with .NET MAUI | BRK123](https://www.youtube.com/watch?v=tFOFU7LDQlA)
+- [A 10x Faster TypeScript with Anders Hejlsberg | BRK116](https://www.youtube.com/watch?v=UJfF3-13aFo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
