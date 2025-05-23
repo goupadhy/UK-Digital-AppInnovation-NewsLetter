@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Update your .NET MAUI app UI at design time | DEM516](https://www.youtube.com/watch?v=saHaq9m_Jq0)
+- [Learn how to write better C# code in 15 minutes | DEM515](https://www.youtube.com/watch?v=-Jyj4xlwss8)
+- [From risk to reward: AI governance integrations for Azure AI Foundry | DEM527](https://www.youtube.com/watch?v=QWgE5pGH3PA)
+- [Supercharging Developer Productivity with GitHub Copilot | DEM504](https://www.youtube.com/watch?v=z9528I7aSJM)
 - [Easily setup dev environments with WinGet and Microsoft DSC V3 | DEM572](https://www.youtube.com/watch?v=vvdnel6ffTc)
-- [Building secure agents with Azure AI Foundry and Microsoft Security | BRK145](https://www.youtube.com/watch?v=sKzsh9cKOFs)
-- [Secure and govern your enterprise-scale agents with Copilot Studio | BRK159](https://www.youtube.com/watch?v=1v4cSWpUiKg)
-- [Building agents in Copilot Studio using Model Context Protocol open standards and more | BRK158](https://www.youtube.com/watch?v=7AHj1azyPwc)
-- [AI infused mobile &amp; desktop app development with .NET MAUI | BRK123](https://www.youtube.com/watch?v=tFOFU7LDQlA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
