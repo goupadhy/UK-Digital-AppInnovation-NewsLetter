@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Introducing the Agent Store: Build agents and publish them in the Agent Store for | BRK156](https://www.youtube.com/watch?v=vEwJQjcCMDc)
-- [Empowering your development: AI at the heart of interactive learning | DEM581](https://www.youtube.com/watch?v=gqavSBoKomQ)
-- [Empowering AI adoption through skills development | DEM580](https://www.youtube.com/watch?v=TynclWm7b4g)
-- [Install GitHub Copilot in PyCharm #programming #pycharm #python #developer #github #copilot](https://www.youtube.com/watch?v=ed3ZEpDm-UA)
-- [Architecting highly resilient applications in Azure: A technical guide for developers | BRK197](https://www.youtube.com/watch?v=9YzkpHiJ2us)
+- [Legal Contracting w/AI: DraftWise&#39;s Integration of Cohere&#39;s Models​ | DEM530](https://www.youtube.com/watch?v=CWrZtgEPml0)
+- [Is your LLM-powered app safe? Evaluate it! | DEM522](https://www.youtube.com/watch?v=sZzcSX7BFVA)
+- [Local AI development with Foundry Local and .NET Aspire | DEM520](https://www.youtube.com/watch?v=K4rOILCzkI4)
+- [Extending your application with the new PowerToys Command Palette | DEM571](https://www.youtube.com/watch?v=XZ4ba1OBfOc)
+- [Build Agentic RAG solutions with Azure SQL OpenAI &amp; Data API builder | DEM563](https://www.youtube.com/watch?v=suqgkUZ9TgU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
