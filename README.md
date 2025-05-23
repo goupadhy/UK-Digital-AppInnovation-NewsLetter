@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Essential AI Prompts for Developers | DEM509](https://www.youtube.com/watch?v=0xZ1vLUSQl8)
-- [Discover and create specialized agents with Azure AI Agent Service and tools | DEM534](https://www.youtube.com/watch?v=klvAezp13ss)
-- [Build AI native applications and agents with SharePoint Embedded | DEM532](https://www.youtube.com/watch?v=_m3QzXOTzQA)
-- [Boost Your Development Workflows with PostgreSQL extension for VS Code | DEM564](https://www.youtube.com/watch?v=q32uE-bSKSc)
-- [Build and protect MCPs faster with governance in Azure API Management | DEM545](https://www.youtube.com/watch?v=pr8ltV8XY7g)
+- [AI Developer Workstations in Action | DEM574](https://www.youtube.com/watch?v=Lnx1z4zo0Yw)
+- [Fortifying AI Frontiers - Securing APIs the path to your AI app | DEM551](https://www.youtube.com/watch?v=xQVlmBt_PM8)
+- [Orchestrate distributed AI Agents with Azure Functions | DEM541](https://www.youtube.com/watch?v=pSBrgsmB-zs)
+- [No projects just C# with `dotnet run app.cs` | DEM518](https://www.youtube.com/watch?v=98MizuB7i-w)
+- [Tips for fast vector and full-text search with Azure Cosmos DB | DEM567](https://www.youtube.com/watch?v=5-dFbrnwpRk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
