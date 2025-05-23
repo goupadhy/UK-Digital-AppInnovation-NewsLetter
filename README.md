@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Introducing the Agent Store: Build agents and publish them in the Agent Store for | BRK156](https://www.youtube.com/watch?v=vEwJQjcCMDc)
-- [Empowering your development: AI at the heart of interactive learning | DEM581](https://www.youtube.com/watch?v=gqavSBoKomQ)
-- [Empowering AI adoption through skills development | DEM580](https://www.youtube.com/watch?v=TynclWm7b4g)
-- [Install GitHub Copilot in PyCharm #programming #pycharm #python #developer #github #copilot](https://www.youtube.com/watch?v=ed3ZEpDm-UA)
-- [Architecting highly resilient applications in Azure: A technical guide for developers | BRK197](https://www.youtube.com/watch?v=9YzkpHiJ2us)
+- [Build and deploy AI apps faster with low code and DevOps | BRK125](https://www.youtube.com/watch?v=85M--S-jv00)
+- [Automate any task with Computer-Using Agents &lpar;CUA&rpar; in Copilot Studio | DEM521](https://www.youtube.com/watch?v=kFvgizFVbMM)
+- [Building Resilient Cloud-Native Microservices | DEM544](https://www.youtube.com/watch?v=1JVNlS_RZC4)
+- [Legal Contracting w/AI: DraftWise&#39;s Integration of Cohere&#39;s Models​ | DEM530](https://www.youtube.com/watch?v=CWrZtgEPml0)
+- [Is your LLM-powered app safe? Evaluate it! | DEM522](https://www.youtube.com/watch?v=sZzcSX7BFVA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
