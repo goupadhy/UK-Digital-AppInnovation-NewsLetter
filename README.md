@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Introducing the Agent Store: Build agents and publish them in the Agent Store for | BRK156](https://www.youtube.com/watch?v=vEwJQjcCMDc)
+- [Empowering your development: AI at the heart of interactive learning | DEM581](https://www.youtube.com/watch?v=gqavSBoKomQ)
+- [Empowering AI adoption through skills development | DEM580](https://www.youtube.com/watch?v=TynclWm7b4g)
 - [Install GitHub Copilot in PyCharm #programming #pycharm #python #developer #github #copilot](https://www.youtube.com/watch?v=ed3ZEpDm-UA)
 - [Architecting highly resilient applications in Azure: A technical guide for developers | BRK197](https://www.youtube.com/watch?v=9YzkpHiJ2us)
-- [AI Agents Power Compliance with Saifr on Azure AI Foundry | DEM588](https://www.youtube.com/watch?v=BM6mbdqLAxQ)
-- [Optimize your GenAI applications at scale in Azure AI Foundry | BRK178](https://www.youtube.com/watch?v=N6SYd1y3e4g)
-- [Skip the YAML! Easily deploy apps to AKS with Automated Deployments | BRK193](https://www.youtube.com/watch?v=tg2GgWZblfM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
