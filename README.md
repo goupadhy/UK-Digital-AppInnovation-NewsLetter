@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Microsoft Build opening keynote | KEY010](https://www.youtube.com/watch?v=0kyZkPW7XIY)
-- [The Making of NLWeb | BRK240](https://www.youtube.com/watch?v=EF6uywH-Yzo)
-- [AI Developer Workstations in Action | DEM574](https://www.youtube.com/watch?v=Lnx1z4zo0Yw)
-- [Fortifying AI Frontiers - Securing APIs the path to your AI app | DEM551](https://www.youtube.com/watch?v=xQVlmBt_PM8)
-- [Orchestrate distributed AI Agents with Azure Functions | DEM541](https://www.youtube.com/watch?v=pSBrgsmB-zs)
+- [Unlock AI insights for all users with agents and copilots | DEMFP783](https://www.youtube.com/watch?v=SRl0Po6Byk8)
+- [Optimize your Azure environment with performance insights from Datadog | DEMFP789](https://www.youtube.com/watch?v=3-AMk8p-igs)
+- [Comprehensive workflow for bringing native apps to Snapdragon X Series | DEMFP787](https://www.youtube.com/watch?v=KGt5rXLCLww)
+- [Shape the future of agentic workflows | DEMFP785](https://www.youtube.com/watch?v=h1K7cbfDvEU)
+- [Your API is not an MCP | DEMFP786](https://www.youtube.com/watch?v=eeOANluSqAE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
