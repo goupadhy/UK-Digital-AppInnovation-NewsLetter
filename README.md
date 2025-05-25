@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Microsoft Build 2025: Copilot + Agent Governance, Security, and Management](https://www.microsoft.com/en-us/power-platform/blog/2025/05/15/microsoft-build-2025-agent-governance-what-to-look-for/)
 - [2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/30/2025-release-wave-1-brings-hundreds-of-updates-to-microsoft-dynamics-365-and-power-platform/)
 - [Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/16/preview-upcoming-dynamics-365-features-at-the-microsoft-business-applications-launch-event/)
 - [Identify your readiness for AI-first development with agents and Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2025/04/14/identify-your-readiness-for-ai-first-development-with-agents-and-microsoft-power-platform/)
-- [Elevate your Microsoft Power Platform development experience with Power CAT Tools ](https://www.microsoft.com/en-us/power-platform/blog/2025/03/04/elevate-your-microsoft-power-platform-development-experience-with-power-cat-tools/)
-- [2025 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Copilot offerings](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/01/23/2025-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-copilot-offerings/)
+- [Real-time data warehousing with Microsoft Dataverse and Fabric zero-copy integration](https://www.microsoft.com/en-us/power-platform/blog/2025/03/31/dataverse-and-fabric-zero-copy-integration/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
