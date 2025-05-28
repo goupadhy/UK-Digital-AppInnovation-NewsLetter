@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Bring Your Own Model in Copilot Studio: Live from Microsoft Build 2025 with MK Bajwa](https://www.youtube.com/watch?v=59PKxu9YxvI)
 - [Model Context Protocol now generally available in Copilot Studio!](https://www.youtube.com/watch?v=Ll_x63rHj2c)
 - [Agents with real-time knowledge from Databricks](https://www.youtube.com/watch?v=-_KoJ67hecA)
 - [Create and publish your first agent in Microsoft Copilot Studio](https://www.youtube.com/watch?v=_aJAOTOvWxI)
 - [It&#39;s time to power up for PPCC25!](https://www.youtube.com/watch?v=baoFtWibo9g)
-- [Final thoughts on the Copilot Studio Power Platform Makers series | EP29](https://www.youtube.com/watch?v=ehMmq9ikWYU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
