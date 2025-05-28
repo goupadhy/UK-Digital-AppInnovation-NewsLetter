@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Agents with real-time knowledge from Databricks](https://www.youtube.com/watch?v=-_KoJ67hecA)
 - [Create and publish your first agent in Microsoft Copilot Studio](https://www.youtube.com/watch?v=_aJAOTOvWxI)
 - [It&#39;s time to power up for PPCC25!](https://www.youtube.com/watch?v=baoFtWibo9g)
 - [Final thoughts on the Copilot Studio Power Platform Makers series | EP29](https://www.youtube.com/watch?v=ehMmq9ikWYU)
 - [Next steps on your Microsoft Copilot Studio journey | EP28](https://www.youtube.com/watch?v=aLB8dNu4_U8)
-- [Using Microsoft Power Automate with Copilot Studio | EP27](https://www.youtube.com/watch?v=JqcxylzMSFY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
