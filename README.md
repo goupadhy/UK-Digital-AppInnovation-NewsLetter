@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Extensions in GitHub Copilot](https://www.youtube.com/watch?v=hbdPNUQGn-I)
 - [Unlock AI insights for all users with agents and copilots | DEMFP783](https://www.youtube.com/watch?v=SRl0Po6Byk8)
 - [Optimize your Azure environment with performance insights from Datadog | DEMFP789](https://www.youtube.com/watch?v=3-AMk8p-igs)
 - [Comprehensive workflow for bringing native apps to Snapdragon X Series | DEMFP787](https://www.youtube.com/watch?v=KGt5rXLCLww)
 - [Shape the future of agentic workflows | DEMFP785](https://www.youtube.com/watch?v=h1K7cbfDvEU)
-- [Your API is not an MCP | DEMFP786](https://www.youtube.com/watch?v=eeOANluSqAE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
