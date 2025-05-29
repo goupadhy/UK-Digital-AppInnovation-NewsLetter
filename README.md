@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Empower your analytics with Mirroring SQL in Fabric | Data Exposed](https://www.youtube.com/watch?v=Rpsr0ZhvL1E)
+- [Build Deploy &amp; Use Your First Model Context Protocol &lpar;MCP&rpar; Server | DEM517](https://www.youtube.com/watch?v=cfwooBzzHBs)
 - [Azure Extensions in GitHub Copilot](https://www.youtube.com/watch?v=hbdPNUQGn-I)
 - [Unlock AI insights for all users with agents and copilots | DEMFP783](https://www.youtube.com/watch?v=SRl0Po6Byk8)
 - [Optimize your Azure environment with performance insights from Datadog | DEMFP789](https://www.youtube.com/watch?v=3-AMk8p-igs)
-- [Comprehensive workflow for bringing native apps to Snapdragon X Series | DEMFP787](https://www.youtube.com/watch?v=KGt5rXLCLww)
-- [Shape the future of agentic workflows | DEMFP785](https://www.youtube.com/watch?v=h1K7cbfDvEU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
