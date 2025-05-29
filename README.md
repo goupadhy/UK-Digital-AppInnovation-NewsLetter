@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Why should I upgrade to .NET 9?](https://www.youtube.com/watch?v=16m0RitoQ0k)
 - [Imagine Cup Finalist: HairMatch Revolutionizing Hair Care with AI | DEM586](https://www.youtube.com/watch?v=-ifAoOtJ9XE)
 - [Empower your analytics with Mirroring SQL in Fabric | Data Exposed](https://www.youtube.com/watch?v=Rpsr0ZhvL1E)
 - [Build Deploy &amp; Use Your First Model Context Protocol &lpar;MCP&rpar; Server | DEM517](https://www.youtube.com/watch?v=cfwooBzzHBs)
 - [Azure Extensions in GitHub Copilot](https://www.youtube.com/watch?v=hbdPNUQGn-I)
-- [Unlock AI insights for all users with agents and copilots | DEMFP783](https://www.youtube.com/watch?v=SRl0Po6Byk8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
