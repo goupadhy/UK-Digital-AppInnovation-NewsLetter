@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build an end-to-end agentic automation for your system in 15 mins | DEM507](https://www.youtube.com/watch?v=GJcAIoiG2wU)
+- [Best practices for architecting SaaS applications on Azure | DEM505](https://www.youtube.com/watch?v=KrxHq5CvHW4)
+- [A practical guide to building agentic workflows | DEMFP782](https://www.youtube.com/watch?v=C3FZL7hXj0Y)
+- [Making Agent Memory Better and Agent Actions Faster with TypeAgent | DEM575](https://www.youtube.com/watch?v=acbUy2oZqmA)
 - [Why should I upgrade to .NET 9?](https://www.youtube.com/watch?v=16m0RitoQ0k)
-- [Imagine Cup Finalist: HairMatch Revolutionizing Hair Care with AI | DEM586](https://www.youtube.com/watch?v=-ifAoOtJ9XE)
-- [Empower your analytics with Mirroring SQL in Fabric | Data Exposed](https://www.youtube.com/watch?v=Rpsr0ZhvL1E)
-- [Build Deploy &amp; Use Your First Model Context Protocol &lpar;MCP&rpar; Server | DEM517](https://www.youtube.com/watch?v=cfwooBzzHBs)
-- [Azure Extensions in GitHub Copilot](https://www.youtube.com/watch?v=hbdPNUQGn-I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
