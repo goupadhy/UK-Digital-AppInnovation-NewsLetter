@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Secure your data estate with end-to-end tools in Fabric and Purview | DEM560](https://www.youtube.com/watch?v=BbGoZU1totY)
 - [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=KYSiUicxWaA)
 - [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=A7J8CDAl1Ng)
 - [Build an end-to-end agentic automation for your system in 15 mins | DEM507](https://www.youtube.com/watch?v=GJcAIoiG2wU)
 - [Best practices for architecting SaaS applications on Azure | DEM505](https://www.youtube.com/watch?v=KrxHq5CvHW4)
-- [A practical guide to building agentic workflows | DEMFP782](https://www.youtube.com/watch?v=C3FZL7hXj0Y)
 <!-- YOUTUBEAPPMOD:END -->
 
 
