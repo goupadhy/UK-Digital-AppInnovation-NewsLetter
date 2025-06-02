@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build 2025: No projects - just C# - with `dotnet run app.cs](https://www.youtube.com/watch?v=SukpUFjEXEE)
 - [Secure your data estate with end-to-end tools in Fabric and Purview | DEM560](https://www.youtube.com/watch?v=BbGoZU1totY)
 - [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=KYSiUicxWaA)
 - [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=A7J8CDAl1Ng)
 - [Build an end-to-end agentic automation for your system in 15 mins | DEM507](https://www.youtube.com/watch?v=GJcAIoiG2wU)
-- [Best practices for architecting SaaS applications on Azure | DEM505](https://www.youtube.com/watch?v=KrxHq5CvHW4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
