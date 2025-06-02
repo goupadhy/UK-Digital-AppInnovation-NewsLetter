@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Manage Copilot Studio Capacity with enhancements to Power Platform admin center](https://www.youtube.com/watch?v=ejzlhDR9lxA)
 - [Power Platform Community AMA: Microsoft Power Apps | May 2025](https://www.youtube.com/watch?v=_L_steUhY2k)
 - [Build 2025 Copilot Studio Recap - Power CAT AI Webinars](https://www.youtube.com/watch?v=7S6ROIu-Xno)
 - [Lisa Crosbie prepares to bring the power to PPCC25!](https://www.youtube.com/watch?v=ggtX72nr734)
 - [Build your next-gen agents using Dataverse MCP server](https://www.youtube.com/watch?v=wslOMpqTc4o)
-- [Bring Your Own Model in Copilot Studio: Live from Microsoft Build 2025 with MK Bajwa](https://www.youtube.com/watch?v=59PKxu9YxvI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
