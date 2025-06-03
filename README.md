@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [RAG Onboarding Assistant, with Grace Brigham &amp; Zachary King, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=RPPlXKee7LY)
 - [Build 2025: No projects - just C# - with `dotnet run app.cs](https://www.youtube.com/watch?v=SukpUFjEXEE)
 - [Secure your data estate with end-to-end tools in Fabric and Purview | DEM560](https://www.youtube.com/watch?v=BbGoZU1totY)
 - [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=KYSiUicxWaA)
 - [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=A7J8CDAl1Ng)
-- [Build an end-to-end agentic automation for your system in 15 mins | DEM507](https://www.youtube.com/watch?v=GJcAIoiG2wU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
