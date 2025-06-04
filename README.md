@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What is SQL database in Fabric?](https://www.youtube.com/watch?v=s0MK0sFfbmY)
+- [What is SQL database in Fabric?](https://www.youtube.com/watch?v=X_bCqX4KzC0)
 - [RAG Onboarding Assistant, with Grace Brigham &amp; Zachary King, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=RPPlXKee7LY)
 - [Build 2025: No projects - just C# - with `dotnet run app.cs](https://www.youtube.com/watch?v=SukpUFjEXEE)
 - [Secure your data estate with end-to-end tools in Fabric and Purview | DEM560](https://www.youtube.com/watch?v=BbGoZU1totY)
-- [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=KYSiUicxWaA)
-- [What is Editor used for in SQL databases in Fabric?](https://www.youtube.com/watch?v=A7J8CDAl1Ng)
 <!-- YOUTUBEAPPMOD:END -->
 
 
