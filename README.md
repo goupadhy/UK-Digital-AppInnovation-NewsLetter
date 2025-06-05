@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server 2025: The AI-ready enterprise database platform | Data Exposed](https://www.youtube.com/watch?v=3RgncKX6K9A)
+- [What is the .NET Aspire Community Toolkit?](https://www.youtube.com/watch?v=T_Kmi6Jc61w)
 - [What is SQL database in Fabric?](https://www.youtube.com/watch?v=s0MK0sFfbmY)
 - [What is SQL database in Fabric?](https://www.youtube.com/watch?v=X_bCqX4KzC0)
 - [RAG Onboarding Assistant, with Grace Brigham &amp; Zachary King, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=RPPlXKee7LY)
-- [Build 2025: No projects - just C# - with `dotnet run app.cs](https://www.youtube.com/watch?v=SukpUFjEXEE)
-- [Secure your data estate with end-to-end tools in Fabric and Purview | DEM560](https://www.youtube.com/watch?v=BbGoZU1totY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
