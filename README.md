@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Maximize resiliency with Managed Availability and Disaster Recovery](https://www.youtube.com/watch?v=FUCktF82ex0)
 - [Understanding Agents | Session 2 | 06-11-25](https://www.youtube.com/watch?v=5TJy0wDLOZQ)
 - [New Knowledge sources with Hiring Helper agent](https://www.youtube.com/watch?v=opXKb-BHo-o)
 - [The countdown has started for PPCC25!](https://www.youtube.com/watch?v=tVtGR0eu_fU)
 - [Enable Copilot for model-driven apps in your environment | Power Platform Shorts](https://www.youtube.com/watch?v=6mod3E_nasQ)
-- [Code Interpreter in Microsoft Copilot Studio](https://www.youtube.com/watch?v=IOSs14g-gUw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
