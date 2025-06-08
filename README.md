@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Customize security, authentication, and access management for AI](https://www.youtube.com/watch?v=_ePvhb7P0ro)
 - [Network and Data Security for Exfiltration-Protected Agents](https://www.youtube.com/watch?v=UwGdC8lPO8A)
 - [Build skills that matter: Power Up with AI, Copilot, Agents &amp; Power Platform](https://www.youtube.com/watch?v=Ityam9FdUws)
 - [Maximize resiliency with Managed Availability and Disaster Recovery](https://www.youtube.com/watch?v=FUCktF82ex0)
 - [Understanding Agents | Session 2 | 06-11-25](https://www.youtube.com/watch?v=5TJy0wDLOZQ)
-- [New Knowledge sources with Hiring Helper agent](https://www.youtube.com/watch?v=opXKb-BHo-o)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
