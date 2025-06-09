@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Deep Dive on Autonomous Agents - Power CAT AI Webinars](https://www.youtube.com/watch?v=N68QbVEjiMo)
 - [Dataverse MCP - Part 1: Starting in GitHub Copilot](https://www.youtube.com/watch?v=wROKxdssoTo)
 - [The Agent Creator Community Landing Page](https://www.youtube.com/watch?v=T0naPBcqaYs)
 - [Customize security, authentication, and access management for AI](https://www.youtube.com/watch?v=_ePvhb7P0ro)
 - [Network and Data Security for Exfiltration-Protected Agents](https://www.youtube.com/watch?v=UwGdC8lPO8A)
-- [Build skills that matter: Power Up with AI, Copilot, Agents &amp; Power Platform](https://www.youtube.com/watch?v=Ityam9FdUws)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
