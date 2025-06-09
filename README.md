@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Scott and Mark Learn to...LIVE](https://www.youtube.com/watch?v=G36zpnN1WDA)
 - [What are the two kinds of programming errors?](https://www.youtube.com/watch?v=THEk_IUhLM8)
 - [SQL Server 2025: The AI-ready enterprise database platform | Data Exposed](https://www.youtube.com/watch?v=3RgncKX6K9A)
 - [What is the .NET Aspire Community Toolkit?](https://www.youtube.com/watch?v=T_Kmi6Jc61w)
 - [What is SQL database in Fabric?](https://www.youtube.com/watch?v=s0MK0sFfbmY)
-- [What is SQL database in Fabric?](https://www.youtube.com/watch?v=X_bCqX4KzC0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
