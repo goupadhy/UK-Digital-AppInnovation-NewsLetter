@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents with Caroline Camp](https://www.youtube.com/watch?v=PZW0D6ib-lA)
+- [Dataverse MCP - Part 2: Enabling Databricks on Claude](https://www.youtube.com/watch?v=7eCN8smtcCE)
 - [Deep Dive on Autonomous Agents - Power CAT AI Webinars](https://www.youtube.com/watch?v=N68QbVEjiMo)
 - [Dataverse MCP - Part 1: Starting in GitHub Copilot](https://www.youtube.com/watch?v=wROKxdssoTo)
 - [The Agent Creator Community Landing Page](https://www.youtube.com/watch?v=T0naPBcqaYs)
-- [Customize security, authentication, and access management for AI](https://www.youtube.com/watch?v=_ePvhb7P0ro)
-- [Network and Data Security for Exfiltration-Protected Agents](https://www.youtube.com/watch?v=UwGdC8lPO8A)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
