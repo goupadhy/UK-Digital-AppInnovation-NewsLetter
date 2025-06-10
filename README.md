@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Sip and Sync: Super-charging GitHub Copilot with Model Context Protocol &lpar;MCP&rpar;, with Krystal Folkes](https://www.youtube.com/watch?v=Jdv-BqPy604)
 - [Trailer for Livestream 1 of POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=QftQQlzZ4yM)
 - [Scott and Mark Learn to...LIVE](https://www.youtube.com/watch?v=G36zpnN1WDA)
 - [What are the two kinds of programming errors?](https://www.youtube.com/watch?v=THEk_IUhLM8)
 - [SQL Server 2025: The AI-ready enterprise database platform | Data Exposed](https://www.youtube.com/watch?v=3RgncKX6K9A)
-- [What is the .NET Aspire Community Toolkit?](https://www.youtube.com/watch?v=T_Kmi6Jc61w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
