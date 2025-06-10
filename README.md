@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Carilion Clinic develops strong patient-clinician bonds with DAX Copilot](https://www.youtube.com/watch?v=DaMWXnKUp_U)
 - [AI on the Go for Microsoft Partners: Series Trailer](https://www.youtube.com/watch?v=cWIHcbOihY4)
 - [AI Challenger | HEINEKEN: Tapping AI to Become the Best-Connected Brewer](https://www.youtube.com/watch?v=Vo647KQyMus)
 - [Microsoft Discovery platform overview](https://www.youtube.com/watch?v=R8d5JsJ9R64)
 - [Introducing Microsoft Discovery](https://www.youtube.com/watch?v=k3S4lPbUWng)
-- [Microsoft&#39;s 50th Anniversary: Insights with Shelley Bransten on AI, Retail, and Financial Services](https://www.youtube.com/watch?v=aeUuSw2Rgyk)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
