@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What is a dacpac?](https://www.youtube.com/watch?v=FAACaUIvGt4)
+- [What is a dacpac?](https://www.youtube.com/watch?v=ix3Vpf20mM8)
 - [Trailer for Livestream 3 of POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=5O6ynz3zfkE)
 - [Supercharge your Power Apps model-driven apps and Dynamics 365 apps with Infinity AI Agents](https://www.youtube.com/watch?v=ovEAwIZjQCI)
 - [Trailer for Livestream 2 of POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=B5dXcgM6yGk)
-- [Sip and Sync: Super-charging GitHub Copilot with Model Context Protocol &lpar;MCP&rpar;, with Krystal Folkes](https://www.youtube.com/watch?v=Jdv-BqPy604)
-- [Trailer for Livestream 1 of POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=QftQQlzZ4yM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
