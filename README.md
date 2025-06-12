@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s new in .NET Aspire 9?](https://www.youtube.com/shorts/mTk5ORX5ziQ)
 - [What Microsoft is Building for Postgres in 2025 | POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=rADPOp4Ewm4)
 - [Databases in the AI Trenches| POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=z61O8UoOXKI)
 - [Azure Database for PostgreSQL: 15 Essential Standards for Compliance and Security | POSETTE 2025](https://www.youtube.com/watch?v=QWezbFp87PQ)
 - [Best Practices for Tuning Slow Postgres Queries | POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=ng6dKtrHAtE)
-- [Boosting Azure Database for PostgreSQL Performance with Azure Advisor | POSETTE 2025](https://www.youtube.com/watch?v=Zm9KBw8H9CU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
