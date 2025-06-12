@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [How the GitHub billing team uses the coding agent in GitHub Copilot to continuously burn down technical debt](https://github.blog/ai-and-ml/github-copilot/how-the-github-billing-team-uses-the-coding-agent-in-github-copilot-to-continuously-burn-down-technical-debt/)
 - [GitHub Availability Report: May 2025](https://github.blog/news-insights/company-news/github-availability-report-may-2025/)
 - [How GitHub engineers tackle platform problems](https://github.blog/engineering/infrastructure/how-github-engineers-tackle-platform-problems/)
 - [GitHub for Beginners: Code review and refactoring with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/github-for-beginners-code-review-and-refactoring-with-github-copilot/)
 - [Assigning and completing issues with coding agent in GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/assigning-and-completing-issues-with-coding-agent-in-github-copilot/)
-- [How to create issues and pull requests in record time on GitHub](https://github.blog/developer-skills/github/how-to-create-issues-and-pull-requests-in-record-time-on-github/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
