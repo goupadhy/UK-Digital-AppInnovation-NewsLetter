@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Announcing the AI-Powered Search and Summary Components in Power Pages Component Library](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-the-ai-powered-search-and-summary-components-in-power-pages-component-library/)
+- [What’s new in Power Apps: May 2025 Feature Update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-may-2025-feature-update/)
+- [Long-Term Retention (LTR): Cost Effective Strategy for Managing Storage and Compliance  ](https://www.microsoft.com/en-us/power-platform/blog/2025/06/09/long-term-retention/)
 - [Dataverse at Build: The Agent Platform Powering the Future of Agentic AI](https://www.microsoft.com/en-us/power-platform/blog/2025/06/03/dataverse-at-build-2025/)
-- [The Next Generation of Power Platform Adoption Guidance is here](https://www.microsoft.com/en-us/power-platform/blog/2025/05/27/the-next-generation-of-power-platform-adoption-guidance-is-here/)
-- [Microsoft Build 2025: Copilot + Agent Governance, Security, and Management](https://www.microsoft.com/en-us/power-platform/blog/2025/05/15/microsoft-build-2025-agent-governance-what-to-look-for/)
-- [2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/30/2025-release-wave-1-brings-hundreds-of-updates-to-microsoft-dynamics-365-and-power-platform/)
-- [Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/04/16/preview-upcoming-dynamics-365-features-at-the-microsoft-business-applications-launch-event/)
+- [Now in Public Preview: Power Pages AI Usage analytics & Governance in Copilot Hub](https://www.microsoft.com/en-us/power-platform/blog/power-pages/now-in-public-preview-power-pages-ai-usage-analytics-governance-in-copilot-hub/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
