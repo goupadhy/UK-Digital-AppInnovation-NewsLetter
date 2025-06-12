@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Trailer for Livestream 4 of POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=yxte3EpAEwg)
-- [What is a dacpac?](https://www.youtube.com/shorts/FAACaUIvGt4)
-- [What is a dacpac?](https://www.youtube.com/watch?v=ix3Vpf20mM8)
-- [Trailer for Livestream 3 of POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=5O6ynz3zfkE)
-- [Supercharge your Power Apps model-driven apps and Dynamics 365 apps with Infinity AI Agents](https://www.youtube.com/watch?v=ovEAwIZjQCI)
+- [What Microsoft is Building for Postgres in 2025 | POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=rADPOp4Ewm4)
+- [Databases in the AI Trenches| POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=z61O8UoOXKI)
+- [Azure Database for PostgreSQL: 15 Essential Standards for Compliance and Security | POSETTE 2025](https://www.youtube.com/watch?v=QWezbFp87PQ)
+- [Best Practices for Tuning Slow Postgres Queries | POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=ng6dKtrHAtE)
+- [Boosting Azure Database for PostgreSQL Performance with Azure Advisor | POSETTE 2025](https://www.youtube.com/watch?v=Zm9KBw8H9CU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
