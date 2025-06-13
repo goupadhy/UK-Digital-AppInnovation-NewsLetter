@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Streamlining Application Testing with .NET Aspire and Playwright | DEM508](https://www.youtube.com/watch?v=hnHUSUEwqMc)
 - [Build modern data applications with SQL Server 2025 | Data Exposed](https://www.youtube.com/watch?v=pckjd-5rT9M)
 - [What&#39;s new in .NET Aspire 9?](https://www.youtube.com/shorts/mTk5ORX5ziQ)
 - [What Microsoft is Building for Postgres in 2025 | POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=rADPOp4Ewm4)
 - [Databases in the AI Trenches| POSETTE: An Event for Postgres 2025](https://www.youtube.com/watch?v=z61O8UoOXKI)
-- [Azure Database for PostgreSQL: 15 Essential Standards for Compliance and Security | POSETTE 2025](https://www.youtube.com/watch?v=QWezbFp87PQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
