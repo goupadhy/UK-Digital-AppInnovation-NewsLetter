@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Generate technology proposal | Power Platform Shorts](https://www.youtube.com/watch?v=J7pLBXeKmsY)
 - [Plan agents and copresence | Power Platform Shorts](https://www.youtube.com/watch?v=-lnmoaDukk8)
 - [PPCC25 Doher Pablo](https://www.youtube.com/watch?v=EI0neaNTZBE)
 - [Dataverse MCP - Part 3: Multi MCP agents feat. Litera and Docusign](https://www.youtube.com/watch?v=POgjypUbRyQ)
 - [Process diagram and data model | Power Platform Shorts](https://www.youtube.com/watch?v=1VZBCPY_BRQ)
-- [Understanding Microsoft Agents with Caroline Camp](https://www.youtube.com/watch?v=PZW0D6ib-lA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
