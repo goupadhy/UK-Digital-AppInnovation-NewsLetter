@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Simplifying Medallion Implementation with Materialized Views in Fabric | DEM566](https://www.youtube.com/watch?v=Tu1lsQ4ab34)
 - [5 Minute SXSW, in Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=DHaM21xXCQA)
 - [Azure AI Foundry Agent Service: Transform agentic workflows](https://www.youtube.com/watch?v=PE59xHO4V8U)
 - [The Agent Awakens: Collaborative Development with GitHub Copilot | BRK113](https://www.youtube.com/watch?v=TgwpK_ROhqo)
 - [Streamlining Application Testing with .NET Aspire and Playwright | DEM508](https://www.youtube.com/watch?v=hnHUSUEwqMc)
-- [Build modern data applications with SQL Server 2025 | Data Exposed](https://www.youtube.com/watch?v=pckjd-5rT9M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
