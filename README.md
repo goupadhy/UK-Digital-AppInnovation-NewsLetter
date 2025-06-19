@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server 2025: Secure by Default | Data Exposed](https://www.youtube.com/watch?v=t03Tgcouzcw)
 - [How can I monitor my capacity and usage for SQL Database in Fabric?](https://www.youtube.com/shorts/jnJiWqVvWeo)
 - [What&#39;s New for ASP.NET Core &amp; Blazor in .NET 9?](https://www.youtube.com/shorts/EsW8G_9jkQk)
 - [Simplifying Medallion Implementation with Materialized Views in Fabric | DEM566](https://www.youtube.com/watch?v=Tu1lsQ4ab34)
 - [5 Minute SXSW, in Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=DHaM21xXCQA)
-- [Azure AI Foundry Agent Service: Transform agentic workflows](https://www.youtube.com/watch?v=PE59xHO4V8U)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
