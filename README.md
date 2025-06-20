@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Microsoft MVP Ana Ines Urrutia prepares for PPCC25!](https://www.youtube.com/watch?v=re7Stplvrjs)
 - [Generate process diagrams | Power Platform Shorts](https://www.youtube.com/watch?v=z2g1B4TVM6g)
 - [Understanding Microsoft Agents Two | Recap | Community Calls](https://www.youtube.com/watch?v=A-6JCZK-Ge0)
 - [Generate technology proposal | Power Platform Shorts](https://www.youtube.com/watch?v=J7pLBXeKmsY)
 - [Plan agents and copresence | Power Platform Shorts](https://www.youtube.com/watch?v=-lnmoaDukk8)
-- [Doher Pablo feels the power of PPCC25](https://www.youtube.com/watch?v=EI0neaNTZBE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
