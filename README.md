@@ -48,7 +48,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Understanding Microsoft Agents Two | Recap | Community Calls](https://www.youtube.com/watch?v=A-6JCZK-Ge0)
 - [Generate technology proposal | Power Platform Shorts](https://www.youtube.com/watch?v=J7pLBXeKmsY)
 - [Plan agents and copresence | Power Platform Shorts](https://www.youtube.com/watch?v=-lnmoaDukk8)
-- [PPCC25 Doher Pablo](https://www.youtube.com/watch?v=EI0neaNTZBE)
+- [Doher Pablo feels the power of PPCC25](https://www.youtube.com/watch?v=EI0neaNTZBE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
