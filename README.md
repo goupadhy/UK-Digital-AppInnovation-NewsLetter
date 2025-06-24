@@ -63,10 +63,10 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
 - [Powering Progress, Protecting the Planet: A Conversation with EPRI President and CEO Arshad Mansoor](https://www.youtube.com/watch?v=janSWREvB3U)
-- [The Borden Line with Bill Borden | Turning AI Vision into Impact in UK Financial Services](https://www.youtube.com/watch?v=mQ9iaTar9ew)
 - [AI Challenger | Enveda: Turning discoveries into life-saving medicines, faster](https://www.youtube.com/watch?v=8JU5B4vTxsg)
 - [AI Challenger | Loft Orbital: Building smarter satellites with AI](https://www.youtube.com/watch?v=lGtTnFlI6yA)
 - [Carilion Clinic develops strong patient-clinician bonds with DAX Copilot](https://www.youtube.com/watch?v=DaMWXnKUp_U)
+- [AI on the Go for Microsoft Partners: Series Trailer](https://www.youtube.com/watch?v=cWIHcbOihY4)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
