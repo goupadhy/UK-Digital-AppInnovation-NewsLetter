@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Can you tell me about the new params collections feature in C# 13?](https://www.youtube.com/shorts/Zip7M4gknIY)
-- [SQL Server 2025: Secure by Default | Data Exposed](https://www.youtube.com/watch?v=t03Tgcouzcw)
-- [How can I monitor my capacity and usage for SQL Database in Fabric?](https://www.youtube.com/shorts/jnJiWqVvWeo)
-- [What&#39;s New for ASP.NET Core &amp; Blazor in .NET 9?](https://www.youtube.com/shorts/EsW8G_9jkQk)
-- [Simplifying Medallion Implementation with Materialized Views in Fabric | DEM566](https://www.youtube.com/watch?v=Tu1lsQ4ab34)
+- [Vibe Coding with GitHub Copilot Agent Mode - Krystal Folkes](https://www.youtube.com/watch?v=Wr-2z42m60w)
+- [Generators: The unsung hero of Async programming](https://www.youtube.com/watch?v=mAklOcbsiao)
+- [Build an AI Agent in VS Code with AI Toolkit and Azure AI Foundry](https://www.youtube.com/watch?v=oltLB85Xq9E)
+- [PowerShell Features in SSMS along with the SQLServer Module | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=fPfLVCA_G3w)
+- [Making your own MCP server in VS Code](https://www.youtube.com/watch?v=SYcQXozpb_E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
