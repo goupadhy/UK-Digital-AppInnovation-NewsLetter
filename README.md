@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s your favorite OpenAPI feature?](https://www.youtube.com/shorts/BsbCCz0EobM)
 - [Vibe Coding with GitHub Copilot Agent Mode - Krystal Folkes](https://www.youtube.com/watch?v=Wr-2z42m60w)
 - [Generators: The unsung hero of Async programming](https://www.youtube.com/watch?v=mAklOcbsiao)
 - [Build an AI Agent in VS Code with AI Toolkit and Azure AI Foundry](https://www.youtube.com/watch?v=oltLB85Xq9E)
 - [PowerShell Features in SSMS along with the SQLServer Module | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=fPfLVCA_G3w)
-- [Making your own MCP server in VS Code](https://www.youtube.com/watch?v=SYcQXozpb_E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
