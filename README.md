@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL Server 2025: Engine  performance and scale delighters | Data Exposed](https://www.youtube.com/watch?v=YnhvfThUdDs)
 - [AI powered performance testing to ensure app reliability | DEM536](https://www.youtube.com/watch?v=5KtfQRgul9c)
 - [What&#39;s your favorite OpenAPI feature?](https://www.youtube.com/shorts/BsbCCz0EobM)
 - [Vibe Coding with GitHub Copilot Agent Mode - Krystal Folkes](https://www.youtube.com/watch?v=Wr-2z42m60w)
 - [Generators: The unsung hero of Async programming](https://www.youtube.com/watch?v=mAklOcbsiao)
-- [Build an AI Agent in VS Code with AI Toolkit and Azure AI Foundry](https://www.youtube.com/watch?v=oltLB85Xq9E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
