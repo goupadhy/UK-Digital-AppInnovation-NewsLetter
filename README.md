@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Enable Natural Language Search for Lists in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/enable-natural-language-search-for-lists-in-power-pages/)
+- [Data Agent Architecture powered by Microsoft Dataverse ](https://www.microsoft.com/en-us/power-platform/blog/2025/06/16/data-agent-architecture-powered-by-microsoft-dataverse/)
+- [Empowering a New Era of Agent-Based Experiences: Upwork and Microsoft Power Platform Partnership](https://www.microsoft.com/en-us/power-platform/blog/2025/06/16/empowering-a-new-era-of-agent-based-experiences-upwork-and-microsoft-power-platform-partnership/)
 - [Experience the redesigned Copilot hub](https://www.microsoft.com/en-us/power-platform/blog/2025/06/12/experience-the-redesigned-copilot-hub/)
 - [Announcing the AI-Powered Search and Summary Components in Power Pages Component Library](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-the-ai-powered-search-and-summary-components-in-power-pages-component-library/)
-- [What’s new in Power Apps: May 2025 Feature Update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-may-2025-feature-update/)
-- [Long-Term Retention (LTR): Cost Effective Strategy for Managing Storage and Compliance  ](https://www.microsoft.com/en-us/power-platform/blog/2025/06/09/long-term-retention/)
-- [Dataverse at Build: The Agent Platform Powering the Future of Agentic AI](https://www.microsoft.com/en-us/power-platform/blog/2025/06/03/dataverse-at-build-2025/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
