@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Nestle is creating AI-powered &#39;digital twins&#39;](https://www.youtube.com/watch?v=FO9fcsti9Vs)
 - [Powering Progress, Protecting the Planet: A Conversation with EPRI President and CEO Arshad Mansoor](https://www.youtube.com/watch?v=janSWREvB3U)
 - [AI Challenger | Enveda: Turning discoveries into life-saving medicines, faster](https://www.youtube.com/watch?v=8JU5B4vTxsg)
 - [AI Challenger | Loft Orbital: Building smarter satellites with AI](https://www.youtube.com/watch?v=lGtTnFlI6yA)
 - [Carilion Clinic develops strong patient-clinician bonds with DAX Copilot](https://www.youtube.com/watch?v=DaMWXnKUp_U)
-- [AI on the Go for Microsoft Partners: Series Trailer](https://www.youtube.com/watch?v=cWIHcbOihY4)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
