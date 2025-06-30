@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Add other agents | Power Platform Shorts](https://www.youtube.com/watch?v=jlRRRrdfuF4)
 - [Enable computer use | Power Platform Shorts](https://www.youtube.com/watch?v=AtdMN9Avg8U)
 - [Microsoft MVP Parvez Ghumra gets ready for PPCC25!](https://www.youtube.com/watch?v=3-_U2hJ4I3o)
 - [Copilot Studio Licensing - Power CAT AI Webinars](https://www.youtube.com/watch?v=cUEGt3qWy_o)
 - [Savings in Power Automate | Power Platform Shorts](https://www.youtube.com/watch?v=WICnTCCU3TU)
-- [Microsoft MVP Ana Ines Urrutia prepares for PPCC25!](https://www.youtube.com/watch?v=re7Stplvrjs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
