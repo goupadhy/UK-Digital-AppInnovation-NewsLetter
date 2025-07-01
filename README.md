@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Design by numbers, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=WZAYKB935es)
 - [How are Azure services versioned?](https://www.youtube.com/watch?v=Fu_AeAiujkU)
 - [How can I build AI apps with .NET 9?](https://www.youtube.com/shorts/woS087jzJTY)
 - [SQL Server 2025: Engine  performance and scale delighters | Data Exposed](https://www.youtube.com/watch?v=YnhvfThUdDs)
 - [AI powered performance testing to ensure app reliability | DEM536](https://www.youtube.com/watch?v=5KtfQRgul9c)
-- [What&#39;s your favorite OpenAPI feature?](https://www.youtube.com/shorts/BsbCCz0EobM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
