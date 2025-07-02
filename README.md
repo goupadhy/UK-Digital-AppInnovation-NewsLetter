@@ -45,10 +45,10 @@ We hope that these resources will help you innovate and address the real-world n
     
 <!-- YOUTUBEPOWER:START -->
 - [Use deep reasoning models for complex tasks | Power Platform Shorts](https://www.youtube.com/watch?v=lhvwSvG-fTo)
+- [Power Apps Pulse June 2025](https://www.youtube.com/watch?v=0qSyzRM1ld0)
 - [Scaling Attended Automations using Power Automate for Desktop](https://www.youtube.com/watch?v=PZiOdDvJc9I)
 - [Add other agents | Power Platform Shorts](https://www.youtube.com/watch?v=jlRRRrdfuF4)
 - [Enable computer use | Power Platform Shorts](https://www.youtube.com/watch?v=AtdMN9Avg8U)
-- [Microsoft MVP Parvez Ghumra gets ready for PPCC25!](https://www.youtube.com/watch?v=3-_U2hJ4I3o)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
