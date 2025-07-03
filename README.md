@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [SQL Server 2025: Mirroring for SQL Server in Fabric | Data Exposed](https://www.youtube.com/watch?v=BtE1t9E--zo)
 - [Is developing for Linux on Windows feasible?](https://www.youtube.com/shorts/3zna4CSwyVM)
 - [How Microsoft Engineers Build AI: Building and Evaluating Agents](https://www.youtube.com/watch?v=opAIBSooW9g)
 - [Unlock AI in Dynamics 365 Finance and Operations with Copilot Studio](https://www.youtube.com/watch?v=MG8mqqoLDQw)
 - [Design by numbers, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=WZAYKB935es)
-- [How are Azure services versioned?](https://www.youtube.com/watch?v=Fu_AeAiujkU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
