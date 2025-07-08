@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build Biosensing AI‑Native Apps w/ BCI + Azure AI Foundry &amp; Agents Service](https://www.youtube.com/watch?v=Why0vIiYuO0)
 - [MCP Dev Days: Day 2 - DevTools](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 - [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q)
 - [SQL Server 2025: Mirroring for SQL Server in Fabric | Data Exposed](https://www.youtube.com/watch?v=BtE1t9E--zo)
 - [Is developing for Linux on Windows feasible?](https://www.youtube.com/shorts/3zna4CSwyVM)
-- [How Microsoft Engineers Build AI: Building and Evaluating Agents](https://www.youtube.com/watch?v=opAIBSooW9g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
