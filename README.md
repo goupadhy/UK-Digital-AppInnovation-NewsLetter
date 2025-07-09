@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [How to style Power Apps canvas apps after using Plan Designer](https://www.youtube.com/watch?v=Ngtz2SPbQVU)
-- [Build Biosensing AI‑Native Apps w/ BCI + Azure AI Foundry &amp; Agents Service](https://www.youtube.com/watch?v=Why0vIiYuO0)
-- [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
-- [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q)
-- [SQL Server 2025: Mirroring for SQL Server in Fabric | Data Exposed](https://www.youtube.com/watch?v=BtE1t9E--zo)
+- [Episode 4: Indirect Prompt Injection Explained | AI Red Teaming 101](https://www.youtube.com/watch?v=s_Ztu6c-IGQ)
+- [Episode 5: Prompt Injection Attacks – Single-Turn | AI Red Teaming 101](https://www.youtube.com/watch?v=jle327dpdpw)
+- [Episode 8: Automating AI Red Teaming with PyRIT | AI Red Teaming 101](https://www.youtube.com/watch?v=cEHTxmpAgjA)
+- [Episode 2: How Generative AI Models Work &lpar;and Why It Matters&rpar; | AI Red Teaming 101](https://www.youtube.com/watch?v=YkT4V0eDtdg)
+- [Episode 6: Prompt Injection Attacks: Multi-Turn | AI Red Teaming 101](https://www.youtube.com/watch?v=HQadhDsQKgY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
