@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [What’s new in Power Apps: June 2025 Feature Update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2025-feature-update/)
-- [Dataverse MCP Server: A Game Changer for AI-Driven Workflows](https://www.microsoft.com/en-us/power-platform/blog/2025/07/07/dataverse-mcp/)
-- [Build Modern Single-Page Applications in Power Pages (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-modern-single-page-applications-in-power-pages-preview/)
-- [Announcing major DLP enhancements for Power Automate and Copilot Studio](https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-major-dlp-enhancements-for-power-automate-and-copilot-studio/)
-- [Power Pages Home Action Center Is Generally Available – Stay Informed, Stay in Control](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-home-action-center-is-generally-available-stay-informed-stay-in-control/)
+- [Enhanced Component Properties, User Defined Functions, and UntypedObjects on the move](https://www.microsoft.com/en-us/power-platform/blog/power-apps/enhanced-component-properties-user-defined-functions-and-untypedobjects-on-the-move/)
+- [Enable Natural Language Search for Lists in Power Pages (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/enable-natural-language-search-for-lists-in-power-pages/)
+- [Data Agent Architecture powered by Microsoft Dataverse ](https://www.microsoft.com/en-us/power-platform/blog/2025/06/16/data-agent-architecture-powered-by-microsoft-dataverse/)
+- [Empowering a New Era of Agent-Based Experiences: Upwork and Microsoft Power Platform Partnership](https://www.microsoft.com/en-us/power-platform/blog/2025/06/16/empowering-a-new-era-of-agent-based-experiences-upwork-and-microsoft-power-platform-partnership/)
+- [Experience the redesigned Copilot hub](https://www.microsoft.com/en-us/power-platform/blog/2025/06/12/experience-the-redesigned-copilot-hub/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
