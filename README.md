@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Dataverse MCP Server: A Game Changer for AI-Driven Workflows](https://www.microsoft.com/en-us/power-platform/blog/2025/07/07/dataverse-mcp/)
 - [Build Modern Single-Page Applications in Power Pages (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-modern-single-page-applications-in-power-pages-preview/)
 - [Announcing major DLP enhancements for Power Automate and Copilot Studio](https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-major-dlp-enhancements-for-power-automate-and-copilot-studio/)
 - [Power Pages Home Action Center Is Generally Available – Stay Informed, Stay in Control](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-home-action-center-is-generally-available-stay-informed-stay-in-control/)
 - [Customize model-driven forms to leverage Copilot Studio content in your apps (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-apps/customize-model-driven-forms-to-leverage-copilot-studio-content-preview/)
-- [Enhanced Component Properties, User Defined Functions, and UntypedObjects on the move](https://www.microsoft.com/en-us/power-platform/blog/power-apps/enhanced-component-properties-user-defined-functions-and-untypedobjects-on-the-move/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
