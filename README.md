@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do you decide what to write next?](https://www.youtube.com/shorts/E5E0YQ6dfIc)
 - [Episode 4: Indirect Prompt Injection Explained | AI Red Teaming 101](https://www.youtube.com/watch?v=s_Ztu6c-IGQ)
 - [Episode 5: Prompt Injection Attacks – Single-Turn | AI Red Teaming 101](https://www.youtube.com/watch?v=jle327dpdpw)
 - [Episode 8: Automating AI Red Teaming with PyRIT | AI Red Teaming 101](https://www.youtube.com/watch?v=cEHTxmpAgjA)
 - [Episode 2: How Generative AI Models Work &lpar;and Why It Matters&rpar; | AI Red Teaming 101](https://www.youtube.com/watch?v=YkT4V0eDtdg)
-- [Episode 6: Prompt Injection Attacks: Multi-Turn | AI Red Teaming 101](https://www.youtube.com/watch?v=HQadhDsQKgY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
