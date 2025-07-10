@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Vibe Coding using Power Apps Code Apps and GitHub Copilot](https://www.youtube.com/watch?v=KlLU3znaWLQ)
 - [Are you ready to Power Up at PPCC25?](https://www.youtube.com/watch?v=8D9KdG2YkLc)
 - [Use deep reasoning models for complex tasks | Power Platform Shorts](https://www.youtube.com/watch?v=lhvwSvG-fTo)
 - [Power Apps Pulse June 2025](https://www.youtube.com/watch?v=0qSyzRM1ld0)
 - [Scaling Attended Automations using Power Automate for Desktop](https://www.youtube.com/watch?v=PZiOdDvJc9I)
-- [Add other agents | Power Platform Shorts](https://www.youtube.com/watch?v=jlRRRrdfuF4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
