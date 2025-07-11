@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft at Cannes 2025](https://www.youtube.com/watch?v=6d5a1mc1N_E)
 - [Nestle is creating AI-powered &#39;digital twins&#39;](https://www.youtube.com/watch?v=FO9fcsti9Vs)
 - [Powering Progress, Protecting the Planet: A Conversation with EPRI President and CEO Arshad Mansoor](https://www.youtube.com/watch?v=janSWREvB3U)
 - [The Borden Line with Bill Borden | Turning AI Vision into Impact in UK Financial Services](https://www.youtube.com/watch?v=mQ9iaTar9ew)
 - [AI Challenger | Enveda: Turning discoveries into life-saving medicines, faster](https://www.youtube.com/watch?v=8JU5B4vTxsg)
-- [AI Challenger | Loft Orbital: Building smarter satellites with AI](https://www.youtube.com/watch?v=lGtTnFlI6yA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
