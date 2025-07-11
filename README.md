@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Mr. Maeda&#39;s Cozier AI Kitchen - Coming Soon](https://www.youtube.com/watch?v=tV56lRBoA1U)
 - [How do you decide what to write next?](https://www.youtube.com/shorts/E5E0YQ6dfIc)
 - [Episode 4: Indirect Prompt Injection Explained | AI Red Teaming 101](https://www.youtube.com/watch?v=s_Ztu6c-IGQ)
 - [Episode 5: Prompt Injection Attacks – Single-Turn | AI Red Teaming 101](https://www.youtube.com/watch?v=jle327dpdpw)
 - [Episode 8: Automating AI Red Teaming with PyRIT | AI Red Teaming 101](https://www.youtube.com/watch?v=cEHTxmpAgjA)
-- [Episode 2: How Generative AI Models Work &lpar;and Why It Matters&rpar; | AI Red Teaming 101](https://www.youtube.com/watch?v=YkT4V0eDtdg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
