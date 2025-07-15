@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What&#39;s in the box for PPCC25?](https://www.youtube.com/shorts/DpVoCPDJ9mg)
 - [La Trobe University’s AI-first vision](https://www.youtube.com/watch?v=XtfmvddKv4g)
 - [Vibe Coding using Power Apps Code Apps and GitHub Copilot](https://www.youtube.com/watch?v=KlLU3znaWLQ)
 - [Are you ready to Power Up at PPCC25?](https://www.youtube.com/watch?v=8D9KdG2YkLc)
 - [Use deep reasoning models for complex tasks | Power Platform Shorts](https://www.youtube.com/watch?v=lhvwSvG-fTo)
-- [Power Apps Pulse June 2025](https://www.youtube.com/watch?v=0qSyzRM1ld0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
