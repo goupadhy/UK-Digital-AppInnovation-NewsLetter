@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Talk to us about the importance of sustainable software](https://www.youtube.com/watch?v=wi_rNKyXOJA)
 - [SQL Server 2025: Mirroring for SQL Server in Fabric | Data Exposed](https://www.youtube.com/watch?v=IXJwnv0zZuM)
 - [Is .NET legacy tech?](https://www.youtube.com/shorts/njUP492Vn8w)
 - [What&#39;s your favorite OpenAPI feature?](https://www.youtube.com/shorts/pg0yyICaCuQ)
 - [Hybrid AI for Security at Microsoft, with Emmanuel Victorio, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=MuLXLKcRi8Y)
-- [Mr. Maeda&#39;s Cozier AI Kitchen - Coming Soon](https://www.youtube.com/watch?v=tV56lRBoA1U)
 <!-- YOUTUBEAPPMOD:END -->
 
 
