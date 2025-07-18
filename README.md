@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Powerful Devs Hack Together Case Studies](https://www.youtube.com/shorts/jJRYE8fEPVY)
+- [Agent Cost Controls](https://www.youtube.com/watch?v=W9WkVGmmMjM)
 - [UNSW use Microsoft Copilot Studio to transform the student experience](https://www.youtube.com/watch?v=yPU8PTXgKBk)
 - [Microsoft Copilot Studio 2025 Release Wave 2 Release Highlights](https://www.youtube.com/watch?v=8_Lws2rbIxI)
 - [What&#39;s in the box for PPCC25?](https://www.youtube.com/shorts/DpVoCPDJ9mg)
-- [La Trobe University’s AI-first vision](https://www.youtube.com/watch?v=XtfmvddKv4g)
-- [Vibe Coding using Power Apps Code Apps and GitHub Copilot](https://www.youtube.com/watch?v=KlLU3znaWLQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
