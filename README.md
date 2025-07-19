@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/07/16/2025-release-wave-2-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-microsoft-copilot-offerings/)
 - [What’s new in Power Apps: June 2025 Feature Update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2025-feature-update/)
 - [Dataverse MCP Server: A Game Changer for AI-Driven Workflows](https://www.microsoft.com/en-us/power-platform/blog/2025/07/07/dataverse-mcp/)
 - [Build Modern Single-Page Applications in Power Pages (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-modern-single-page-applications-in-power-pages-preview/)
 - [Announcing major DLP enhancements for Power Automate and Copilot Studio](https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-major-dlp-enhancements-for-power-automate-and-copilot-studio/)
-- [Power Pages Home Action Center Is Generally Available – Stay Informed, Stay in Control](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-home-action-center-is-generally-available-stay-informed-stay-in-control/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
