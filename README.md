@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Rust or C#? : Developer Security Quick Fire Questions @ MS B Build](https://www.youtube.com/shorts/VdlsiBj2FOo)
 - [Talk to us about the importance of sustainable software](https://www.youtube.com/watch?v=wi_rNKyXOJA)
 - [SQL Server 2025: Mirroring for SQL Server in Fabric | Data Exposed](https://www.youtube.com/watch?v=IXJwnv0zZuM)
 - [Is .NET legacy tech?](https://www.youtube.com/shorts/njUP492Vn8w)
 - [What&#39;s your favorite OpenAPI feature?](https://www.youtube.com/shorts/pg0yyICaCuQ)
-- [Hybrid AI for Security at Microsoft, with Emmanuel Victorio, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=MuLXLKcRi8Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
