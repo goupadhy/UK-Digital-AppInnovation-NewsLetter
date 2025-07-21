@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How do I know my RAG system isn&#39;t missing anything important?](https://www.youtube.com/shorts/oTUU5OD7fgQ)
+- [What are the differences between creating a Foundry project and a Hub-based project?](https://www.youtube.com/shorts/v12ak14OUQ4)
+- [Is there a way to control my agent&#39;s behavior beyond the initial instructions?](https://www.youtube.com/shorts/yxhzNWQRIHE)
+- [Context Window: How to Control Your Agents, Azure AI Foundry Projects, and Better RAG Results](https://www.youtube.com/watch?v=IMQbZTmAIZo)
 - [Rust or C#? : Developer Security Quick Fire Questions @ MS B Build](https://www.youtube.com/shorts/VdlsiBj2FOo)
-- [Talk to us about the importance of sustainable software](https://www.youtube.com/watch?v=wi_rNKyXOJA)
-- [SQL Server 2025: Mirroring for SQL Server in Fabric | Data Exposed](https://www.youtube.com/watch?v=IXJwnv0zZuM)
-- [Is .NET legacy tech?](https://www.youtube.com/shorts/njUP492Vn8w)
-- [What&#39;s your favorite OpenAPI feature?](https://www.youtube.com/shorts/pg0yyICaCuQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
