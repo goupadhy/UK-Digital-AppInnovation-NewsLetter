@@ -29,7 +29,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [What are the differences between creating a Foundry project and a Hub-based project?](https://www.youtube.com/shorts/v12ak14OUQ4)
 - [Is there a way to control my agent&#39;s behavior beyond the initial instructions?](https://www.youtube.com/shorts/yxhzNWQRIHE)
 - [Context Window: How to Control Your Agents, Azure AI Foundry Projects, and Better RAG Results](https://www.youtube.com/watch?v=IMQbZTmAIZo)
-- [Rust or C#? : Developer Security Quick Fire Questions @ MS B Build](https://www.youtube.com/shorts/VdlsiBj2FOo)
+- [Rust or C#? : Developer Security Quick Fire Questions @ MS Build](https://www.youtube.com/shorts/VdlsiBj2FOo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
