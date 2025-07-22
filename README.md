@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure AI Mind Map: Visual Guide to Scalable AI Applications](https://www.youtube.com/watch?v=gf2xfNT7Mqw)
 - [Microsoft&#39;s Vision for AI skilling](https://www.youtube.com/watch?v=ifTmG3IN9d8)
 - [Inspiring AI Learning Stories](https://www.youtube.com/watch?v=3ogj4cofzqI)
 - [How do I know my RAG system isn&#39;t missing anything important?](https://www.youtube.com/shorts/oTUU5OD7fgQ)
 - [What are the differences between creating a Foundry project and a Hub-based project?](https://www.youtube.com/shorts/v12ak14OUQ4)
-- [Is there a way to control my agent&#39;s behavior beyond the initial instructions?](https://www.youtube.com/shorts/yxhzNWQRIHE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
