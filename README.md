@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Enrich Your Dataverse Data with AI Prompt Columns](https://www.youtube.com/watch?v=2Zyu_scO708)
 - [Say NO to FOMO at #PPCC25!](https://www.youtube.com/shorts/vFcuYEC3Pq8)
 - [Vibe coding for enterprise? Yes, with Microsoft Power Apps!](https://www.youtube.com/watch?v=nvg9i0REcbk)
 - [Powerful Devs Hack Together Case Studies](https://www.youtube.com/shorts/jJRYE8fEPVY)
 - [Agent Cost Controls](https://www.youtube.com/watch?v=W9WkVGmmMjM)
-- [UNSW use Microsoft Copilot Studio to transform the student experience](https://www.youtube.com/watch?v=yPU8PTXgKBk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
