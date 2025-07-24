@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Developer Security Quick Fire Questions with Mark Russinovich and Scott Hanselman](https://www.youtube.com/watch?v=TuJw4syWSVw)
 - [Build Skills for Power BI’s Next Decade](https://www.youtube.com/watch?v=zdf1Zmt5uC4)
 - [Boosting Azure Database for PostgreSQL Performance with Azure Advisor | POSETTE 2025](https://www.youtube.com/watch?v=WiftObx0Nkw)
 - [Should I add a chatbot to my app?](https://www.youtube.com/shorts/2hHIOm9VvCk)
 - [Azure AI Mind Map: Visual Guide to Scalable AI Applications](https://www.youtube.com/watch?v=gf2xfNT7Mqw)
-- [Microsoft&#39;s Vision for AI skilling](https://www.youtube.com/watch?v=ifTmG3IN9d8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
