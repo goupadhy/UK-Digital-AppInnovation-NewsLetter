@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How does becoming a #MicrosoftMVP create real change?](https://www.youtube.com/shorts/3Sn-r0s568w)
 - [Deep Dive into Agentic Governance - Power CAT AI Webinars](https://www.youtube.com/watch?v=eHEh-9Gb-m8)
 - [Enrich Your Dataverse Data with AI Prompt Columns](https://www.youtube.com/watch?v=2Zyu_scO708)
 - [Say NO to FOMO at #PPCC25!](https://www.youtube.com/shorts/vFcuYEC3Pq8)
 - [Vibe coding for enterprise? Yes, with Microsoft Power Apps!](https://www.youtube.com/watch?v=nvg9i0REcbk)
-- [Powerful Devs Hack Together Case Studies](https://www.youtube.com/shorts/jJRYE8fEPVY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
