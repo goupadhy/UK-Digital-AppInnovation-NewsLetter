@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Get data into Fabric using Open Mirroring | Data Exposed](https://www.youtube.com/watch?v=uPlfi3BtZA4)
-- [Developer Security Quick Fire Questions with Mark Russinovich and Scott Hanselman](https://www.youtube.com/watch?v=TuJw4syWSVw)
-- [Build Skills for Power BI’s Next Decade](https://www.youtube.com/watch?v=zdf1Zmt5uC4)
-- [Boosting Azure Database for PostgreSQL Performance with Azure Advisor | POSETTE 2025](https://www.youtube.com/watch?v=WiftObx0Nkw)
-- [Should I add a chatbot to my app?](https://www.youtube.com/shorts/2hHIOm9VvCk)
+- [How to contribute to MCP: Tools, docs, code &amp; more](https://www.youtube.com/watch?v=v1pvCYAWpRE)
+- [How to build, test &amp; deploy MCP apps with real tools and workflows](https://www.youtube.com/watch?v=vCN9-mKBDfQ)
+- [Build AI agents in VS Code: 4 hands-on labs with MCP + AI Toolkit](https://www.youtube.com/watch?v=r34Csn3rkeQ)
+- [Build your first MCP server](https://www.youtube.com/watch?v=sNDZO9N4m9Y)
+- [Lessons from MCP early adopters](https://www.youtube.com/watch?v=jds7dSmNptE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
