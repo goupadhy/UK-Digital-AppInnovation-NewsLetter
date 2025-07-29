@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Embeddings, AI, and SQL Server 2025 with David Mauri, in Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=JD0Zo6LvUKo)
 - [Building AI Agent Workflows with Semantic Kernel](https://www.youtube.com/shorts/B5WGmG4RSBY)
 - [Building AI Agent Workflows with Semantic Kernel](https://www.youtube.com/watch?v=3JFKwerYj04)
 - [Design AI Workloads with the Azure Well-Architected Framework](https://www.youtube.com/watch?v=UXeU4PKrQUw)
 - [How to contribute to MCP: Tools, docs, code &amp; more](https://www.youtube.com/watch?v=v1pvCYAWpRE)
-- [How to build, test &amp; deploy MCP apps with real tools and workflows](https://www.youtube.com/watch?v=vCN9-mKBDfQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
