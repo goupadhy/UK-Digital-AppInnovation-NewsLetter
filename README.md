@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [From first commits to big ships: Tune into our new open source podcast](https://github.blog/open-source/maintainers/from-first-commits-to-big-ships-tune-into-our-new-open-source-podcast/)
 - [Scaling for impact: How GitHub Copilot supercharges smallholder farmers](https://github.blog/open-source/social-impact/scaling-for-impact-how-github-copilot-supercharges-smallholder-farmers/)
 - [How to build secure and scalable remote MCP servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
 - [How to streamline GitHub API calls in Azure Pipelines](https://github.blog/enterprise-software/ci-cd/how-to-streamline-github-api-calls-in-azure-pipelines/)
 - [Solving the inference problem for open source AI projects with GitHub Models](https://github.blog/ai-and-ml/llms/solving-the-inference-problem-for-open-source-ai-projects-with-github-models/)
-- [We need a European Sovereign Tech Fund](https://github.blog/open-source/maintainers/we-need-a-european-sovereign-tech-fund/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
