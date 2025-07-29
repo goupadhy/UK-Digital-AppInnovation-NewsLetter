@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Design AI Workloads with the Azure Well-Architected Framework](https://www.youtube.com/watch?v=UXeU4PKrQUw)
 - [How to contribute to MCP: Tools, docs, code &amp; more](https://www.youtube.com/watch?v=v1pvCYAWpRE)
 - [How to build, test &amp; deploy MCP apps with real tools and workflows](https://www.youtube.com/watch?v=vCN9-mKBDfQ)
 - [Build AI agents in VS Code: 4 hands-on labs with MCP + AI Toolkit](https://www.youtube.com/watch?v=r34Csn3rkeQ)
 - [Build your first MCP server](https://www.youtube.com/watch?v=sNDZO9N4m9Y)
-- [Lessons from MCP early adopters](https://www.youtube.com/watch?v=jds7dSmNptE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
