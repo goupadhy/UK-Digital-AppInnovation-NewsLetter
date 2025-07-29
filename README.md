@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q)
-- [Embeddings, AI, and SQL Server 2025 with David Mauri, in Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=JD0Zo6LvUKo)
-- [Building AI Agent Workflows with Semantic Kernel](https://www.youtube.com/shorts/B5WGmG4RSBY)
-- [Building AI Agent Workflows with Semantic Kernel](https://www.youtube.com/watch?v=3JFKwerYj04)
-- [Design AI Workloads with the Azure Well-Architected Framework](https://www.youtube.com/watch?v=UXeU4PKrQUw)
+- [MCP Gets OAuth: Understanding the New Authorization Specification](https://www.youtube.com/watch?v=EXxIeOfJsqA)
+- [The Future of User Interaction](https://www.youtube.com/watch?v=gDSIxIGYk-o)
+- [Chat With the Web: Inside NLWeb’s Journey to a Conversational Internet](https://www.youtube.com/watch?v=jbZHFug_nrY)
+- [Discoverability Unlocked: Publishing and Finding servers in the MCP Community Registry](https://www.youtube.com/watch?v=yFuAAAxrrCc)
+- [MCP Power-User Mode: Revealing Every MCP Feature in VS Code](https://www.youtube.com/watch?v=Wc41xFKV8Ro)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
