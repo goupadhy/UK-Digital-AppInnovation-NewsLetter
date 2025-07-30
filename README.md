@@ -80,7 +80,7 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
 - [MCP Gets OAuth: Understanding the New Authorization Specification](https://www.youtube.com/watch?v=EXxIeOfJsqA)
-- [The Future of User Interaction](https://www.youtube.com/watch?v=gDSIxIGYk-o)
+- [The Future of User Interaction with Kent C. Dodds](https://www.youtube.com/watch?v=gDSIxIGYk-o)
 - [Chat With the Web: Inside NLWeb’s Journey to a Conversational Internet](https://www.youtube.com/watch?v=jbZHFug_nrY)
 - [Discoverability Unlocked: Publishing and Finding servers in the MCP Community Registry](https://www.youtube.com/watch?v=yFuAAAxrrCc)
 - [MCP Power-User Mode: Revealing Every MCP Feature in VS Code](https://www.youtube.com/watch?v=Wc41xFKV8Ro)
