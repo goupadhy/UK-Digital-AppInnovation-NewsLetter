@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
-- [Do you security check AI models you pull from online repos?: Developer Security Quick Fire Questions](https://www.youtube.com/shorts/Kff78AQ7m9s)
-- [MCP Gets OAuth: Understanding the New Authorization Specification](https://www.youtube.com/watch?v=EXxIeOfJsqA)
-- [The Future of User Interaction with Kent C. Dodds](https://www.youtube.com/watch?v=gDSIxIGYk-o)
-- [Chat With the Web: Inside NLWeb’s Journey to a Conversational Internet](https://www.youtube.com/watch?v=jbZHFug_nrY)
+- [Unlocking your Agents potential with Model Context Protocol](https://www.youtube.com/watch?v=8d2v6OMhkmQ)
+- [Agents Talking to Agents: Harnessing MCP for Seamless Inter-Agent Collaboration](https://www.youtube.com/watch?v=ovB8FZ7LAAk)
+- [MCP In Production: Building Secure and Agent-Ready Model Context Protocol Servers](https://www.youtube.com/watch?v=hTV5jgjvYiY)
+- [Building agent-ready tools with API Center and API Management](https://www.youtube.com/watch?v=asqAei6gw1s)
+- [Practical introduction to building remote MCP servers](https://www.youtube.com/watch?v=w1N_XEtpu4E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
