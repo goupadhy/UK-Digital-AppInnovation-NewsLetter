@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [MCP Dev Days: Day 2 - Builders](https://www.youtube.com/watch?v=lHuxDMMkGJ8)
 - [Do you security check AI models you pull from online repos?: Developer Security Quick Fire Questions](https://www.youtube.com/shorts/Kff78AQ7m9s)
 - [MCP Gets OAuth: Understanding the New Authorization Specification](https://www.youtube.com/watch?v=EXxIeOfJsqA)
 - [The Future of User Interaction with Kent C. Dodds](https://www.youtube.com/watch?v=gDSIxIGYk-o)
 - [Chat With the Web: Inside NLWeb’s Journey to a Conversational Internet](https://www.youtube.com/watch?v=jbZHFug_nrY)
-- [Discoverability Unlocked: Publishing and Finding servers in the MCP Community Registry](https://www.youtube.com/watch?v=yFuAAAxrrCc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
