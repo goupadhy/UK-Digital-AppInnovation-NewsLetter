@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Do you copy and paste random code snippets into your apps?](https://www.youtube.com/shorts/yxevfAMT9dg)
+- [Multiple geo-replicas for Azure SQL Hyperscale | Data Exposed](https://www.youtube.com/watch?v=nOy8pN3UwmQ)
 - [Unlocking your Agents potential with Model Context Protocol](https://www.youtube.com/watch?v=8d2v6OMhkmQ)
 - [Agents Talking to Agents: Harnessing MCP for Seamless Inter-Agent Collaboration](https://www.youtube.com/watch?v=ovB8FZ7LAAk)
 - [MCP In Production: Building Secure and Agent-Ready Model Context Protocol Servers](https://www.youtube.com/watch?v=hTV5jgjvYiY)
-- [Building agent-ready tools with API Center and API Management](https://www.youtube.com/watch?v=asqAei6gw1s)
-- [Practical introduction to building remote MCP servers](https://www.youtube.com/watch?v=w1N_XEtpu4E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
