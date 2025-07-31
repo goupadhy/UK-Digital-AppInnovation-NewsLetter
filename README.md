@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps Pulse July 2025](https://www.youtube.com/watch?v=C_i1_IDm7Kg)
 - [How to add autonomous capabilities to your agents in Copilot Studio](https://www.youtube.com/watch?v=YoYOS_Ki1Os)
 - [How does becoming a #MicrosoftMVP create real change?](https://www.youtube.com/shorts/3Sn-r0s568w)
 - [Deep Dive into Agentic Governance - Power CAT AI Webinars](https://www.youtube.com/watch?v=eHEh-9Gb-m8)
 - [Enrich Your Dataverse Data with AI Prompt Columns](https://www.youtube.com/watch?v=2Zyu_scO708)
-- [Say NO to FOMO at #PPCC25!](https://www.youtube.com/shorts/vFcuYEC3Pq8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
