@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Get Data into Fabric Eventhouse | Data Exposed](https://www.youtube.com/watch?v=pABc7L9hWjU)
 - [Do you copy and paste random code snippets into your apps?](https://www.youtube.com/shorts/yxevfAMT9dg)
 - [Multiple geo-replicas for Azure SQL Hyperscale | Data Exposed](https://www.youtube.com/watch?v=nOy8pN3UwmQ)
 - [Unlocking your Agents potential with Model Context Protocol](https://www.youtube.com/watch?v=8d2v6OMhkmQ)
 - [Agents Talking to Agents: Harnessing MCP for Seamless Inter-Agent Collaboration](https://www.youtube.com/watch?v=ovB8FZ7LAAk)
-- [MCP In Production: Building Secure and Agent-Ready Model Context Protocol Servers](https://www.youtube.com/watch?v=hTV5jgjvYiY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
