@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Introducing Security Agent in Power Pages: Your AI-Powered Security Assistant (Preview)](https://www.microsoft.com/en-us/power-platform/blog/2025/07/30/introducing-security-agent-in-power-pages-your-ai-powered-security-assistant-preview/)
-- [Visualize with Copilot now allows you to save your chart](https://www.microsoft.com/en-us/power-platform/blog/power-apps/visualize-with-copilot-now-allows-you-to-save-your-chart/)
-- [Enhance Power Pages site security with Bot Protection and Managed Rules configuration](https://www.microsoft.com/en-us/power-platform/blog/power-pages/enhance-power-pages-site-security-with-bot-protection-and-managed-rules-configuration/)
-- [Take Control of Agent Costs ](https://www.microsoft.com/en-us/power-platform/blog/2025/07/21/agent-costs-controls/)
-- [Introducing the new Power Apps: Generative power meets enterprise-grade trust](https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-the-new-power-apps-generative-power-meets-enterprise-grade-trust/)
+- [2025 release wave 2 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Role-based Microsoft Copilot offerings](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/07/16/2025-release-wave-2-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-role-based-microsoft-copilot-offerings/)
+- [What’s new in Power Apps: June 2025 Feature Update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-june-2025-feature-update/)
+- [Dataverse MCP Server: A Game Changer for AI-Driven Workflows](https://www.microsoft.com/en-us/power-platform/blog/2025/07/07/dataverse-mcp/)
+- [Build Modern Single-Page Applications in Power Pages (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-modern-single-page-applications-in-power-pages-preview/)
+- [Announcing major DLP enhancements for Power Automate and Copilot Studio](https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-major-dlp-enhancements-for-power-automate-and-copilot-studio/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
