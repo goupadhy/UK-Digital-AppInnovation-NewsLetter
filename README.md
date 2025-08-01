@@ -44,8 +44,8 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Power Automate 2025 Release Wave 2 Release Highlights](https://www.youtube.com/watch?v=l7ADajbXNDU)
-- [Power Apps 2025 Release Wave 2 Release Highlights](https://www.youtube.com/watch?v=YmeY_d0_u8w)
+- [Power Automate 2025 release wave 2 highlights](https://www.youtube.com/watch?v=l7ADajbXNDU)
+- [Power Apps 2025 release wave 2 highlights](https://www.youtube.com/watch?v=YmeY_d0_u8w)
 - [Power Apps Pulse July 2025](https://www.youtube.com/watch?v=C_i1_IDm7Kg)
 - [How to add autonomous capabilities to your agents in Copilot Studio](https://www.youtube.com/watch?v=YoYOS_Ki1Os)
 - [How does becoming a #MicrosoftMVP create real change?](https://www.youtube.com/shorts/3Sn-r0s568w)
