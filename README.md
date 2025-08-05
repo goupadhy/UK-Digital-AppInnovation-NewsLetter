@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Vibe coding part 2: Feature-packed generative pages app - no drag, just drop!](https://www.youtube.com/watch?v=ipOnn3jlaJY)
 - [Extending Copilot Studio with Azure AI - Power CAT AI Webinars](https://www.youtube.com/watch?v=76mZU_lFaSc)
 - [Power Automate 2025 release wave 2 highlights](https://www.youtube.com/watch?v=l7ADajbXNDU)
 - [Power Apps 2025 release wave 2 highlights](https://www.youtube.com/watch?v=YmeY_d0_u8w)
 - [Power Apps Pulse July 2025](https://www.youtube.com/watch?v=C_i1_IDm7Kg)
-- [How to add autonomous capabilities to your agents in Copilot Studio](https://www.youtube.com/watch?v=YoYOS_Ki1Os)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
