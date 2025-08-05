@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Copilot, agents, and apps at the Power Platform Community Conference 2025](https://www.microsoft.com/en-us/power-platform/blog/2025/07/31/copilot-agents-and-apps-at-the-power-platform-community-conference-2025/)
-- [Evolving Power Platform Governance for AI Agents](https://www.microsoft.com/en-us/power-platform/blog/2025/07/31/evolving-power-platform-governance-for-ai-agents/)
 - [Introducing Security Agent in Power Pages: Your AI-Powered Security Assistant (Preview)](https://www.microsoft.com/en-us/power-platform/blog/2025/07/30/introducing-security-agent-in-power-pages-your-ai-powered-security-assistant-preview/)
 - [Visualize with Copilot now allows you to save your chart](https://www.microsoft.com/en-us/power-platform/blog/power-apps/visualize-with-copilot-now-allows-you-to-save-your-chart/)
 - [Enhance Power Pages site security with Bot Protection and Managed Rules configuration](https://www.microsoft.com/en-us/power-platform/blog/power-pages/enhance-power-pages-site-security-with-bot-protection-and-managed-rules-configuration/)
+- [Take Control of Agent Costs ](https://www.microsoft.com/en-us/power-platform/blog/2025/07/21/agent-costs-controls/)
+- [Introducing the new Power Apps: Generative power meets enterprise-grade trust](https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-the-new-power-apps-generative-power-meets-enterprise-grade-trust/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
