@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Building Durable Multi-Agent AI Workflows with Dapr Agents](https://www.youtube.com/shorts/iOUVNjUqxjQ)
 - [Compound Software Development with Async SWE Agents: Context Engineering &amp; Verification Over Coding](https://www.youtube.com/watch?v=A3YdGa95rrQ)
 - [Building Durable Multi-Agent AI Workflows with Dapr Agents](https://www.youtube.com/watch?v=VLRg4TKtLBc)
 - [Implementing a Center of Excellence for Generative AI](https://www.youtube.com/watch?v=SwNcZbc2UAM)
 - [Have you ever pushed a hard-coded key to a repo?](https://www.youtube.com/shorts/WffwL3t7CJM)
-- [Get Data into Fabric Eventhouse | Data Exposed](https://www.youtube.com/watch?v=pABc7L9hWjU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
