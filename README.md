@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Supercharge Data and AI Innovation with Azure Databricks](https://www.youtube.com/watch?v=wktreLtv_5w)
 - [Keys or tokens for authorization?](https://www.youtube.com/shorts/jBUVRpqK4u8)
 - [What&#39;s the number one piece of advice you can give developers about security?](https://www.youtube.com/watch?v=ihv2QL55IVI)
 - [What&#39;s the number one piece of advice you can give developers about security?](https://www.youtube.com/shorts/Q3jg25wNX10)
 - [Manual code review, code scanning, or an AI assistant?](https://www.youtube.com/shorts/IV_msqCDFMo)
-- [Building Durable Multi-Agent AI Workflows with Dapr Agents](https://www.youtube.com/shorts/iOUVNjUqxjQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
