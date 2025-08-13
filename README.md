@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Microsoft recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://www.microsoft.com/en-us/power-platform/blog/power-apps/microsoft-recognized-as-a-leader-in-the-2025-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/)
-- [🔐 Strengthen Data Protection in Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2025/08/07/data-protection-in-dataverse/)
 - [Enrich Your Dataverse Tables Using AI Prompt Columns](https://www.microsoft.com/en-us/power-platform/blog/2025/08/04/prompt-columns/)
 - [Copilot, agents, and apps at the Power Platform Community Conference 2025](https://www.microsoft.com/en-us/power-platform/blog/2025/07/31/copilot-agents-and-apps-at-the-power-platform-community-conference-2025/)
 - [Evolving Power Platform Governance for AI Agents](https://www.microsoft.com/en-us/power-platform/blog/2025/07/31/evolving-power-platform-governance-for-ai-agents/)
+- [Introducing Security Agent in Power Pages: Your AI-Powered Security Assistant (Preview)](https://www.microsoft.com/en-us/power-platform/blog/2025/07/30/introducing-security-agent-in-power-pages-your-ai-powered-security-assistant-preview/)
+- [Visualize with Copilot now allows you to save your chart](https://www.microsoft.com/en-us/power-platform/blog/power-apps/visualize-with-copilot-now-allows-you-to-save-your-chart/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
