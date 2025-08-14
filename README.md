@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Fast Focus - Introduction to Model Context Protocol &lpar;MCP&rpar; Servers](https://www.youtube.com/watch?v=3TlDUaM1L1Q)
 - [Model Router + GPT-5 Models in Azure AI Foundry](https://www.youtube.com/watch?v=2NL2XpigH0A)
 - [Browser Automation Tool &lpar;Preview&rpar; in Azure AI Foundry](https://www.youtube.com/watch?v=FBQRc-M18ws)
 - [Unlocking AI Interoperability: A Deep Dive into the Model Context Protocol](https://www.youtube.com/watch?v=xqsaRaMOpXI)
 - [What&#39;s your worst security related coding mistake?](https://www.youtube.com/shorts/51Y-pOLcMHI)
-- [MCP Workflow: I stopped using SQL for database management](https://www.youtube.com/watch?v=0iROrkufO3E)
 <!-- YOUTUBEAPPMOD:END -->
 
 
