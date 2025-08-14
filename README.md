@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Unlocking AI Interoperability: A Deep Dive into the Model Context Protocol](https://www.youtube.com/watch?v=xqsaRaMOpXI)
 - [What&#39;s your worst security related coding mistake?](https://www.youtube.com/shorts/51Y-pOLcMHI)
 - [MCP Workflow: I stopped using SQL for database management](https://www.youtube.com/watch?v=0iROrkufO3E)
 - [Trish Winter-Hunt on Emotional Support Geese &amp; Content Design, On Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=NnltG78qREE)
 - [Supercharge Data and AI Innovation with Azure Databricks](https://www.youtube.com/watch?v=wktreLtv_5w)
-- [Keys or tokens for authorization?](https://www.youtube.com/shorts/jBUVRpqK4u8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
