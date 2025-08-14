@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [GPT-5 in GitHub Copilot: How I built a game in 60 seconds](https://github.blog/ai-and-ml/generative-ai/gpt-5-in-github-copilot-how-i-built-a-game-in-60-seconds/)
+- [Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research](https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/)
 - [GitHub Availability Report: July 2025](https://github.blog/news-insights/company-news/github-availability-report-july-2025/)
 - [From private to public: How a United Nations organization open sourced its tech in four steps](https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/)
 - [Why we open sourced our MCP server, and what it means for you](https://github.blog/open-source/maintainers/why-we-open-sourced-our-mcp-server-and-what-it-means-for-you/)
-- [Securing the supply chain at scale: Starting with 71 important open source projects](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
-- [Auf Wiedersehen, GitHub ♥️](https://github.blog/news-insights/company-news/goodbye-github/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
