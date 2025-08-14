@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Customer Managed Key (CMK) Updates: Enhancing Security, Flexibility, and Global Reach ](https://www.microsoft.com/en-us/power-platform/blog/2025/08/12/customer-managed-key-updates/)
-- [Effortless Visibility and Operational Insights for All with Monitor](https://www.microsoft.com/en-us/power-platform/blog/power-apps/effortless-visibility-and-operational-insights-for-all-with-monitor/)
-- [Dataverse Knowledge in Copilot Studio: Multiline Text Columns and File Columns.](https://www.microsoft.com/en-us/power-platform/blog/2025/08/11/agent-with-dataverse-knowledge/)
 - [Generative pages get better with GPT-5: Improved quality, enhanced performance](https://www.microsoft.com/en-us/power-platform/blog/power-apps/generative-pages-get-better-with-gpt-5-improved-quality-enhanced-performance/)
-- [Available today: GPT-5 in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/available-today-gpt-5-in-microsoft-copilot-studio/)
+- [Microsoft recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms](https://www.microsoft.com/en-us/power-platform/blog/power-apps/microsoft-recognized-as-a-leader-in-the-2025-gartner-magic-quadrant-for-enterprise-low-code-application-platforms/)
+- [🔐 Strengthen Data Protection in Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2025/08/07/data-protection-in-dataverse/)
+- [Enrich Your Dataverse Tables Using AI Prompt Columns](https://www.microsoft.com/en-us/power-platform/blog/2025/08/04/prompt-columns/)
+- [Copilot, agents, and apps at the Power Platform Community Conference 2025](https://www.microsoft.com/en-us/power-platform/blog/2025/07/31/copilot-agents-and-apps-at-the-power-platform-community-conference-2025/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
