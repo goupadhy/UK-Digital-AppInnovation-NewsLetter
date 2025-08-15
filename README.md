@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s new with PowerToys?](https://www.youtube.com/watch?v=coELvJ0be0c)
+- [What&#39;s new with PowerToys?](https://www.youtube.com/shorts/uox2WDGc0jM)
+- [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/shorts/jKViNM42u9M)
+- [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/watch?v=yDy6Y4h-RxI)
 - [What are you most excited about at Build 2025?](https://www.youtube.com/shorts/rGpvDE0Zu9o)
-- [What are you most excited about at Build 2025?](https://www.youtube.com/watch?v=PUHypVSs1JE)
-- [Fast Focus - Introduction to Model Context Protocol &lpar;MCP&rpar; Servers](https://www.youtube.com/watch?v=3TlDUaM1L1Q)
-- [Model Router + GPT-5 Models in Azure AI Foundry](https://www.youtube.com/watch?v=2NL2XpigH0A)
-- [Browser Automation Tool &lpar;Preview&rpar; in Azure AI Foundry](https://www.youtube.com/watch?v=FBQRc-M18ws)
 <!-- YOUTUBEAPPMOD:END -->
 
 
