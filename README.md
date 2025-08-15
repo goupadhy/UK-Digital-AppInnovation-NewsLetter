@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Boost your productivity with Visual Studio &amp; MCP Servers](https://www.youtube.com/watch?v=Mz5iSGA6L4g)
 - [What&#39;s new with PowerToys?](https://www.youtube.com/watch?v=coELvJ0be0c)
 - [What&#39;s new with PowerToys?](https://www.youtube.com/shorts/uox2WDGc0jM)
 - [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/shorts/jKViNM42u9M)
 - [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/watch?v=yDy6Y4h-RxI)
-- [GPT-5 for Developers](https://www.youtube.com/watch?v=tw8bnpQs0lY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
