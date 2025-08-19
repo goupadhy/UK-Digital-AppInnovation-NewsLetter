@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Low Code High Heat coming soon!](https://www.youtube.com/watch?v=kf2EGLFt_WE)
 - [Deep dive into Generative Orchestration - Part 1 - Power CAT AI Webinars](https://www.youtube.com/watch?v=Vvvyxy-zeRg)
 - [Copilot Studio - Better Together with Azure - Power CAT AI Webinars](https://www.youtube.com/watch?v=ro2MvGT2K9o)
 - [Vibe coding part 2: Feature-packed generative pages app - no drag, just drop!](https://www.youtube.com/watch?v=ipOnn3jlaJY)
 - [Extending Copilot Studio with Azure AI - Power CAT AI Webinars](https://www.youtube.com/watch?v=76mZU_lFaSc)
-- [Power Automate 2025 release wave 2 highlights](https://www.youtube.com/watch?v=l7ADajbXNDU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
