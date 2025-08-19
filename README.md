@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Your Guide to Saving with Azure Hybrid Benefit](https://www.youtube.com/watch?v=1LgV-kfnUAA)
 - [What&#39;s the best piece of advice you&#39;ve received about coding securely?](https://www.youtube.com/shorts/SU8uVGY8154)
 - [Boost your productivity with Visual Studio &amp; MCP Servers](https://www.youtube.com/watch?v=Mz5iSGA6L4g)
 - [What&#39;s new with PowerToys?](https://www.youtube.com/watch?v=coELvJ0be0c)
 - [What&#39;s new with PowerToys?](https://www.youtube.com/shorts/uox2WDGc0jM)
-- [AI Agent&#39;s Toolbox - Semantic Kernel meets MCP and Python](https://www.youtube.com/shorts/jKViNM42u9M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
