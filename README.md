@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AI Use Cases: Achieve Business Goals with Microsoft AI](https://www.youtube.com/watch?v=j9jGYAY9uig)
 - [AI Challengers | Adecco: Revolutionizing Recruitment- AI-Powered Approach](https://www.youtube.com/watch?v=5N3FR8lzC3Q)
 - [Microsoft at Cannes 2025](https://www.youtube.com/watch?v=6d5a1mc1N_E)
 - [Nestle is creating AI-powered &#39;digital twins&#39;](https://www.youtube.com/watch?v=FO9fcsti9Vs)
 - [Powering Progress, Protecting the Planet: A Conversation with EPRI President and CEO Arshad Mansoor](https://www.youtube.com/watch?v=janSWREvB3U)
-- [The Borden Line with Bill Borden | Turning AI Vision into Impact in UK Financial Services](https://www.youtube.com/watch?v=mQ9iaTar9ew)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
