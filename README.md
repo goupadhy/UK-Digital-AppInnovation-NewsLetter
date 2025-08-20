@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Mistral Document AI in Azure AI Foundry](https://www.youtube.com/watch?v=MUu9o8tDwi0)
 - [Security test your AI app or leave it to someone else?](https://www.youtube.com/shorts/7Hwtlp8A3OQ)
 - [From UX to AX: Why Agent Experience is the Next Frontier in Business AI](https://www.youtube.com/watch?v=VC6nM0t-bUw)
 - [Your Guide to Saving with Azure Hybrid Benefit](https://www.youtube.com/watch?v=1LgV-kfnUAA)
 - [What&#39;s the best piece of advice you&#39;ve received about coding securely?](https://www.youtube.com/shorts/SU8uVGY8154)
-- [Boost your productivity with Visual Studio &amp; MCP Servers](https://www.youtube.com/watch?v=Mz5iSGA6L4g)
 <!-- YOUTUBEAPPMOD:END -->
 
 
