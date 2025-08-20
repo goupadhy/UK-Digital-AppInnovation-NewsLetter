@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents | 09-03-25](https://www.youtube.com/shorts/lHHepwjoL6I)
+- [Understanding Microsoft Agents | Governance and Cost Control | 09-03-25](https://www.youtube.com/watch?v=I7diDPYGO2o)
 - [Copilot Studio Agent Academy has lift off!](https://www.youtube.com/watch?v=AbDImzi3gGo)
 - [Low Code High Heat coming soon!](https://www.youtube.com/shorts/jFOEs_lIZs4)
 - [CSX boosts supply chain agility using Microsoft Copilot Studio and Azure AI Foundry](https://www.youtube.com/watch?v=wrvpDnkHrqQ)
-- [Low Code High Heat coming soon!](https://www.youtube.com/watch?v=kf2EGLFt_WE)
-- [Deep dive into Generative Orchestration - Part 1 - Power CAT AI Webinars](https://www.youtube.com/watch?v=Vvvyxy-zeRg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
