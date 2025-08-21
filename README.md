@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s new with .NET Aspire?](https://www.youtube.com/watch?v=FseIFFXGbvw)
+- [What&#39;s new with .NET Aspire?](https://www.youtube.com/shorts/oLF1Z8DcqaA)
 - [GPT-5 for Developers](https://www.youtube.com/watch?v=tw8bnpQs0lY)
 - [Mistral Document AI in Azure AI Foundry](https://www.youtube.com/watch?v=MUu9o8tDwi0)
 - [Security test your AI app or leave it to someone else?](https://www.youtube.com/shorts/7Hwtlp8A3OQ)
-- [From UX to AX: Why Agent Experience is the Next Frontier in Business AI](https://www.youtube.com/watch?v=VC6nM0t-bUw)
-- [Your Guide to Saving with Azure Hybrid Benefit](https://www.youtube.com/watch?v=1LgV-kfnUAA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
