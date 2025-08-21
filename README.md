@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Ryan Cunningham takes the Low Code High Heat Challenge!](https://www.youtube.com/watch?v=FWeYy_AhXnc)
 - [Understanding Microsoft Agents | 09-03-25](https://www.youtube.com/shorts/lHHepwjoL6I)
 - [Understanding Microsoft Agents | Governance and Cost Control | 09-03-25](https://www.youtube.com/watch?v=I7diDPYGO2o)
 - [Copilot Studio Agent Academy has lift off!](https://www.youtube.com/watch?v=AbDImzi3gGo)
 - [Low Code High Heat coming soon!](https://www.youtube.com/shorts/jFOEs_lIZs4)
-- [CSX boosts supply chain agility using Microsoft Copilot Studio and Azure AI Foundry](https://www.youtube.com/watch?v=wrvpDnkHrqQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
