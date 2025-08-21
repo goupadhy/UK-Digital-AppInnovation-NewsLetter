@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Take Charge and Stay Ahead with Power Platform Monitor Alerts](https://www.microsoft.com/en-us/power-platform/blog/power-apps/take-charge-and-stay-ahead-with-power-platform-monitor-alerts/)
 - [Build and deploy a single-page application in Power Pages using GitHub Spark and Codespaces](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-and-deploy-a-single-page-application-in-power-pages-using-github-spark-and-codespaces/)
 - [Build and Extend Agents Directly from Power Pages Studio (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-and-extend-agents-directly-from-power-pages-studio-preview/)
 - [Customer Managed Key (CMK) Updates: Enhancing Security, Flexibility, and Global Reach ](https://www.microsoft.com/en-us/power-platform/blog/2025/08/12/customer-managed-key-updates/)
 - [Effortless Visibility and Operational Insights for All with Monitor](https://www.microsoft.com/en-us/power-platform/blog/power-apps/effortless-visibility-and-operational-insights-for-all-with-monitor/)
-- [Dataverse Knowledge in Copilot Studio: Multiline Text Columns and File Columns.](https://www.microsoft.com/en-us/power-platform/blog/2025/08/11/agent-with-dataverse-knowledge/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
