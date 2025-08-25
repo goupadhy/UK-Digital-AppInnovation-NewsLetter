@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How can I track token usage per user in my app?](https://www.youtube.com/shorts/MUIH0N4mEQI)
+- [Context Window: Answering 3 Developer Questions to Save on AI Costs](https://www.youtube.com/watch?v=CdrXTcpTAhI)
 - [AI content safety filter high or low?](https://www.youtube.com/shorts/YPIbBZ_83ts)
 - [Why did the cost of my AI Agent exceed the set budget?](https://www.youtube.com/shorts/ZW-cO0Tj7LE)
 - [How do you stay on top of new security issues?](https://www.youtube.com/shorts/6DfwI9qcMX0)
-- [How do you stay on top of new security issues?](https://www.youtube.com/watch?v=pNRyn0ukwFM)
-- [What&#39;s new with .NET Aspire?](https://www.youtube.com/watch?v=FseIFFXGbvw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
