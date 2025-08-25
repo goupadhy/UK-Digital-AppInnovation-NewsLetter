@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI content safety filter high or low?](https://www.youtube.com/shorts/YPIbBZ_83ts)
 - [Why did the cost of my AI Agent exceed the set budget?](https://www.youtube.com/shorts/ZW-cO0Tj7LE)
 - [How do you stay on top of new security issues?](https://www.youtube.com/shorts/6DfwI9qcMX0)
 - [How do you stay on top of new security issues?](https://www.youtube.com/watch?v=pNRyn0ukwFM)
 - [What&#39;s new with .NET Aspire?](https://www.youtube.com/watch?v=FseIFFXGbvw)
-- [What&#39;s new with .NET Aspire?](https://www.youtube.com/shorts/oLF1Z8DcqaA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
