@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Agents webinar coming soon!](https://www.youtube.com/shorts/j1WSFpZcLFg)
 - [Demystifying Copilot Studio coming soon!](https://www.youtube.com/watch?v=Mpw1YfOBEKE)
 - [Season Four of Demystifying Copilot Studio coming soon!](https://www.youtube.com/shorts/-K4i8Od6L-4)
 - [Ryan Cunningham takes the Low Code High Heat Challenge!](https://www.youtube.com/watch?v=FWeYy_AhXnc)
 - [Understanding Microsoft Agents | 09-03-25](https://www.youtube.com/shorts/lHHepwjoL6I)
-- [Understanding Microsoft Agents | Governance and Cost Control | 09-03-25](https://www.youtube.com/watch?v=I7diDPYGO2o)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
