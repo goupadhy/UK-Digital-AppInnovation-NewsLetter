@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [GraphRAG in Action with Anisha Latchman, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=gv5fRtBk8IM)
 - [Is fine-tuning a model like DeepSeek worth it?](https://www.youtube.com/shorts/Zq_aquaEpC0)
 - [How can I track token usage per user in my app?](https://www.youtube.com/shorts/MUIH0N4mEQI)
 - [Context Window: Answering 3 Developer Questions to Save on AI Costs](https://www.youtube.com/watch?v=CdrXTcpTAhI)
 - [AI content safety filter high or low?](https://www.youtube.com/shorts/YPIbBZ_83ts)
-- [Why did the cost of my AI Agent exceed the set budget?](https://www.youtube.com/shorts/ZW-cO0Tj7LE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
