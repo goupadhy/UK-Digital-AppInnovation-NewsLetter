@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Enterprise Grade Agent Design in Copilot Studio - Part 2 of Generative Orchestration](https://www.youtube.com/watch?v=PQaX1VaRoA0)
 - [Understanding Agents webinar coming soon!](https://www.youtube.com/shorts/j1WSFpZcLFg)
+- [Understanding Agents webinar coming soon! 09-03-2025](https://www.youtube.com/watch?v=knEwBD3MvPU)
 - [Demystifying Copilot Studio coming soon!](https://www.youtube.com/watch?v=Mpw1YfOBEKE)
 - [Season Four of Demystifying Copilot Studio coming soon!](https://www.youtube.com/shorts/-K4i8Od6L-4)
-- [Ryan Cunningham takes the Low Code High Heat Challenge!](https://www.youtube.com/watch?v=FWeYy_AhXnc)
-- [Understanding Microsoft Agents | 09-03-25](https://www.youtube.com/shorts/lHHepwjoL6I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
