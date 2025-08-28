@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [You open sourced WSL. What does that mean?](https://www.youtube.com/shorts/oL9wOFW4p9o)
+- [You open sourced WSL. What does that mean?](https://www.youtube.com/watch?v=FKanhfIwK-0)
 - [Freeform Tool Calling with GPT-5 in Azure AI Foundry](https://www.youtube.com/watch?v=y43sgs-Y8-U)
 - [Using Agentic Protocols &lpar;MCP, A2A, and NLWeb&rpar;](https://www.youtube.com/watch?v=X-Dh9R3Opn8)
 - [Write your own meta prompt or default?](https://www.youtube.com/shorts/O-aGmPErq-4)
-- [GraphRAG in Action with Anisha Latchman, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=gv5fRtBk8IM)
-- [Is fine-tuning a model like DeepSeek worth it?](https://www.youtube.com/shorts/Zq_aquaEpC0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
