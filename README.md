@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Demystifying Copilot Studio episode 2 coming soon!](https://www.youtube.com/watch?v=0cMpO8tcgHM)
 - [Power Pages 2025 release wave 2 highlights](https://www.youtube.com/watch?v=8kvBFHM54Eg)
 - [Demystifying Copilot Studio | S04 EP01](https://www.youtube.com/watch?v=EQir6bBWXCE)
 - [Enterprise Grade Agent Design in Copilot Studio - Part 2 of Generative Orchestration](https://www.youtube.com/watch?v=PQaX1VaRoA0)
 - [Understanding Agents webinar coming soon!](https://www.youtube.com/shorts/j1WSFpZcLFg)
-- [Understanding Agents webinar coming soon! 09-03-2025](https://www.youtube.com/watch?v=knEwBD3MvPU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
