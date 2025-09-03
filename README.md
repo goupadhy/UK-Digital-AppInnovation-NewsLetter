@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Demystifying Copilot Studio | S04 EP02](https://www.youtube.com/watch?v=tSRr-7TyV14)
 - [Understanding Microsoft Agents webinar TODAY at 10am PST!](https://www.youtube.com/watch?v=H1mAznUmYR0)
 - [Demystifying Copilot Studio Episode 2!](https://www.youtube.com/shorts/9QJH23ENon8)
 - [Understanding Agents kicks off tmrw!](https://www.youtube.com/shorts/gXt1W3Ile_s)
 - [Enable intelligent search capabilities within your Copilot Studio bot | Power Platform Shorts](https://www.youtube.com/watch?v=FJONkizAnoc)
-- [Demystifying Copilot Studio episode 2 coming soon!](https://www.youtube.com/watch?v=0cMpO8tcgHM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
