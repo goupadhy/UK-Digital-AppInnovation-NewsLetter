@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s your go to cryptographic algorithm?](https://www.youtube.com/shorts/uRTZnGWs8ME)
 - [Agent-to-agent collaboration in Copilot Studio](https://www.youtube.com/watch?v=d-oD3pApHAg)
 - [Context Window: Upleveling Your AI Agents - 3 Dev Questions Answered](https://www.youtube.com/watch?v=Izrmr4VM4a8)
 - [Externalizing Secrets Securely in Kubernetes with Secrets Store CSI Driver](https://www.youtube.com/watch?v=O1nx8mve5RY)
 - [Creating smart prompts for Azure SQL Copilot to expose the pain | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=Ex8yvAqYNCs)
-- [You open sourced WSL. What does that mean?](https://www.youtube.com/shorts/oL9wOFW4p9o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
