@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [From Issue to PR - Asynchronously develop with GitHub Copilot Coding Agent](https://www.youtube.com/watch?v=jq7Ls6T0LYM)
 - [What is a threat model?](https://www.youtube.com/shorts/mdj2LkzblX0)
 - [What is a threat model?](https://www.youtube.com/watch?v=sDLrub3WyG4)
 - [SQL database in Fabric - What&#39;s new and improved in public preview? | Data Exposed](https://www.youtube.com/watch?v=MLpGP_L7ZRU)
 - [Context engineering for AI agents](https://www.youtube.com/watch?v=F5zqRV7gEag)
-- [What&#39;s your go to cryptographic algorithm?](https://www.youtube.com/shorts/uRTZnGWs8ME)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
