@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [August 2025 Power Apps Pulse](https://www.youtube.com/watch?v=C_tPIs0JsK0)
 - [Help your agent with focus | EP01 | Power Up Minute](https://www.youtube.com/watch?v=vp8mLLKSZoA)
 - [Copilot Studio Kit in Action - Validate, Monitor and Optimize Your Agents - Power CAT AI Webinars](https://www.youtube.com/watch?v=3ja7jGLT9ko)
 - [Demystifying Copilot Studio | S04 EP02](https://www.youtube.com/watch?v=tSRr-7TyV14)
 - [Understanding Microsoft Agents webinar TODAY at 10am PST!](https://www.youtube.com/watch?v=H1mAznUmYR0)
-- [Demystifying Copilot Studio Episode 2!](https://www.youtube.com/shorts/9QJH23ENon8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
