@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Cooking Up AI Agents in Spreadsheets with Sarah DeAtley, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=koBGu8PNeds)
 - [VS Code Copilot Extension is Open Source](https://www.youtube.com/watch?v=GfVnJO8fwwk)
 - [VS Code Copilot Extension is Open Source](https://www.youtube.com/shorts/5Ffbk_hJWWI)
 - [Build AI agents for fast, high-volume document automation in Copilot Studio](https://www.youtube.com/watch?v=crHR6sEnTpE)
 - [What would make your life easier and your code more secure?](https://www.youtube.com/shorts/6YwZg9SZzls)
-- [From Issue to PR - Asynchronously develop with GitHub Copilot Coding Agent](https://www.youtube.com/watch?v=jq7Ls6T0LYM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
