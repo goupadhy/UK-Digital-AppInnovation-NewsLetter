@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build AI agents for fast, high-volume document automation in Copilot Studio](https://www.youtube.com/watch?v=crHR6sEnTpE)
 - [What would make your life easier and your code more secure?](https://www.youtube.com/shorts/6YwZg9SZzls)
 - [From Issue to PR - Asynchronously develop with GitHub Copilot Coding Agent](https://www.youtube.com/watch?v=jq7Ls6T0LYM)
 - [What is a threat model?](https://www.youtube.com/shorts/mdj2LkzblX0)
 - [What is a threat model?](https://www.youtube.com/watch?v=sDLrub3WyG4)
-- [SQL database in Fabric - What&#39;s new and improved in public preview? | Data Exposed](https://www.youtube.com/watch?v=MLpGP_L7ZRU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
