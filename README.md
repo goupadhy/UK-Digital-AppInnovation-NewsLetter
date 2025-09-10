@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Demystifying Copilot Studio | S04 EP02](https://www.youtube.com/watch?v=Y0RpZT3JlH8)
 - [Copilot Studio Orchestration for High Value Agents - the Chef Analogy](https://www.youtube.com/watch?v=-NjKJWcF3Hs)
 - [Demystifying Copilot Studio Episode 3 coming soon!](https://www.youtube.com/watch?v=VGmXv3svb4I)
 - [Add a Copilot Studio agent to a SharePoint site | Power Platform Shorts](https://www.youtube.com/watch?v=al48plM4mYI)
 - [August 2025 Power Apps Pulse](https://www.youtube.com/watch?v=C_tPIs0JsK0)
-- [Help your agent with focus | EP01 | Power Up Minute](https://www.youtube.com/watch?v=vp8mLLKSZoA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
