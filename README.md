@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Building a Snapshot Backup Catalog with SQL Server 2025 and Pure Storage FlashArray | Data Exposed](https://www.youtube.com/watch?v=gFOduTsR3kE)
+- [What&#39;s the relationship between Copilot Studio and Azure AI Foundry?](https://www.youtube.com/shorts/dz-hOAMAJhE)
+- [What is the relationship between Copilot Studio and Azure AI Foundry?](https://www.youtube.com/watch?v=DJA7A8oOkrg)
 - [Confirms users are who they say they are, authentication or authorization?](https://www.youtube.com/shorts/GDG3qwqngDM)
 - [Cooking Up AI Agents in Spreadsheets with Sarah DeAtley, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=koBGu8PNeds)
-- [VS Code Copilot Extension is Open Source](https://www.youtube.com/watch?v=GfVnJO8fwwk)
-- [VS Code Copilot Extension is Open Source](https://www.youtube.com/shorts/5Ffbk_hJWWI)
-- [Build AI agents for fast, high-volume document automation in Copilot Studio](https://www.youtube.com/watch?v=crHR6sEnTpE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
