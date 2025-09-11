@@ -45,7 +45,7 @@ We hope that these resources will help you innovate and address the real-world n
     
 <!-- YOUTUBEPOWER:START -->
 - [Conversation Prompts | EP02 | Power Up Minute](https://www.youtube.com/watch?v=Kbt3wZCD090)
-- [Demystifying Copilot Studio | S04 EP02](https://www.youtube.com/watch?v=Y0RpZT3JlH8)
+- [Demystifying Copilot Studio | S04 EP03](https://www.youtube.com/watch?v=Y0RpZT3JlH8)
 - [Copilot Studio Orchestration for High Value Agents - the Chef Analogy](https://www.youtube.com/watch?v=-NjKJWcF3Hs)
 - [Demystifying Copilot Studio Episode 3 coming soon!](https://www.youtube.com/watch?v=VGmXv3svb4I)
 - [Add a Copilot Studio agent to a SharePoint site | Power Platform Shorts](https://www.youtube.com/watch?v=al48plM4mYI)
