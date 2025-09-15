@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Should people move old C++ to modern C++?](https://www.youtube.com/shorts/2YeOIWZemXY)
 - [Unlock Cloud Savings for Linux VMs](https://www.youtube.com/watch?v=Y46PRzzqsMw)
 - [Azure AI Translator API &lpar;Public Preview&rpar; in Azure AI Foundry](https://www.youtube.com/watch?v=Xam_QQnb5wQ)
 - [Building a Snapshot Backup Catalog with SQL Server 2025 and Pure Storage FlashArray | Data Exposed](https://www.youtube.com/watch?v=gFOduTsR3kE)
 - [What&#39;s the relationship between Copilot Studio and Azure AI Foundry?](https://www.youtube.com/shorts/dz-hOAMAJhE)
-- [What is the relationship between Copilot Studio and Azure AI Foundry?](https://www.youtube.com/watch?v=DJA7A8oOkrg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
