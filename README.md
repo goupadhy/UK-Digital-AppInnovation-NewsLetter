@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s your preferred method for managing dependencies in your projects?](https://www.youtube.com/shorts/kH4Ti_8P2H8)
 - [Unlocking MCP Server: AI Integration for Dataverse &amp; Dynamics 365](https://www.youtube.com/watch?v=bjMdBPLl4Kc)
 - [Building for General Purpose AI Agents | Sip and Sync with Azure](https://www.youtube.com/watch?v=fvx4QtDMlGo)
 - [Should people move old C++ to modern C++?](https://www.youtube.com/shorts/2YeOIWZemXY)
 - [Unlock Cloud Savings for Linux VMs](https://www.youtube.com/watch?v=Y46PRzzqsMw)
-- [Azure AI Translator API &lpar;Public Preview&rpar; in Azure AI Foundry](https://www.youtube.com/watch?v=Xam_QQnb5wQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
