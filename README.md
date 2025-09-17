@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Unlocking MCP Server: AI Integration for Dataverse &amp; Dynamics 365](https://www.youtube.com/watch?v=bjMdBPLl4Kc)
 - [Building for General Purpose AI Agents | Sip and Sync with Azure](https://www.youtube.com/watch?v=fvx4QtDMlGo)
 - [Should people move old C++ to modern C++?](https://www.youtube.com/shorts/2YeOIWZemXY)
 - [Unlock Cloud Savings for Linux VMs](https://www.youtube.com/watch?v=Y46PRzzqsMw)
 - [Azure AI Translator API &lpar;Public Preview&rpar; in Azure AI Foundry](https://www.youtube.com/watch?v=Xam_QQnb5wQ)
-- [Building a Snapshot Backup Catalog with SQL Server 2025 and Pure Storage FlashArray | Data Exposed](https://www.youtube.com/watch?v=gFOduTsR3kE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
