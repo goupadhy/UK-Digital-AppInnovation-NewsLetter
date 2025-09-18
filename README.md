@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents session 4 coming soon!](https://www.youtube.com/watch?v=ThuueSQ23-0)
 - [2025 Release Wave 2 Recap Highlights](https://www.youtube.com/watch?v=r7Qgp_F_Fok)
 - [Demystifying Copilot Studio | SE04 EP04](https://www.youtube.com/watch?v=a5X2sMHjAco)
 - [Python Code in Copilot Studio &lpar;using Code Interpreter&rpar;](https://www.youtube.com/watch?v=dTenCgI-r4Y)
 - [Demystifying Copilot Studio episode 4 incoming!](https://www.youtube.com/shorts/HxF_whdoflw)
-- [Demystifying Copilot Studio episode 4 coming soon!](https://www.youtube.com/watch?v=JPh73brchmA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
