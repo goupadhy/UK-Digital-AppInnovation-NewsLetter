@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure AI Foundry Models with GitHub Copilot](https://www.youtube.com/watch?v=pG6d6Wwl9gU)
 - [What are Azure Monitor Health Models?](https://www.youtube.com/shorts/uxfqDjRhPeA)
 - [What are Azure Monitor Health Models?](https://www.youtube.com/watch?v=I39PSkDmfHQ)
 - [Build Smarter Agents with Azure AI Search](https://www.youtube.com/watch?v=uU0Fyde1yFo)
 - [What&#39;s your preferred method for managing dependencies in your projects?](https://www.youtube.com/shorts/kH4Ti_8P2H8)
-- [Unlocking MCP Server: AI Integration for Dataverse &amp; Dynamics 365](https://www.youtube.com/watch?v=bjMdBPLl4Kc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
