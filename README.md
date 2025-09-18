@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What are Azure Monitor Health Models?](https://www.youtube.com/shorts/uxfqDjRhPeA)
+- [What are Azure Monitor Health Models?](https://www.youtube.com/watch?v=I39PSkDmfHQ)
 - [Build Smarter Agents with Azure AI Search](https://www.youtube.com/watch?v=uU0Fyde1yFo)
 - [What&#39;s your preferred method for managing dependencies in your projects?](https://www.youtube.com/shorts/kH4Ti_8P2H8)
 - [Unlocking MCP Server: AI Integration for Dataverse &amp; Dynamics 365](https://www.youtube.com/watch?v=bjMdBPLl4Kc)
-- [Building for General Purpose AI Agents | Sip and Sync with Azure](https://www.youtube.com/watch?v=fvx4QtDMlGo)
-- [Should people move old C++ to modern C++?](https://www.youtube.com/shorts/2YeOIWZemXY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
