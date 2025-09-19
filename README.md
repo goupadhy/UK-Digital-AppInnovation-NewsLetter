@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Dataverse Auditing: Enhancing Trust and Transparency in the Age of AI ](https://www.microsoft.com/en-us/power-platform/blog/2025/09/11/dataverse-auditing/)
+- [Announcing General Availability of Power Pages Search with Generative AI Summarization](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-of-power-pages-search-with-generative-ai-summarization/)
 - [Power Apps’ User defined functions GA](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-user-defined-functions-ga/)
 - [Take Charge and Stay Ahead with Power Platform Monitor Alerts](https://www.microsoft.com/en-us/power-platform/blog/power-apps/take-charge-and-stay-ahead-with-power-platform-monitor-alerts/)
 - [Build and deploy a single-page application in Power Pages using GitHub Spark and Codespaces](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-and-deploy-a-single-page-application-in-power-pages-using-github-spark-and-codespaces/)
-- [Build and Extend Agents Directly from Power Pages Studio (Preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-and-extend-agents-directly-from-power-pages-studio-preview/)
-- [Customer Managed Key (CMK) Updates: Enhancing Security, Flexibility, and Global Reach ](https://www.microsoft.com/en-us/power-platform/blog/2025/08/12/customer-managed-key-updates/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
