@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Building a Resilience Coach with AI, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=Rvp_oQXia_8)
 - [Modernize Java apps in days with GitHub Copilot](https://www.youtube.com/shorts/D-fES6lwrks)
 - [Modernize Java apps in days with GitHub Copilot](https://www.youtube.com/watch?v=r3iTEqujO1s)
 - [AI Agent Memory: Building Self-Improving Agents](https://www.youtube.com/watch?v=QrYbHesIxpw)
 - [Should people build threat models?](https://www.youtube.com/shorts/jNMme-todUI)
-- [What&#39;s your favorite security bug?](https://www.youtube.com/shorts/HtFL2dGW9qU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
