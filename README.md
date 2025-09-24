@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [Using AI to map hope for refugees with UNHCR, the UN Refugee Agency](https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/)
 - [A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/)
 - [Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/)
 - [Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row](https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/)
 - [What’s next for Git? 20 years in, the community is still pushing forward](https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/)
-- [5 ways to integrate GitHub Copilot coding agent into your workflow](https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
