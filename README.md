@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents EP04 coming soon!](https://www.youtube.com/shorts/NJNYqWR39XY)
+- [Understanding Agents episode 4 on 1st October 2025!](https://www.youtube.com/watch?v=MEXnnThKzdI)
 - [Demystifying Copilot Studio | SE04 EP05](https://www.youtube.com/watch?v=Up1O_SinxOQ)
 - [Demystifying Copilot Studio episode 5 coming soon!](https://www.youtube.com/shorts/5ayqmxF_-WE)
 - [Demystifying Copilot Studio episode 5 coming soon!](https://www.youtube.com/watch?v=nKy8eozjeD0)
-- [Add a Copilot Studio bot to Microsoft Teams | Power Platform Shorts](https://www.youtube.com/watch?v=safTybqLFFU)
-- [Nirav Shah gets set for PPCC25!](https://www.youtube.com/watch?v=YZ_w1FY3nbE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
