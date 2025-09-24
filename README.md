@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Demystifying Copilot Studio | SE04 EP05](https://www.youtube.com/watch?v=Up1O_SinxOQ)
 - [Demystifying Copilot Studio episode 5 coming soon!](https://www.youtube.com/shorts/5ayqmxF_-WE)
 - [Demystifying Copilot Studio episode 5 coming soon!](https://www.youtube.com/watch?v=nKy8eozjeD0)
 - [Add a Copilot Studio bot to Microsoft Teams | Power Platform Shorts](https://www.youtube.com/watch?v=safTybqLFFU)
 - [Nirav Shah gets set for PPCC25!](https://www.youtube.com/watch?v=YZ_w1FY3nbE)
-- [How to &quot;bring your own model&quot; from Azure AI Foundry to a Microsoft Copilot Studio agent](https://www.youtube.com/watch?v=TSzJ47gG6yU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
