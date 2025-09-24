@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Personal Developer Environments: Secure, governed innovation in Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2025/09/18/personal-developer-environments-secure-governed-innovation-in-power-platform/)
-- [Power Platform Community Conference 2025: Technology and community unite to drive innovation](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-community-conference-2025-technology-and-community-unite-to-drive-innovation/)
 - [Dataverse Auditing: Enhancing Trust and Transparency in the Age of AI ](https://www.microsoft.com/en-us/power-platform/blog/2025/09/11/dataverse-auditing/)
 - [Announcing General Availability of Power Pages Search with Generative AI Summarization](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-of-power-pages-search-with-generative-ai-summarization/)
 - [Power Apps’ User defined functions GA](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-user-defined-functions-ga/)
+- [Take Charge and Stay Ahead with Power Platform Monitor Alerts](https://www.microsoft.com/en-us/power-platform/blog/power-apps/take-charge-and-stay-ahead-with-power-platform-monitor-alerts/)
+- [Build and deploy a single-page application in Power Pages using GitHub Spark and Codespaces](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-and-deploy-a-single-page-application-in-power-pages-using-github-spark-and-codespaces/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
