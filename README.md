@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Next-Level SQL in VS Code: GitHub Copilot, Containers &amp; more | Data Exposed](https://www.youtube.com/watch?v=jj9O5FR7v3A)
+- [What is Model Context Protocol &lpar;MCP&rpar;?](https://www.youtube.com/shorts/rTW1eM0T_90)
+- [What is Model Context Protocol &lpar;MCP&rpar;?](https://www.youtube.com/watch?v=yVPmHIvJLYg)
 - [Building a Resilience Coach with AI, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=Rvp_oQXia_8)
 - [Modernize Java apps in days with GitHub Copilot](https://www.youtube.com/shorts/D-fES6lwrks)
-- [Modernize Java apps in days with GitHub Copilot](https://www.youtube.com/watch?v=r3iTEqujO1s)
-- [AI Agent Memory: Building Self-Improving Agents](https://www.youtube.com/watch?v=QrYbHesIxpw)
-- [Should people build threat models?](https://www.youtube.com/shorts/jNMme-todUI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
