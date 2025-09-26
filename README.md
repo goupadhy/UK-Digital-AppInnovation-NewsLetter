@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Building Secure Applications with Azure and Rust | DEM511](https://www.youtube.com/watch?v=2a94mcuzGQE)
 - [ADHD: A fuzzy discovery](https://www.youtube.com/watch?v=bTsGKiuZwXA)
 - [Next-Level SQL in VS Code: GitHub Copilot, Containers &amp; more | Data Exposed](https://www.youtube.com/watch?v=jj9O5FR7v3A)
 - [What is Model Context Protocol &lpar;MCP&rpar;?](https://www.youtube.com/shorts/rTW1eM0T_90)
 - [What is Model Context Protocol &lpar;MCP&rpar;?](https://www.youtube.com/watch?v=yVPmHIvJLYg)
-- [Building a Resilience Coach with AI, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=Rvp_oQXia_8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
