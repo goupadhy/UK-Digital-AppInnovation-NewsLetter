@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Extend your Copilot Studio agents with AI Foundry part 2](https://www.youtube.com/shorts/XJ5LlhwL1OM)
+- [Extend your Copilot Studio agents with AI Foundry part 1](https://www.youtube.com/shorts/TeKkmfWoi7E)
 - [Demystifying Copilot Studio Season Four finale coming soon!](https://www.youtube.com/watch?v=9WpvWWu-ZLo)
 - [Demystifying Copilot Studio season finale!](https://www.youtube.com/shorts/x2vn9gXv74E)
 - [Understanding Microsoft Agents community call this week!](https://www.youtube.com/watch?v=gcPPohLVI78)
-- [Understanding Microsoft Agents webinar this week!](https://www.youtube.com/shorts/bAuIFE10-58)
-- [Power CAT AI Webinars: Copilot Studio - Demystifying Multi-Agent and Component Collections](https://www.youtube.com/watch?v=zxf60I2isiY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
