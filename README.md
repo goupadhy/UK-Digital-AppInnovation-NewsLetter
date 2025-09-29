@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Demystifying Copilot Studio Season Four finale coming soon!](https://www.youtube.com/watch?v=9WpvWWu-ZLo)
 - [Demystifying Copilot Studio season finale!](https://www.youtube.com/shorts/x2vn9gXv74E)
 - [Understanding Microsoft Agents community call this week!](https://www.youtube.com/watch?v=gcPPohLVI78)
 - [Understanding Microsoft Agents webinar this week!](https://www.youtube.com/shorts/bAuIFE10-58)
 - [Power CAT AI Webinars: Copilot Studio - Demystifying Multi-Agent and Component Collections](https://www.youtube.com/watch?v=zxf60I2isiY)
-- [Free hot sauce and $150 off your PPCC25 pass!](https://www.youtube.com/watch?v=oLEW1dUUUZg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
