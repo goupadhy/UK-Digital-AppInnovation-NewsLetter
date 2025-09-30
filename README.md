@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Securing AI Deployments with HashiCorp Vault &amp; Azure | Sip and Sync with Azure](https://www.youtube.com/watch?v=l7q6w6eICgw)
 - [ADHD: Living with it](https://www.youtube.com/watch?v=MXfGk55trJk)
 - [Azure SQL DB &amp; OpenAI: Building Powerful RAG Applications | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=JXH_i5Eo_CA)
 - [Building Secure Applications with Azure and Rust | DEM511](https://www.youtube.com/watch?v=2a94mcuzGQE)
 - [ADHD: A fuzzy discovery](https://www.youtube.com/watch?v=bTsGKiuZwXA)
-- [Next-Level SQL in VS Code: GitHub Copilot, Containers &amp; more | Data Exposed](https://www.youtube.com/watch?v=jj9O5FR7v3A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
