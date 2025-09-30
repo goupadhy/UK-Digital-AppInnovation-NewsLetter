@@ -56,7 +56,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:START -->
 - [CodeQL zero to hero part 5: Debugging queries](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/)
 - [How GitHub protects developers from copyright enforcement overreach](https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/)
-- [Kicking off Cybersecurity Awareness Month 2025: Researcher Spotlights and Enhanced Incentives](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/)
+- [Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/)
 - [Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership](https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/)
 - [GitHub Copilot gets smarter at finding your code: Inside our new embedding model ](https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/)
 <!-- BLOGGITHUB:END -->
