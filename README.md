@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Agent Framework: Building Blocks for the Next Generation of AI Agents](https://www.youtube.com/shorts/mOAaGY4WPvc)
+- [Agent Framework: Building Blocks for the Next Generation of AI Agents](https://www.youtube.com/watch?v=AAgdMhftj8w)
 - [Securing AI Deployments with HashiCorp Vault &amp; Azure | Sip and Sync with Azure](https://www.youtube.com/watch?v=l7q6w6eICgw)
 - [ADHD: Living with it](https://www.youtube.com/watch?v=MXfGk55trJk)
 - [Azure SQL DB &amp; OpenAI: Building Powerful RAG Applications | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=JXH_i5Eo_CA)
-- [Building Secure Applications with Azure and Rust | DEM511](https://www.youtube.com/watch?v=2a94mcuzGQE)
-- [ADHD: A fuzzy discovery](https://www.youtube.com/watch?v=bTsGKiuZwXA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
