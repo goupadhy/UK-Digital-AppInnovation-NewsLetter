@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Microsoft Power Pages is Generally Available in Singapore Local and South Africa](https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-generally-available-in-singapore-local-and-south-africa/)
 - [Personal Developer Environments: Secure, governed innovation in Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2025/09/18/personal-developer-environments-secure-governed-innovation-in-power-platform/)
 - [Power Platform Community Conference 2025: Technology and community unite to drive innovation](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-community-conference-2025-technology-and-community-unite-to-drive-innovation/)
 - [Dataverse Auditing: Enhancing Trust and Transparency in the Age of AI ](https://www.microsoft.com/en-us/power-platform/blog/2025/09/11/dataverse-auditing/)
 - [Announcing General Availability of Power Pages Search with Generative AI Summarization](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-of-power-pages-search-with-generative-ai-summarization/)
-- [Power Apps’ User defined functions GA](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-user-defined-functions-ga/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
