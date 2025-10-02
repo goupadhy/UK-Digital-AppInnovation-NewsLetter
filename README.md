@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [M365 Copilot speaks your language | EP05 | Power Up Minute](https://www.youtube.com/watch?v=am17eDZY2Ug)
 - [Power Apps Pulse September 2025](https://www.youtube.com/watch?v=QF1jEkg3CM0)
 - [Demystifying Copilot Studio | SE04 EP06](https://www.youtube.com/watch?v=fQ7cq6QLBZQ)
 - [Understanding Microsoft Agents live webinar TODAY!](https://www.youtube.com/shorts/CIlwDQLOew4)
 - [Understanding Microsoft Agents webinar TODAY!](https://www.youtube.com/watch?v=-N4XIpD3oc0)
-- [Track cost savings with Copilot Studio analytics | Power Platform Shorts](https://www.youtube.com/watch?v=WtljoRx12Tc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
