@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What is an AI agent?](https://www.youtube.com/watch?v=xG3py56UBUo)
+- [What is an AI agent?](https://www.youtube.com/shorts/5ms4A7NELtw)
 - [HPE Solutions for Azure edge architecture running SQL Server | Data Exposed](https://www.youtube.com/watch?v=QCF0C7NpBcE)
 - [Why is everyone suddenly talking about AI agents?](https://www.youtube.com/watch?v=vewSU9egocs)
 - [Why is everyone suddenly talking about AI agents?](https://www.youtube.com/shorts/Ysm86Aymd2M)
-- [Agent Framework: Building Blocks for the Next Generation of AI Agents](https://www.youtube.com/shorts/mOAaGY4WPvc)
-- [Agent Framework: Building Blocks for the Next Generation of AI Agents](https://www.youtube.com/watch?v=AAgdMhftj8w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
