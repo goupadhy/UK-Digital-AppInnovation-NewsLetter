@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Pricing Calculator: Estimate Smarter, Plan Confidently](https://www.youtube.com/watch?v=7b84OrcATUQ)
 - [Have we made any progress securing code in the last 25 yrs?](https://www.youtube.com/watch?v=65jyjwofPdg)
 - [Have we made any progress securing code in the last 25 years?](https://www.youtube.com/shorts/1jZYYCWYgj4)
 - [What is an AI agent?](https://www.youtube.com/watch?v=xG3py56UBUo)
 - [What is an AI agent?](https://www.youtube.com/shorts/5ms4A7NELtw)
-- [HPE Solutions for Azure edge architecture running SQL Server | Data Exposed](https://www.youtube.com/watch?v=QCF0C7NpBcE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
