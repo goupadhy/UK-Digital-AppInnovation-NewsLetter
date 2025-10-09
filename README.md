@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Create an AI Agent with File Search in Azure AI Foundry &lpar;Portal&rpar;](https://www.youtube.com/watch?v=dBu3il7db0o)
 - [SQL in Fabric–Copilot, Data Virtualization, Notebook Integration &amp; Backup/Restore | Data Exposed](https://www.youtube.com/watch?v=h7DhCqFArtc)
 - [ADHD: Adapting and thriving](https://www.youtube.com/watch?v=eeTOToKnpCg)
 - [How do I generate tests with AI?](https://www.youtube.com/watch?v=2p9kRRcrv80)
 - [How do you generate tests with AI?](https://www.youtube.com/shorts/-o8ora0olPQ)
-- [From Realtor to AI Developer, with Brandon Gallmeyer, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=5h52awwiJGU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
