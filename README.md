@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Visualize and streamline workflows with Plan Designer | Power Platform Shorts](https://www.youtube.com/watch?v=E22yQ5cFuk0)
 - [Consolidate Conversations with Notebooks | EP06 | Power Up Minute](https://www.youtube.com/watch?v=2TfXh7VERRs)
 - [Ready to build something BIG at PPCC25?](https://www.youtube.com/watch?v=zRFGYEtYgrM)
 - [Understanding Microsoft Agents | EP04](https://www.youtube.com/watch?v=ekknaz_Qp7k)
 - [Add a Copilot Studio agent to a SharePoint site | Power Platform Shorts](https://www.youtube.com/watch?v=og-8wt-wlP0)
-- [Who&#39;s Using Copilot? | Teck Resources](https://www.youtube.com/watch?v=Zmd4jjAX9Wk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
