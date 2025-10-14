@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/09/explore-new-ai-innovation-for-dynamics-365-power-platform-and-copilot-studio-at-business-applications-launch-event/)
 - [Protecting Your Organization with the Phishing Detection Security Agent for Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/protecting-your-organization-with-the-phishing-detection-security-agent-for-power-pages/)
 - [Microsoft Power Pages is Generally Available in Singapore Local and South Africa](https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-generally-available-in-singapore-local-and-south-africa/)
 - [Personal Developer Environments: Secure, governed innovation in Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2025/09/18/personal-developer-environments-secure-governed-innovation-in-power-platform/)
 - [Power Platform Community Conference 2025: Technology and community unite to drive innovation](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-community-conference-2025-technology-and-community-unite-to-drive-innovation/)
-- [Dataverse Auditing: Enhancing Trust and Transparency in the Age of AI ](https://www.microsoft.com/en-us/power-platform/blog/2025/09/11/dataverse-auditing/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
