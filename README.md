@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Visualize and streamline workflows with Plan Designer | Power Platform Shorts](https://www.youtube.com/watch?v=E22yQ5cFuk0)
-- [Consolidate Conversations with Notebooks | EP06 | Power Up Minute](https://www.youtube.com/watch?v=2TfXh7VERRs)
-- [Ready to build something BIG at PPCC25?](https://www.youtube.com/watch?v=zRFGYEtYgrM)
-- [Understanding Microsoft Agents | EP04](https://www.youtube.com/watch?v=ekknaz_Qp7k)
-- [Add a Copilot Studio agent to a SharePoint site | Power Platform Shorts](https://www.youtube.com/watch?v=og-8wt-wlP0)
+- [Add event triggers - enable autonomous agent capabilities](https://www.youtube.com/watch?v=ZgwHL8PQ1nY)
+- [Add an agent flow to the topic for automation](https://www.youtube.com/watch?v=vtLZJT3eBXg)
+- [Enhance user interactions in topics with Adaptive Cards](https://www.youtube.com/watch?v=RhIlzYHPCXo)
+- [Add a new topic with trigger and nodes](https://www.youtube.com/watch?v=7iPAZaA8nJs)
+- [Create a custom agent using natural language](https://www.youtube.com/watch?v=qZTtQVncGFg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
