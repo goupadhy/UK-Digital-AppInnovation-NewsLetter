@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [From Barking to Building: How GitHub Copilot Solved a Real-Life Problem | Sip and Sync with Azure](https://www.youtube.com/watch?v=UUcdEfk2G7o)
 - [Create an AI Agent with File Search in Azure AI Foundry &lpar;Portal&rpar;](https://www.youtube.com/watch?v=dBu3il7db0o)
 - [SQL in Fabric–Copilot, Data Virtualization, Notebook Integration &amp; Backup/Restore | Data Exposed](https://www.youtube.com/watch?v=h7DhCqFArtc)
 - [ADHD: Adapting and thriving](https://www.youtube.com/watch?v=eeTOToKnpCg)
 - [How do I generate tests with AI?](https://www.youtube.com/watch?v=2p9kRRcrv80)
-- [How do you generate tests with AI?](https://www.youtube.com/shorts/-o8ora0olPQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
