@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Where do you find the unity in the Microsoft Community?](https://www.youtube.com/shorts/HRlHiAxsYyw)
 - [Add event triggers - enable autonomous agent capabilities](https://www.youtube.com/watch?v=ZgwHL8PQ1nY)
 - [Add an agent flow to the topic for automation](https://www.youtube.com/watch?v=vtLZJT3eBXg)
 - [Enhance user interactions in topics with Adaptive Cards](https://www.youtube.com/watch?v=RhIlzYHPCXo)
 - [Add a new topic with trigger and nodes](https://www.youtube.com/watch?v=7iPAZaA8nJs)
-- [Create a custom agent using natural language](https://www.youtube.com/watch?v=qZTtQVncGFg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
