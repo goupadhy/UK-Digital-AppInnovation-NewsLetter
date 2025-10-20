@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Get ready for PPCC25!](https://www.youtube.com/watch?v=AREmCxk9DJQ)
 - [Business Applications Launch Event | Thursday 23rd October](https://www.youtube.com/shorts/lMB3kRpZabs)
 - [Excel Copilot for calculations and trend analysis | EP07 | Power Up Minute](https://www.youtube.com/watch?v=b3Mo0mx0ZVE)
 - [Getting started with Prompt Library in Copilot Studio](https://www.youtube.com/watch?v=ZSlHC_0JVac)
 - [Where do you find the unity in the Microsoft Community?](https://www.youtube.com/shorts/HRlHiAxsYyw)
-- [Add event triggers - enable autonomous agent capabilities](https://www.youtube.com/watch?v=ZgwHL8PQ1nY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
