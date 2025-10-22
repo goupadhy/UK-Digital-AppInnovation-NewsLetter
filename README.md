@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Agent Framework WorkFlows Explained](https://www.youtube.com/shorts/QCHxTtHmtkU)
+- [Microsoft Agent Framework WorkFlows Explained](https://www.youtube.com/watch?v=KQ09sMHeFQY)
 - [Introduction to Godot C# Essentials: A Complete Beginner&#39;s Guide: FULLCOURSE](https://www.youtube.com/watch?v=0Pf41YBedMk)
 - [What is Azure AI Foundry Local?](https://www.youtube.com/shorts/KPa9PE27ESU)
 - [What is Azure AI Foundry Local?](https://www.youtube.com/watch?v=N1paWARiUcI)
-- [Cooking Up Smarter Dev Docs, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=4fYXcmyZH3U)
-- [Introducing GitHub Copilot in SSMS 22 | Data Exposed](https://www.youtube.com/watch?v=VvOWQQiSRxw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
