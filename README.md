@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What do you want to see at PPCC?](https://www.youtube.com/shorts/IBIVB8X1RzU)
 - [Business Applications Launch event this Thursday!](https://www.youtube.com/shorts/NYe76fP6c4M)
 - [Build business apps using Plan Designer and Copilot | Power Platform Shorts](https://www.youtube.com/watch?v=Sd0e8_WlmkQ)
 - [Business Applications Launch Event this week!](https://www.youtube.com/shorts/8iparvkNcMU)
 - [Get ready for PPCC25!](https://www.youtube.com/watch?v=AREmCxk9DJQ)
-- [Business Applications Launch Event | Thursday 23rd October](https://www.youtube.com/shorts/lMB3kRpZabs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
