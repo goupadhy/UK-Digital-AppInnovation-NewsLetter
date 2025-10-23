@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Optimize Complex Workflows Using Multi-Agent Patterns](https://www.youtube.com/watch?v=eobRfdy8tu4)
 - [Microsoft Agent Framework WorkFlows Explained](https://www.youtube.com/shorts/QCHxTtHmtkU)
 - [Microsoft Agent Framework WorkFlows Explained](https://www.youtube.com/watch?v=KQ09sMHeFQY)
 - [Introduction to Godot C# Essentials: A Complete Beginner&#39;s Guide: FULLCOURSE](https://www.youtube.com/watch?v=0Pf41YBedMk)
 - [What is Azure AI Foundry Local?](https://www.youtube.com/shorts/KPa9PE27ESU)
-- [What is Azure AI Foundry Local?](https://www.youtube.com/watch?v=N1paWARiUcI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
