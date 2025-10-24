@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s new with agents for developers?](https://www.youtube.com/shorts/F8CFwNnr10s)
+- [What&#39;s new with agents for developers?](https://www.youtube.com/watch?v=2A7gO9Tf-Vg)
 - [What&#39;s this Rust thing? Why is it important?](https://www.youtube.com/shorts/g7nnWfyjKHY)
 - [What&#39;s this Rust thing? Why is it important?](https://www.youtube.com/watch?v=FjCnecfUh74)
 - [Derive new insights for your SQL database in Fabric w/ enhanced performance dashboard | Data Exposed](https://www.youtube.com/watch?v=UAIic-vzcac)
-- [Optimize Complex Workflows Using Multi-Agent Patterns](https://www.youtube.com/watch?v=eobRfdy8tu4)
-- [Microsoft Agent Framework WorkFlows Explained](https://www.youtube.com/shorts/QCHxTtHmtkU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
