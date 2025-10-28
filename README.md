@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Optimize Azure Costs with Reserved Instances](https://www.youtube.com/watch?v=PRGo-RH-sL4)
 - [Implementing Vector Search in Your Application with SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=WBPFjYLIhsA)
 - [What&#39;s new with agents for developers?](https://www.youtube.com/shorts/F8CFwNnr10s)
 - [What&#39;s new with agents for developers?](https://www.youtube.com/watch?v=2A7gO9Tf-Vg)
 - [What&#39;s this Rust thing? Why is it important?](https://www.youtube.com/shorts/g7nnWfyjKHY)
-- [What&#39;s this Rust thing? Why is it important?](https://www.youtube.com/watch?v=FjCnecfUh74)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
