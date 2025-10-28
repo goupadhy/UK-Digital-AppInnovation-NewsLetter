@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Are you ready for PPCC25?](https://www.youtube.com/shorts/AphEQBO9KBs)
 - [Understanding Agents EP05 coming soon!](https://www.youtube.com/watch?v=mtoc8IaBpfk)
 - [Are you ready for PPCC25?](https://www.youtube.com/shorts/dVnAfFjuDwg)
 - [Why Create M365 Copilot Agents? | EP08 | Power Up Minute](https://www.youtube.com/watch?v=3bOw7OasaKc)
 - [What do you want to see at PPCC?](https://www.youtube.com/shorts/IBIVB8X1RzU)
-- [Business Applications Launch event this Thursday!](https://www.youtube.com/shorts/NYe76fP6c4M)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
