@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Intro to Java and AI for Beginners](https://www.youtube.com/watch?v=I0yhGsozx8o)
+- [GenAI for Java Developers 1: Getting started](https://www.youtube.com/watch?v=COPXh-unV8I)
 - [Optimize Azure Costs with Reserved Instances](https://www.youtube.com/watch?v=PRGo-RH-sL4)
 - [Implementing Vector Search in Your Application with SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=WBPFjYLIhsA)
 - [What&#39;s new with agents for developers?](https://www.youtube.com/shorts/F8CFwNnr10s)
-- [What&#39;s new with agents for developers?](https://www.youtube.com/watch?v=2A7gO9Tf-Vg)
-- [What&#39;s this Rust thing? Why is it important?](https://www.youtube.com/shorts/g7nnWfyjKHY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
