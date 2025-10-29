@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Upgrade MSVC with GitHub Copilot app modernization for C++](https://www.youtube.com/watch?v=eCFb_VyNMWU)
+- [GenAI for Java Developers 3:  Apps](https://www.youtube.com/watch?v=2QXzxOLtCHM)
 - [GenAI for Java Developers 2: Techniques](https://www.youtube.com/watch?v=3UoDsdemIdA)
 - [Intro to Java and AI for Beginners](https://www.youtube.com/watch?v=I0yhGsozx8o)
 - [GenAI for Java Developers 1: Getting started](https://www.youtube.com/watch?v=COPXh-unV8I)
-- [Optimize Azure Costs with Reserved Instances](https://www.youtube.com/watch?v=PRGo-RH-sL4)
-- [Implementing Vector Search in Your Application with SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=WBPFjYLIhsA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
