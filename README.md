@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [M365 Copilot is grounded on relevant data and insights | EP09 | Power Up Minute](https://www.youtube.com/watch?v=Fj35NIn5Hac)
 - [Understanding Agents session five coming soon!](https://www.youtube.com/shorts/lATdBCYPknI)
 - [Join Jolene Tam for our next Understanding Agents session!](https://www.youtube.com/watch?v=umnzm9qg8QU)
 - [Coolest stuff at the Community Conference!](https://www.youtube.com/shorts/HsMMm-tddio)
 - [What was your favorite session at PPCC25?](https://www.youtube.com/shorts/49M8mjGyS10)
-- [Live from the street at PPCC25!](https://www.youtube.com/shorts/tY2gy7328bM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
