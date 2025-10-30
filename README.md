@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What was your favorite session at PPCC25?](https://www.youtube.com/shorts/49M8mjGyS10)
 - [Live from the street at PPCC25!](https://www.youtube.com/shorts/tY2gy7328bM)
 - [What to see at PPCC25!](https://www.youtube.com/shorts/YFGpPEg99m0)
 - [Live from the street at PPCC25!](https://www.youtube.com/shorts/IrJ0LsQE98w)
 - [Add inputs to prompts using Power Fx | Power Platform Shorts](https://www.youtube.com/watch?v=HByBKSkjNcU)
-- [Are you ready for PPCC25?](https://www.youtube.com/shorts/AphEQBO9KBs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
