@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [GenAI for Java Developers 4: Responsible AI](https://www.youtube.com/watch?v=qXx1Ukw3MGs)
 - [Upgrade MSVC with GitHub Copilot app modernization for C++](https://www.youtube.com/watch?v=eCFb_VyNMWU)
 - [GenAI for Java Developers 3:  Apps](https://www.youtube.com/watch?v=2QXzxOLtCHM)
 - [GenAI for Java Developers 2: Techniques](https://www.youtube.com/watch?v=3UoDsdemIdA)
 - [Intro to Java and AI for Beginners](https://www.youtube.com/watch?v=I0yhGsozx8o)
-- [GenAI for Java Developers 1: Getting started](https://www.youtube.com/watch?v=COPXh-unV8I)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
