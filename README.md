@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MCP and Java Apps: Building a Client](https://www.youtube.com/watch?v=HQQavvdrAA0)
 - [What is GitHub Copilot Coding Agent?](https://www.youtube.com/shorts/KgY5OQqMGms)
 - [What is GitHub Copilot Coding Agent?](https://www.youtube.com/watch?v=Wex4ONr1P2I)
 - [SQL Meets Streaming: Building Event-Driven Apps with Real-Time Intelligence | Data Exposed](https://www.youtube.com/watch?v=tyiDMlKXLwU)
 - [Deep Dive into Microsoft Agent Framework for AutoGen Users](https://www.youtube.com/watch?v=JlzteydCK_Q)
-- [MCP and Java Apps: Building a Server](https://www.youtube.com/watch?v=DGNAvVn6WwY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
