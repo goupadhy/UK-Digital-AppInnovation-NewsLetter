@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [MCP and Java Apps: Building a Client](https://www.youtube.com/watch?v=HQQavvdrAA0)
-- [What is GitHub Copilot Coding Agent?](https://www.youtube.com/shorts/KgY5OQqMGms)
-- [What is GitHub Copilot Coding Agent?](https://www.youtube.com/watch?v=Wex4ONr1P2I)
-- [SQL Meets Streaming: Building Event-Driven Apps with Real-Time Intelligence | Data Exposed](https://www.youtube.com/watch?v=tyiDMlKXLwU)
-- [Deep Dive into Microsoft Agent Framework for AutoGen Users](https://www.youtube.com/watch?v=JlzteydCK_Q)
+- [How can I get started writing extensions for the Command Pallet in PowerToys?](https://www.youtube.com/watch?v=s5GLjE13cUI)
+- [How can I get started writing extensions for the Command Pallet in PowerToys?](https://www.youtube.com/watch?v=3eCPYos21J8)
+- [How can I get started writing extensions for the Command Pallet in PowerToys?](https://www.youtube.com/shorts/kYfJtyoXyVo)
+- [Authentic DevOps with AI Foundry + GitHub, on Sip &amp; Sync with Azure](https://www.youtube.com/watch?v=rWkLRkN3yvI)
+- [Context Engineering for Java Ecosystem](https://www.youtube.com/watch?v=kSElHY8MWwc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
