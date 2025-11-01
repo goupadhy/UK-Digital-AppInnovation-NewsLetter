@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Modernize Java Apps with AI:  Upgrade &amp; Migrate your Applications](https://www.youtube.com/watch?v=9gmp_ADmRuE)
 - [How can I get started writing extensions for the Command Pallet in PowerToys?](https://www.youtube.com/watch?v=s5GLjE13cUI)
 - [How can I get started writing extensions for the Command Pallet in PowerToys?](https://www.youtube.com/watch?v=3eCPYos21J8)
 - [How can I get started writing extensions for the Command Pallet in PowerToys?](https://www.youtube.com/shorts/kYfJtyoXyVo)
 - [Authentic DevOps with AI Foundry + GitHub, on Sip &amp; Sync with Azure](https://www.youtube.com/watch?v=rWkLRkN3yvI)
-- [Context Engineering for Java Ecosystem](https://www.youtube.com/watch?v=kSElHY8MWwc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
