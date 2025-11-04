@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build Intelligent AI Apps: Build an Agent](https://www.youtube.com/watch?v=YlbeQkTRbAY)
 - [Armchair Architects: Defining AI Agents and Their Core Traits](https://www.youtube.com/watch?v=S6zKiJSwgjE)
 - [Build Intelligent AI Apps: Introduction](https://www.youtube.com/watch?v=_cqJzFxLorE)
 - [Modernize Java Apps with AI: Deploy Your Applications to Azure](https://www.youtube.com/watch?v=GlEiDHHYCao)
 - [Modernize Java Apps with AI:  Upgrade &amp; Migrate your Applications](https://www.youtube.com/watch?v=9gmp_ADmRuE)
-- [How can I get started writing extensions for the Command Pallet in PowerToys?](https://www.youtube.com/watch?v=s5GLjE13cUI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
