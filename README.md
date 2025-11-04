@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Fabric Data Days, plus learn how Databases and Fabric go together | Data Exposed Exclusive](https://www.youtube.com/watch?v=g0G5X8ECXP8)
 - [Build Intelligent AI Apps: Build an Agent](https://www.youtube.com/watch?v=YlbeQkTRbAY)
 - [Armchair Architects: Defining AI Agents and Their Core Traits](https://www.youtube.com/watch?v=S6zKiJSwgjE)
 - [Build Intelligent AI Apps: Introduction](https://www.youtube.com/watch?v=_cqJzFxLorE)
 - [Modernize Java Apps with AI: Deploy Your Applications to Azure](https://www.youtube.com/watch?v=GlEiDHHYCao)
-- [Modernize Java Apps with AI:  Upgrade &amp; Migrate your Applications](https://www.youtube.com/watch?v=9gmp_ADmRuE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
