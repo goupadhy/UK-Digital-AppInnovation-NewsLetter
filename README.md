@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do I start making my first AI agent?](https://www.youtube.com/shorts/O438jFFkUGM)
+- [How do I start making my first AI agent?](https://www.youtube.com/watch?v=M50ICcrFnTY)
 - [Running GenAI in containers: GPU](https://www.youtube.com/watch?v=XhyTEgA_kBk)
 - [From Building to Fine-Tuning: Coding Agents that Optimize AI Workflows](https://www.youtube.com/watch?v=vsfbYJF2las)
 - [Fabric Data Days, plus learn how Databases and Fabric go together | Data Exposed Exclusive](https://www.youtube.com/watch?v=g0G5X8ECXP8)
-- [Build Intelligent AI Apps: Build an Agent](https://www.youtube.com/watch?v=YlbeQkTRbAY)
-- [Armchair Architects: Defining AI Agents and Their Core Traits](https://www.youtube.com/watch?v=S6zKiJSwgjE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
