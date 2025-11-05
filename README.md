@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Running GenAI in containers: Dynamic Sessions](https://www.youtube.com/watch?v=oCNqsEXKnoA)
+- [Secure by Design: Upcoming CMK and Auditing Features in Fabric SQL Database | Data Exposed](https://www.youtube.com/watch?v=dxUsmfYqBAI)
 - [How do I start making my first AI agent?](https://www.youtube.com/shorts/O438jFFkUGM)
 - [How do I start making my first AI agent?](https://www.youtube.com/watch?v=M50ICcrFnTY)
 - [Running GenAI in containers: GPU](https://www.youtube.com/watch?v=XhyTEgA_kBk)
-- [From Building to Fine-Tuning: Coding Agents that Optimize AI Workflows](https://www.youtube.com/watch?v=vsfbYJF2las)
-- [Fabric Data Days, plus learn how Databases and Fabric go together | Data Exposed Exclusive](https://www.youtube.com/watch?v=g0G5X8ECXP8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
