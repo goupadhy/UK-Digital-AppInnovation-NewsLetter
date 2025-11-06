@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Configurable Agent Knowledge Sources | EP10 | Power Up Minute](https://www.youtube.com/watch?v=e8WCsTvCQxU)
 - [Understanding Agents call TODAY at 10am PST!](https://www.youtube.com/shorts/iTFGUHUSRhU)
 - [Understanding Agents call TODAY at 10am PST!](https://www.youtube.com/watch?v=acO5oxLX6ZI)
 - [Only 24 hours until Understanding Agents session five!](https://www.youtube.com/watch?v=xaFP3JPEX_A)
 - [24 hours until Understanding Agents EP05!](https://www.youtube.com/shorts/nY3ImcwX3EA)
-- [Understanding Agents Episode 5 coming soon!](https://www.youtube.com/shorts/vqp2jakNnXE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
