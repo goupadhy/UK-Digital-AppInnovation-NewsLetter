@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Build AI Agents for WhatsApp with Copilot Studio – Power CAT AI Webinars](https://www.youtube.com/watch?v=3-kuGmebLtE)
 - [Expanding Copilot Studio Agent Capabilities with Azure AI Services | PowerCAT AI Webinars](https://www.youtube.com/watch?v=Xu1-29jH-7M)
 - [Configurable Agent Knowledge Sources | EP10 | Power Up Minute](https://www.youtube.com/watch?v=e8WCsTvCQxU)
 - [Understanding Agents call TODAY at 10am PST!](https://www.youtube.com/shorts/iTFGUHUSRhU)
 - [Understanding Agents call TODAY at 10am PST!](https://www.youtube.com/watch?v=acO5oxLX6ZI)
-- [Only 24 hours until Understanding Agents session five!](https://www.youtube.com/watch?v=xaFP3JPEX_A)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
