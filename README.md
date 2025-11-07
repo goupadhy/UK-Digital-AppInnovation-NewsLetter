@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How do I get into security?](https://www.youtube.com/shorts/ZF_EPPjvGYg)
+- [How do I get into security?](https://www.youtube.com/watch?v=0ZWxB_4RCck)
 - [Java and AI for Beginners - Full Series](https://www.youtube.com/watch?v=yPlJf5DA5So)
 - [Running GenAI in containers: Dynamic Sessions](https://www.youtube.com/watch?v=oCNqsEXKnoA)
 - [Secure by Design: Upcoming CMK and Auditing Features in Fabric SQL Database | Data Exposed](https://www.youtube.com/watch?v=dxUsmfYqBAI)
-- [How do I start making my first AI agent?](https://www.youtube.com/shorts/O438jFFkUGM)
-- [How do I start making my first AI agent?](https://www.youtube.com/watch?v=M50ICcrFnTY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
