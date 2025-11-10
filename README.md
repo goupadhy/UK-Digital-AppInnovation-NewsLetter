@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Cost Estimation: Your Strategic Guide to Cloud Pricing](https://www.youtube.com/watch?v=36bbMNatZHI)
 - [How do I get into security?](https://www.youtube.com/shorts/ZF_EPPjvGYg)
 - [How do I get into security?](https://www.youtube.com/watch?v=0ZWxB_4RCck)
 - [Java and AI for Beginners - Full Series](https://www.youtube.com/watch?v=yPlJf5DA5So)
 - [Running GenAI in containers: Dynamic Sessions](https://www.youtube.com/watch?v=oCNqsEXKnoA)
-- [Secure by Design: Upcoming CMK and Auditing Features in Fabric SQL Database | Data Exposed](https://www.youtube.com/watch?v=dxUsmfYqBAI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
