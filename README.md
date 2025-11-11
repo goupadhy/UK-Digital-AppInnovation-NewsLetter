@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build AI Agents with Zero Code Using Azure Logic Apps](https://www.youtube.com/watch?v=6YFN25o9jn4)
 - [Build Smarter: Leverage the Power of Azure AI Landing Zones](https://www.youtube.com/watch?v=8FWdFG55nXw)
 - [Azure Cost Estimation: Your Strategic Guide to Cloud Pricing](https://www.youtube.com/watch?v=36bbMNatZHI)
 - [How do I get into security?](https://www.youtube.com/shorts/ZF_EPPjvGYg)
 - [How do I get into security?](https://www.youtube.com/watch?v=0ZWxB_4RCck)
-- [Java and AI for Beginners - Full Series](https://www.youtube.com/watch?v=yPlJf5DA5So)
 <!-- YOUTUBEAPPMOD:END -->
 
 
