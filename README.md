@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build Smarter: Leverage the Power of Azure AI Landing Zones](https://www.youtube.com/watch?v=8FWdFG55nXw)
 - [Azure Cost Estimation: Your Strategic Guide to Cloud Pricing](https://www.youtube.com/watch?v=36bbMNatZHI)
 - [How do I get into security?](https://www.youtube.com/shorts/ZF_EPPjvGYg)
 - [How do I get into security?](https://www.youtube.com/watch?v=0ZWxB_4RCck)
 - [Java and AI for Beginners - Full Series](https://www.youtube.com/watch?v=yPlJf5DA5So)
-- [Running GenAI in containers: Dynamic Sessions](https://www.youtube.com/watch?v=oCNqsEXKnoA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
