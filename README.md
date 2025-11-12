@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Refactor C++ code using C++ code editing tools for GitHub Copilot](https://www.youtube.com/watch?v=PWmLjg0HFT4)
+- [Provisioning SQL Server 2025 Databases to Kubernetes using Pure Storage Snapshots | Data Exposed](https://www.youtube.com/watch?v=FkPyaJo5X08)
 - [GitHub Copilot build performance for Windows](https://www.youtube.com/watch?v=twQTixBZen8)
 - [The future of Python and AI with Guido van Rossum](https://www.youtube.com/watch?v=cMRvgR8EpOE)
 - [Accelerate Cloud Adoption with Expert Guidance](https://www.youtube.com/watch?v=OZYgy2XTuR4)
-- [Build AI Agents with Zero Code Using Azure Logic Apps](https://www.youtube.com/watch?v=6YFN25o9jn4)
-- [Build Smarter: Leverage the Power of Azure AI Landing Zones](https://www.youtube.com/watch?v=8FWdFG55nXw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
