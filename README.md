@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What security bug type keeps you awake?](https://www.youtube.com/watch?v=7nAp63gv2jE)
+- [What security bug type keeps you awake?](https://www.youtube.com/shorts/N9uuwEDWc1M)
 - [What is Copilot Tuning?](https://www.youtube.com/watch?v=TMRYh93nPiU)
 - [Armchair Architects: Designing Effective AI Agents](https://www.youtube.com/watch?v=wTg9tFwjAOc)
 - [Refactor C++ code using C++ code editing tools for GitHub Copilot](https://www.youtube.com/watch?v=PWmLjg0HFT4)
-- [Provisioning SQL Server 2025 Databases to Kubernetes using Pure Storage Snapshots | Data Exposed](https://www.youtube.com/watch?v=FkPyaJo5X08)
-- [GitHub Copilot build performance for Windows](https://www.youtube.com/watch?v=twQTixBZen8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
