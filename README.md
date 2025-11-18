@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Building Omnichannel Voice AI Agents with Azure | Multilingual, Multi-Agent Architecture Explained](https://www.youtube.com/watch?v=H_uAA5_h40E)
 - [What is Copilot Tuning?](https://www.youtube.com/shorts/OOgRdCII0SE)
 - [What security bug type keeps you awake?](https://www.youtube.com/watch?v=7nAp63gv2jE)
 - [What security bug type keeps you awake?](https://www.youtube.com/shorts/N9uuwEDWc1M)
 - [What is Copilot Tuning?](https://www.youtube.com/watch?v=TMRYh93nPiU)
-- [Armchair Architects: Designing Effective AI Agents](https://www.youtube.com/watch?v=wTg9tFwjAOc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
