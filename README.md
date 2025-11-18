@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Request info from humans in agent flows | Power Platform Shorts](https://www.youtube.com/watch?v=FxHWZJUvnbo)
 - [Toolbar Fun | EP11 | Power Up Minute](https://www.youtube.com/watch?v=pW21NHmEl1k)
 - [How to create a Dataverse record with a prompt and Code Interpreter](https://www.youtube.com/watch?v=FiM_ySCv51w)
 - [Real World Stories: Agentic Solutions with Copilot Studio and Power Platform | Power CAT AI Webinars](https://www.youtube.com/watch?v=RJQd-XgMzJc)
 - [Build AI Agents for WhatsApp with Copilot Studio – Power CAT AI Webinars](https://www.youtube.com/watch?v=3-kuGmebLtE)
-- [Expanding Copilot Studio Agent Capabilities with Azure AI Services | PowerCAT AI Webinars](https://www.youtube.com/watch?v=Xu1-29jH-7M)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
