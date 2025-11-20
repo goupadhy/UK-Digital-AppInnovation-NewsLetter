@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Building Omnichannel Voice AI Agents with Azure | Multilingual, Multi-Agent Architecture Explained](https://www.youtube.com/watch?v=H_uAA5_h40E)
-- [What is Copilot Tuning?](https://www.youtube.com/shorts/OOgRdCII0SE)
-- [What security bug type keeps you awake?](https://www.youtube.com/watch?v=7nAp63gv2jE)
-- [What security bug type keeps you awake?](https://www.youtube.com/shorts/N9uuwEDWc1M)
-- [What is Copilot Tuning?](https://www.youtube.com/watch?v=TMRYh93nPiU)
+- [Building Omnichannel Voice AI Agents with Azure](https://www.youtube.com/shorts/DYSBNLmtIfc)
+- [Chat with Microsoft Foundry models &lpar;Python&rpar;](https://www.youtube.com/watch?v=ix0kJMVI0tk)
+- [Create an Agent with Microsoft Foundry models &lpar;Python&rpar;](https://www.youtube.com/watch?v=fUuTvoDPyzo)
+- [Deploy and compare models in Microsoft Foundry](https://www.youtube.com/watch?v=zPvEYmj8Mi4)
+- [Explore the new Microsoft Foundry portal](https://www.youtube.com/watch?v=BpOAxKzvrPA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
