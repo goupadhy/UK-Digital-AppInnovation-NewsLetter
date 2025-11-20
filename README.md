@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Agent Hack at PPCC25](https://www.youtube.com/watch?v=WkcgA1Met6w)
 - [Adecco Group’s Japan subsidiary boosts productivity with Microsoft Copilot and Power Platform](https://www.youtube.com/watch?v=Tiq2AkG_Tss)
 - [Microsoft Power Up Program Champs!](https://www.youtube.com/watch?v=8mDerEZQJjM)
 - [Request info from humans in agent flows | Power Platform Shorts](https://www.youtube.com/watch?v=FxHWZJUvnbo)
 - [Toolbar Fun | EP11 | Power Up Minute](https://www.youtube.com/watch?v=pW21NHmEl1k)
-- [How to create a Dataverse record with a prompt and Code Interpreter](https://www.youtube.com/watch?v=FiM_ySCv51w)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
