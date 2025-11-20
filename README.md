@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s new with Windows settings for developers?](https://www.youtube.com/shorts/QRY2ydmHBYE)
+- [What&#39;s new with Windows settings for developers?](https://www.youtube.com/watch?v=GLVZQ7Tw8i8)
 - [Building Omnichannel Voice AI Agents with Azure](https://www.youtube.com/shorts/DYSBNLmtIfc)
 - [Chat with Microsoft Foundry models &lpar;Python&rpar;](https://www.youtube.com/watch?v=ix0kJMVI0tk)
 - [Create an Agent with Microsoft Foundry models &lpar;Python&rpar;](https://www.youtube.com/watch?v=fUuTvoDPyzo)
-- [Deploy and compare models in Microsoft Foundry](https://www.youtube.com/watch?v=zPvEYmj8Mi4)
-- [Explore the new Microsoft Foundry portal](https://www.youtube.com/watch?v=BpOAxKzvrPA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
