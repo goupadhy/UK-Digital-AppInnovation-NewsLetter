@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [MS Ignite: SQL Server 2025 GA, SQL DB in Fabric GA &amp; More! | Data Exposed](https://www.youtube.com/watch?v=-6RoQm6Wwyo)
 - [What&#39;s new with Windows settings for developers?](https://www.youtube.com/shorts/QRY2ydmHBYE)
 - [What&#39;s new with Windows settings for developers?](https://www.youtube.com/watch?v=GLVZQ7Tw8i8)
 - [Building Omnichannel Voice AI Agents with Azure](https://www.youtube.com/shorts/DYSBNLmtIfc)
 - [Chat with Microsoft Foundry models &lpar;Python&rpar;](https://www.youtube.com/watch?v=ix0kJMVI0tk)
-- [Create an Agent with Microsoft Foundry models &lpar;Python&rpar;](https://www.youtube.com/watch?v=fUuTvoDPyzo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
