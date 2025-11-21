@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Why Microsoft Copilot Studio is the foundation for agentic business transformation](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/why-microsoft-copilot-studio-is-the-foundation-for-agentic-business-transformation/)
-- [Inside the new Power Apps: The future of app development](https://www.microsoft.com/en-us/power-platform/blog/2025/11/18/inside-the-new-power-apps-the-future-of-app-development/)
-- [Generative pages in Power Apps is now generally available](https://www.microsoft.com/en-us/power-platform/blog/2025/11/05/generative-pages-in-power-apps-is-now-generally-available/)
-- [Celebrating makers and innovation at Power Platform Community Conference 2025](https://www.microsoft.com/en-us/power-platform/blog/2025/10/30/celebrating-makers-and-innovation-at-power-platform-community-conference-2025/)
-- [Build smarter, test smarter: Agent Evaluation in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-smarter-test-smarter-agent-evaluation-in-microsoft-copilot-studio/)
+- [Strengthen Your Power Pages Security with CodeQL code scan](https://www.microsoft.com/en-us/power-platform/blog/power-pages/strengthen-your-power-pages-security-with-codeql-code-scan/)
+- [Seamlessly Open VS Code Desktop from Power Pages VS Code for the Web with auto-download site code](https://www.microsoft.com/en-us/power-platform/blog/power-pages/seamlessly-open-vs-code-desktop-from-power-pages-vs-code-for-the-web-with-auto-download-site-code/)
+- [Announcing Major Updates to Dataverse + Fabric Integration ](https://www.microsoft.com/en-us/power-platform/blog/2025/10/10/dataverse-fabric-integration/)
+- [Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/09/explore-new-ai-innovation-for-dynamics-365-power-platform-and-copilot-studio-at-business-applications-launch-event/)
+- [Protecting Your Organization with the Phishing Detection Security Agent for Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/protecting-your-organization-with-the-phishing-detection-security-agent-for-power-pages/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
