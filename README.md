@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Foundry Workflows - Pt. 4:  Migrate to VS Code Local](https://www.youtube.com/watch?v=aR7hAbrIlps)
+- [Microsoft Foundry Workflows - Pt. 3: Migrate to VS Code Web](https://www.youtube.com/watch?v=MYpW7aDbJQM)
+- [Microsoft Foundry Workflows - Pt. 2: Add Agents with Tools to a Workflow](https://www.youtube.com/watch?v=u4ksAXEx0R4)
+- [Microsoft Foundry Workflows - Pt. 1: Create a Sequential Workflow](https://www.youtube.com/watch?v=AqM5WLq2VtY)
 - [MS Ignite: SQL Server 2025 GA, SQL DB in Fabric GA &amp; More! | Data Exposed](https://www.youtube.com/watch?v=-6RoQm6Wwyo)
-- [What&#39;s new with Windows settings for developers?](https://www.youtube.com/shorts/QRY2ydmHBYE)
-- [What&#39;s new with Windows settings for developers?](https://www.youtube.com/watch?v=GLVZQ7Tw8i8)
-- [Building Omnichannel Voice AI Agents with Azure](https://www.youtube.com/shorts/DYSBNLmtIfc)
-- [Chat with Microsoft Foundry models &lpar;Python&rpar;](https://www.youtube.com/watch?v=ix0kJMVI0tk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
