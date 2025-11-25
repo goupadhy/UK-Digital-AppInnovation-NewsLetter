@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Keeping it Real with Power Platform coming soon!](https://www.youtube.com/watch?v=Re1YgQU54iI)
 - [Understanding Microsoft Agents | EP05](https://www.youtube.com/watch?v=ablgxVCJtlQ)
 - [Who’s Using Copilot? Virgin Money Leads the Way in AI Innovation](https://www.youtube.com/watch?v=M-pBZItg7Ys)
 - [Saving Prompts | EP12 | Power Up Minute](https://www.youtube.com/watch?v=WPv1NEAvraY)
 - [Agent Hack at PPCC25](https://www.youtube.com/watch?v=WkcgA1Met6w)
-- [Adecco Group’s Japan subsidiary boosts productivity with Microsoft Copilot and Power Platform](https://www.youtube.com/watch?v=Tiq2AkG_Tss)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
