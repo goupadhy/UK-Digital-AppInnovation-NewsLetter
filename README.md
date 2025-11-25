@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI-Assisted Development with mirrord](https://www.youtube.com/watch?v=p43HWjZFycs)
+- [How to use GraphQL with Fabric SQL Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=uRL3_PMFM7Q)
 - [Microsoft Foundry Workflows - Pt. 4:  Migrate to VS Code Local](https://www.youtube.com/watch?v=aR7hAbrIlps)
 - [Microsoft Foundry Workflows - Pt. 3: Migrate to VS Code Web](https://www.youtube.com/watch?v=MYpW7aDbJQM)
 - [Microsoft Foundry Workflows - Pt. 2: Add Agents with Tools to a Workflow](https://www.youtube.com/watch?v=u4ksAXEx0R4)
-- [Microsoft Foundry Workflows - Pt. 1: Create a Sequential Workflow](https://www.youtube.com/watch?v=AqM5WLq2VtY)
-- [MS Ignite: SQL Server 2025 GA, SQL DB in Fabric GA &amp; More! | Data Exposed](https://www.youtube.com/watch?v=-6RoQm6Wwyo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
