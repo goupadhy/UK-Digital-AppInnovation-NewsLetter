@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Reimagine migration: Agentic platform landing zone with Azure Migrate](https://www.youtube.com/watch?v=aor0BCCEkks)
-- [AI-Assisted Development with mirrord](https://www.youtube.com/watch?v=p43HWjZFycs)
-- [How to use GraphQL with Fabric SQL Database | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=uRL3_PMFM7Q)
-- [Microsoft Foundry Workflows - Pt. 4:  Migrate to VS Code Local](https://www.youtube.com/watch?v=aR7hAbrIlps)
-- [Microsoft Foundry Workflows - Pt. 3: Migrate to VS Code Web](https://www.youtube.com/watch?v=MYpW7aDbJQM)
+- [AI Toolkit + GitHub Copilot - Pt. 5:  Add Tracing to an Agent](https://www.youtube.com/watch?v=Rcjcf6HkrD8)
+- [AI Toolkit + GitHub Copilot - Pt. 4:  Generate Agent Code](https://www.youtube.com/watch?v=bKFp2w2O6fM)
+- [AI Toolkit + GitHub Copilot - Pt. 2:  Model Recommendations](https://www.youtube.com/watch?v=hVDGQG1mw88)
+- [AI Toolkit + GitHub Copilot - Pt. 6:  Evaluate Agent Output](https://www.youtube.com/watch?v=i_245SwkBAI)
+- [AI Toolkit + GitHub Copilot - Pt. 1:  Environment Setup](https://www.youtube.com/watch?v=4KcpgQlFa58)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
