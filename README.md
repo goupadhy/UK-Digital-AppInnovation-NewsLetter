@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create in the new Vibe.PowerApps experience](https://www.youtube.com/watch?v=GN4mY_U0D68)
 - [Unleashing the power of business data with Dataverse SDK for Python](https://www.youtube.com/watch?v=3wb2i1iDtso)
 - [Building Agents in Copilot Studio 101](https://www.youtube.com/watch?v=zpct8UbP9Ag)
 - [Prompt Gallery | EP13 | Power Up Minute](https://www.youtube.com/watch?v=3g57RDaXUuU)
 - [Keeping it Real with Power Platform coming soon!](https://www.youtube.com/watch?v=Re1YgQU54iI)
-- [Understanding Microsoft Agents | EP05](https://www.youtube.com/watch?v=ablgxVCJtlQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
