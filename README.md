@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s new in SSMS 22 GA | Data Exposed](https://www.youtube.com/watch?v=MCKjBrvX68M)
 - [What is GitHub models?](https://www.youtube.com/watch?v=5eCkVjQM9XA)
 - [What is GitHub Models?](https://www.youtube.com/shorts/u7sEMJTIQCw)
 - [AI Dev Days: Using AI to Enhance Developer Productivity](https://www.youtube.com/watch?v=GCLYC5d7kpI)
 - [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
-- [How do I get started with agents?](https://www.youtube.com/shorts/JRBfMt-Jl1M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
