@@ -65,8 +65,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [Microsoft GenAI for Energy Permitting Solution Accelerator](https://www.youtube.com/watch?v=wCI6Oqiv4KQ)
 - [Introduction to Azure CycleCloud &amp; CycleCloud Workspace for Slurm](https://www.youtube.com/watch?v=FTHUFYMIoj8)
 - [Microsoft Marketplace: Your trusted source for cloud solutions, AI apps, and agents](https://www.youtube.com/watch?v=ACM_lNWx8kQ)
-- [Microsoft Marketplace end-to-end experience demo](https://www.youtube.com/watch?v=SilJPeLXmL8)
 - [Future-Proofing Academic Research: Workflows, Secure Enclaves, and AI Computing with Terawe ManageX](https://www.youtube.com/watch?v=vdZeka_5-Ss)
+- [Tutch partners with Microsoft to solve real-world challenges for retailers](https://www.youtube.com/watch?v=0BqIUtFL3KY)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
