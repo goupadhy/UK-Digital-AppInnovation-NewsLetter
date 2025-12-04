@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Dev Days: Using AI to Enhance Developer Productivity](https://www.youtube.com/watch?v=GCLYC5d7kpI)
+- [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 - [How do I get started with agents?](https://www.youtube.com/shorts/JRBfMt-Jl1M)
 - [How do I get started with agents?](https://www.youtube.com/watch?v=ZYBomtp4ac0)
 - [How AI Voice Agents Transform Medical Documentation in Real Time](https://www.youtube.com/watch?v=gAmgPEj7JoU)
-- [Armchair Architects: Governance Strategies for AI Agents](https://www.youtube.com/watch?v=te_om7KPb8k)
-- [AI Toolkit + GitHub Copilot - Pt. 5:  Add Tracing to an Agent](https://www.youtube.com/watch?v=Rcjcf6HkrD8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
