@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What is GitHub models?](https://www.youtube.com/watch?v=5eCkVjQM9XA)
+- [What is GitHub Models?](https://www.youtube.com/shorts/u7sEMJTIQCw)
 - [AI Dev Days: Using AI to Enhance Developer Productivity](https://www.youtube.com/watch?v=GCLYC5d7kpI)
 - [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 - [How do I get started with agents?](https://www.youtube.com/shorts/JRBfMt-Jl1M)
-- [How do I get started with agents?](https://www.youtube.com/watch?v=ZYBomtp4ac0)
-- [How AI Voice Agents Transform Medical Documentation in Real Time](https://www.youtube.com/watch?v=gAmgPEj7JoU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
