@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Flexible Dataverse capacity for apps and agents](https://www.microsoft.com/en-us/power-platform/blog/2025/12/04/dataverse-capacity/)
+- [Unlock More Value from Your Existing Solutions with Plans](https://www.microsoft.com/en-us/power-platform/blog/power-apps/unlock-more-value-from-your-existing-solutions-with-plans/)
+- [Introducing the Dataverse SDK for Python ](https://www.microsoft.com/en-us/power-platform/blog/2025/12/03/dataverse-sdk-python/)
 - [Why Microsoft Copilot Studio is the foundation for agentic business transformation](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/why-microsoft-copilot-studio-is-the-foundation-for-agentic-business-transformation/)
 - [Inside the new Power Apps: The future of app development](https://www.microsoft.com/en-us/power-platform/blog/2025/11/18/inside-the-new-power-apps-the-future-of-app-development/)
-- [Generative pages in Power Apps is now generally available](https://www.microsoft.com/en-us/power-platform/blog/2025/11/05/generative-pages-in-power-apps-is-now-generally-available/)
-- [Celebrating makers and innovation at Power Platform Community Conference 2025](https://www.microsoft.com/en-us/power-platform/blog/2025/10/30/celebrating-makers-and-innovation-at-power-platform-community-conference-2025/)
-- [Build smarter, test smarter: Agent Evaluation in Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-smarter-test-smarter-agent-evaluation-in-microsoft-copilot-studio/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
