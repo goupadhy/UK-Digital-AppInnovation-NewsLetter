@@ -48,7 +48,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Analyst for Data | EP14 | Power Up Minute](https://www.youtube.com/watch?v=GpBJUW7ZP8o)
 - [How JP Espeña builds accessible HR and safety Power Apps | Keeping it Real | EP01](https://www.youtube.com/watch?v=P6RNw4wk5TM)
 - [BWT Alpine Formula One team hits the accelerator with Microsoft Power Platform](https://www.youtube.com/watch?v=Uzcoiu6QpVY)
-- [Episode One of &quot;Keeping it Real with Power Platform&quot; drops this week!](https://www.youtube.com/watch?v=5_6HcT9QRtw)
+- [Episode One of &quot;Keeping it Real with Power Platform&quot; has dropped!](https://www.youtube.com/watch?v=5_6HcT9QRtw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
