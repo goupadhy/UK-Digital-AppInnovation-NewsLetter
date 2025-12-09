@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Evaluate your agent&#39;s performance | Power Platform Shorts](https://www.youtube.com/watch?v=pr02Pzlt3VY)
 - [Catch up with Keeping It Real with Power Platform!](https://www.youtube.com/shorts/uc9KBlzRdME)
 - [What first sparked you to join the Power Platform community?](https://www.youtube.com/shorts/KUhqPjhH0kU)
 - [Analyst for Data | EP14 | Power Up Minute](https://www.youtube.com/watch?v=GpBJUW7ZP8o)
 - [How JP Espeña builds accessible HR and safety Power Apps | Keeping it Real | EP01](https://www.youtube.com/watch?v=P6RNw4wk5TM)
-- [BWT Alpine Formula One team hits the accelerator with Microsoft Power Platform](https://www.youtube.com/watch?v=Uzcoiu6QpVY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
