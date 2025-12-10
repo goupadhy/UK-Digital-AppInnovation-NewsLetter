@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [What&#39;s new in SSMS 22 GA | Data Exposed](https://www.youtube.com/watch?v=MCKjBrvX68M)
-- [What is GitHub models?](https://www.youtube.com/watch?v=5eCkVjQM9XA)
-- [What is GitHub Models?](https://www.youtube.com/shorts/u7sEMJTIQCw)
-- [AI Dev Days: Using AI to Enhance Developer Productivity](https://www.youtube.com/watch?v=GCLYC5d7kpI)
-- [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
+- [Aspire for AI Applications](https://www.youtube.com/watch?v=7nQCRRYp44k)
+- [Ignite BRK1706: Build and Manage AI Apps w/ Your Agent Factory](https://www.youtube.com/watch?v=LnzvpisAkcs)
+- [GHU: Building AI Agents with VS Code and GitHub](https://www.youtube.com/watch?v=OE8waNlgeAk)
+- [Unlock agentic workflows for your apps using MCP on Windows](https://www.youtube.com/watch?v=PWELkVJbb7Y)
+- [Ignite BRK194: Driving agentic innovation w/ MCP as the backbone of tool-aware AI](https://www.youtube.com/watch?v=Wt1-u8wD_Xs)
 <!-- YOUTUBEAPPMOD:END -->
 
 
