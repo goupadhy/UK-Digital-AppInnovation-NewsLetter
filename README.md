@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 - [Aspire for AI Applications](https://www.youtube.com/watch?v=7nQCRRYp44k)
 - [Ignite BRK1706: Build and Manage AI Apps w/ Your Agent Factory](https://www.youtube.com/watch?v=LnzvpisAkcs)
 - [GHU: Building AI Agents with VS Code and GitHub](https://www.youtube.com/watch?v=OE8waNlgeAk)
 - [Unlock agentic workflows for your apps using MCP on Windows](https://www.youtube.com/watch?v=PWELkVJbb7Y)
-- [Ignite BRK194: Driving agentic innovation w/ MCP as the backbone of tool-aware AI](https://www.youtube.com/watch?v=Wt1-u8wD_Xs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
