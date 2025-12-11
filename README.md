@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build a Pizza Ordering Agent with Microsoft Foundry and MCP](https://www.youtube.com/watch?v=jcDhtVZONb4)
+- [Supercharge your apps w/ OpenAI: Secure auth, Azure integration and MCP agents](https://www.youtube.com/watch?v=sCv_noSKIBw)
 - [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 - [Aspire for AI Applications](https://www.youtube.com/watch?v=7nQCRRYp44k)
 - [Ignite BRK1706: Build and Manage AI Apps w/ Your Agent Factory](https://www.youtube.com/watch?v=LnzvpisAkcs)
-- [GHU: Building AI Agents with VS Code and GitHub](https://www.youtube.com/watch?v=OE8waNlgeAk)
-- [Unlock agentic workflows for your apps using MCP on Windows](https://www.youtube.com/watch?v=PWELkVJbb7Y)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
