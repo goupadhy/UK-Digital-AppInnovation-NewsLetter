@@ -29,7 +29,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [Supercharge your apps w/ OpenAI: Secure auth, Azure integration and MCP agents](https://www.youtube.com/watch?v=sCv_noSKIBw)
 - [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 - [Aspire for AI Applications](https://www.youtube.com/watch?v=7nQCRRYp44k)
-- [Ignite BRK1706: Build and Manage AI Apps w/ Your Agent Factory](https://www.youtube.com/watch?v=LnzvpisAkcs)
+- [Build and Manage AI Apps w/ Your Agent Factory](https://www.youtube.com/watch?v=LnzvpisAkcs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
