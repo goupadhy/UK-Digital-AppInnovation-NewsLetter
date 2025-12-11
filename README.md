@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Tackling tech debt with the GitHub Copilot Cloud Agent](https://www.youtube.com/watch?v=gaejtW5dKsY)
+- [Scripting the GitHub Copilot CLI - Deep Dive](https://www.youtube.com/watch?v=Ed3uQYdr3Wc)
+- [AI Dev Days: Using AI to Enhance Developer Productivity with #vscode &amp; #githubcopilot](https://www.youtube.com/watch?v=GCLYC5d7kpI)
 - [Plan, Specify, and Implement with Spec Kit](https://www.youtube.com/watch?v=VfBLlAN5zdQ)
 - [SQL database in Fabric - What&#39;s new and generally available | Data Exposed](https://www.youtube.com/watch?v=Lt63g-NeqBM)
-- [Build a Pizza Ordering Agent with Microsoft Foundry and MCP](https://www.youtube.com/watch?v=jcDhtVZONb4)
-- [Supercharge your apps w/ OpenAI: Secure auth, Azure integration and MCP agents](https://www.youtube.com/watch?v=sCv_noSKIBw)
-- [AI Dev Days: Building AI Applications](https://www.youtube.com/watch?v=kZqGsoeP0kU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
