@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [KeepingItReal LukasPavelka vFinal Short FigmaEditor](https://www.youtube.com/shorts/cuZUTVyTfzo)
+- [Accelerating app creation with the Figma Design Kit](https://www.youtube.com/shorts/cuZUTVyTfzo)
 - [Lukas Pavelka explains his Figma Design Kit for Power Apps | Keeping It Real | EP02](https://www.youtube.com/watch?v=pj95TBpfh9A)
 - [What are the benefits of being an active member on the Microsoft community forums?](https://www.youtube.com/shorts/cY9IvVvKFSM)
 - [Check out a HR app demo in Keeping it Real with Power Platform!](https://www.youtube.com/shorts/espOZPYwjGo)
