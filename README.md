@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How I shipped more code and products than ever before with GitHub Copilot](https://www.youtube.com/watch?v=g658oC4nuMQ)
 - [Tackling tech debt with the GitHub Copilot Cloud Agent](https://www.youtube.com/watch?v=gaejtW5dKsY)
 - [Scripting the GitHub Copilot CLI - Deep Dive](https://www.youtube.com/watch?v=Ed3uQYdr3Wc)
 - [AI Dev Days: Using AI to Enhance Developer Productivity with #vscode &amp; #githubcopilot](https://www.youtube.com/watch?v=GCLYC5d7kpI)
 - [Plan, Specify, and Implement with Spec Kit](https://www.youtube.com/watch?v=VfBLlAN5zdQ)
-- [SQL database in Fabric - What&#39;s new and generally available | Data Exposed](https://www.youtube.com/watch?v=Lt63g-NeqBM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
