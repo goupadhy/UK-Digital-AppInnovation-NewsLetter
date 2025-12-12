@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Why is storytelling important when doing security modeling?](https://www.youtube.com/shorts/0vjkCXWebe4)
+- [Why is storytelling important when doing security modeling?](https://www.youtube.com/watch?v=6gnX5lqHJ-k)
 - [How I shipped more code and products than ever before with GitHub Copilot](https://www.youtube.com/watch?v=g658oC4nuMQ)
 - [Tackling tech debt with the GitHub Copilot Cloud Agent](https://www.youtube.com/watch?v=gaejtW5dKsY)
 - [Scripting the GitHub Copilot CLI - Deep Dive](https://www.youtube.com/watch?v=Ed3uQYdr3Wc)
-- [AI Dev Days: Using AI to Enhance Developer Productivity with #vscode &amp; #githubcopilot](https://www.youtube.com/watch?v=GCLYC5d7kpI)
-- [Plan, Specify, and Implement with Spec Kit](https://www.youtube.com/watch?v=VfBLlAN5zdQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
