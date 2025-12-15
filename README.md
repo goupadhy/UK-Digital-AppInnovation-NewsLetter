@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How do I get started in Azure AI Foundry?](https://www.youtube.com/shorts/ff80HElVHAI)
+- [How do I get started in Azure AI Foundry?](https://www.youtube.com/watch?v=yZgC1KhfSxo)
 - [Two ways to perform CI/CD for SQL database in Fabric using Azure DevOps  Data Exposed: MVP Edition](https://www.youtube.com/watch?v=LJzNNR8nFlI)
 - [Why is storytelling important when doing security modeling?](https://www.youtube.com/shorts/0vjkCXWebe4)
 - [Why is storytelling important when doing security modeling?](https://www.youtube.com/watch?v=6gnX5lqHJ-k)
-- [How I shipped more code and products than ever before with GitHub Copilot](https://www.youtube.com/watch?v=g658oC4nuMQ)
-- [Tackling tech debt with the GitHub Copilot Cloud Agent](https://www.youtube.com/watch?v=gaejtW5dKsY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
