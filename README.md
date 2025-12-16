@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [100 Years of Microsoft Stories](https://www.youtube.com/watch?v=1fjCS-p0MNQ)
 - [In this era of AI, is low-code dead?](https://www.youtube.com/shorts/5e7RU26doiA)
 - [In this era of AI, is low-code dead?](https://www.youtube.com/watch?v=tbB9BnoUNLM)
 - [Build a Social Media Commander app with Agent Instructions using GitHub Copilot | MVP Unplugged](https://www.youtube.com/watch?v=2EJR1xhTtBs)
 - [Armchair Architects: Best Practices For Architecting AI Agents](https://www.youtube.com/watch?v=pwtY8O_YvSI)
-- [How do I get started in Azure AI Foundry?](https://www.youtube.com/shorts/ff80HElVHAI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
