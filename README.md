@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [In this era of AI, is low-code dead?](https://www.youtube.com/shorts/5e7RU26doiA)
+- [In this era of AI, is low-code dead?](https://www.youtube.com/watch?v=tbB9BnoUNLM)
 - [Build a Social Media Commander app with Agent Instructions using GitHub Copilot | MVP Unplugged](https://www.youtube.com/watch?v=2EJR1xhTtBs)
 - [Armchair Architects: Best Practices For Architecting AI Agents](https://www.youtube.com/watch?v=pwtY8O_YvSI)
 - [How do I get started in Azure AI Foundry?](https://www.youtube.com/shorts/ff80HElVHAI)
-- [How do I get started in Azure AI Foundry?](https://www.youtube.com/watch?v=yZgC1KhfSxo)
-- [Two ways to perform CI/CD for SQL database in Fabric using Azure DevOps  Data Exposed: MVP Edition](https://www.youtube.com/watch?v=LJzNNR8nFlI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
