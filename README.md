@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Episode 3 of &quot;Keeping It Real with Power Platform&quot; coming soon!](https://www.youtube.com/watch?v=GqnmCUMm4j8)
 - [Enable Microsoft 365 Copilot chat in a model-driven app | Power Platform Shorts](https://www.youtube.com/watch?v=L5Q1uTJ0e70)
 - [Accelerating app creation with the Figma Design Kit!](https://www.youtube.com/shorts/4DoY77kx8Ks)
 - [Accelerating app creation with the Figma Design Kit](https://www.youtube.com/shorts/cuZUTVyTfzo)
 - [Lukas Pavelka explains his Figma Design Kit for Power Apps | Keeping It Real | EP02](https://www.youtube.com/watch?v=pj95TBpfh9A)
-- [What are the benefits of being an active member on the Microsoft community forums?](https://www.youtube.com/shorts/cY9IvVvKFSM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
