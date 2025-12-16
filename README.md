@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Best Practices For Architecting AI Agents](https://www.youtube.com/watch?v=pwtY8O_YvSI)
 - [How do I get started in Azure AI Foundry?](https://www.youtube.com/shorts/ff80HElVHAI)
 - [How do I get started in Azure AI Foundry?](https://www.youtube.com/watch?v=yZgC1KhfSxo)
 - [Two ways to perform CI/CD for SQL database in Fabric using Azure DevOps  Data Exposed: MVP Edition](https://www.youtube.com/watch?v=LJzNNR8nFlI)
 - [Why is storytelling important when doing security modeling?](https://www.youtube.com/shorts/0vjkCXWebe4)
-- [Why is storytelling important when doing security modeling?](https://www.youtube.com/watch?v=6gnX5lqHJ-k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
