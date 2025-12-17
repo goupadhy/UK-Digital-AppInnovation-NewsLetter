@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How can I get started with File Explorer and version control?](https://www.youtube.com/shorts/_P0QR3oCSZM)
+- [How can I get started with File Explorer and version control?](https://www.youtube.com/watch?v=A0-1kpoJ4wI)
 - [Next-Level SQL in VS Code: GitHub Copilot GA &amp; AI-Ready SQL | Data Exposed](https://www.youtube.com/watch?v=Sd-3KpSNJzo)
 - [100 Years of Microsoft Stories: 1 Million FPS ?](https://www.youtube.com/shorts/U1K6UWuztWU)
 - [100 Years of Microsoft Stories](https://www.youtube.com/watch?v=1fjCS-p0MNQ)
-- [In this era of AI, is low-code dead?](https://www.youtube.com/shorts/5e7RU26doiA)
-- [In this era of AI, is low-code dead?](https://www.youtube.com/watch?v=tbB9BnoUNLM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
