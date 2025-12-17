@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Next-Level SQL in VS Code: GitHub Copilot GA &amp; AI-Ready SQL | Data Exposed](https://www.youtube.com/watch?v=Sd-3KpSNJzo)
 - [100 Years of Microsoft Stories: 1 Million FPS ?](https://www.youtube.com/shorts/U1K6UWuztWU)
 - [100 Years of Microsoft Stories](https://www.youtube.com/watch?v=1fjCS-p0MNQ)
 - [In this era of AI, is low-code dead?](https://www.youtube.com/shorts/5e7RU26doiA)
 - [In this era of AI, is low-code dead?](https://www.youtube.com/watch?v=tbB9BnoUNLM)
-- [Build a Social Media Commander app with Agent Instructions using GitHub Copilot | MVP Unplugged](https://www.youtube.com/watch?v=2EJR1xhTtBs)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
