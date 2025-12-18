@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft&#39;s Python Team 2025 Year in Review: Trends, Learning &amp; What&#39;s Next](https://www.youtube.com/watch?v=FiAH8Lh1pxM)
 - [How can I get started with File Explorer and version control?](https://www.youtube.com/shorts/_P0QR3oCSZM)
 - [How can I get started with File Explorer and version control?](https://www.youtube.com/watch?v=A0-1kpoJ4wI)
 - [Next-Level SQL in VS Code: GitHub Copilot GA &amp; AI-Ready SQL | Data Exposed](https://www.youtube.com/watch?v=Sd-3KpSNJzo)
 - [100 Years of Microsoft Stories: 1 Million FPS ?](https://www.youtube.com/shorts/U1K6UWuztWU)
-- [100 Years of Microsoft Stories](https://www.youtube.com/watch?v=1fjCS-p0MNQ)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
