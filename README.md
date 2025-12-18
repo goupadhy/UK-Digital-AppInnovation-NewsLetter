@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Microsoft&#39;s Exciting Agentic Solutions for Retailers and Brands](https://www.youtube.com/watch?v=6wpTmWgSkCA)
 - [Cooper University Health Care enhances patient care with Microsoft Dragon Copilot](https://www.youtube.com/watch?v=7mFPeG3ogl8)
 - [Accelerate innovation with AI: Introducing the Product Change Management agent template](https://www.youtube.com/watch?v=tyV3Yn5hsKw)
 - [Microsoft Marketplace end-to-end experience demo](https://www.youtube.com/watch?v=J1pQGcut2b0)
 - [Microsoft GenAI for Energy Permitting Solution Accelerator](https://www.youtube.com/watch?v=wCI6Oqiv4KQ)
-- [Introduction to Azure CycleCloud &amp; CycleCloud Workspace for Slurm](https://www.youtube.com/watch?v=FTHUFYMIoj8)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
