@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Create a custom mobile offline profile from within Power Apps studio | Power Platform Shorts](https://www.youtube.com/watch?v=lHZvj_oos48)
 - [Everything you need to know about Microsoft Agent 365](https://www.youtube.com/watch?v=Mzb2bExbNMg)
 - [Copilot Studio governance: Ignite 2025 recap and live Q&amp;A](https://www.youtube.com/watch?v=qRcrGszyuig)
 - [Ignite 2025 recap - top innovations and takeaways](https://www.youtube.com/watch?v=ttb91BQYqvY)
 - [Build a Copilot agent using agent templates](https://www.youtube.com/watch?v=L9MjR9yQh6g)
-- [Tackling frontend mentor challenges in Power Platform with Keeping It Real!](https://www.youtube.com/shorts/fHdXZp9E8KY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
