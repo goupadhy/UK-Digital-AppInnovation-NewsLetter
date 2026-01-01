@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Windows 95 Special Edition - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/Sp3OVsyHQvo)
 - [Larry Osterman&#39;s Badge Story - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/aVENiPIjRg0)
 - [Time Delay Snipping Tool - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/c8YMOwhpfiA)
 - [Microsoft&#39;s Python Team 2025 Year in Review: Trends, Learning &amp; What&#39;s Next](https://www.youtube.com/watch?v=FiAH8Lh1pxM)
 - [How can I get started with File Explorer and version control?](https://www.youtube.com/shorts/_P0QR3oCSZM)
-- [How can I get started with File Explorer and version control?](https://www.youtube.com/watch?v=A0-1kpoJ4wI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
