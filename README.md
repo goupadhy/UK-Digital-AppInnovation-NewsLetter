@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Armchair Architects: Multi-agent Orchestration and Patterns](https://www.youtube.com/watch?v=Dwyx8GomVvQ)
 - [The Story of Delilah the Spaniel - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/qNbXVxS6eOI)
 - [Digital Evolution of the Bedlam Game - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/SO2mm2qoy9U)
 - [Windows 95 Special Edition - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/Sp3OVsyHQvo)
 - [Larry Osterman&#39;s Badge Story - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/aVENiPIjRg0)
-- [Time Delay Snipping Tool - 100 Years of Microsoft Stories](https://www.youtube.com/shorts/c8YMOwhpfiA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
