@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What can you expect when first joining the Microsoft Community forums?](https://www.youtube.com/shorts/2pR-430fNdA)
 - [Integrating custom APIs and controls in Power Apps with Keeping It Real!](https://www.youtube.com/shorts/vJlIFwZ13Mo)
 - [From questions to answers in the Power Platform community with William Liu!](https://www.youtube.com/shorts/K3fZj9eGxcA)
 - [Create a custom mobile offline profile from within Power Apps studio | Power Platform Shorts](https://www.youtube.com/watch?v=lHZvj_oos48)
 - [Everything you need to know about Microsoft Agent 365](https://www.youtube.com/watch?v=Mzb2bExbNMg)
-- [Copilot Studio governance: Ignite 2025 recap and live Q&amp;A](https://www.youtube.com/watch?v=qRcrGszyuig)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
