@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Keeping It Real with Power Platform featuring Lukas Pavelka!](https://www.youtube.com/shorts/PRhz1r2nZE8)
 - [Understanding Microsoft Agents session 6 coming soon!](https://www.youtube.com/watch?v=lgdfvUq2JEc)
 - [What can you expect when first joining the Microsoft Community forums?](https://www.youtube.com/shorts/2pR-430fNdA)
 - [Integrating custom APIs and controls in Power Apps with Keeping It Real!](https://www.youtube.com/shorts/vJlIFwZ13Mo)
 - [From questions to answers in the Power Platform community with William Liu!](https://www.youtube.com/shorts/K3fZj9eGxcA)
-- [Create a custom mobile offline profile from within Power Apps studio | Power Platform Shorts](https://www.youtube.com/watch?v=lHZvj_oos48)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
