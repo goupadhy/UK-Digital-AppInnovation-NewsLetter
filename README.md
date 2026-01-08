@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Catalog Enrichment at Scale](https://www.youtube.com/watch?v=eszTnwGVulg)
 - [Personalized Shopping Agent: Changing the way you shop](https://www.youtube.com/watch?v=_s974O_vxoQ)
 - [Store Operations That Scale: Turn Signals into Decisions](https://www.youtube.com/watch?v=0ccUfvqzalA)
 - [Microsoft&#39;s Exciting Agentic Solutions for Retailers and Brands](https://www.youtube.com/watch?v=6wpTmWgSkCA)
 - [Cooper University Health Care enhances patient care with Microsoft Dragon Copilot](https://www.youtube.com/watch?v=7mFPeG3ogl8)
-- [Accelerate innovation with AI: Introducing the Product Change Management agent template](https://www.youtube.com/watch?v=tyV3Yn5hsKw)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
