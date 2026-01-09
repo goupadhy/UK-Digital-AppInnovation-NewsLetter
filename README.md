@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The New Industrialists | Wandelbots and the importance of robotics in modern manufacturing](https://www.youtube.com/watch?v=pgqVcspA6MA)
 - [The New Industrialists | Blue Yonder using AI-driven agents to transform supply chain management](https://www.youtube.com/watch?v=RZ9DvZC9g6E)
 - [Catalog Enrichment at Scale](https://www.youtube.com/watch?v=eszTnwGVulg)
 - [Personalized Shopping Agent: Changing the way you shop](https://www.youtube.com/watch?v=_s974O_vxoQ)
 - [Store Operations That Scale: Turn Signals into Decisions](https://www.youtube.com/watch?v=0ccUfvqzalA)
-- [Microsoft&#39;s Exciting Agentic Solutions for Retailers and Brands](https://www.youtube.com/watch?v=6wpTmWgSkCA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
