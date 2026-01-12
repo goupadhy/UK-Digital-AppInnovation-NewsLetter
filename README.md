@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents this week with Jack Rowbotham!](https://www.youtube.com/shorts/a7-3hSrfFtM)
 - [Join Jack Rowbotham for Understanding Microsoft Agents session six!](https://www.youtube.com/watch?v=08RijgpGJJM)
 - [Keeping It Real with Power Platform featuring Lukas Pavelka!](https://www.youtube.com/shorts/PRhz1r2nZE8)
 - [Understanding Microsoft Agents session 6 coming soon!](https://www.youtube.com/watch?v=lgdfvUq2JEc)
 - [What can you expect when first joining the Microsoft Community forums?](https://www.youtube.com/shorts/2pR-430fNdA)
-- [Integrating custom APIs and controls in Power Apps with Keeping It Real!](https://www.youtube.com/shorts/vJlIFwZ13Mo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
