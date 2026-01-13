@@ -54,11 +54,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for Github
 ### 📝 Latest Blog Posts
 <!-- BLOGGITHUB:START -->
+- [What AI is actually good for, according to developers](https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/)
 - [Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/)
 - [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/)
 - [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/)
 - [Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/)
-- [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/)
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
