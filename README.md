@@ -63,7 +63,7 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
 - [The New Industrialists | OpsMate AI and using generative &amp; agentic AI to improve productivity](https://www.youtube.com/watch?v=RmC7vtllPqI)
-- [The New Industrialists | Aviva driving innovation in the manufacturing and process industries](https://www.youtube.com/watch?v=wGEhMgl1ddA)
+- [The New Industrialists | Aveva driving innovation in the manufacturing and process industries](https://www.youtube.com/watch?v=wGEhMgl1ddA)
 - [The New Industrialists | ABB leveraging generative and agentic AI to improve industrial operations](https://www.youtube.com/watch?v=th3LZHbD6WU)
 - [The New Industrialists | Wandelbots and the importance of robotics in modern manufacturing](https://www.youtube.com/watch?v=pgqVcspA6MA)
 - [The New Industrialists | Blue Yonder using AI-driven agents to transform supply chain management](https://www.youtube.com/watch?v=RZ9DvZC9g6E)
