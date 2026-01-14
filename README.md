@@ -45,10 +45,10 @@ We hope that these resources will help you innovate and address the real-world n
     
 <!-- YOUTUBEPOWER:START -->
 - [Understanding Microsoft Agents TODAY at 10am PST!](https://www.youtube.com/watch?v=3Sgp5SwxCNg)
-- [Understanding Agents call TODAY at 10am PST!](https://www.youtube.com/watch?v=br2hT6lUZiQ)
 - [Join Jack Rowbotham and Joe Unwin for Understanding Agents Session Six!](https://www.youtube.com/watch?v=mV8kDK6LHM0)
 - [Understanding Microsoft Agents Session Six incoming!](https://www.youtube.com/shorts/Ut0VjLgxiJk)
 - [Understanding Microsoft Agents this week with Jack Rowbotham!](https://www.youtube.com/shorts/a7-3hSrfFtM)
+- [Join Jack Rowbotham for Understanding Microsoft Agents session six!](https://www.youtube.com/watch?v=08RijgpGJJM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
