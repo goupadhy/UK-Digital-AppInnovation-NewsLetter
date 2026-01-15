@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [DiskANN: An overview of vector indexing in Azure SQL and Fabric SQL | Data Exposed](https://www.youtube.com/watch?v=NOPTkQcEew4)
 - [Leveraging Unique Talents and AI for Career Success - Cozy AI Kitchen](https://www.youtube.com/shorts/l0JU1z4GaOA)
 - [Protect sensitive data with Azure AI Language PII Redaction](https://www.youtube.com/watch?v=ZDaog_MJGS8)
 - [How Actors Can Use AI to Boost Their Careers, with Hans Obma | Cozy AI Kitchen](https://www.youtube.com/watch?v=0hZEqnYqCRY)
 - [Drasi - Change-Driven Data Processing](https://www.youtube.com/watch?v=gR_2MV8GJ7M)
-- [What&#39;s new in Fabric Data Warehousing - 2025 roundup | Data Exposed](https://www.youtube.com/watch?v=9TH1EX_6FMk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
