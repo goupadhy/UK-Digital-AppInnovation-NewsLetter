@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents | EP06](https://www.youtube.com/watch?v=rrrr5CgwkgM)
 - [Connect native apps to Copilot Studio agents | Power Platform Shorts](https://www.youtube.com/watch?v=5p-ePm4tcv8)
 - [What&#39;s it likes being a Super User in the #MicrosoftCommunity?](https://www.youtube.com/shorts/T3Sr_JsWAVY)
 - [Understanding Microsoft Agents TODAY at 10am PST!](https://www.youtube.com/watch?v=3Sgp5SwxCNg)
 - [Join Jack Rowbotham and Joe Unwin for Understanding Agents Session Six!](https://www.youtube.com/watch?v=mV8kDK6LHM0)
-- [Understanding Microsoft Agents Session Six incoming!](https://www.youtube.com/shorts/Ut0VjLgxiJk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
