@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The New Industrialists | PTC - driving industrial innovation through advanced analytics](https://www.youtube.com/watch?v=_ODYnb58iSU)
 - [The New Industrialists | Krones - beverage and packaging industry advancements.](https://www.youtube.com/watch?v=VZrGAUkraE0)
 - [The New Industrialists | Cognite and unlocking industrial data value](https://www.youtube.com/watch?v=xY843hsozGo)
 - [The New Industrialists | OpsMate AI and using generative &amp; agentic AI to improve productivity](https://www.youtube.com/watch?v=RmC7vtllPqI)
 - [The New Industrialists | Aveva driving innovation in the manufacturing and process industries](https://www.youtube.com/watch?v=wGEhMgl1ddA)
-- [The New Industrialists | ABB leveraging generative and agentic AI to improve industrial operations](https://www.youtube.com/watch?v=th3LZHbD6WU)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
