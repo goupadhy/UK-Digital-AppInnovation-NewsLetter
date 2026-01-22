@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What support can you expect when you join the #MicrosoftCommunity?](https://www.youtube.com/shorts/ys1CQSuG09w)
 - [Accelerating project analysis with AI in Power Platform | Keeping It Real | EP04](https://www.youtube.com/watch?v=Uejd63yuXNY)
 - [Episode Four of Keeping It Real with Stevie Sims coming soon!](https://www.youtube.com/watch?v=EBudzNUDn1Q)
 - [Who’s Using Copilot Studio? | Mercedes‑Benz Tech Innovation GmbH’s Agent Journey](https://www.youtube.com/watch?v=NIc29gJAW1o)
 - [Agent Readiness Framework | EP06 | Understanding Microsoft Agents](https://www.youtube.com/watch?v=rrrr5CgwkgM)
-- [Connect native apps to Copilot Studio agents | Power Platform Shorts](https://www.youtube.com/watch?v=5p-ePm4tcv8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
