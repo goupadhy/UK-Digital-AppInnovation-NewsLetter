@@ -25,7 +25,7 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Understand How Purview Secures and Governs Your Entire Data Estate](https://www.youtube.com/watch?v=U5nAmJv_Cn4)
+- [Understand How Microsoft Purview Secures and Governs Your Entire Data Estate](https://www.youtube.com/watch?v=U5nAmJv_Cn4)
 - [Making AI Work For You](https://www.youtube.com/shorts/bt8GkHAf0SI)
 - [Build Powerful AI Apps for under $25!](https://www.youtube.com/watch?v=NY_ESU6GKM0)
 - [DiskANN: An overview of vector indexing in Azure SQL and Fabric SQL | Data Exposed](https://www.youtube.com/watch?v=NOPTkQcEew4)
