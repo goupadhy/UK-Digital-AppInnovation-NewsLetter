@@ -46,7 +46,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- YOUTUBEPOWER:START -->
 - [Episode Four of Keeping It Real with Stevie Sims coming soon!](https://www.youtube.com/watch?v=EBudzNUDn1Q)
 - [Who’s Using Copilot Studio? | Mercedes‑Benz Tech Innovation GmbH’s Agent Journey](https://www.youtube.com/watch?v=NIc29gJAW1o)
-- [Understanding Microsoft Agents | EP06](https://www.youtube.com/watch?v=rrrr5CgwkgM)
+- [Agent Readiness Framework | EP06 | Understanding Microsoft Agents](https://www.youtube.com/watch?v=rrrr5CgwkgM)
 - [Connect native apps to Copilot Studio agents | Power Platform Shorts](https://www.youtube.com/watch?v=5p-ePm4tcv8)
 - [What&#39;s it likes being a Super User in the #MicrosoftCommunity?](https://www.youtube.com/shorts/T3Sr_JsWAVY)
 <!-- YOUTUBEPOWER:END -->
