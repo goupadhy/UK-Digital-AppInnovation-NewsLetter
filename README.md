@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SecurelyScale Data Engineering Workloads in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=4pv21r9AeU4)
 - [Understand How Microsoft Purview Secures and Governs Your Entire Data Estate](https://www.youtube.com/watch?v=U5nAmJv_Cn4)
 - [Making AI Work For You](https://www.youtube.com/shorts/bt8GkHAf0SI)
 - [Build Powerful AI Apps for under $25!](https://www.youtube.com/watch?v=NY_ESU6GKM0)
 - [DiskANN: An overview of vector indexing in Azure SQL and Fabric SQL | Data Exposed](https://www.youtube.com/watch?v=NOPTkQcEew4)
-- [Leveraging Unique Talents and AI for Career Success - Cozy AI Kitchen](https://www.youtube.com/shorts/l0JU1z4GaOA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
