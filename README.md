@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The AI Agent Development Blueprint | From Design to Production with Code](https://www.youtube.com/watch?v=VdzgZiOq3Uc)
 - [Bringing work context to your code in GitHub Copilot](https://www.youtube.com/watch?v=ASvjwef7K04)
 - [SecurelyScale Data Engineering Workloads in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=4pv21r9AeU4)
 - [Understand How Microsoft Purview Secures and Governs Your Entire Data Estate](https://www.youtube.com/watch?v=U5nAmJv_Cn4)
 - [Making AI Work For You](https://www.youtube.com/shorts/bt8GkHAf0SI)
-- [Build Powerful AI Apps for under $25!](https://www.youtube.com/watch?v=NY_ESU6GKM0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
