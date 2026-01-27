@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Evaluating AI Models with Microsoft Foundry | MVP Unplugged](https://www.youtube.com/watch?v=o5o_pmMXJUs)
 - [REST APIs, Vectors, and AI in SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=QziYJ6Vz1xI)
 - [The AI Agent Development Blueprint | From Design to Production with Code](https://www.youtube.com/watch?v=VdzgZiOq3Uc)
 - [Bringing work context to your code in GitHub Copilot](https://www.youtube.com/watch?v=ASvjwef7K04)
 - [SecurelyScale Data Engineering Workloads in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=4pv21r9AeU4)
-- [Understand How Microsoft Purview Secures and Governs Your Entire Data Estate](https://www.youtube.com/watch?v=U5nAmJv_Cn4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
