@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Episode five of Keeping It Real with Ramiro Melgoza coming soon!](https://www.youtube.com/watch?v=9imbRhBar88)
 - [Copresence and coauthoring in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=a4ATCpxW560)
 - [Copilot Studio Business Canvas – Your blueprint for designing agents](https://www.youtube.com/watch?v=speb4Jf0r98)
 - [Agent 365 - discoverable, governed and secure agents](https://www.youtube.com/watch?v=gLAJaKpr1Ns)
 - [Check out &quot;Keeping It Real&quot; episode four with Stevie Sims!](https://www.youtube.com/shorts/yEzLOMltZaI)
-- [Keith Atherton | EP01 | Community Spotlight](https://www.youtube.com/watch?v=1JQ4BQDMX6c)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
