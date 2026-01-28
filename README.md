@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Robots! In Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/shorts/MFt-kbPZwIA)
+- [Power Apps: Reimagine Human and Agent Collaboration](https://www.youtube.com/watch?v=mpfaA6THsr0)
+- [Inside the Future of AI‑Powered Robotics with Tim Chung | Cozy AI Kitchen](https://www.youtube.com/watch?v=LdTgUmm7ub8)
 - [Evaluating AI Models with Microsoft Foundry | MVP Unplugged](https://www.youtube.com/watch?v=o5o_pmMXJUs)
 - [REST APIs, Vectors, and AI in SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=QziYJ6Vz1xI)
-- [The AI Agent Development Blueprint | From Design to Production with Code](https://www.youtube.com/watch?v=VdzgZiOq3Uc)
-- [Bringing work context to your code in GitHub Copilot](https://www.youtube.com/watch?v=ASvjwef7K04)
-- [SecurelyScale Data Engineering Workloads in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=4pv21r9AeU4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
