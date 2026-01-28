@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How did Women in Power &lpar;Platform&rpar; get started?](https://www.youtube.com/shorts/kxCy9TLXPZ4)
+- [Bryan Goode presents AI in Action: Inside T‑Mobile’s retail transformation](https://www.youtube.com/watch?v=e2mN19G2D0Y)
 - [Who’s Using Copilot Studio? | Eide Bailly’s AI and CRM transformation](https://www.youtube.com/watch?v=lD-cYN04w-Q)
 - [Agent 365 - discoverable, governed and secure agents](https://www.youtube.com/watch?v=UWIzY-aef0U)
 - [Episode five of Keeping It Real with Ramiro Melgoza coming soon!](https://www.youtube.com/watch?v=9imbRhBar88)
-- [Copresence and coauthoring in Power Apps | Power Platform Shorts](https://www.youtube.com/watch?v=a4ATCpxW560)
-- [Copilot Studio Business Canvas – Your blueprint for designing agents](https://www.youtube.com/watch?v=speb4Jf0r98)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
