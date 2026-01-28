@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Loading… Agents League | Feb 16–27 🥳](https://www.youtube.com/shorts/fNf2PcVJpyE)
 - [Robots! In Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/shorts/MFt-kbPZwIA)
 - [Power Apps: Reimagine Human and Agent Collaboration](https://www.youtube.com/watch?v=mpfaA6THsr0)
 - [Inside the Future of AI‑Powered Robotics with Tim Chung | Cozy AI Kitchen](https://www.youtube.com/watch?v=LdTgUmm7ub8)
 - [Evaluating AI Models with Microsoft Foundry | MVP Unplugged](https://www.youtube.com/watch?v=o5o_pmMXJUs)
-- [REST APIs, Vectors, and AI in SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=QziYJ6Vz1xI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
