@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build an Inventory Manager for Free!](https://www.youtube.com/watch?v=lHKL19uYo_8)
 - [Speed up Oracle to SQL Server Migrations with AI and Copilot | Data Exposed](https://www.youtube.com/watch?v=a0c1-24atRQ)
 - [Loading… Agents League | Feb 16–27 🥳](https://www.youtube.com/shorts/fNf2PcVJpyE)
 - [Robots! In Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/shorts/MFt-kbPZwIA)
 - [Power Apps: Reimagine Human and Agent Collaboration](https://www.youtube.com/watch?v=mpfaA6THsr0)
-- [Inside the Future of AI‑Powered Robotics with Tim Chung | Cozy AI Kitchen](https://www.youtube.com/watch?v=LdTgUmm7ub8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
