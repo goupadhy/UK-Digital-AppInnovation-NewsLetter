@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Breaking down the facts about secure development with Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2026/01/26/breaking-down-the-facts-about-secure-development-with-power-platform/)
 - [Power Pages Client API (Preview): Native Client-Side Library for Forms and Data](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-client-api-preview-native-client-side-library-for-forms-and-data/)
 - [Process Maps as Part of Your Plan: Now Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-apps/process-maps-as-part-of-your-plan-now-generally-available/)
 - [Flexible Dataverse capacity for apps and agents](https://www.microsoft.com/en-us/power-platform/blog/2025/12/04/dataverse-capacity/)
 - [Unlock More Value from Your Existing Solutions with Plans](https://www.microsoft.com/en-us/power-platform/blog/power-apps/unlock-more-value-from-your-existing-solutions-with-plans/)
-- [Introducing the Dataverse SDK for Python ](https://www.microsoft.com/en-us/power-platform/blog/2025/12/03/dataverse-sdk-python/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
