@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Process Maps as Part of Your Plan: Now Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-apps/process-maps-as-part-of-your-plan-now-generally-available/)
-- [Flexible Dataverse capacity for apps and agents](https://www.microsoft.com/en-us/power-platform/blog/2025/12/04/dataverse-capacity/)
-- [Unlock More Value from Your Existing Solutions with Plans](https://www.microsoft.com/en-us/power-platform/blog/power-apps/unlock-more-value-from-your-existing-solutions-with-plans/)
-- [Introducing the Dataverse SDK for Python ](https://www.microsoft.com/en-us/power-platform/blog/2025/12/03/dataverse-sdk-python/)
-- [Why Microsoft Copilot Studio is the foundation for agentic business transformation](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/why-microsoft-copilot-studio-is-the-foundation-for-agentic-business-transformation/)
+- [Introducing MCP Server support for Power Pages: Secure, scalable data access for AI agents (Preview)](https://www.microsoft.com/en-us/power-platform/blog/2026/01/30/introducing-mcp-server-support-for-power-pages-secure-scalable-data-access-for-ai-agents-preview/)
+- [Announcing the public preview of the new usage page in the Power Platform admin center](https://www.microsoft.com/en-us/power-platform/blog/2026/01/27/announcing-the-public-preview-of-the-new-usage-page-in-the-power-platform-admin-center/)
+- [Build Agent 365-ready Adaptive Intelligence with Work IQ and Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2026/01/27/build-adaptive-intelligence/)
+- [Breaking down the facts about secure development with Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2026/01/26/breaking-down-the-facts-about-secure-development-with-power-platform/)
+- [Power Pages Client API (Preview): Native Client-Side Library for Forms and Data](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-client-api-preview-native-client-side-library-for-forms-and-data/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
