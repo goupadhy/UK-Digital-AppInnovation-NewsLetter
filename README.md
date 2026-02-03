@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [New “Secure, Govern, and Manage Agents” webinar for IT audiences!](https://www.youtube.com/shorts/CwREw0Jr0hs)
 - [Get ready for the next Keeping It Real with Savio Fernandes!](https://www.youtube.com/watch?v=6APpubil28w)
 - [Agent 365 – Access Control for Agents](https://www.youtube.com/watch?v=MGKMqI87bgw)
 - [Agent 365 – Identity, Observability and Interoperability - CAT AI Webinars](https://www.youtube.com/watch?v=gOOkhQAa3mk)
 - [Unlocking Agent 365 Security and Governance - CAT AI Webinars](https://www.youtube.com/watch?v=qnbCkzXV3vA)
-- [Monitor and improve Copilot Agent health with analytics | Power Platform Shorts](https://www.youtube.com/watch?v=tW0c0pfZEQM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
