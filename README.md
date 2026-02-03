@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Do you see episode five of Keeping it Real with Power Platform?](https://www.youtube.com/shorts/TUk-cY2Dp54)
 - [Catch up with episode five of &#39;Keeping It Real&#39; with Ramiro Melgoza!](https://www.youtube.com/shorts/4FSBSa7qV9I)
 - [Bryan Goode presents AI in Action: Inside T‑Mobile’s retail transformation](https://www.youtube.com/watch?v=dyXGUAvK4EE)
 - [How Ramiro Melgoza builds multiplayer experiences with Generative Pages | EP05 | Keeping It Real](https://www.youtube.com/watch?v=G568sxkA-W0)
 - [How did Women in Power &lpar;Platform&rpar; get started?](https://www.youtube.com/shorts/kxCy9TLXPZ4)
-- [Who’s Using Copilot Studio? | Eide Bailly’s AI and CRM transformation](https://www.youtube.com/watch?v=lD-cYN04w-Q)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
