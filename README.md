@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Action Tokens and Real-World Robotics Applications](https://www.youtube.com/shorts/5_TQburf3bA)
 - [Join the Agents League: A 2-Week AI Developer Challenge between Feb 16-27! 💥](https://www.youtube.com/shorts/d6qt0xV0RV0)
 - [Build an Inventory Manager for Free!](https://www.youtube.com/watch?v=lHKL19uYo_8)
 - [Speed up Oracle to SQL Server Migrations with AI and Copilot | Data Exposed](https://www.youtube.com/watch?v=a0c1-24atRQ)
 - [Loading… Agents League | Feb 16–27 🥳](https://www.youtube.com/shorts/fNf2PcVJpyE)
-- [Robots! In Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/shorts/MFt-kbPZwIA)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
