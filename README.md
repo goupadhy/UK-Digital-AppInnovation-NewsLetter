@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure SQL Managed Instance just got WAY faster - Meet Next gen GP | Data Exposed](https://www.youtube.com/watch?v=y2zSs6sGCr0)
 - [Action Tokens and Real-World Robotics Applications](https://www.youtube.com/shorts/5_TQburf3bA)
 - [Join the Agents League: A 2-Week AI Developer Challenge between Feb 16-27! 💥](https://www.youtube.com/shorts/d6qt0xV0RV0)
 - [Build an Inventory Manager for Free!](https://www.youtube.com/watch?v=lHKL19uYo_8)
 - [Speed up Oracle to SQL Server Migrations with AI and Copilot | Data Exposed](https://www.youtube.com/watch?v=a0c1-24atRQ)
-- [Loading… Agents League | Feb 16–27 🥳](https://www.youtube.com/shorts/fNf2PcVJpyE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
