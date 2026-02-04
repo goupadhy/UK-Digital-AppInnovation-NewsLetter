@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The New Industrialists | Exploring how software-defined vehicles are transforming the auto industry](https://www.youtube.com/watch?v=ge2E5_2PPbU)
 - [The New Industrialists | Kraft Heinz - the role of AI in driving operational efficiency &amp; innovation](https://www.youtube.com/watch?v=KmcXrEA65Rs)
 - [The New Industrialists | ETAS - transforming automotive software development](https://www.youtube.com/watch?v=Xx1fjvy99Dk)
 - [The Agentic Commerce shift is happening. Microsoft AI gets you ready.](https://www.youtube.com/watch?v=3k8dq7YXNic)
 - [The New Industrialists | Siemens - innovation in the Consumer Packaged Goods &lpar;CPG&rpar; industry](https://www.youtube.com/watch?v=fmiYJENxFZM)
-- [The New Industrialists | PTC - driving industrial innovation through advanced analytics](https://www.youtube.com/watch?v=_ODYnb58iSU)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
