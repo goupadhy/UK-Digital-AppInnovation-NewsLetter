@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Building a long-lasting Canvas app with Savio Fernandes | EP06 | Keeping It Real](https://www.youtube.com/watch?v=Rw2hk2PgiOw)
 - [How can the Microsoft Community help change your life?](https://www.youtube.com/shorts/PivgfEwRiIM)
 - [Who’s Using Copilot Studio? | Coca‑Cola Beverages Africa Automates with AI Agents](https://www.youtube.com/watch?v=gEht1p2_Zjg)
 - [New “Secure, Govern, and Manage Agents” webinar for IT audiences!](https://www.youtube.com/shorts/CwREw0Jr0hs)
 - [Get ready for the next Keeping It Real with Savio Fernandes!](https://www.youtube.com/watch?v=6APpubil28w)
-- [Agent 365 – Access Control for Agents](https://www.youtube.com/watch?v=MGKMqI87bgw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
