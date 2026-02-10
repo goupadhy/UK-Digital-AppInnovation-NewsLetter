@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Fundamentals of Estimating Investment Value in the Cloud](https://www.youtube.com/watch?v=ybzUy3J6K_E)
 - [Getting started with the GitHub Copilot CLI, custom agents, MCP servers, and more](https://www.youtube.com/watch?v=GeH0PWdl_Hc)
 - [What surprised you most about using AI outside of your job at Microsoft?](https://www.youtube.com/watch?v=xFOK4RXW_gI)
 - [What surprised you most about using AI outside of your job at Microsoft?](https://www.youtube.com/shorts/3niZQzbolXc)
 - [Azure SQL Managed Instance just got WAY faster - Meet Next gen GP | Data Exposed](https://www.youtube.com/watch?v=y2zSs6sGCr0)
-- [Action Tokens and Real-World Robotics Applications](https://www.youtube.com/shorts/5_TQburf3bA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
