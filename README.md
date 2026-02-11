@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [GPT-5 pro Evaluation Challenge #azureai #aievaluation #microsoftfoundry](https://www.youtube.com/shorts/XZ9ZAwVpHxc)
 - [Being a Design Engineer in the AI World](https://www.youtube.com/shorts/2QDgtETRs_0)
 - [Building an App in VS Code with AI Agents with Elijah King | Cozy AI Kitchen](https://www.youtube.com/watch?v=vWLeCW90Ojo)
 - [Agents League is starting next week! 🙌](https://www.youtube.com/shorts/kEgPOpb8jZE)
 - [Fundamentals of Estimating Investment Value in the Cloud](https://www.youtube.com/watch?v=ybzUy3J6K_E)
-- [Getting started with the GitHub Copilot CLI, custom agents, MCP servers, and more](https://www.youtube.com/watch?v=GeH0PWdl_Hc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
