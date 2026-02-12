@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Creating enterprise‑ready AI solutions with Power Platform | EP07 | Keeping It Real](https://www.youtube.com/watch?v=sEgfmHwqGoo)
 - [Nick Doelman shares his Microsoft Community journey!](https://www.youtube.com/shorts/MpgVUFbmIuo)
 - [Who’s Using Copilot Studio? | Dunaway Transforms AEC Workflows with AI Agents](https://www.youtube.com/watch?v=1_LwbR135Yc)
 - [Add enterprise knowledge using Prompt Builder connectors | Power Platform Shorts](https://www.youtube.com/watch?v=itbGB13eL20)
 - [Episode 7 of Keeping It Real with Diane Fligiel coming soon!](https://www.youtube.com/watch?v=TD_ZxzsHijY)
-- [Thomas Rice | EP02 | Community Spotlight](https://www.youtube.com/watch?v=1yM-3NFdarM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
