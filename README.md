@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents EP07 | 02-18-26](https://www.youtube.com/watch?v=DCmcwHlYAX4)
 - [Agent Evaluation in Copilot Studio](https://www.youtube.com/watch?v=lrY1DaaC1cQ)
 - [Real World Case Studies Through Storytelling](https://www.youtube.com/watch?v=ng37ki23BFA)
 - [Creating enterprise‑ready AI solutions with Power Platform | EP07 | Keeping It Real](https://www.youtube.com/watch?v=sEgfmHwqGoo)
 - [Nick Doelman shares his Microsoft Community journey!](https://www.youtube.com/shorts/MpgVUFbmIuo)
-- [Who’s Using Copilot Studio? | Dunaway Transforms AEC Workflows with AI Agents](https://www.youtube.com/watch?v=1_LwbR135Yc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
