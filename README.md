@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Public preview: Power Apps MCP and enhanced agent feed for your business applications](https://www.microsoft.com/en-us/power-platform/blog/2026/02/11/public-preview-power-apps-mcp-and-enhanced-agent-feed-for-your-business-applications/)
-- [Power Pages Server Logic (preview): Enhancements](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-server-logic-preview-enhancements/)
-- [Announcing General Availability (GA) of building single-page applications for Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-ga-of-building-single-page-applications-on-power-pages/)
 - [Generally available: host and run code apps in Power Apps](https://www.microsoft.com/en-us/power-platform/blog/power-apps/generally-available-host-and-run-code-apps-in-power-apps/)
 - [Announcing the public preview of the new usage page in the Power Platform admin center](https://www.microsoft.com/en-us/power-platform/blog/2026/01/27/announcing-the-public-preview-of-the-new-usage-page-in-the-power-platform-admin-center/)
+- [Build Agent 365-ready Adaptive Intelligence with Work IQ and Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2026/01/27/build-adaptive-intelligence/)
+- [Breaking down the facts about secure development with Power Platform](https://www.microsoft.com/en-us/power-platform/blog/2026/01/26/breaking-down-the-facts-about-secure-development-with-power-platform/)
+- [Power Pages Client API (Preview): Native Client-Side Library for Forms and Data](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-client-api-preview-native-client-side-library-for-forms-and-data/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
