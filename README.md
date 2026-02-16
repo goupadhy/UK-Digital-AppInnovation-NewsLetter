@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Join Vid Chari for our next Microsoft Understanding Agents call!](https://www.youtube.com/watch?v=vVFHdsNxSVM)
 - [Understanding Microsoft Agents EP07 | 02-18-26](https://www.youtube.com/watch?v=DCmcwHlYAX4)
 - [Agent Evaluation in Copilot Studio](https://www.youtube.com/watch?v=lrY1DaaC1cQ)
 - [Real World Case Studies Through Storytelling](https://www.youtube.com/watch?v=ng37ki23BFA)
 - [Creating enterprise‑ready AI solutions with Power Platform | EP07 | Keeping It Real](https://www.youtube.com/watch?v=sEgfmHwqGoo)
-- [Nick Doelman shares his Microsoft Community journey!](https://www.youtube.com/shorts/MpgVUFbmIuo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
