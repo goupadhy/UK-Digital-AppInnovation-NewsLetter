@@ -47,8 +47,8 @@ We hope that these resources will help you innovate and address the real-world n
 - [Episode 8 of &#39;Keeping It Real with Power Platform&#39; coming soon!](https://www.youtube.com/watch?v=20PvqfNTypg)
 - [Sarah Jones | EP03 | Community Spotlight](https://www.youtube.com/watch?v=uLPTA2kzKOA)
 - [Understanding Microsoft Agents call this week!](https://www.youtube.com/watch?v=W0gKxWICHig)
-- [Join Vid Chari for our next Microsoft Understanding Agents call!](https://www.youtube.com/watch?v=vVFHdsNxSVM)
 - [Understanding Microsoft Agents EP07 | 02-18-26](https://www.youtube.com/watch?v=DCmcwHlYAX4)
+- [Agent Evaluation in Copilot Studio](https://www.youtube.com/watch?v=lrY1DaaC1cQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
