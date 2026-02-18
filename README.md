@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding Microsoft Agents is TODAY at 10am PST!](https://www.youtube.com/watch?v=tPqBBpQJuSE)
 - [Explore the new Power Platform Admin Center &lpar;PPAC&rpar; | Power Platform Shorts](https://www.youtube.com/watch?v=c5L7XduAJm8)
 - [Episode 8 of &#39;Keeping It Real with Power Platform&#39; coming soon!](https://www.youtube.com/watch?v=20PvqfNTypg)
 - [Sarah Jones | EP03 | Community Spotlight](https://www.youtube.com/watch?v=uLPTA2kzKOA)
 - [Understanding Microsoft Agents call this week!](https://www.youtube.com/watch?v=W0gKxWICHig)
-- [Understanding Microsoft Agents EP07 | 02-18-26](https://www.youtube.com/watch?v=DCmcwHlYAX4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
