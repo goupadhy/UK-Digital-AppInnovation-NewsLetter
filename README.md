@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MCP is so back! &lpar;feat. David Soria Parra&rpar;](https://www.youtube.com/watch?v=f0AUo7orNAM)
 - [Getting Started with Agents in VS Code](https://www.youtube.com/shorts/7rFLL2kjr0A)
 - [Azure Data Studio Is Retiring—Here’s What’s Next for SQL Developers in VS Code](https://www.youtube.com/watch?v=rlqrhAsm7F8)
 - [Develop a Web App with CoPilot and Azure SQL Database for Under $10!](https://www.youtube.com/watch?v=PamhXD0m4fs)
 - [Being a Design Engineer in the AI World](https://www.youtube.com/shorts/2QDgtETRs_0)
-- [Building an App in VS Code with AI Agents with Elijah King | Cozy AI Kitchen](https://www.youtube.com/watch?v=vWLeCW90Ojo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
