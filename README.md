@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server Migration Made Easy with Azure Arc | Data Exposed](https://www.youtube.com/watch?v=u1dJHCkp-mA)
+- [Fabric SQL Database Use Cases Within Analytics Solutions | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=b2YSpr4_x44)
+- [What do you find exciting about Aspire 13?](https://www.youtube.com/shorts/G03juh3Gupk)
+- [What do you find exciting about Aspire 13?](https://www.youtube.com/watch?v=uZEEZsweQs8)
 - [MCP is so back! &lpar;feat. David Soria Parra&rpar;](https://www.youtube.com/watch?v=f0AUo7orNAM)
-- [Getting Started with Agents in VS Code](https://www.youtube.com/shorts/7rFLL2kjr0A)
-- [Azure Data Studio Is Retiring—Here’s What’s Next for SQL Developers in VS Code](https://www.youtube.com/watch?v=rlqrhAsm7F8)
-- [Develop a Web App with CoPilot and Azure SQL Database for Under $10!](https://www.youtube.com/watch?v=PamhXD0m4fs)
-- [Being a Design Engineer in the AI World](https://www.youtube.com/shorts/2QDgtETRs_0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
