@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to sign in to Power Apps and get started for free | Power Platform Shorts](https://www.youtube.com/watch?v=ocT1h0NBKmY)
 - [Graciela Martinez | EP04 | Community Spotlight](https://www.youtube.com/watch?v=lqGhPdQIS24)
 - [What&#39;s happening inside the Microsoft Communities for 2026?](https://www.youtube.com/watch?v=IN5lSgkWSlg)
 - [Building enterprise‑scale Power Platform apps with Generative Pages | EP08 | Keeping It Real](https://www.youtube.com/watch?v=eE-XeR0Jmfs)
 - [What are the best ways to navigate the Power Platform forums?](https://www.youtube.com/shorts/rNAvmHbU2G8)
-- [Explore the new Power Platform Admin Center &lpar;PPAC&rpar; | Power Platform Shorts](https://www.youtube.com/watch?v=c5L7XduAJm8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
