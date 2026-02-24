@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [SQL Server Migration Made Easy with Azure Arc | Data Exposed](https://www.youtube.com/watch?v=u1dJHCkp-mA)
-- [Fabric SQL Database Use Cases Within Analytics Solutions | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=b2YSpr4_x44)
-- [What do you find exciting about Aspire 13?](https://www.youtube.com/shorts/G03juh3Gupk)
-- [What do you find exciting about Aspire 13?](https://www.youtube.com/watch?v=uZEEZsweQs8)
-- [MCP is so back! &lpar;feat. David Soria Parra&rpar;](https://www.youtube.com/watch?v=f0AUo7orNAM)
+- [From Pilot to Productivity: A 90-Day Plan for Copilot Adoption](https://www.youtube.com/watch?v=s315Ms2nWr4)
+- [Migrate vm&#39;s from VMWare or Hyper-V to Azure Local with Azure Migrate](https://www.youtube.com/watch?v=y-cD11Rj__g)
+- [Smarter Queries Start Here: Vector Search in SQL Server &amp; Azure SQL DB](https://www.youtube.com/watch?v=iu1Cp84lGCw)
+- [Simplifying Access Governance with Microsoft Entra ID Access Packages](https://www.youtube.com/watch?v=ck0RF8Gz_aQ)
+- [Understanding Model Context Protocol &lpar;MCP&rpar;](https://www.youtube.com/watch?v=f2Si9ykUiZ4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
