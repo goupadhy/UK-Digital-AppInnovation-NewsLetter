@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [One View to Rule Them All: OneLake Catalog Explorer | Data Exposed](https://www.youtube.com/watch?v=Hn-hKuFGpqs)
 - [Agents League - 🎨 Creative Apps Battle Highlights](https://www.youtube.com/shorts/pPJuPBStHpo)
 - [Agents League Week 2 – Project Submissions Are Open! 🎉](https://www.youtube.com/shorts/NR65tweIeGk)
 - [From Pilot to Productivity: A 90-Day Plan for Copilot Adoption](https://www.youtube.com/watch?v=s315Ms2nWr4)
 - [Migrate vm&#39;s from VMWare or Hyper-V to Azure Local with Azure Migrate](https://www.youtube.com/watch?v=y-cD11Rj__g)
-- [Smarter Queries Start Here: Vector Search in SQL Server &amp; Azure SQL DB](https://www.youtube.com/watch?v=iu1Cp84lGCw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
