@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Make your agent multi-agent ready with connected agents | Mission 3 | Agent Operative](https://www.youtube.com/watch?v=X-nyqdk6tcc)
+- [Get started with the Hiring Agent | Mission 1 | Agent Operative](https://www.youtube.com/watch?v=VaEy6ux2sQs)
+- [Authoring Agent Instructions | Mission 2 | Agent Operative](https://www.youtube.com/watch?v=h_pgKSKHlIU)
 - [What makes the Microsoft Community so special?](https://www.youtube.com/shorts/EnLXFtMmMLs)
 - [Optimizing knowledge sources for agents](https://www.youtube.com/watch?v=ZE6VIoDpQ7s)
-- [How to sign in to Power Apps and get started for free | Power Platform Shorts](https://www.youtube.com/watch?v=ocT1h0NBKmY)
-- [Graciela Martinez | EP04 | Community Spotlight](https://www.youtube.com/watch?v=lqGhPdQIS24)
-- [What&#39;s happening inside the Microsoft Communities for 2026?](https://www.youtube.com/watch?v=IN5lSgkWSlg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
