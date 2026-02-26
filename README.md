@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [What’s new in Power Platform: February 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-february-2026-feature-update/)
-- [Public preview: Power Apps MCP and enhanced agent feed for your business applications](https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-power-apps-mcp-and-enhanced-agent-feed-for-your-business-applications/)
-- [Power Pages Server Logic (preview): Enhancements](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-server-logic-preview-enhancements/)
-- [Announcing General Availability (GA) of building single-page applications for Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-ga-of-building-single-page-applications-on-power-pages/)
-- [Generally available: host and run code apps in Power Apps](https://www.microsoft.com/en-us/power-platform/blog/power-apps/generally-available-host-and-run-code-apps-in-power-apps/)
+- [Power Pages Client API (Preview): Native Client-Side Library for Forms and Data](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-client-api-preview-native-client-side-library-for-forms-and-data/)
+- [Process Maps as Part of Your Plan: Now Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-apps/process-maps-as-part-of-your-plan-now-generally-available/)
+- [Flexible Dataverse capacity for apps and agents](https://www.microsoft.com/en-us/power-platform/blog/2025/12/04/dataverse-capacity/)
+- [Unlock More Value from Your Existing Solutions with Plans](https://www.microsoft.com/en-us/power-platform/blog/power-apps/unlock-more-value-from-your-existing-solutions-with-plans/)
+- [Introducing the Dataverse SDK for Python ](https://www.microsoft.com/en-us/power-platform/blog/2025/12/03/dataverse-sdk-python/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
