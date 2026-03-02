@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Daniel Christian | EP01 | Ask a Community Pro](https://www.youtube.com/watch?v=Bs_JPbGbNPk)
 - [Building intelligent agents with knowledge sources | EP07 | Understanding Microsoft Agents](https://www.youtube.com/watch?v=_fAn3J3DS_A)
 - [Make your agent multi-agent ready with connected agents | Mission 3 | Agent Operative](https://www.youtube.com/watch?v=X-nyqdk6tcc)
 - [Get started with the Hiring Agent | Mission 1 | Agent Operative](https://www.youtube.com/watch?v=VaEy6ux2sQs)
 - [Authoring Agent Instructions | Mission 2 | Agent Operative](https://www.youtube.com/watch?v=h_pgKSKHlIU)
-- [What makes the Microsoft Community so special?](https://www.youtube.com/shorts/EnLXFtMmMLs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
