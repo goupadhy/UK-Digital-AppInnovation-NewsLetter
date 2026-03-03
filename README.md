@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Open Standards for Enterprise Agents](https://www.youtube.com/watch?v=wGYd_shz-qU)
 - [Agents League - 🧠 Reasoning Agents Battle Highlights](https://www.youtube.com/shorts/0f5qBZpy9No)
 - [Agentic RAG for Everyone Using Azure SQL, OpenAI, and Web Apps](https://www.youtube.com/watch?v=X_eiufFu3xY)
 - [One View to Rule Them All: OneLake Catalog Explorer | Data Exposed](https://www.youtube.com/watch?v=Hn-hKuFGpqs)
 - [Agents League - 🎨 Creative Apps Battle Highlights](https://www.youtube.com/shorts/pPJuPBStHpo)
-- [Agents League Week 2 – Project Submissions Are Open! 🎉](https://www.youtube.com/shorts/NR65tweIeGk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
