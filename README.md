@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [What’s new in Power Platform: February 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-february-2026-feature-update/)
-- [Public preview: Power Apps MCP and enhanced agent feed for your business applications](https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-power-apps-mcp-and-enhanced-agent-feed-for-your-business-applications/)
-- [Power Pages Server Logic (preview): Enhancements](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-server-logic-preview-enhancements/)
-- [Announcing General Availability (GA) of building single-page applications for Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-ga-of-building-single-page-applications-on-power-pages/)
-- [Generally available: host and run code apps in Power Apps](https://www.microsoft.com/en-us/power-platform/blog/power-apps/generally-available-host-and-run-code-apps-in-power-apps/)
+- [Agentic business transformation: What leaders need to get right](https://www.microsoft.com/en-us/power-platform/blog/2026/03/03/agentic-business-transformation-what-leaders-need-to-get-right/)
+- [Improve Power Pages security by activating Web Application Firewall independently](https://www.microsoft.com/en-us/power-platform/blog/power-pages/improve-power-pages-security-by-activating-web-application-firewall-independently/)
+- [New quality updates to modern controls in canvas apps](https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-quality-updates-to-modern-controls-in-canvas-apps/)
+- [Build Power Pages sites with AI using agentic coding tools (preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-power-pages-sites-with-ai-using-agentic-coding-tools-preview/)
+- [Computer-using agents now deliver more secure UI automation at scale](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/computer-using-agents-now-deliver-more-secure-ui-automation-at-scale/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
