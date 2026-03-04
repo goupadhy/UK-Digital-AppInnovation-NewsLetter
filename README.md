@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Every journey to the #PowerPlatform community is unique!](https://www.youtube.com/shorts/LCLySSvwuZQ)
 - [Add event triggers to act autonomously | Mission 4 | Agent Operative](https://www.youtube.com/watch?v=lXdlj4DjR28)
 - [Extracting resume contents with multi-modal prompts | Mission 7 | Agent Operative](https://www.youtube.com/watch?v=icP_qH8LFK8)
 - [Understanding agent models and response formatting | Mission 5 | Agent Operative](https://www.youtube.com/watch?v=c5rqNQt2Mmc)
 - [AI safety and content moderation | Mission 6 | Agent Operative](https://www.youtube.com/watch?v=2IjDV_D3Jb0)
-- [Microsoft Agents community call TODAY at 10am PST!](https://www.youtube.com/shorts/L1oc17g9yDQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
