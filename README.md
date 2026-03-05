@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Agents League - 💼 Enterprise Agents Battle Highlights](https://www.youtube.com/watch?v=5E87X4n8wbg)
 - [Armchair Architects: Open Standards for Enterprise Agents](https://www.youtube.com/watch?v=wGYd_shz-qU)
 - [Agents League - 🧠 Reasoning Agents Battle Highlights](https://www.youtube.com/shorts/0f5qBZpy9No)
 - [Agentic RAG for Everyone Using Azure SQL, OpenAI, and Web Apps](https://www.youtube.com/watch?v=X_eiufFu3xY)
 - [One View to Rule Them All: OneLake Catalog Explorer | Data Exposed](https://www.youtube.com/watch?v=Hn-hKuFGpqs)
-- [Agents League - 🎨 Creative Apps Battle Highlights](https://www.youtube.com/shorts/pPJuPBStHpo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
