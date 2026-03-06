@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [XIAD program updates and server logic in Power Pages](https://www.youtube.com/watch?v=lK0JCBl2dEY)
 - [Stay tuned for more Keeping It Real with Power Platform!](https://www.youtube.com/watch?v=jtxDt11N8z4)
 - [Ask a Community Pro with Daniel Christian!](https://www.youtube.com/shorts/j17L1kZLLRc)
 - [Every journey to the #PowerPlatform community is unique!](https://www.youtube.com/shorts/LCLySSvwuZQ)
 - [Add event triggers to act autonomously | Mission 4 | Agent Operative](https://www.youtube.com/watch?v=lXdlj4DjR28)
-- [Extracting resume contents with multi-modal prompts | Mission 7 | Agent Operative](https://www.youtube.com/watch?v=icP_qH8LFK8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
