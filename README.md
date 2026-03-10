@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Understanding #MicrosoftAgents | 03-18-26](https://www.youtube.com/shorts/X6o5HMOA548)
+- [Understanding Microsoft Agents session eight coming soon!](https://www.youtube.com/watch?v=LVN9BrVh70A)
 - [Catch up with Daniel Christian in Ask a Community Pro!](https://www.youtube.com/shorts/bDftnrCW_iA)
 - [Setting up the Power Apps MCP server in Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=-F7oLkOhxcw)
 - [International Women&#39;s Day | EP05 | Community Spotlight](https://www.youtube.com/watch?v=o5bTnSf0elc)
-- [XIAD program updates and server logic in Power Pages](https://www.youtube.com/watch?v=lK0JCBl2dEY)
-- [Stay tuned for more Keeping It Real with Power Platform!](https://www.youtube.com/watch?v=jtxDt11N8z4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
