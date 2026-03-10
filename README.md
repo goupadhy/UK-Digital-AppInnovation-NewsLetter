@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Figma MCP Explained by an Expert](https://www.youtube.com/shorts/RynuHhYoap0)
+- [Figma MCP for VS Code: Bringing Designs to Life with AI, with Joanna Oikawa | Cozy AI Kitchen](https://www.youtube.com/watch?v=KCu3g2_xqzM)
 - [Foundry IQ: Unlocking Knowledge for Your Agents](https://www.youtube.com/watch?v=Yd9xDJUvA2o)
 - [SQL to Insights in Minutes with Copilot for Data Factory | Data Exposed](https://www.youtube.com/watch?v=VviZ6ViEhGw)
 - [Agents League - 💼 Enterprise Agents Battle Highlights](https://www.youtube.com/watch?v=5E87X4n8wbg)
-- [Armchair Architects: Open Standards for Enterprise Agents](https://www.youtube.com/watch?v=wGYd_shz-qU)
-- [Agents League - 🧠 Reasoning Agents Battle Highlights](https://www.youtube.com/shorts/0f5qBZpy9No)
 <!-- YOUTUBEAPPMOD:END -->
 
 
