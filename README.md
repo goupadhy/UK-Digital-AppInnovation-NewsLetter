@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Seamlessly embed Copilot Studio agents into Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/seamlessly-embed-copilot-studio-agents-into-power-pages/)
-- [A new way of working is taking shape: Frontier Transformation](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/09/a-new-way-of-working-is-taking-shape-frontier-transformation/%20)
-- [New enhancements to work queues that will transform how your teams manage and monitor automated workflows.](https://www.microsoft.com/en-us/power-platform/blog/power-automate/new-enhancements-to-work-queues-that-will-transform-how-your-teams-manage-and-monitor-automated-workflows/)
-- [Agentic business transformation: What leaders need to get right](https://www.microsoft.com/en-us/power-platform/blog/2026/03/03/agentic-business-transformation-what-leaders-need-to-get-right/)
-- [Improve Power Pages security by activating Web Application Firewall independently](https://www.microsoft.com/en-us/power-platform/blog/power-pages/improve-power-pages-security-by-activating-web-application-firewall-independently/)
+- [New quality updates to modern controls in canvas apps](https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-quality-updates-to-modern-controls-in-canvas-apps/)
+- [Build Power Pages sites with AI using agentic coding tools (preview)](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-power-pages-sites-with-ai-using-agentic-coding-tools-preview/)
+- [Computer-using agents now deliver more secure UI automation at scale](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/computer-using-agents-now-deliver-more-secure-ui-automation-at-scale/)
+- [The shift reshaping enterprise applications](https://www.microsoft.com/en-us/power-platform/blog/2026/02/24/the-shift-reshaping-enterprise-applications/)
+- [What’s new in Power Platform: February 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-february-2026-feature-update/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
