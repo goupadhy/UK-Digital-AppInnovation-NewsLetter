@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Integrate with MCP servers | Mission 10 | Agent Operative](https://www.youtube.com/watch?v=kW2f8Z8fzBw)
+- [Collecting feedback from users | Mission 11 | Agent Operative](https://www.youtube.com/watch?v=QRBimOsgKEQ)
+- [Generating an interview prep document | Mission 9 | Agent Operative](https://www.youtube.com/watch?v=GYSEI0jbCvk)
+- [Enhanced prompts with Dataverse grounding | Mission 8 | Agent Operative](https://www.youtube.com/watch?v=-cHP29cIu-U)
 - [What&#39;s it like to be a #PowerPlatform Super User?](https://www.youtube.com/shorts/e2nBmYUVcNw)
-- [Who’s Using Copilot Studio? | Bosch Improves Employee Experience with AI Agents](https://www.youtube.com/watch?v=S9Vgd4rxxDM)
-- [Keeping It Real with Greg Stirewalt coming soon!](https://www.youtube.com/watch?v=nzc7ejwBFt0)
-- [Understanding #MicrosoftAgents | 03-18-26](https://www.youtube.com/shorts/X6o5HMOA548)
-- [Understanding Microsoft Agents session eight coming soon!](https://www.youtube.com/watch?v=LVN9BrVh70A)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
