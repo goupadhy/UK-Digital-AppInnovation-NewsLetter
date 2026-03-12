@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Transforming Power Apps with Copilot - a real‑world success story | EP09 | Keeping It Real](https://www.youtube.com/watch?v=rR0RZsHJUAY)
 - [Integrate with MCP servers | Mission 10 | Agent Operative](https://www.youtube.com/watch?v=kW2f8Z8fzBw)
 - [Collecting feedback from users | Mission 11 | Agent Operative](https://www.youtube.com/watch?v=QRBimOsgKEQ)
 - [Generating an interview prep document | Mission 9 | Agent Operative](https://www.youtube.com/watch?v=GYSEI0jbCvk)
 - [Enhanced prompts with Dataverse grounding | Mission 8 | Agent Operative](https://www.youtube.com/watch?v=-cHP29cIu-U)
-- [What&#39;s it like to be a #PowerPlatform Super User?](https://www.youtube.com/shorts/e2nBmYUVcNw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
