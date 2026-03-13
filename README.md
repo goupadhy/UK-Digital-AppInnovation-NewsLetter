@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Building Computer Use Agents &lpar;CUA&rpar;](https://www.youtube.com/watch?v=zr_DuUzFEd4)
 - [GitHub Copilot Dev Days are Here! Meet Vinodh on 3/14](https://www.youtube.com/shorts/yekV395Rn8U)
 - [Build AI Agents with Your Data for Under $10 a Month!](https://www.youtube.com/watch?v=FzoXP4P8OAY)
 - [Next-Level SQL in VS Code: Edit Data, DACPAC Import/Export, and More | Data Exposed](https://www.youtube.com/watch?v=JhyBSthgFys)
 - [The IQ Series: Foundry IQ &lpar;Starting March 18&rpar;](https://www.youtube.com/watch?v=G1LN2TQGI1M)
-- [Figma MCP Explained by an Expert](https://www.youtube.com/shorts/RynuHhYoap0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
