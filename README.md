@@ -66,7 +66,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [The New Industrialists | Neural Concept revolutionizing engineering with AI-powered design tools](https://www.youtube.com/watch?v=G_l2-r_6tYE)
 - [The New Industrialists | Cerence AI is transforming the in-car experience](https://www.youtube.com/watch?v=9rddgZqhk2M)
 - [The New Industrialists | Exploring how software-defined vehicles are transforming the auto industry](https://www.youtube.com/watch?v=ge2E5_2PPbU)
-- [The New Industrialists | Kraft Heinz - the role of AI in driving operational efficiency &amp; innovation](https://www.youtube.com/watch?v=KmcXrEA65Rs)
+- [The New Industrialists | ETAS - transforming automotive software development](https://www.youtube.com/watch?v=Xx1fjvy99Dk)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
