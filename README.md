@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Foundry IQ: Unlocking Knowledge for Your Agents](https://www.youtube.com/watch?v=Yd9xDJUvA2o)
 - [The Evolving Role of Architects in an AI World](https://www.youtube.com/watch?v=UB0acz3QNM8)
 - [Build and Ship a Hosted Agent with VS Code AI Toolkit &amp; Microsoft Foundry](https://www.youtube.com/watch?v=E9Hk0PLMAQU)
 - [Build, Debug, and Deploy a Blender Hosted Agent in Microsoft 365 Copilot](https://www.youtube.com/watch?v=Ko2ANZWS4qU)
 - [Building Computer Use Agents &lpar;CUA&rpar;](https://www.youtube.com/watch?v=zr_DuUzFEd4)
-- [GitHub Copilot Dev Days are Here! Meet Vinodh on 3/14](https://www.youtube.com/shorts/yekV395Rn8U)
 <!-- YOUTUBEAPPMOD:END -->
 
 
