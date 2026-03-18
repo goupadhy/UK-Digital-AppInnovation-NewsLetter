@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Understanding Microsoft Agents TODAY at 10am PST!](https://www.youtube.com/watch?v=fh35zUWdyGs)
-- [Understanding Agents TODAY at 10am PST!](https://www.youtube.com/shorts/VAd3yvCfCQg)
 - [Add Copilot Studio Work IQ MCP to your agents | Power Platform Shorts](https://www.youtube.com/watch?v=K-ckSDrNekE)
-- [Understanding Agents this Wednesday!](https://www.youtube.com/shorts/S6Nvm2ccNMI)
 - [Ask a Community Pro with Dian Taylor!](https://www.youtube.com/shorts/b96y0wvjBQA)
+- [Using sentiment analysis to escalate to a live agent in Copilot Studio | EP02 | Ask a Community Pro](https://www.youtube.com/watch?v=hC5ZZ93dWmg)
+- [Transforming Power Apps with Copilot - a real‑world success story | EP09 | Keeping It Real](https://www.youtube.com/watch?v=rR0RZsHJUAY)
+- [Integrate with MCP servers | Mission 10 | Agent Operative](https://www.youtube.com/watch?v=kW2f8Z8fzBw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
