@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to balance AI innovation and risk with Ryan Jones | EP01 | Perspectives](https://www.youtube.com/watch?v=gze8BMeASIk)
 - [What can you expect from the Women in #PowerPlatform group?](https://www.youtube.com/shorts/CzSCskFbmK4)
 - [Add Copilot Studio Work IQ MCP to your agents | Power Platform Shorts](https://www.youtube.com/watch?v=K-ckSDrNekE)
 - [Ask a Community Pro with Dian Taylor!](https://www.youtube.com/shorts/b96y0wvjBQA)
 - [Using sentiment analysis to escalate to a live agent in Copilot Studio | EP02 | Ask a Community Pro](https://www.youtube.com/watch?v=hC5ZZ93dWmg)
-- [Transforming Power Apps with Copilot - a real‑world success story | EP09 | Keeping It Real](https://www.youtube.com/watch?v=rR0RZsHJUAY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
