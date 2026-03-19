@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [What’s new in Power Platform: February 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-february-2026-feature-update/)
-- [Public preview: Power Apps MCP and enhanced agent feed for your business applications](https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-power-apps-mcp-and-enhanced-agent-feed-for-your-business-applications/)
-- [Power Pages Server Logic (preview): Enhancements](https://www.microsoft.com/en-us/power-platform/blog/power-pages/power-pages-server-logic-preview-enhancements/)
-- [Announcing General Availability (GA) of building single-page applications for Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-ga-of-building-single-page-applications-on-power-pages/)
-- [Generally available: host and run code apps in Power Apps](https://www.microsoft.com/en-us/power-platform/blog/power-apps/generally-available-host-and-run-code-apps-in-power-apps/)
+- [From apps to agents: Rearchitecting enterprise work around intent](https://www.microsoft.com/en-us/power-platform/blog/2026/03/12/from-apps-to-agents-rearchitecting-enterprise-work-around-intent/)
+- [Infuse intelligent experiences into Power Pages sites with the new Agent API](https://www.microsoft.com/en-us/power-platform/blog/power-pages/infuse-intelligent-experiences-into-power-pages-sites-with-the-new-agent-api/)
+- [Seamlessly embed Copilot Studio agents into Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/seamlessly-embed-copilot-studio-agents-into-power-pages/)
+- [A new way of working is taking shape: Frontier Transformation](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/09/a-new-way-of-working-is-taking-shape-frontier-transformation/%20)
+- [New enhancements to work queues that will transform how your teams manage and monitor automated workflows.](https://www.microsoft.com/en-us/power-platform/blog/power-automate/new-enhancements-to-work-queues-that-will-transform-how-your-teams-manage-and-monitor-automated-workflows/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
