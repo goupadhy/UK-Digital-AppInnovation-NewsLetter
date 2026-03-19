@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [10 Open-Source projects from KubeCon Project Pavillion](https://www.youtube.com/watch?v=Z8ck1_n5g8c)
 - [Model Optimization in Microsoft Foundry: Deployment and Evaluations](https://www.youtube.com/watch?v=6awzUxeG-b0)
 - [Model Optimization in Microsoft Foundry: AI Agents Tool Calling Accuracy](https://www.youtube.com/watch?v=vKfG50oLSmk)
 - [Model Optimization in Microsoft Foundry: Supervised Fine-Tuning](https://www.youtube.com/watch?v=GyCLzGQwaEc)
 - [Foundry IQ: Unlocking Knowledge for Your Agents](https://www.youtube.com/watch?v=Yd9xDJUvA2o)
-- [The Evolving Role of Architects in an AI World](https://www.youtube.com/watch?v=UB0acz3QNM8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
