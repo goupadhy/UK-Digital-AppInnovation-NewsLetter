@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Model Optimization in Microsoft Foundry: Deployment and Evaluations](https://www.youtube.com/watch?v=6awzUxeG-b0)
+- [Model Optimization in Microsoft Foundry: AI Agents Tool Calling Accuracy](https://www.youtube.com/watch?v=vKfG50oLSmk)
+- [Model Optimization in Microsoft Foundry: Supervised Fine-Tuning](https://www.youtube.com/watch?v=GyCLzGQwaEc)
 - [Foundry IQ: Unlocking Knowledge for Your Agents](https://www.youtube.com/watch?v=Yd9xDJUvA2o)
 - [The Evolving Role of Architects in an AI World](https://www.youtube.com/watch?v=UB0acz3QNM8)
-- [Build and Ship a Hosted Agent with VS Code AI Toolkit &amp; Microsoft Foundry](https://www.youtube.com/watch?v=E9Hk0PLMAQU)
-- [Build, Debug, and Deploy a Blender Hosted Agent in Microsoft 365 Copilot](https://www.youtube.com/watch?v=Ko2ANZWS4qU)
-- [Building Computer Use Agents &lpar;CUA&rpar;](https://www.youtube.com/watch?v=zr_DuUzFEd4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
