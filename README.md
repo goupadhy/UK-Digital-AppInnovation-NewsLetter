@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Scale AI Agents Without Losing Trust](https://www.youtube.com/watch?v=TjQuNtd6C-A)
 - [AI Readiness for Excel | EP15 | Power Up Minute](https://www.youtube.com/watch?v=vs0XoR64bMg)
 - [How to balance AI innovation and risk with Ryan Jones | EP01 | Perspectives](https://www.youtube.com/watch?v=gze8BMeASIk)
 - [What can you expect from the Women in #PowerPlatform group?](https://www.youtube.com/shorts/CzSCskFbmK4)
 - [Add Copilot Studio Work IQ MCP to your agents | Power Platform Shorts](https://www.youtube.com/watch?v=K-ckSDrNekE)
-- [Ask a Community Pro with Dian Taylor!](https://www.youtube.com/shorts/b96y0wvjBQA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
