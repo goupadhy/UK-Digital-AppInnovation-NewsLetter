@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Foundry IQ: Querying the Multi-Source AI Knowledge Bases](https://www.youtube.com/watch?v=BU59cYcz4WU)
+- [Foundry IQ: Building the Data Pipeline with Knowledge Sources](https://www.youtube.com/watch?v=8NMH6--qm1k)
 - [10 Open-Source projects from KubeCon Project Pavillion](https://www.youtube.com/watch?v=Z8ck1_n5g8c)
 - [Model Optimization in Microsoft Foundry: Deployment and Evaluations](https://www.youtube.com/watch?v=6awzUxeG-b0)
 - [Model Optimization in Microsoft Foundry: AI Agents Tool Calling Accuracy](https://www.youtube.com/watch?v=vKfG50oLSmk)
-- [Model Optimization in Microsoft Foundry: Supervised Fine-Tuning](https://www.youtube.com/watch?v=GyCLzGQwaEc)
-- [Foundry IQ: Unlocking Knowledge for Your Agents](https://www.youtube.com/watch?v=Yd9xDJUvA2o)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
