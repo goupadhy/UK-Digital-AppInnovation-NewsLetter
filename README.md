@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Containerization Assist - Simplifying Modern App Delivery](https://www.youtube.com/shorts/e9fniCosMDY)
+- [Containerization Assist - Simplifying Modern App Delivery](https://www.youtube.com/watch?v=vKS6Uq-LLNs)
 - [Azure Cosmos DB Conf 2026 | Live Stream](https://www.youtube.com/watch?v=OdPFriVuKtU)
 - [Introducing Migration Assistant for SQL database in Fabric &lpar;Preview&rpar;](https://www.youtube.com/watch?v=iyNiU7trims)
 - [Foundry IQ: Querying the Multi-Source AI Knowledge Bases](https://www.youtube.com/watch?v=BU59cYcz4WU)
-- [Foundry IQ: Building the Data Pipeline with Knowledge Sources](https://www.youtube.com/watch?v=8NMH6--qm1k)
-- [10 Open-Source projects from KubeCon Project Pavillion](https://www.youtube.com/watch?v=Z8ck1_n5g8c)
 <!-- YOUTUBEAPPMOD:END -->
 
 
