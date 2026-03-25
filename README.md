@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Graebel Transforms AP Automation with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=R4f3gp1nBwk)
 - [Elevating Workflows with Agentic Intelligence | EP08 | Understanding Agents](https://www.youtube.com/watch?v=dQcmAOARzvw)
 - [Work IQ: Microsoft Teams MCP server | Power Platform Shorts](https://www.youtube.com/watch?v=7dFU2TEun48)
 - [Bauer Automate | EP06 | Community Spotlight](https://www.youtube.com/watch?v=AdLjsTK-3t4)
 - [Scale AI Agents Without Losing Trust](https://www.youtube.com/watch?v=TjQuNtd6C-A)
-- [AI Readiness for Excel | EP15 | Power Up Minute](https://www.youtube.com/watch?v=vs0XoR64bMg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
