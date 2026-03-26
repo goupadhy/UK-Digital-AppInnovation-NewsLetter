@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What Would You Buy With $25? Answers from Execs](https://www.youtube.com/shorts/RIqLHwfg7oI)
+- [Budget Bytes: Azure Data Leaders on AI &amp; Budget &lpar;Sneak Peek&rpar;](https://www.youtube.com/watch?v=BaGqdGds-eM)
 - [Foundry IQ: Building the Data Pipeline with Knowledge Sources](https://www.youtube.com/watch?v=8NMH6--qm1k)
 - [Containerization Assist - Simplifying Modern App Delivery](https://www.youtube.com/shorts/e9fniCosMDY)
 - [Containerization Assist - Simplifying Modern App Delivery](https://www.youtube.com/watch?v=vKS6Uq-LLNs)
-- [Azure Cosmos DB Conf 2026 | Live Stream](https://www.youtube.com/watch?v=OdPFriVuKtU)
-- [Introducing Migration Assistant for SQL database in Fabric &lpar;Preview&rpar;](https://www.youtube.com/watch?v=iyNiU7trims)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
