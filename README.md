@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Reinventing pharmacy operations with low‑code tools | EP10 | Keeping it Real](https://www.youtube.com/watch?v=QOtAB51gw_U)
 - [Check out Keith Atherton&#39;s top #MicrosoftCommunity highlights!](https://www.youtube.com/shorts/ybflzHXB4Ws)
 - [Episode 10 of Keeping It Real with Summit Bajracharya coming soon!](https://www.youtube.com/watch?v=MrJBG9Ohy2Y)
 - [Graebel Transforms AP Automation with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=R4f3gp1nBwk)
 - [Elevating Workflows with Agentic Intelligence | EP08 | Understanding Agents](https://www.youtube.com/watch?v=dQcmAOARzvw)
-- [Work IQ: Microsoft Teams MCP server | Power Platform Shorts](https://www.youtube.com/watch?v=7dFU2TEun48)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
