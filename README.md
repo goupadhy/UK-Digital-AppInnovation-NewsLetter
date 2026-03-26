@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [From apps to agents: Rearchitecting enterprise work around intent](https://www.microsoft.com/en-us/power-platform/blog/2026/03/12/from-apps-to-agents-rearchitecting-enterprise-work-around-intent/)
 - [Infuse intelligent experiences into Power Pages sites with the new Agent API](https://www.microsoft.com/en-us/power-platform/blog/power-pages/infuse-intelligent-experiences-into-power-pages-sites-with-the-new-agent-api/)
 - [Seamlessly embed Copilot Studio agents into Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/seamlessly-embed-copilot-studio-agents-into-power-pages/)
 - [A new way of working is taking shape: Frontier Transformation](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/09/a-new-way-of-working-is-taking-shape-frontier-transformation/%20)
 - [New enhancements to work queues that will transform how your teams manage and monitor automated workflows.](https://www.microsoft.com/en-us/power-platform/blog/power-automate/new-enhancements-to-work-queues-that-will-transform-how-your-teams-manage-and-monitor-automated-workflows/)
+- [Agentic business transformation: What leaders need to get right](https://www.microsoft.com/en-us/power-platform/blog/2026/03/03/agentic-business-transformation-what-leaders-need-to-get-right/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
