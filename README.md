@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The Transformation of the Developer Role with AI Agents](https://www.youtube.com/watch?v=0HI3OIi-YJY)
 - [What&#39;s New in Microsoft SQL at SQLCon/FabCon | Data Exposed](https://www.youtube.com/watch?v=9YN_7_yx7bs)
 - [What Would You Buy With $25? Answers from Execs](https://www.youtube.com/shorts/RIqLHwfg7oI)
 - [Budget Bytes: Azure Data Leaders on AI &amp; Budget &lpar;Sneak Peek&rpar;](https://www.youtube.com/watch?v=BaGqdGds-eM)
 - [Foundry IQ: Building the Data Pipeline with Knowledge Sources](https://www.youtube.com/watch?v=8NMH6--qm1k)
-- [Containerization Assist - Simplifying Modern App Delivery](https://www.youtube.com/shorts/e9fniCosMDY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
