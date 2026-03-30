@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Native Regex in SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=7-9uAZ8FgCE)
 - [GitHub Copilot Dev Days are Here! Meet Lucky on April 4th!](https://www.youtube.com/shorts/cIeZT79P5y4)
 - [The Transformation of the Developer Role with AI Agents](https://www.youtube.com/watch?v=0HI3OIi-YJY)
 - [What&#39;s New in Microsoft SQL at SQLCon/FabCon | Data Exposed](https://www.youtube.com/watch?v=9YN_7_yx7bs)
 - [What Would You Buy With $25? Answers from Execs](https://www.youtube.com/shorts/RIqLHwfg7oI)
-- [Budget Bytes: Azure Data Leaders on AI &amp; Budget &lpar;Sneak Peek&rpar;](https://www.youtube.com/watch?v=BaGqdGds-eM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
