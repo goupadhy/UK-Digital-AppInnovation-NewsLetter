@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Prevent accidental exposure of non-production Power Pages sites with new admin governance controls](https://www.microsoft.com/en-us/power-platform/blog/power-pages/prevent-accidental-exposure-of-non-production-power-pages-sites-with-new-admin-governance-controls/)
+- [Safeguard, Restore, and Manage Deleted Records in Microsoft Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2026/03/25/restore-deleted-records/)
+- [What’s new in Power Platform: March 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-march-2026-feature-update/)
+- [2026 release wave 1 plans for Microsoft Dynamics 365, Microsoft Power Platform, and Copilot Studio offerings](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/18/2026-release-wave-1-plans-for-microsoft-dynamics-365-microsoft-power-platform-and-copilot-studio-offerings/)
 - [From apps to agents: Rearchitecting enterprise work around intent](https://www.microsoft.com/en-us/power-platform/blog/2026/03/12/from-apps-to-agents-rearchitecting-enterprise-work-around-intent/)
-- [Infuse intelligent experiences into Power Pages sites with the new Agent API](https://www.microsoft.com/en-us/power-platform/blog/power-pages/infuse-intelligent-experiences-into-power-pages-sites-with-the-new-agent-api/)
-- [Seamlessly embed Copilot Studio agents into Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/seamlessly-embed-copilot-studio-agents-into-power-pages/)
-- [A new way of working is taking shape: Frontier Transformation](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/03/09/a-new-way-of-working-is-taking-shape-frontier-transformation/%20)
-- [New enhancements to work queues that will transform how your teams manage and monitor automated workflows.](https://www.microsoft.com/en-us/power-platform/blog/power-automate/new-enhancements-to-work-queues-that-will-transform-how-your-teams-manage-and-monitor-automated-workflows/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
