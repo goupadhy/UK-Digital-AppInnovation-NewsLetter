@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Building Dynamic Agents in Microsoft Copilot Studio using Tools and Instructions](https://www.youtube.com/watch?v=Nje8ReG1tso)
 - [Agent Governance in Microsoft 365 Admin Center](https://www.youtube.com/watch?v=EGeX-ElBpi8)
 - [Real world Agent Case Studies: Tienda Cuadra + Algoritmo IT and Templafy](https://www.youtube.com/watch?v=sLcjMjYmAkg)
 - [From Prompts to Python Code Interpreter in Microsoft Copilot Studio](https://www.youtube.com/watch?v=5NBgKvMfx_o)
 - [Sameer Bhangar | EP01 | The Next Big Bite](https://www.youtube.com/watch?v=qreiKO-Xpac)
-- [The Next Big Bite coming soon!](https://www.youtube.com/watch?v=O0XqkGtKRFg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
