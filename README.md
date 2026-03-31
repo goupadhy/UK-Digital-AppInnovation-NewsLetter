@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Sameer Bhangar | EP01 | The Next Big Bite](https://www.youtube.com/watch?v=qreiKO-Xpac)
 - [The Next Big Bite coming soon!](https://www.youtube.com/watch?v=O0XqkGtKRFg)
 - [Fix duplicate actions and SharePoint item limits in Power Automate | EP03 | Ask a Community Pro](https://www.youtube.com/watch?v=XaMMMyVAl-U)
 - [Expedite professional growth by using creative Growth Prompts | EP15 | Power Up Minute](https://www.youtube.com/watch?v=iw0BP40aMfo)
 - [Reinventing pharmacy operations with low‑code tools | EP10 | Keeping it Real](https://www.youtube.com/watch?v=QOtAB51gw_U)
-- [Check out Keith Atherton&#39;s top #MicrosoftCommunity highlights!](https://www.youtube.com/shorts/ybflzHXB4Ws)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
