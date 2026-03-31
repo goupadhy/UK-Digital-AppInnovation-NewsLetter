@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Agent Governance in Microsoft 365 Admin Center](https://www.youtube.com/watch?v=EGeX-ElBpi8)
+- [Real world Agent Case Studies: Tienda Cuadra + Algoritmo IT and Templafy](https://www.youtube.com/watch?v=sLcjMjYmAkg)
 - [From Prompts to Python Code Interpreter in Microsoft Copilot Studio](https://www.youtube.com/watch?v=5NBgKvMfx_o)
 - [Sameer Bhangar | EP01 | The Next Big Bite](https://www.youtube.com/watch?v=qreiKO-Xpac)
 - [The Next Big Bite coming soon!](https://www.youtube.com/watch?v=O0XqkGtKRFg)
-- [Fix duplicate actions and SharePoint item limits in Power Automate | EP03 | Ask a Community Pro](https://www.youtube.com/watch?v=XaMMMyVAl-U)
-- [Expedite professional growth by using creative Growth Prompts | EP15 | Power Up Minute](https://www.youtube.com/watch?v=iw0BP40aMfo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
