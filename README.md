@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How to Turn SQL Database changes into Real-Time Intelligence with Fabric Eventstreams | Data Exposed](https://www.youtube.com/watch?v=63awEoYxEGg)
+- [Foundry IQ: Querying the Multi-Source AI Knowledge Bases](https://www.youtube.com/watch?v=BU59cYcz4WU)
 - [AI and Astrophotography, in John Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/shorts/85PcfIC-HSk)
 - [From Backyard Telescopes to AI‑Powered Art Sales, on Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/watch?v=rPPE--jBMxY)
 - [Native Regex in SQL Server 2025 | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=7-9uAZ8FgCE)
-- [GitHub Copilot Dev Days are Here! Meet Lucky on April 4th!](https://www.youtube.com/shorts/cIeZT79P5y4)
-- [The Transformation of the Developer Role with AI Agents](https://www.youtube.com/watch?v=0HI3OIi-YJY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
