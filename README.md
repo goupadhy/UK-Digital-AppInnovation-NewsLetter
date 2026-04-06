@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [FTRSA and the latest release of copilot studio kit](https://www.youtube.com/watch?v=V7e_sNQHPOY)
 - [How did Shane Young start his #MicrosoftCommunity content creation journey?](https://www.youtube.com/shorts/mezMSarQ_Rc)
 - [Who’s Using Copilot Studio? | State Farm Accelerates Translation with AI](https://www.youtube.com/watch?v=bZ7hFm7mmQE)
 - [Check out EP03 of Ask a Community Pro with Scott Shearer!](https://www.youtube.com/shorts/SRP-f1i4cOI)
 - [Building Dynamic Agents in Microsoft Copilot Studio using Tools and Instructions](https://www.youtube.com/watch?v=Nje8ReG1tso)
-- [Agent Governance in Microsoft 365 Admin Center](https://www.youtube.com/watch?v=EGeX-ElBpi8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
