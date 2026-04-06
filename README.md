@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Public Preview: Your business apps, now part of every conversation](https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-your-business-apps-now-part-of-every-conversation/)
-- [​Building trustworthy AI: A practical framework for adaptive governance](https://www.microsoft.com/en-us/power-platform/blog/2026/04/01/building-trustworthy-ai-a-practical-framework-for-adaptive-governance/)
 - [Announcing General Availability (GA) of Server Logic in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-ga-of-server-logic-in-power-pages/)
 - [Generative AI Search and Data Summarization Now Available in Power Pages for U.S. Government Clouds](https://www.microsoft.com/en-us/power-platform/blog/power-pages/generative-ai-search-and-data-summarization-now-available-in-power-pages-for-u-s-government-clouds/)
 - [Prevent accidental exposure of non-production Power Pages sites with new admin governance controls](https://www.microsoft.com/en-us/power-platform/blog/power-pages/prevent-accidental-exposure-of-non-production-power-pages-sites-with-new-admin-governance-controls/)
+- [Safeguard, Restore, and Manage Deleted Records in Microsoft Dataverse](https://www.microsoft.com/en-us/power-platform/blog/2026/03/25/restore-deleted-records/)
+- [What’s new in Power Platform: March 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-march-2026-feature-update/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
