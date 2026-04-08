@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Come take a Big Bite with Sameer Banghar!](https://www.youtube.com/shorts/aR63tvLRyjE)
+- [Catch up with Dian Taylor as we &#39;Ask a Community Pro&#39;!](https://www.youtube.com/shorts/YZ04mo9c_2w)
 - [How do you get started in the #PowerPlatform forums?](https://www.youtube.com/shorts/lHkZzLiHfZk)
 - [NFP Scales Risk Management with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=H1jLIbLXZCs)
 - [Have you tasted The Next Big Bite?](https://www.youtube.com/shorts/vPxnlDv7xK8)
-- [FTRSA and the latest release of copilot studio kit](https://www.youtube.com/watch?v=V7e_sNQHPOY)
-- [How did Shane Young start his #MicrosoftCommunity content creation journey?](https://www.youtube.com/shorts/mezMSarQ_Rc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
