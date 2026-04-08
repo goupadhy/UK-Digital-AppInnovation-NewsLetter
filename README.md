@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How do you get started in the #PowerPlatform forums?](https://www.youtube.com/shorts/lHkZzLiHfZk)
 - [NFP Scales Risk Management with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=H1jLIbLXZCs)
 - [Have you tasted The Next Big Bite?](https://www.youtube.com/shorts/vPxnlDv7xK8)
 - [FTRSA and the latest release of copilot studio kit](https://www.youtube.com/watch?v=V7e_sNQHPOY)
 - [How did Shane Young start his #MicrosoftCommunity content creation journey?](https://www.youtube.com/shorts/mezMSarQ_Rc)
-- [Who’s Using Copilot Studio? | State Farm Accelerates Translation with AI](https://www.youtube.com/watch?v=bZ7hFm7mmQE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
