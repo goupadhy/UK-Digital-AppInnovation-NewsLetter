@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Frontier Firms Find a Return on Intelligence](https://www.youtube.com/shorts/ydOFSLUUQR8)
 - [AI Innovations for Energy: Microsoft Agora House Tour at CeraWeek](https://www.youtube.com/watch?v=Ti9anYmdDHA)
 - [Ralph Lauren Reinvents Shopping with AI](https://www.youtube.com/shorts/BWEc9b42kL0)
 - [Powering AI: Aalo Atomics’ Nuclear Revolution and AI-Driven Permitting](https://www.youtube.com/watch?v=3xG1TDUpN0U)
 - [Microsoft-NVIDIA collaborate on AI for nuclear](https://www.youtube.com/watch?v=RarBlyP99l4)
-- [Regard integrates their AI platform with Microsoft Dragon Copilot](https://www.youtube.com/watch?v=x-gt27Zf5d4)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
