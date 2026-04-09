@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Next-Level SQL in VS Code: GitHub Copilot Custom Instructions, Plan Mode &amp; Skills | Data Exposed](https://www.youtube.com/watch?v=noEj1AhZUwE)
 - [Beyond Copilot: AI Agents That Build, Debug and Govern Power Automate Flows](https://www.youtube.com/watch?v=-aGW0doffZM)
 - [Setting Up Figma MCP Server in VS Code](https://www.youtube.com/shorts/noehsI6cAEc)
 - [How can AI help me modernize my app?](https://www.youtube.com/watch?v=DgIweLo3-Oo)
 - [How can AI help me modernize my app?](https://www.youtube.com/shorts/ppHWnhw2BUM)
-- [GitHub Copilot Dev Days are Here! We&#39;re in Chennai on 4/11](https://www.youtube.com/shorts/Pl7wYzQzQ-w)
 <!-- YOUTUBEAPPMOD:END -->
 
 
