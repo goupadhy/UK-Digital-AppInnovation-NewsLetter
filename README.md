@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [AI in Operational Excellence - Start Intentionally](https://www.youtube.com/shorts/hhgagiXLSOg)
+- [Use AI to Achieve Operational Excellence with the Well-Architected Framework practices](https://www.youtube.com/watch?v=PRpYptDTe4o)
 - [AI, Budget, and the Future of Databases](https://www.youtube.com/watch?v=vc2kcT-75J8)
 - [Next-Level SQL in VS Code: GitHub Copilot Custom Instructions, Plan Mode &amp; Skills | Data Exposed](https://www.youtube.com/watch?v=noEj1AhZUwE)
 - [Beyond Copilot: AI Agents That Build, Debug and Govern Power Automate Flows](https://www.youtube.com/watch?v=-aGW0doffZM)
-- [Setting Up Figma MCP Server in VS Code](https://www.youtube.com/shorts/noehsI6cAEc)
-- [How can AI help me modernize my app?](https://www.youtube.com/watch?v=DgIweLo3-Oo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
