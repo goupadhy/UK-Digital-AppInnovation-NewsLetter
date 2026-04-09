@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Catch-up with Summit Bajracharya who&#39;s Keeping It Real with #PowerPlatform!](https://www.youtube.com/shorts/T5o2g5LJ184)
 - [Come take a Big Bite with Sameer Banghar!](https://www.youtube.com/shorts/aR63tvLRyjE)
 - [Catch up with Dian Taylor as we &#39;Ask a Community Pro&#39;!](https://www.youtube.com/shorts/YZ04mo9c_2w)
 - [How do you get started in the #PowerPlatform forums?](https://www.youtube.com/shorts/lHkZzLiHfZk)
 - [NFP Scales Risk Management with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=H1jLIbLXZCs)
-- [Have you tasted The Next Big Bite?](https://www.youtube.com/shorts/vPxnlDv7xK8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
