@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Catch-up with EP06 of Keeping It Real with Savio Fernandes!](https://www.youtube.com/shorts/9K_MZMfh6co)
 - [Catch-up with EP09 of Keeping It Real with Greg Stirewalt!](https://www.youtube.com/shorts/YRRjLbHid8c)
 - [Microsoft Business Applications Update 2026 coming soon!](https://www.youtube.com/watch?v=RTBggeLf4Pk)
 - [Catch-up with Summit Bajracharya who&#39;s Keeping It Real with #PowerPlatform!](https://www.youtube.com/shorts/T5o2g5LJ184)
 - [Come take a Big Bite with Sameer Banghar!](https://www.youtube.com/shorts/aR63tvLRyjE)
-- [Catch up with Dian Taylor as we &#39;Ask a Community Pro&#39;!](https://www.youtube.com/shorts/YZ04mo9c_2w)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
