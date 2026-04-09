@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [AI, Budget, and the Future of Databases](https://www.youtube.com/watch?v=vc2kcT-75J8)
 - [Next-Level SQL in VS Code: GitHub Copilot Custom Instructions, Plan Mode &amp; Skills | Data Exposed](https://www.youtube.com/watch?v=noEj1AhZUwE)
 - [Beyond Copilot: AI Agents That Build, Debug and Govern Power Automate Flows](https://www.youtube.com/watch?v=-aGW0doffZM)
 - [Setting Up Figma MCP Server in VS Code](https://www.youtube.com/shorts/noehsI6cAEc)
 - [How can AI help me modernize my app?](https://www.youtube.com/watch?v=DgIweLo3-Oo)
-- [How can AI help me modernize my app?](https://www.youtube.com/shorts/ppHWnhw2BUM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
