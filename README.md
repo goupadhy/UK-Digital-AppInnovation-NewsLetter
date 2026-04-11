@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [What’s new in Power Platform: April 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/04/09/whats-new-in-power-platform-april-2026-feature-update/)
 - [Power Platform Monitor Alerts Are Now Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-monitor-alerts-are-now-generally-available/)
 - [Scaling AI with purpose: How organizations are balancing ambition and control](https://www.microsoft.com/en-us/power-platform/blog/2026/04/08/scaling-ai-with-purpose-how-organizations-are-balancing-ambition-and-control/)
 - [Public Preview: Your business apps, now part of every conversation](https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-your-business-apps-now-part-of-every-conversation/)
 - [​Building trustworthy AI: A practical framework for adaptive governance](https://www.microsoft.com/en-us/power-platform/blog/2026/04/01/building-trustworthy-ai-a-practical-framework-for-adaptive-governance/)
-- [Announcing General Availability (GA) of Server Logic in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-general-availability-ga-of-server-logic-in-power-pages/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
