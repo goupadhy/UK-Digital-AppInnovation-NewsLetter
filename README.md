@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Are you ready for a Big Bite of the #PowerPlatform community?](https://www.youtube.com/shorts/Py0jsOVxeOQ)
+- [Creating automatic opportunity renewals in Power Automate | EP04 | Ask a Community Pro](https://www.youtube.com/watch?v=RC81jAl3XBo)
+- [Microsoft Business Applications Update | 04-15-26](https://www.youtube.com/watch?v=2wyQezVZqOs)
 - [Reinventing pharmacy operations with #PowerPlatform!](https://www.youtube.com/shorts/socb8UoVwPs)
 - [Stop waiting for perfect and Keep It Real!](https://www.youtube.com/shorts/KWZF40sx2b4)
-- [Take a Big Bite into the #PowerPlatform community!](https://www.youtube.com/shorts/BwU_1A1Fg5s)
-- [Catch-up with EP07 of &quot;Keeping It Real&quot; with Diane Fligiel!](https://www.youtube.com/shorts/AQdq9F-wsCU)
-- [Catch-up with EP06 of Keeping It Real with Savio Fernandes!](https://www.youtube.com/shorts/9K_MZMfh6co)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
