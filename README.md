@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [AI in Operational Excellence - Start Intentionally](https://www.youtube.com/shorts/hhgagiXLSOg)
-- [Use AI to Achieve Operational Excellence with the Well-Architected Framework practices](https://www.youtube.com/watch?v=PRpYptDTe4o)
-- [AI, Budget, and the Future of Databases](https://www.youtube.com/watch?v=vc2kcT-75J8)
-- [Next-Level SQL in VS Code: GitHub Copilot Custom Instructions, Plan Mode &amp; Skills | Data Exposed](https://www.youtube.com/watch?v=noEj1AhZUwE)
-- [Beyond Copilot: AI Agents That Build, Debug and Govern Power Automate Flows](https://www.youtube.com/watch?v=-aGW0doffZM)
+- [PostgreSQL Like a Pro: Experience performance under pressure with PostgreSQL on Azure](https://www.youtube.com/watch?v=jZHWptNT71I)
+- [Trailer: PostgreSQL Like a Pro](https://www.youtube.com/watch?v=p8FGGlgQCMo)
+- [PostgreSQL Like a Pro: Migrate with confidence to fast, future-ready PostgreSQL on Azure](https://www.youtube.com/watch?v=Suvakz3yJgM)
+- [PostgreSQL Like a Pro: Build smart and secure agents with PostgreSQL on Azure](https://www.youtube.com/watch?v=aMqrpk6ge9A)
+- [PostgreSQL Like a Pro: Build mission-critical apps at any scale with Azure HorizonDB](https://www.youtube.com/watch?v=-iG5a0O5_wk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
