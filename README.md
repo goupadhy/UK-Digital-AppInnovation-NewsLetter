@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Supervise autonomous agents with agent feed | Power Platform Shorts](https://www.youtube.com/watch?v=tS1mIJHY2EU)
+- [How to use Agent Evaluation in Microsoft Copilot Studio](https://www.youtube.com/watch?v=VwjKUXsfsVQ)
 - [Transforming #PowerApps with #Copilot in EP09 of Keeping It Real!](https://www.youtube.com/shorts/hkwheWU75c0)
 - [Are you ready for a Big Bite of the #PowerPlatform community?](https://www.youtube.com/shorts/Py0jsOVxeOQ)
 - [Creating automatic opportunity renewals in Power Automate | EP04 | Ask a Community Pro](https://www.youtube.com/watch?v=RC81jAl3XBo)
-- [Microsoft Business Applications Update | 04-15-26](https://www.youtube.com/watch?v=2wyQezVZqOs)
-- [Reinventing pharmacy operations with #PowerPlatform!](https://www.youtube.com/shorts/socb8UoVwPs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
