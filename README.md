@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cost Estimation: Navigate Database Pricing](https://www.youtube.com/watch?v=fZVa-kYJ2i8)
 - [PostgreSQL Like a Pro: Experience performance under pressure with PostgreSQL on Azure](https://www.youtube.com/watch?v=jZHWptNT71I)
 - [Trailer: PostgreSQL Like a Pro](https://www.youtube.com/watch?v=p8FGGlgQCMo)
 - [PostgreSQL Like a Pro: Migrate with confidence to fast, future-ready PostgreSQL on Azure](https://www.youtube.com/watch?v=Suvakz3yJgM)
 - [PostgreSQL Like a Pro: Build smart and secure agents with PostgreSQL on Azure](https://www.youtube.com/watch?v=aMqrpk6ge9A)
-- [PostgreSQL Like a Pro: Build mission-critical apps at any scale with Azure HorizonDB](https://www.youtube.com/watch?v=-iG5a0O5_wk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
