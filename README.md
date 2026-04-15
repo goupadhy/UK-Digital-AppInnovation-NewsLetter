@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Organizational success with AI Agents real world case studies](https://www.youtube.com/watch?v=u2EZg241tZ0)
+- [This is what adoption really looks like!](https://www.youtube.com/shorts/nLYT_cIvAFk)
+- [Sharing is caring in the #PowerPlatform community!](https://www.youtube.com/shorts/haLbeTilrqg)
 - [Microsoft Copilot Studio | 2026 Release Wave 1](https://www.youtube.com/watch?v=es3ozt12dqs)
 - [Microsoft Power Pages | 2026 Release Wave 1](https://www.youtube.com/watch?v=Ac9-m1Zw5WE)
-- [Microsoft Power Apps | 2026 Release Wave 1](https://www.youtube.com/watch?v=Aq0NzW6SxCg)
-- [Microsoft Power Automate | 2026 Release Wave 1](https://www.youtube.com/watch?v=-dnlgwav7FU)
-- [Building a Canvas app with Savio Fernandes!](https://www.youtube.com/shorts/4Ty7vFU6U5g)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
