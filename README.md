@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Using AI to Generate Transitions Between Nebula Images](https://www.youtube.com/shorts/R7FZzHZge_Q)
 - [Azure Cost Estimation: Navigate Database Pricing](https://www.youtube.com/watch?v=fZVa-kYJ2i8)
 - [PostgreSQL Like a Pro: Experience performance under pressure with PostgreSQL on Azure](https://www.youtube.com/watch?v=jZHWptNT71I)
 - [Trailer: PostgreSQL Like a Pro](https://www.youtube.com/watch?v=p8FGGlgQCMo)
 - [PostgreSQL Like a Pro: Migrate with confidence to fast, future-ready PostgreSQL on Azure](https://www.youtube.com/watch?v=Suvakz3yJgM)
-- [PostgreSQL Like a Pro: Build smart and secure agents with PostgreSQL on Azure](https://www.youtube.com/watch?v=aMqrpk6ge9A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
