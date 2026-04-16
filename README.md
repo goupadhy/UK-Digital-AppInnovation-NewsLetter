@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Agent Framework releasing version 1.0](https://www.youtube.com/watch?v=suBDqt4677I)
+- [Get Started with Foundry Toolkit for VS Code](https://www.youtube.com/watch?v=_b2Dyetu4dY)
+- [Introducing SQL projects in SSMS | Data Exposed](https://www.youtube.com/watch?v=HE0t7IpOsuM)
+- [Using Microsoft Agent Framework with Foundry managed memory](https://www.youtube.com/watch?v=DZn9bNDEs4U)
 - [Using AI to Generate Transitions Between Nebula Images](https://www.youtube.com/shorts/R7FZzHZge_Q)
-- [Azure Cost Estimation: Navigate Database Pricing](https://www.youtube.com/watch?v=fZVa-kYJ2i8)
-- [PostgreSQL Like a Pro: Experience performance under pressure with PostgreSQL on Azure](https://www.youtube.com/watch?v=jZHWptNT71I)
-- [Trailer: PostgreSQL Like a Pro](https://www.youtube.com/watch?v=p8FGGlgQCMo)
-- [PostgreSQL Like a Pro: Migrate with confidence to fast, future-ready PostgreSQL on Azure](https://www.youtube.com/watch?v=Suvakz3yJgM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
