@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Low Code + Pro Code = Sky’s the Limit!](https://www.youtube.com/shorts/Dnw1Qs9rOqc)
+- [Catch-up with EP08 of Keeping It Real with Brian Hodel!](https://www.youtube.com/shorts/dQwzTsceNRM)
 - [Microsoft Business Applications Update | Power Platform and Copilot Studio | Spring 2026](https://www.youtube.com/watch?v=HbvymtBBzXA)
 - [Organizational success with AI Agents real world case studies](https://www.youtube.com/watch?v=u2EZg241tZ0)
 - [This is what adoption really looks like!](https://www.youtube.com/shorts/nLYT_cIvAFk)
-- [Sharing is caring in the #PowerPlatform community!](https://www.youtube.com/shorts/haLbeTilrqg)
-- [Microsoft Copilot Studio | 2026 Release Wave 1](https://www.youtube.com/watch?v=es3ozt12dqs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
