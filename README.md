@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [When One Agent Isn’t Enough: Multi‑Agent Systems in Copilot Studio](https://www.youtube.com/watch?v=kU0BI-btQRQ)
 - [Low Code + Pro Code = Sky’s the Limit!](https://www.youtube.com/shorts/Dnw1Qs9rOqc)
 - [Catch-up with EP08 of Keeping It Real with Brian Hodel!](https://www.youtube.com/shorts/dQwzTsceNRM)
 - [Microsoft Business Applications Update | Power Platform and Copilot Studio | Spring 2026](https://www.youtube.com/watch?v=HbvymtBBzXA)
 - [Organizational success with AI Agents real world case studies](https://www.youtube.com/watch?v=u2EZg241tZ0)
-- [This is what adoption really looks like!](https://www.youtube.com/shorts/nLYT_cIvAFk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
