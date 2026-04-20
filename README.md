@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [From Paper to Platform: Reimagine Trade Finance with GenAI](https://www.youtube.com/watch?v=gqT3URbyK2k)
 - [Microsoft Agent Factory: Bridge the gap from ideas to outcomes, faster](https://www.youtube.com/watch?v=oavX2jaFZpw)
 - [Coca-Cola’s Global Tech Conundrum](https://www.youtube.com/shorts/lJQmGkWN9zk)
 - [Microsoft at Hannover Messe](https://www.youtube.com/watch?v=2OSnZC4Lh1w)
 - [Frontier Firms Find a Return on Intelligence](https://www.youtube.com/shorts/ydOFSLUUQR8)
-- [AI Innovations for Energy: Microsoft Agora House Tour at CeraWeek](https://www.youtube.com/watch?v=Ti9anYmdDHA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
