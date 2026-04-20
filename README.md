@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [From Community Volunteer to Microsoft MVP | Community Spotlight | Drizzle Pablo](https://www.youtube.com/watch?v=hnVnKx_L3Kw)
 - [Orbit App and Generative Pages with Brian Hodel](https://www.youtube.com/shorts/W59JIIbAmJw)
 - [When One Agent Isn’t Enough: Multi‑Agent Systems in Copilot Studio](https://www.youtube.com/watch?v=kU0BI-btQRQ)
 - [Low Code + Pro Code = Sky’s the Limit!](https://www.youtube.com/shorts/Dnw1Qs9rOqc)
 - [Catch-up with EP08 of Keeping It Real with Brian Hodel!](https://www.youtube.com/shorts/dQwzTsceNRM)
-- [Microsoft Business Applications Update | Power Platform and Copilot Studio | Spring 2026](https://www.youtube.com/watch?v=HbvymtBBzXA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
