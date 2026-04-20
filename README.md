@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [How did being a #MicrosoftMVP impact Geetha Sivasailam career?](https://www.youtube.com/shorts/N5sFXDgEMdk)
+- [How did becoming a #MicrosoftMVP impact Geetha Sivasailam career?](https://www.youtube.com/shorts/N5sFXDgEMdk)
 - [Learn how to create enterprise‑ready AI solutions!](https://www.youtube.com/shorts/QG0AyNDoJZE)
 - [From Community Volunteer to Microsoft MVP | Community Spotlight | Drizzle Pablo](https://www.youtube.com/watch?v=hnVnKx_L3Kw)
 - [Orbit App and Generative Pages with Brian Hodel](https://www.youtube.com/shorts/W59JIIbAmJw)
