@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Building an Intelligent Vendor Onboarding Agent with Copilot Studio](https://www.youtube.com/watch?v=iq_AKD9Yb_Y)
 - [Does UX Matter?](https://www.youtube.com/shorts/d9m4vy01oP8)
 - [Microsoft Agent Framework releasing version 1.0](https://www.youtube.com/watch?v=suBDqt4677I)
 - [Get Started with Foundry Toolkit for VS Code](https://www.youtube.com/watch?v=_b2Dyetu4dY)
 - [Introducing SQL projects in SSMS: A new Database DevOps workflow  | Data Exposed](https://www.youtube.com/watch?v=HE0t7IpOsuM)
-- [Using Microsoft Agent Framework with Foundry managed memory](https://www.youtube.com/watch?v=DZn9bNDEs4U)
 <!-- YOUTUBEAPPMOD:END -->
 
 
