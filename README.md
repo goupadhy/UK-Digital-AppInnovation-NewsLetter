@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How does Geetha Sivasailam share knowledge with the #PowerPlatform community?](https://www.youtube.com/shorts/4-eqyhSkHS8)
 - [Add an agent to the agent feed | Power Platform Shorts](https://www.youtube.com/watch?v=D6cWfvxMxMI)
 - [Dataverse – Hyperscale with key AI capabilities](https://www.youtube.com/watch?v=qC377MGZ0w8)
 - [Understanding Agents Session Nine | 04-22-26](https://www.youtube.com/watch?v=s0t5mKIKF1s)
 - [How did becoming a #MicrosoftMVP impact Geetha Sivasailam career?](https://www.youtube.com/shorts/N5sFXDgEMdk)
-- [Learn how to create enterprise‑ready AI solutions!](https://www.youtube.com/shorts/QG0AyNDoJZE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
