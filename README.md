@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Avoiding Faster Nonsense](https://www.youtube.com/shorts/WBxfJJ97Sy4)
 - [SXSW Tip #1 - Maintain a Working Replica](https://www.youtube.com/shorts/V51-p0ED5pg)
 - [SXSW Tip #1 - Maintain a Working Replica](https://www.youtube.com/watch?v=WgbcomoVlHk)
 - [Taming the Data Estate with Copilot and Azure Service Monitor | MVP Unplugged](https://www.youtube.com/watch?v=fnQdd5dRQ_w)
 - [DALEC Developer Experience: Declarative Builds and IDE Integration](https://www.youtube.com/watch?v=npl-naNYvDY)
-- [Building an Intelligent Vendor Onboarding Agent with Copilot Studio](https://www.youtube.com/watch?v=iq_AKD9Yb_Y)
 <!-- YOUTUBEAPPMOD:END -->
 
 
