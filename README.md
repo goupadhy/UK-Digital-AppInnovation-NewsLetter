@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SXSW Tip #1 - Maintain a Working Replica](https://www.youtube.com/shorts/V51-p0ED5pg)
+- [SXSW Tip #1 - Maintain a Working Replica](https://www.youtube.com/watch?v=WgbcomoVlHk)
 - [Taming the Data Estate with Copilot and Azure Service Monitor | MVP Unplugged](https://www.youtube.com/watch?v=fnQdd5dRQ_w)
 - [DALEC Developer Experience: Declarative Builds and IDE Integration](https://www.youtube.com/watch?v=npl-naNYvDY)
 - [Building an Intelligent Vendor Onboarding Agent with Copilot Studio](https://www.youtube.com/watch?v=iq_AKD9Yb_Y)
-- [Does UX Matter?](https://www.youtube.com/shorts/d9m4vy01oP8)
-- [Microsoft Agent Framework releasing version 1.0](https://www.youtube.com/watch?v=suBDqt4677I)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
