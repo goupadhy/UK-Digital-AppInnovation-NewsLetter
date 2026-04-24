@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What was Geetha Sivasailam&#39;s stand out #PowerPlatform community moment?](https://www.youtube.com/shorts/KgoDVJC_M90)
 - [How to stop drowning in documents with Ashvini Sharma | EP02 | Perspectives](https://www.youtube.com/watch?v=x5Y975HDOWk)
 - [Informatica Alto Adige accelerates digital services with AI agents | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=hZh4VLfEBzQ)
 - [How does Geetha Sivasailam share knowledge with the #PowerPlatform community?](https://www.youtube.com/shorts/4-eqyhSkHS8)
 - [Add an agent to the agent feed | Power Platform Shorts](https://www.youtube.com/watch?v=D6cWfvxMxMI)
-- [Dataverse – Hyperscale with key AI capabilities](https://www.youtube.com/watch?v=qC377MGZ0w8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
