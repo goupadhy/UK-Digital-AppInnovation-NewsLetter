@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SXSW Tip #2 - Use a Tuned Harness](https://www.youtube.com/watch?v=KzcdqdtcUR0)
 - [SXSW Tip #2 - Use a Tuned Harness](https://www.youtube.com/shorts/a24FhMA5lmc)
 - [GitHub Copilot in SSMS: Interacting with the Results Pane | Data Exposed](https://www.youtube.com/watch?v=Fkxhv7xG_2A)
 - [Avoiding Faster Nonsense](https://www.youtube.com/shorts/WBxfJJ97Sy4)
 - [SXSW Tip #1 - Maintain a Working Replica](https://www.youtube.com/shorts/V51-p0ED5pg)
-- [SXSW Tip #1 - Maintain a Working Replica](https://www.youtube.com/watch?v=WgbcomoVlHk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
