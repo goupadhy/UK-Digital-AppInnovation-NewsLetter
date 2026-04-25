@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [More Secure SharePoint Integration in Power Pages with Site‑Scoped Permissions](https://www.microsoft.com/en-us/power-platform/blog/power-pages/more-secure-sharepoint-integration-in-power-pages-with-site%e2%80%91scoped-permissions/)
 - [Custom tools and rich UI for app-based conversations are now in Public Preview](https://www.microsoft.com/en-us/power-platform/blog/2026/04/22/custom-tools-and-rich-ui-for-app-based-conversations-are-now-in-public-preview/)
 - [Intelligent apps, human leadership, and the new shape of work ](https://www.microsoft.com/en-us/power-platform/blog/2026/04/20/intelligent-apps-human-leadership-and-the-new-shape-of-work/)
 - [Build your server-side logic with AI: new Power Pages Agentic Code skills](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-your-server-side-logic-with-ai-new-power-pages-agentic-code-skills/)
 - [Making business apps smarter with AI, Copilot, and agents in Power Apps](https://www.microsoft.com/en-us/power-platform/blog/2026/04/15/making-business-apps-smarter-with-ai-copilot-and-agents-in-power-apps/)
-- [What’s new in Power Platform: April 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/04/09/whats-new-in-power-platform-april-2026-feature-update/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
