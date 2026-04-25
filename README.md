@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How can becoming a #MicrosoftMVP impact your career?](https://www.youtube.com/shorts/jINHYlFDZ-0)
 - [Dataverse Plugin on Claude Marketplace – From Install to Connected in Minutes](https://www.youtube.com/watch?v=1RpsOmji4Ck)
 - [What was Geetha Sivasailam&#39;s stand out #PowerPlatform community moment?](https://www.youtube.com/shorts/KgoDVJC_M90)
 - [How to stop drowning in documents with Ashvini Sharma | EP02 | Perspectives](https://www.youtube.com/watch?v=x5Y975HDOWk)
 - [Informatica Alto Adige accelerates digital services with AI agents | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=hZh4VLfEBzQ)
-- [How does Geetha Sivasailam share knowledge with the #PowerPlatform community?](https://www.youtube.com/shorts/4-eqyhSkHS8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
