@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Azure SQL Migration Strategies | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=OdJxdZcFdIc)
-- [SXSW Tip #2 - Use a Tuned Harness](https://www.youtube.com/watch?v=KzcdqdtcUR0)
-- [SXSW Tip #2 - Use a Tuned Harness](https://www.youtube.com/shorts/a24FhMA5lmc)
-- [GitHub Copilot in SSMS: Interacting with the Results Pane | Data Exposed](https://www.youtube.com/watch?v=Fkxhv7xG_2A)
-- [Avoiding Faster Nonsense](https://www.youtube.com/shorts/WBxfJJ97Sy4)
+- [Migrating ASP.NET to Cosmos DB with GitHub Copilot | Sergiy Smyrnov | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=zx9cBMB6rOg)
+- [Querying &amp; Indexing in Azure Cosmos DB: Complete Guide | James Codella | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=vJeklofgJEw)
+- [Beyond Vector Search: What RAG Actually Needs | Yohan Lasorsa | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=nqaUuSoB6I0)
+- [Distributed Locks, Sagas &amp; Coordination with Cosmos DB | Eric Boyd | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=wyBJmeXqbg8)
+- [Cosmos DB Best Practices — A Lesson from Spacely Sprockets | Sid Anand | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=Yw65J4fRVj0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
