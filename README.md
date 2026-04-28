@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cosmos DB Conf 2026 | Live Stream](https://www.youtube.com/watch?v=OdPFriVuKtU)
 - [Migrating ASP.NET to Cosmos DB with GitHub Copilot | Sergiy Smyrnov | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=zx9cBMB6rOg)
 - [Querying &amp; Indexing in Azure Cosmos DB: Complete Guide | James Codella | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=vJeklofgJEw)
 - [Beyond Vector Search: What RAG Actually Needs | Yohan Lasorsa | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=nqaUuSoB6I0)
 - [Distributed Locks, Sagas &amp; Coordination with Cosmos DB | Eric Boyd | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=wyBJmeXqbg8)
-- [Cosmos DB Best Practices — A Lesson from Spacely Sprockets | Sid Anand | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=Yw65J4fRVj0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
