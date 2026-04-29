@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Visa builds autonomous AI agents for employee workflows | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=0RfRWbZKJqU)
 - [What can you learn as a #MicrosoftMVP?](https://www.youtube.com/shorts/zEoUX4BRO08)
 - [Batch Testing Tools in Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=bwOK4rxBMTU)
 - [Dataverse – Hyperscale with key AI capabilities](https://www.youtube.com/watch?v=V2hUw7PPYFc)
 - [How can becoming a #MicrosoftMVP impact your career?](https://www.youtube.com/shorts/jINHYlFDZ-0)
-- [What was Geetha Sivasailam&#39;s stand out #PowerPlatform community moment?](https://www.youtube.com/shorts/KgoDVJC_M90)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
