@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft SQL Drivers and SDKs: Python, AI, Bulk Copy, Arrow &amp; more! | Data Exposed](https://www.youtube.com/watch?v=A5PtIIlVsYI)
 - [SXSW Tip #3 - Keep a Clean Molt](https://www.youtube.com/shorts/OqV7Gsm02Ro)
 - [SXSW Tip #3 - Keep a Clean Molt](https://www.youtube.com/watch?v=mWRDwzal7eI)
 - [Powering Azure Cosmos DB with AMD EPYC | Andrew Ruffin | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=yWP5e4-PWwU)
 - [Azure Cosmos DB Conf 2026 | Live Stream](https://www.youtube.com/watch?v=OdPFriVuKtU)
-- [Migrating ASP.NET to Cosmos DB with GitHub Copilot | Sergiy Smyrnov | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=zx9cBMB6rOg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
