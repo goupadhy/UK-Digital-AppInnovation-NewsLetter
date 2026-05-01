@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How can being in the #PowerPlatform community help you grow?](https://www.youtube.com/shorts/uM4GpBJnvEs)
 - [Building a global automation framework with Power Platform | EP11 | Keeping It Real](https://www.youtube.com/watch?v=hKqXom8xqFI)
 - [Dataverse Plugin on Claude Marketplace – From Install to Connected in Minutes](https://www.youtube.com/watch?v=iLM--jlQW4I)
 - [How does Alex Rostan contribute to the #PowerPlatform community?](https://www.youtube.com/shorts/5pXVOgQJrpM)
 - [Visa builds autonomous AI agents for employee workflows | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=0RfRWbZKJqU)
-- [What can you learn as a #MicrosoftMVP?](https://www.youtube.com/shorts/zEoUX4BRO08)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
