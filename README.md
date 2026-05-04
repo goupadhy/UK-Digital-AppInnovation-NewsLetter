@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL Server Database Migration using Azure Arc Explained | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=-tQFKpLPH_U)
 - [SXSW Tip #4 - Guide to a Standing Beacon](https://www.youtube.com/shorts/nRyj0kCi7GI)
 - [SXSW Tip #4 - Guide to a Standing Beacon](https://www.youtube.com/watch?v=L6tilxumVFE)
 - [Keynote Interview: AMD&#39;s Steve Berg on the Hardware Behind Cosmos DB | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=eL-Wj27FHmM)
 - [Azure Cosmos DB Conf 2026 Keynote](https://www.youtube.com/watch?v=lOppojg4QlY)
-- [How Azure Cosmos DB Runs Under the Hood | Andrew Liu | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=A7Q_wZqUmJc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
