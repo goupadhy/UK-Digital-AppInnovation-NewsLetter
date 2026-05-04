@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Introducing business skills: Teach agents how your organization works ](https://www.microsoft.com/en-us/power-platform/blog/2026/05/01/business-skills/)
-- [From Ideas to Impact: How Frontier Firms scale agents with confidence](https://www.microsoft.com/en-us/power-platform/blog/2026/04/27/from-ideas-to-impact-how-frontier-firms-scale-agents-with-confidence/)
-- [More Secure SharePoint Integration in Power Pages with Site‑Scoped Permissions](https://www.microsoft.com/en-us/power-platform/blog/power-pages/more-secure-sharepoint-integration-in-power-pages-with-site%e2%80%91scoped-permissions/)
-- [Custom tools and rich UI for app-based conversations are now in Public Preview](https://www.microsoft.com/en-us/power-platform/blog/2026/04/22/custom-tools-and-rich-ui-for-app-based-conversations-are-now-in-public-preview/)
-- [Intelligent apps, human leadership, and the new shape of work ](https://www.microsoft.com/en-us/power-platform/blog/2026/04/20/intelligent-apps-human-leadership-and-the-new-shape-of-work/)
+- [What’s new in Power Platform: April 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/04/09/whats-new-in-power-platform-april-2026-feature-update/)
+- [Power Platform Monitor Alerts Are Now Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-monitor-alerts-are-now-generally-available/)
+- [Scaling AI with purpose: How organizations are balancing ambition and control](https://www.microsoft.com/en-us/power-platform/blog/2026/04/08/scaling-ai-with-purpose-how-organizations-are-balancing-ambition-and-control/)
+- [Public Preview: Your business apps, now part of every conversation](https://www.microsoft.com/en-us/power-platform/blog/power-apps/public-preview-your-business-apps-now-part-of-every-conversation/)
+- [​Building trustworthy AI: A practical framework for adaptive governance](https://www.microsoft.com/en-us/power-platform/blog/2026/04/01/building-trustworthy-ai-a-practical-framework-for-adaptive-governance/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
