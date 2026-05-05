@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Containerization Assist Integration with AKS VSCode Extension](https://www.youtube.com/watch?v=keiuYN6kbb8)
+- [Day in the life of AI Engineer: With a Demo](https://www.youtube.com/watch?v=Bjm8zMpMmvQ)
+- [Introducing Quest to Compile: A Show for Game Devs Building in .NET](https://www.youtube.com/shorts/gsQuWpk2fRE)
+- [Introducing Quest to Compile: A Show for Game Devs Building in .NET](https://www.youtube.com/watch?v=RpvqkzdaUD8)
 - [SQL Server Database Migration using Azure Arc Explained | Data Exposed: MVP Edition](https://www.youtube.com/watch?v=-tQFKpLPH_U)
-- [SXSW Tip #4 - Guide to a Standing Beacon](https://www.youtube.com/shorts/nRyj0kCi7GI)
-- [SXSW Tip #4 - Guide to a Standing Beacon](https://www.youtube.com/watch?v=L6tilxumVFE)
-- [Keynote Interview: AMD&#39;s Steve Berg on the Hardware Behind Cosmos DB | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=eL-Wj27FHmM)
-- [Azure Cosmos DB Conf 2026 Keynote](https://www.youtube.com/watch?v=lOppojg4QlY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
