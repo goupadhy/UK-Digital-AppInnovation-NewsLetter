@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to go from &#39;Zero to Hero&#39; with Victor Dantas!](https://www.youtube.com/shorts/jMph2MDJvUc)
 - [Using MCS agent flow natural language in Copilot Studio | Getting Started with Power Platform Shorts](https://www.youtube.com/watch?v=jPzTMOQOgE0)
 - [Business skills teach agents how your organization works](https://www.youtube.com/watch?v=HErVM-y9pLA)
 - [How can being in the #PowerPlatform community help you grow?](https://www.youtube.com/shorts/uM4GpBJnvEs)
 - [Building a global automation framework with Power Platform | EP11 | Keeping It Real](https://www.youtube.com/watch?v=hKqXom8xqFI)
-- [Dataverse Plugin on Claude Marketplace – From Install to Connected in Minutes](https://www.youtube.com/watch?v=iLM--jlQW4I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
