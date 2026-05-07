@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Azure Cosmos DB Conf 2026 Highlights](https://www.youtube.com/watch?v=sS2R3bLxgdw)
+- [Build a Unity Game with GitHub Copilot + MCP | .NET Game Development](https://www.youtube.com/watch?v=YwLIT8kAjQ0)
+- [Upgrade Java, Spring, and Jakarta EE with GitHub Copilot](https://www.youtube.com/watch?v=VwAOpu3lxdM)
+- [Make SSMS 22 Work For You: How to Customize Your Environment | Data Exposed](https://www.youtube.com/watch?v=P8aRgDUPyO0)
 - [Successfully Migrate Workloads from AWS to Azure](https://www.youtube.com/watch?v=-riwmZVzFhc)
-- [Did anyone in the ’90s expect Win32 to still be a first‑class API surface in 2026?](https://www.youtube.com/shorts/xJajOE5-gbM)
-- [Did anyone in the ’90s expect Win32 to still be a first‑class API surface in 2026?](https://www.youtube.com/watch?v=FNZJnpvgkQM)
-- [Assess Java Applications for Cloud Migration and Modernization](https://www.youtube.com/watch?v=ZjbKv1iJFok)
-- [Java Application Modernization - Series Introduction](https://www.youtube.com/watch?v=80uVjDgWaPI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
