@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Successfully Migrate Workloads from AWS to Azure](https://www.youtube.com/watch?v=-riwmZVzFhc)
 - [Did anyone in the ’90s expect Win32 to still be a first‑class API surface in 2026?](https://www.youtube.com/shorts/xJajOE5-gbM)
 - [Did anyone in the ’90s expect Win32 to still be a first‑class API surface in 2026?](https://www.youtube.com/watch?v=FNZJnpvgkQM)
 - [Assess Java Applications for Cloud Migration and Modernization](https://www.youtube.com/watch?v=ZjbKv1iJFok)
 - [Java Application Modernization - Series Introduction](https://www.youtube.com/watch?v=80uVjDgWaPI)
-- [Containerization Assist Integration with AKS VSCode Extension](https://www.youtube.com/watch?v=keiuYN6kbb8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
