@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Wanna take your first steps into the #PowerPlatform community?](https://www.youtube.com/shorts/-mhXksh9ooU)
 - [You DON&#39;T need traditional coding skills for this!](https://www.youtube.com/shorts/rLO2l2Z5-8Y)
 - [How COVID changed my career forever with #PowerPlatform!](https://www.youtube.com/shorts/h1smX-pA_nk)
 - [Agent Academy LIVE coming soon!](https://www.youtube.com/watch?v=wh0YL_Ltzhs)
 - [How to go from &#39;Zero to Hero&#39; with Victor Dantas!](https://www.youtube.com/shorts/jMph2MDJvUc)
-- [Using MCS agent flow natural language in Copilot Studio | Getting Started with Power Platform Shorts](https://www.youtube.com/watch?v=jPzTMOQOgE0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
