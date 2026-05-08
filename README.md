@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The New Industrialists | Hannover Messe 2026 Microsoft booth tour](https://www.youtube.com/watch?v=7gGCwAlSIPg)
+- [The New Industrialists | AI Transformation: Empowering the Energy Workforce](https://www.youtube.com/watch?v=kqaQtOl8DGQ)
 - [The New Industrialists | Hannover Messe Siemens Fireside Chat](https://www.youtube.com/watch?v=KkNe66VuYyU)
 - [The New Industrialists | AI Revolution in Manufacturing: Real Change, Real Results](https://www.youtube.com/watch?v=9drV0aAKSh0)
 - [The New Industrialists | How AI and Human Ingenuity Are Transforming Industry](https://www.youtube.com/watch?v=rOY1F5Eip5s)
-- [The New Industrialists | Autonomous Pipeline Optimization: Industrial Automation in Oil &amp; Gas](https://www.youtube.com/watch?v=TkW-EDWh5Uw)
-- [The New Industrialists | Transforming Manufacturing with Adaptive Cloud](https://www.youtube.com/watch?v=wgQTes-_ppc)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
