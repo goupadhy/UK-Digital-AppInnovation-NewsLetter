@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Real Experience Migrating a Java 5 / Struts 1.3 Monolithic Application to Java 21 and Spring Boot](https://www.youtube.com/watch?v=p19p-sN6Y40)
+- [Why was TypeScript created?](https://www.youtube.com/shorts/UrE9fvlPcN8)
+- [Why was TypeScript created?](https://www.youtube.com/watch?v=I2Ej8q2DDSw)
 - [Azure Cosmos DB Conf 2026 Highlights](https://www.youtube.com/watch?v=sS2R3bLxgdw)
 - [Build a Unity Game with GitHub Copilot + MCP | .NET Game Development](https://www.youtube.com/watch?v=YwLIT8kAjQ0)
-- [Upgrade Java, Spring, and Jakarta EE with GitHub Copilot](https://www.youtube.com/watch?v=VwAOpu3lxdM)
-- [Make SSMS 22 Work For You: How to Customize Your Environment | Data Exposed](https://www.youtube.com/watch?v=P8aRgDUPyO0)
-- [Successfully Migrate Workloads from AWS to Azure](https://www.youtube.com/watch?v=-riwmZVzFhc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
