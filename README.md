@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How can the #MicrosoftCommunity create change for good?](https://www.youtube.com/shorts/46qO8mORQpo)
 - [How do you go from zero to HUNDREDS of apps worldwide?!](https://www.youtube.com/shorts/TOARJK3Uafo)
 - [Wanna take your first steps into the #PowerPlatform community?](https://www.youtube.com/shorts/-mhXksh9ooU)
 - [You DON&#39;T need traditional coding skills for this!](https://www.youtube.com/shorts/rLO2l2Z5-8Y)
 - [How COVID changed my career forever with #PowerPlatform!](https://www.youtube.com/shorts/h1smX-pA_nk)
-- [Agent Academy LIVE coming soon!](https://www.youtube.com/watch?v=wh0YL_Ltzhs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
