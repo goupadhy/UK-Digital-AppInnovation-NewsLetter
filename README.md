@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Keeping It Real with #PowerPlatform featuring Filipe Mazzocchi!](https://www.youtube.com/shorts/VQO7hOfsAEQ)
+- [500,000 Agents. One Registry.](https://www.youtube.com/watch?v=9zE1M0wuTPg)
 - [How can the #MicrosoftCommunity create change for good?](https://www.youtube.com/shorts/46qO8mORQpo)
 - [How do you go from zero to HUNDREDS of apps worldwide?!](https://www.youtube.com/shorts/TOARJK3Uafo)
 - [Wanna take your first steps into the #PowerPlatform community?](https://www.youtube.com/shorts/-mhXksh9ooU)
-- [You DON&#39;T need traditional coding skills for this!](https://www.youtube.com/shorts/rLO2l2Z5-8Y)
-- [How COVID changed my career forever with #PowerPlatform!](https://www.youtube.com/shorts/h1smX-pA_nk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
