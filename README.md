@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Agent Academy Live](https://www.youtube.com/watch?v=KHJfukNZFUg)
 - [Customize Copilot Modernization Tasks](https://www.youtube.com/watch?v=_uukPcRUssg)
 - [Modernize Databases for the Cloud](https://www.youtube.com/watch?v=is2oBRZebLE)
 - [Real Experience Migrating a Java 5 / Struts 1.3 Monolithic Application to Java 21 and Spring Boot](https://www.youtube.com/watch?v=p19p-sN6Y40)
 - [Why was TypeScript created?](https://www.youtube.com/shorts/UrE9fvlPcN8)
-- [Why was TypeScript created?](https://www.youtube.com/watch?v=I2Ej8q2DDSw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
