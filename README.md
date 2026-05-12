@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Add an agent node to an agent flow | Power Platform Shorts](https://www.youtube.com/watch?v=EQi9LItZZK4)
+- [How has the #Microsoft MVP program changed your life beyond tech?](https://www.youtube.com/shorts/QxHsZR5I_3I)
 - [Agent Academy Live TODAY at 8.30am PT!](https://www.youtube.com/watch?v=ugFkR15gI0E)
 - [Dataverse Governance for AI-Powered Organizations](https://www.youtube.com/watch?v=7XPnhgnH7D8)
 - [Prompt Columns: Persisted AI Insights in Business Data](https://www.youtube.com/watch?v=YwPWYoGsBhY)
-- [Keeping It Real with #PowerPlatform featuring Filipe Mazzocchi!](https://www.youtube.com/shorts/VQO7hOfsAEQ)
-- [500,000 Agents. One Registry.](https://www.youtube.com/watch?v=9zE1M0wuTPg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
