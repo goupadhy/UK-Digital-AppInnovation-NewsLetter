@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Containerize and Deploy Java Applications](https://www.youtube.com/watch?v=SUB5jB0eCWU)
 - [Agent Hackathon Challenge Kickoff](https://www.youtube.com/watch?v=ijG4VPBn-Ls)
 - [From Build to Operate: ALM Patterns for Production‑Ready Copilot Studio Agents](https://www.youtube.com/watch?v=AXWPJN6xLY0)
 - [Inside Cowork — Vision, Roadmap and What’s Next](https://www.youtube.com/watch?v=Re9_ImKOub0)
 - [Trust but Verify: Testing Agents in Copilot Studio](https://www.youtube.com/watch?v=XtZAdhiARAc)
-- [M365 Copilot and Work IQ: Powering Agent Business workflows](https://www.youtube.com/watch?v=cKKg3pTPH2A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
