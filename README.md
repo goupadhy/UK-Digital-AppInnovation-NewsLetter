@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Agent Academy Live](https://www.youtube.com/watch?v=KHJfukNZFUg)
-- [Customize Copilot Modernization Tasks](https://www.youtube.com/watch?v=_uukPcRUssg)
-- [Modernize Databases for the Cloud](https://www.youtube.com/watch?v=is2oBRZebLE)
-- [Real Experience Migrating a Java 5 / Struts 1.3 Monolithic Application to Java 21 and Spring Boot](https://www.youtube.com/watch?v=p19p-sN6Y40)
-- [Why was TypeScript created?](https://www.youtube.com/shorts/UrE9fvlPcN8)
+- [Agent Hackathon Challenge Kickoff](https://www.youtube.com/watch?v=ijG4VPBn-Ls)
+- [From Build to Operate: ALM Patterns for Production‑Ready Copilot Studio Agents](https://www.youtube.com/watch?v=AXWPJN6xLY0)
+- [Inside Cowork — Vision, Roadmap and What’s Next](https://www.youtube.com/watch?v=Re9_ImKOub0)
+- [Trust but Verify: Testing Agents in Copilot Studio](https://www.youtube.com/watch?v=XtZAdhiARAc)
+- [M365 Copilot and Work IQ: Powering Agent Business workflows](https://www.youtube.com/watch?v=cKKg3pTPH2A)
 <!-- YOUTUBEAPPMOD:END -->
 
 
