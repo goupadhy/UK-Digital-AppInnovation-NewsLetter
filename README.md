@@ -79,7 +79,7 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [SQL End of Life migration factory offer | Data Exposed](https://www.youtube.com/watch?v=vEk2WfP2FwU)
+- [SQL Server 2016 End of Support: What You Need to Know | Data Exposed](https://www.youtube.com/watch?v=vEk2WfP2FwU)
 - [Modernization at Scale with the CLI and CI/CD Pipelines](https://www.youtube.com/watch?v=AvEfMgMjOOs)
 - [Supervise Autonomous Agents with the Power Apps MCP and Agent Feed](https://www.youtube.com/watch?v=SafzdyKaVWg)
 - [Is debugging an AI system fundamentally different than debugging a traditional software system?](https://www.youtube.com/shorts/LoKo7-gJYCU)
