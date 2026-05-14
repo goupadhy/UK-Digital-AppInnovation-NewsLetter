@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL End of Life migration factory offer | Data Exposed](https://www.youtube.com/watch?v=vEk2WfP2FwU)
+- [Modernization at Scale with the CLI and CI/CD Pipelines](https://www.youtube.com/watch?v=AvEfMgMjOOs)
 - [Supervise Autonomous Agents with the Power Apps MCP and Agent Feed](https://www.youtube.com/watch?v=SafzdyKaVWg)
 - [Is debugging an AI system fundamentally different than debugging a traditional software system?](https://www.youtube.com/shorts/LoKo7-gJYCU)
 - [Is debugging an AI system fundamentally different than debugging a traditional software system?](https://www.youtube.com/watch?v=-6SWrQ0kiFk)
-- [Containerize and Deploy Java Applications](https://www.youtube.com/watch?v=SUB5jB0eCWU)
-- [Agent Hackathon Challenge Kickoff](https://www.youtube.com/watch?v=ijG4VPBn-Ls)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
