@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dataverse in Microsoft 365 Copilot](https://www.youtube.com/watch?v=_gdmXhqPQ5c)
 - [Dataverse plugin for coding agents](https://www.youtube.com/watch?v=ya-MOAL08bY)
 - [What are the benefits of joining a #PowerPlatform user group?](https://www.youtube.com/shorts/hz_p4nDfWCE)
 - [Add an agent node to an agent flow | Power Platform Shorts](https://www.youtube.com/watch?v=EQi9LItZZK4)
 - [How has the #Microsoft MVP program changed your life beyond tech?](https://www.youtube.com/shorts/QxHsZR5I_3I)
-- [Agent Academy Live TODAY at 8.30am PT!](https://www.youtube.com/watch?v=ugFkR15gI0E)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
