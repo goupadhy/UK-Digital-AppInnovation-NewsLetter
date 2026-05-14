@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [One database, four systems replaced, 73% lower cost ✨ #AzureCosmosDBConf](https://www.youtube.com/shorts/EQ3-t7pdk0g)
+- [How one team cut Azure Cosmos DB costs by 60% 📉 #AzureCosmosDBConf](https://www.youtube.com/shorts/Ndyk2FlGdms)
+- [Two people, one seat 🎟️ Designing for real-world concurrency #AzureCosmosDBConf](https://www.youtube.com/shorts/81eEMgFrols)
+- [What turns an AI agent into a real product? 🤖 #AzureCosmosDBConf](https://www.youtube.com/shorts/AjiBLSymCkk)
 - [SQL Server 2016 End of Support: What You Need to Know | Data Exposed](https://www.youtube.com/watch?v=vEk2WfP2FwU)
-- [Modernization at Scale with the CLI and CI/CD Pipelines](https://www.youtube.com/watch?v=AvEfMgMjOOs)
-- [Supervise Autonomous Agents with the Power Apps MCP and Agent Feed](https://www.youtube.com/watch?v=SafzdyKaVWg)
-- [Is debugging an AI system fundamentally different than debugging a traditional software system?](https://www.youtube.com/shorts/LoKo7-gJYCU)
-- [Is debugging an AI system fundamentally different than debugging a traditional software system?](https://www.youtube.com/watch?v=-6SWrQ0kiFk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
