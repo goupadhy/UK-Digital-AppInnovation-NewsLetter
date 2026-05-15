@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What’s the story on the long long integer?](https://www.youtube.com/shorts/t8pFlBGbWf8)
+- [What’s the story on the long long integer?](https://www.youtube.com/watch?v=9g9Xt_-sBVA)
 - [Putting It All Together: End-to-End Java Modernization on Azure](https://www.youtube.com/watch?v=uDiq9pXEWKw)
 - [Official trailer for POSETTE: An Event for Postgres 2026, a free &amp; virtual developer conference](https://www.youtube.com/watch?v=AX4Axl52uBQ)
 - [One database, four systems replaced, 73% lower cost ✨ #AzureCosmosDBConf](https://www.youtube.com/shorts/EQ3-t7pdk0g)
-- [How one team cut Azure Cosmos DB costs by 60% 📉 #AzureCosmosDBConf](https://www.youtube.com/shorts/Ndyk2FlGdms)
-- [Two people, one seat 🎟️ Designing for real-world concurrency #AzureCosmosDBConf](https://www.youtube.com/shorts/81eEMgFrols)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
