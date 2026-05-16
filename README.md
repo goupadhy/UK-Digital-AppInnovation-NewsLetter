@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [What’s new in Power Platform: May 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/05/14/whats-new-in-power-platform-may-2026-feature-update/)
-- [Power Fx: User Defined Types Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-fx-user-defined-types-generally-available/)
-- [Power Apps MCP server introduces closed-loop learning for enterprise agents](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-mcp-server-introduces-closed-loop-learning-for-enterprise-agents/)
-- [Agentic Administration: Dataverse Admin Skills now available in Public Preview](https://www.microsoft.com/en-us/power-platform/blog/2026/05/12/dataverse-agentic-administration/)
 - [Dataverse Is Your Agent Data Platform: Here’s What’s New ](https://www.microsoft.com/en-us/power-platform/blog/2026/05/05/dataverse-agent-data-platform/)
+- [Introducing business skills: Teach agents how your organization works ](https://www.microsoft.com/en-us/power-platform/blog/2026/05/01/business-skills/)
+- [From Ideas to Impact: How Frontier Firms scale agents with confidence](https://www.microsoft.com/en-us/power-platform/blog/2026/04/27/from-ideas-to-impact-how-frontier-firms-scale-agents-with-confidence/)
+- [More Secure SharePoint Integration in Power Pages with Site‑Scoped Permissions](https://www.microsoft.com/en-us/power-platform/blog/power-pages/more-secure-sharepoint-integration-in-power-pages-with-site%e2%80%91scoped-permissions/)
+- [Custom tools and rich UI for app-based conversations are now in Public Preview](https://www.microsoft.com/en-us/power-platform/blog/2026/04/22/custom-tools-and-rich-ui-for-app-based-conversations-are-now-in-public-preview/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
