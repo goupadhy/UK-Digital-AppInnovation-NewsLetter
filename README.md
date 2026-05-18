@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What’s something people assume about Microsoft MVPs that isn&#39;t actually true?](https://www.youtube.com/shorts/RInSR3lXX_U)
+- [When Copilot Studio meets Dataverse: Supercharged AI knowledge!](https://www.youtube.com/watch?v=s8hnqtTAITs)
 - [Selecting agent integration patterns in Copilot Studio](https://www.youtube.com/watch?v=XVcxrJ34VUs)
 - [Agents Under Control launches Wednesday 20th May at 9am PT!](https://www.youtube.com/watch?v=xnABoEt_OEQ)
 - [How to use Copilot Studio with Microsoft SharePoint | Ask a Community Pro](https://www.youtube.com/watch?v=L-PJXZZFZws)
-- [What are the benefits of becoming a #Microsoft MVP?](https://www.youtube.com/shorts/pqyyWnK8B54)
-- [Agents Answer Questions. Real Work Is Complicated. – Microsoft Official](https://www.youtube.com/watch?v=FTym_6OhWbw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
