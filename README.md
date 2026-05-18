@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Conagra Brands takes an employee-led approach to develop new skills with Microsoft Copilot](https://www.youtube.com/watch?v=4kMOJfhzf2c)
 - [You’re not late to AI—you’re early to Frontier Transformation](https://www.youtube.com/watch?v=oiSKnf2lBXc)
 - [Next Time on The New Industrialists](https://www.youtube.com/shorts/G5BTjyKRaNY)
 - [The New Industrialists | Hannover Messe 2026 Microsoft booth tour](https://www.youtube.com/watch?v=7gGCwAlSIPg)
 - [The New Industrialists | AI Transformation: Empowering the Energy Workforce](https://www.youtube.com/watch?v=kqaQtOl8DGQ)
-- [The New Industrialists | Hannover Messe Siemens Fireside Chat](https://www.youtube.com/watch?v=KkNe66VuYyU)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
