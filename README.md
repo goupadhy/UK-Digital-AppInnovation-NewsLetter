@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [STATE-Bench - Memory-agnostic Benchmark](https://www.youtube.com/watch?v=oFs9aU_T794)
 - [Full Course: Modernize Java apps with AI](https://www.youtube.com/watch?v=i_XiRAPq0mg)
 - [Stop Burning RUs: Live AI App Code Review with the Cosmos DB Agent Kit | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=44xvW6QoL84)
 - [What’s the story on the long long integer?](https://www.youtube.com/shorts/t8pFlBGbWf8)
 - [What’s the story on the long long integer?](https://www.youtube.com/watch?v=9g9Xt_-sBVA)
-- [Putting It All Together: End-to-End Java Modernization on Azure](https://www.youtube.com/watch?v=uDiq9pXEWKw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
