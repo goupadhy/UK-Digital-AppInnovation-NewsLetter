@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Debug Your Game in Real-Time with Dear ImGui | .NET Game Development](https://www.youtube.com/watch?v=lV6TqwB8Xu4)
+- [Microsoft Build CLI: Conference Sessions, Speakers &amp; Code from the command line](https://www.youtube.com/watch?v=gm8gKtrd3po)
 - [If Windows were built today, would the Registry exist?](https://www.youtube.com/shorts/E_Xe3gHE1Zg)
 - [If Windows were designed today, would the Registry exist?](https://www.youtube.com/watch?v=bkrbew3Ls60)
 - [STATE-Bench - Memory-agnostic Benchmark](https://www.youtube.com/watch?v=oFs9aU_T794)
-- [Full Course: Modernize Java apps with AI](https://www.youtube.com/watch?v=i_XiRAPq0mg)
-- [Stop Burning RUs: Live AI App Code Review with the Cosmos DB Agent Kit | Azure Cosmos DB Conf 2026](https://www.youtube.com/watch?v=44xvW6QoL84)
 <!-- YOUTUBEAPPMOD:END -->
 
 
