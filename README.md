@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Use VS Code Agents, GitHub Copilot, and the MSSQL extension to build AI apps | Data Exposed](https://www.youtube.com/watch?v=wZUPFCCByfw)
+- [Modernizing a Legacy .NET App with GitHub Copilot](https://www.youtube.com/watch?v=Pfup4av4Qgk)
+- [What were the limitations of early tools like Script#?](https://www.youtube.com/shorts/kMMQQehCIT0)
+- [What were the limitations of early tools like Script#?](https://www.youtube.com/watch?v=OcFqDk9jxvU)
 - [Debug Your Game in Real-Time with Dear ImGui | .NET Game Development](https://www.youtube.com/watch?v=lV6TqwB8Xu4)
-- [Microsoft Build CLI: Conference Sessions, Speakers &amp; Code from the command line](https://www.youtube.com/watch?v=gm8gKtrd3po)
-- [If Windows were built today, would the Registry exist?](https://www.youtube.com/shorts/E_Xe3gHE1Zg)
-- [If Windows were designed today, would the Registry exist?](https://www.youtube.com/watch?v=bkrbew3Ls60)
-- [STATE-Bench - Memory-agnostic Benchmark](https://www.youtube.com/watch?v=oFs9aU_T794)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
