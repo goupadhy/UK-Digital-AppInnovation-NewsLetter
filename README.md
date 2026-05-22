@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What inspired you to be part of Budget Bytes?](https://www.youtube.com/shorts/-KGWWGsw0y0)
+- [What inspired you to be part of Budget Bytes?](https://www.youtube.com/watch?v=4N0begASa-I)
 - [Use VS Code Agents, GitHub Copilot, and the MSSQL extension to build AI apps | Data Exposed](https://www.youtube.com/watch?v=wZUPFCCByfw)
 - [Modernizing a Legacy .NET App with GitHub Copilot](https://www.youtube.com/watch?v=Pfup4av4Qgk)
 - [What were the limitations of early tools like Script#?](https://www.youtube.com/shorts/kMMQQehCIT0)
-- [What were the limitations of early tools like Script#?](https://www.youtube.com/watch?v=OcFqDk9jxvU)
-- [Debug Your Game in Real-Time with Dear ImGui | .NET Game Development](https://www.youtube.com/watch?v=lV6TqwB8Xu4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
