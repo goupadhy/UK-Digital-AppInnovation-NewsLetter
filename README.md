@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to route agent builders to the right environment](https://www.youtube.com/shorts/DHgeCg8hWvw)
 - [Tenant and environment level policy for agent governance](https://www.youtube.com/shorts/2-25vhZRIGg)
 - [How can joining the #MicrosoftCommunity impact your life?](https://www.youtube.com/shorts/TsGhESWrHho)
 - [How IT can get #AIagents under control!](https://www.youtube.com/shorts/VeAWoXSxeDI)
 - [Accelerate AI adoption with Microsoft Agent 365](https://www.youtube.com/watch?v=2HhoZBTGaUs)
-- [What initial steps should you take when joining the #PowerPlatform Community?](https://www.youtube.com/shorts/Gjyr9Zhyy6U)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
