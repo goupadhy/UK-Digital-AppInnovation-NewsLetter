@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AI Transformation - Retail - Becoming Frontier](https://www.youtube.com/shorts/3ZPzW57xsUQ)
 - [Marketing AI Transformation - Becoming Frontier](https://www.youtube.com/shorts/fmAH9PQQVsM)
 - [Cloud MFG: AI Transformation - Becoming Frontier Video Series - 1 of 7 &lpar;LI&rpar;](https://www.youtube.com/shorts/O18ZI03mjhg)
 - [Conagra Brands takes an employee-led approach to develop new skills with Microsoft Copilot](https://www.youtube.com/watch?v=4kMOJfhzf2c)
 - [You’re not late to AI—you’re early to Frontier Transformation](https://www.youtube.com/watch?v=oiSKnf2lBXc)
-- [Next Time on The New Industrialists](https://www.youtube.com/shorts/G5BTjyKRaNY)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
