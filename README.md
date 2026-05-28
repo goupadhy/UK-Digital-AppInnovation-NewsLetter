@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What&#39;s new and improved with #PowerApps?!](https://www.youtube.com/shorts/ZonGxGzXhgQ)
 - [Connecting customer-built AI to Microsoft 365 Copilot: The Proxy Agent Pattern](https://www.youtube.com/watch?v=M-e7gyE2QyA)
 - [Types of environments for agent governance](https://www.youtube.com/shorts/rjSmzYMdfjg)
 - [Work IQ MCP Servers | Power Platform Shorts](https://www.youtube.com/watch?v=cOHKkfDGN1E)
 - [How to route agent builders to the right environment](https://www.youtube.com/shorts/DHgeCg8hWvw)
-- [Tenant and environment level policy for agent governance](https://www.youtube.com/shorts/2-25vhZRIGg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
