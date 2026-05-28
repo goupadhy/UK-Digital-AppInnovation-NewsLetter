@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Agents League is Back! Build, Battle &amp; Win with AI Agents 🚀](https://www.youtube.com/shorts/RZnYLaBv2E0)
 - [Budget Bytes is about building apps for under $25, what’s the biggest myth about doing that?](https://www.youtube.com/shorts/fhfcCemHR0g)
 - [Budget Bytes is about building apps for under $25, what’s the biggest myth about doing that?](https://www.youtube.com/watch?v=pyMXvBjiFr0)
 - [Extending AI Agents with WebAssembly](https://www.youtube.com/watch?v=7k5y6jmSLuQ)
 - [What inspired you to be part of Budget Bytes?](https://www.youtube.com/shorts/-KGWWGsw0y0)
-- [What inspired you to be part of Budget Bytes?](https://www.youtube.com/watch?v=4N0begASa-I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
