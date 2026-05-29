@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Connecting customer-built AI to Microsoft 365 Copilot: The proxy agent pattern](https://www.youtube.com/watch?v=fZNbNRj2gc8)
 - [Real-world agent case studies - how organizations are using AI Agents](https://www.youtube.com/watch?v=r5N7ui7pYRk)
 - [Hear from Griffin Lickfeldt on agent governance](https://www.youtube.com/shorts/vOymsIOlQYw)
 - [What&#39;s new and improved with #PowerApps?!](https://www.youtube.com/shorts/ZonGxGzXhgQ)
 - [Connecting customer-built AI to Microsoft 365 Copilot: The Proxy Agent Pattern](https://www.youtube.com/watch?v=M-e7gyE2QyA)
-- [Types of environments for agent governance](https://www.youtube.com/shorts/rjSmzYMdfjg)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
