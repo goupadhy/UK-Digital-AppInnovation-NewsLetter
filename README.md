@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The IQ series: Work IQ Episode 1](https://www.youtube.com/watch?v=3l6PHAQO5_w)
 - [Why was open-sourcing TypeScript so important?](https://www.youtube.com/shorts/EfXWzS7U8S4)
 - [Why was open-sourcing TypeScript so important?](https://www.youtube.com/watch?v=jmkUgXdBLio)
 - [Give your Agent memory with SQL Server and Microsoft Agent Framework | Data Exposed](https://www.youtube.com/watch?v=KrqYxSZsPBE)
 - [Agents League is Back! Build, Battle &amp; Win with AI Agents 🚀](https://www.youtube.com/shorts/RZnYLaBv2E0)
-- [Budget Bytes is about building apps for under $25, what’s the biggest myth about doing that?](https://www.youtube.com/shorts/fhfcCemHR0g)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
