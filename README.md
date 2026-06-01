@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Getting Started with the Microsoft Agent Pre-Purchase Plan](https://www.youtube.com/watch?v=0-RN85uZzTY)
 - [Introducing Work IQ in the IQ Series](https://www.youtube.com/watch?v=3l6PHAQO5_w)
 - [Why was open-sourcing TypeScript so important?](https://www.youtube.com/shorts/EfXWzS7U8S4)
 - [Why was open-sourcing TypeScript so important?](https://www.youtube.com/watch?v=jmkUgXdBLio)
 - [Give your Agent memory with SQL Server and Microsoft Agent Framework | Data Exposed](https://www.youtube.com/watch?v=KrqYxSZsPBE)
-- [Agents League is Back! Build, Battle &amp; Win with AI Agents 🚀](https://www.youtube.com/shorts/RZnYLaBv2E0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
