@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Getting Started with the Microsoft Agent Pre-Purchase Plan](https://www.youtube.com/watch?v=0-RN85uZzTY)
-- [Introducing Work IQ in the IQ Series](https://www.youtube.com/watch?v=3l6PHAQO5_w)
-- [Why was open-sourcing TypeScript so important?](https://www.youtube.com/shorts/EfXWzS7U8S4)
-- [Why was open-sourcing TypeScript so important?](https://www.youtube.com/watch?v=jmkUgXdBLio)
-- [Give your Agent memory with SQL Server and Microsoft Agent Framework | Data Exposed](https://www.youtube.com/watch?v=KrqYxSZsPBE)
+- [Work IQ: Data, Context, and Tools at Scale](https://www.youtube.com/watch?v=yj9JX08cxtw)
+- [Horizon DB | Microsoft Build streaming now!](https://www.youtube.com/shorts/UdQmZa7ugr8)
+- [Watch the Microsoft Build opening keynote with Satya Nadella!](https://www.youtube.com/shorts/pgYa7Wdf0kY)
+- [Microsoft Build streaming now!](https://www.youtube.com/shorts/6hW6UDBagFA)
+- [5 Ways We&#39;re Confusing AI Capability and AI Reality with Microsoft CTO Kevin Scott](https://www.youtube.com/watch?v=9Y63uWXJ0eA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
