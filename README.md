@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What&#39;s your favorite #PowerPlatform user group events?](https://www.youtube.com/shorts/3nPg7puaPAc)
+- [How do you cut through the AI noise?](https://www.youtube.com/shorts/2P-DBRzG17A)
+- [Copilot Studio single response evaluations](https://www.youtube.com/watch?v=OUsdBYkt_5s)
+- [Bryan Goode presents AI in Action: How Lumen turned a multi‑day process into minutes with agents](https://www.youtube.com/watch?v=S9O_Un5d9QA)
 - [What the latest news and improvements in #PowerAutomate?!](https://www.youtube.com/shorts/1X9qFSuoQMQ)
-- [Naashto and builder mindset with Miti Joshi | EP02 | The Next Big Bite](https://www.youtube.com/watch?v=QoAhrQ-s_bQ)
-- [Connecting customer-built AI to Microsoft 365 Copilot: The proxy agent pattern](https://www.youtube.com/watch?v=fZNbNRj2gc8)
-- [Real-world agent case studies - how organizations are using AI Agents](https://www.youtube.com/watch?v=r5N7ui7pYRk)
-- [Hear from Griffin Lickfeldt on agent governance](https://www.youtube.com/shorts/vOymsIOlQYw)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
