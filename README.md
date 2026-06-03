@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Real-Time Intelligence: Building event-driven AI apps and agents | OD819](https://www.youtube.com/watch?v=ywmZvOPekU4)
-- [Securing, scaling, and sustaining your data estate in Microsoft Fabric | OD816](https://www.youtube.com/watch?v=o5wYeUtWGnw)
-- [Deliver production-ready AI search on unstructured data with RAG | ODSP925](https://www.youtube.com/watch?v=4qjrKSe3QF8)
-- [Building WinUI Apps with C# First Patterns and AI Assisted Workflows | OD854](https://www.youtube.com/watch?v=tPO3vwRVB-M)
-- [Build fast, not fragile with Rayfin and Microsoft Fabric | OD810](https://www.youtube.com/watch?v=KQJvzNfJHzk)
+- [Project Lobster: Building an AI Assistant with Agency and Memory](https://www.youtube.com/watch?v=nyhXB9Y7uLM)
+- [GitHub App | Microsoft Build Day 2 streaming now!](https://www.youtube.com/shorts/XDZaRrFFqa8)
+- [Microsoft Build Day 2 - streaming now!](https://www.youtube.com/shorts/YaNZTlfrBPU)
+- [Orchestrate special agents with NVIDIA Nemotron models on Foundry | BRKSP94](https://www.youtube.com/watch?v=ELusMKrFJso)
+- [Late to agentic coding? Don&#39;t panic, build. | DEM303](https://www.youtube.com/watch?v=6F7HgRhWL9E)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
