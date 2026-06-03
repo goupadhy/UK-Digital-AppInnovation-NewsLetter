@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Build 2026 Day 2 LIVE | GitHub Copilot, VS Code, Foundry &amp; Community Sessions](https://www.youtube.com/watch?v=nlGqajJEsWs)
 - [Frontier Tuning: Microsoft Build 2026](https://www.youtube.com/watch?v=ynxh3ujRIKk)
 - [MDASH: Microsoft Build 2026](https://www.youtube.com/watch?v=8QBDaRbur70)
 - [Microsoft Discovery: Microsoft Build 2026](https://www.youtube.com/watch?v=uHtva5r9itY)
 - [Microsoft Foundry + Agent 365: Microsoft Build 2026](https://www.youtube.com/watch?v=PpALo1gAiuE)
-- [Microsoft IQ: Microsoft Build 2026](https://www.youtube.com/watch?v=X4SOHRhJwfE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
