@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Your PC, Your Rules: AI Agents Meet Windows Personalization | OD858](https://www.youtube.com/watch?v=59YAaqcZ650)
-- [Apply orchestration patterns for production AI agents | ODSP906](https://www.youtube.com/watch?v=kUDXvURx-yk)
-- [Building Agents You Can Trust on Windows | BRK262](https://www.youtube.com/watch?v=CU4Wngb3JnA)
-- [Accelerating developer productivity with Windows 365 | OD855](https://www.youtube.com/watch?v=qDo0TPRaN-E)
-- [Building Impact Through Developer Communities | DEM377](https://www.youtube.com/watch?v=bif_25YMM6M)
+- [Real-Time Intelligence: Building event-driven AI apps and agents | OD819](https://www.youtube.com/watch?v=ywmZvOPekU4)
+- [Securing, scaling, and sustaining your data estate in Microsoft Fabric | OD816](https://www.youtube.com/watch?v=o5wYeUtWGnw)
+- [Deliver production-ready AI search on unstructured data with RAG | ODSP925](https://www.youtube.com/watch?v=4qjrKSe3QF8)
+- [Building WinUI Apps with C# First Patterns and AI Assisted Workflows | OD854](https://www.youtube.com/watch?v=tPO3vwRVB-M)
+- [Build fast, not fragile with Rayfin and Microsoft Fabric | OD810](https://www.youtube.com/watch?v=KQJvzNfJHzk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
