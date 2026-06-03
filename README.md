@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Project Lobster: Building an AI Assistant with Agency and Memory](https://www.youtube.com/watch?v=nyhXB9Y7uLM)
-- [GitHub App | Microsoft Build Day 2 streaming now!](https://www.youtube.com/shorts/XDZaRrFFqa8)
-- [Microsoft Build Day 2 - streaming now!](https://www.youtube.com/shorts/YaNZTlfrBPU)
-- [Orchestrate special agents with NVIDIA Nemotron models on Foundry | BRKSP94](https://www.youtube.com/watch?v=ELusMKrFJso)
-- [Late to agentic coding? Don&#39;t panic, build. | DEM303](https://www.youtube.com/watch?v=6F7HgRhWL9E)
+- [Frontier Tuning: Microsoft Build 2026](https://www.youtube.com/watch?v=ynxh3ujRIKk)
+- [MDASH: Microsoft Build 2026](https://www.youtube.com/watch?v=8QBDaRbur70)
+- [Microsoft Discovery: Microsoft Build 2026](https://www.youtube.com/watch?v=uHtva5r9itY)
+- [Microsoft Foundry + Agent 365: Microsoft Build 2026](https://www.youtube.com/watch?v=PpALo1gAiuE)
+- [Microsoft IQ: Microsoft Build 2026](https://www.youtube.com/watch?v=X4SOHRhJwfE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
