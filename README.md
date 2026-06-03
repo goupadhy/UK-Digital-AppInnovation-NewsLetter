@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [GitHub App | Microsoft Build Day 1 is streaming now!](https://www.youtube.com/shorts/y5xvOzypyEA)
-- [Project Lobster: Building an AI Assistant with Agency and Memory](https://www.youtube.com/watch?v=imSCFgAIf2Q)
-- [Work IQ: Data, Context, and Tools at Scale](https://www.youtube.com/watch?v=yj9JX08cxtw)
-- [Horizon DB | Microsoft Build streaming now!](https://www.youtube.com/shorts/UdQmZa7ugr8)
-- [Watch the Microsoft Build opening keynote with Satya Nadella!](https://www.youtube.com/shorts/pgYa7Wdf0kY)
+- [Your PC, Your Rules: AI Agents Meet Windows Personalization | OD858](https://www.youtube.com/watch?v=59YAaqcZ650)
+- [Apply orchestration patterns for production AI agents | ODSP906](https://www.youtube.com/watch?v=kUDXvURx-yk)
+- [Building Agents You Can Trust on Windows | BRK262](https://www.youtube.com/watch?v=CU4Wngb3JnA)
+- [Accelerating developer productivity with Windows 365 | OD855](https://www.youtube.com/watch?v=qDo0TPRaN-E)
+- [Building Impact Through Developer Communities | DEM377](https://www.youtube.com/watch?v=bif_25YMM6M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
