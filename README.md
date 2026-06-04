@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Enhanced Data Model and Bootstrap 5 Now Available for Dynamics 365 Portal Templates](https://www.microsoft.com/en-us/power-platform/blog/power-pages/enhanced-data-model-and-bootstrap-5-now-available-for-dynamics-365-portal-templates/)
 - [Build Power Pages Sites with AI through Agentic Coding tools, now Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-pages/build-power-pages-sites-with-ai-through-agentic-coding-tools-now-generally-available/)
 - [What’s new in Power Platform: May 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/05/14/whats-new-in-power-platform-may-2026-feature-update/)
 - [Power Fx: User Defined Types Generally Available](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-fx-user-defined-types-generally-available/)
 - [Power Apps MCP server introduces closed-loop learning for enterprise agents](https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-mcp-server-introduces-closed-loop-learning-for-enterprise-agents/)
+- [Agentic Administration: Dataverse Admin Skills now available in Public Preview](https://www.microsoft.com/en-us/power-platform/blog/2026/05/12/dataverse-agentic-administration/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
