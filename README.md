@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Imagine Cup World Championship | LIVE199](https://www.youtube.com/watch?v=PZKPxNoYs0Y)
-- [Future of Developer Productivity: Microsoft’s EngThrive Framework in Practice | BRK210](https://www.youtube.com/watch?v=wDqipcHkaEM)
-- [OM1: Modular by Design Hardware-Agnostic by Default. Your gateway to next-gen robotics | DEM306](https://www.youtube.com/watch?v=FMEW8cgzmsc)
-- [Teach AI agents to manage context with Elastic Agent Builder | DEMSP395](https://www.youtube.com/watch?v=jxKihBelsH0)
-- [Create multimodal AI agents with persistent memory | DEMSP390](https://www.youtube.com/watch?v=o_rcIQUU-k4)
+- [Azure Storage for AI workloads​ | OD870](https://www.youtube.com/watch?v=0aBr_9Unpco)
+- [Student to Startup | LIVE142](https://www.youtube.com/watch?v=DUXGJOF_2rE)
+- [Coding and Personal Agents with Ollama | LIVE145](https://www.youtube.com/watch?v=DFd0iiCX6tc)
+- [Behind the Keynote: How Windows Made OpenClaw Work in the Keynote Demo | LIVE144](https://www.youtube.com/watch?v=P0klw6aVw04)
+- [Backing the future of innovation | LIVE110](https://www.youtube.com/watch?v=MfOGRlbhR-s)
 <!-- YOUTUBEAPPMOD:END -->
 
 
