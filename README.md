@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Stop routing docstrings to 70B models with on-device AI on Snapdragon | BRKSP90](https://www.youtube.com/watch?v=c0fKfsZny3Y)
-- [Turn foundation models into production AI on Microsoft Foundry | BRKSP91](https://www.youtube.com/watch?v=sOvtPvaog3M)
-- [Run AI at scale with Ray + Kubernetes using Anyscale on Azure | ODSP914](https://www.youtube.com/watch?v=nwR1NBm3Uug)
-- [Microsoft Build 2026 Day 2 LIVE | GitHub Copilot, VS Code, Foundry &amp; Community Sessions](https://www.youtube.com/watch?v=nlGqajJEsWs)
-- [Frontier Tuning: Microsoft Build 2026](https://www.youtube.com/watch?v=ynxh3ujRIKk)
+- [Imagine Cup World Championship | LIVE199](https://www.youtube.com/watch?v=PZKPxNoYs0Y)
+- [Future of Developer Productivity: Microsoft’s EngThrive Framework in Practice | BRK210](https://www.youtube.com/watch?v=wDqipcHkaEM)
+- [OM1: Modular by Design Hardware-Agnostic by Default. Your gateway to next-gen robotics | DEM306](https://www.youtube.com/watch?v=FMEW8cgzmsc)
+- [Teach AI agents to manage context with Elastic Agent Builder | DEMSP395](https://www.youtube.com/watch?v=jxKihBelsH0)
+- [Create multimodal AI agents with persistent memory | DEMSP390](https://www.youtube.com/watch?v=o_rcIQUU-k4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
