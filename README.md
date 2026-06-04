@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Stop routing docstrings to 70B models with on-device AI on Snapdragon | BRKSP90](https://www.youtube.com/watch?v=c0fKfsZny3Y)
-- [Turn foundation models into production AI on Microsoft Foundry | BRKSP91](https://www.youtube.com/watch?v=sOvtPvaog3M)
-- [Run AI at scale with Ray + Kubernetes using Anyscale on Azure | ODSP914](https://www.youtube.com/watch?v=nwR1NBm3Uug)
-- [Microsoft Build 2026 Day 2 LIVE | GitHub Copilot, VS Code, Foundry &amp; Community Sessions](https://www.youtube.com/watch?v=nlGqajJEsWs)
-- [Frontier Tuning: Microsoft Build 2026](https://www.youtube.com/watch?v=ynxh3ujRIKk)
+- [Create multimodal AI agents with persistent memory | DEMSP390](https://www.youtube.com/watch?v=o_rcIQUU-k4)
+- [Ship faster with Claude Code and Cowork in Microsoft Foundry | DEMSP388](https://www.youtube.com/watch?v=1NBzjJom-mI)
+- [Beyond REST: .NET Apps That Talk to Hardware | DEM365](https://www.youtube.com/watch?v=5wvM8H_MUQU)
+- [Building a Multi-Agent Workflow in Microsoft Fabric | DEM362](https://www.youtube.com/watch?v=px76jA-Vdmw)
+- [Responsible AI in Action: From Principles to Real‑World Engineering | DEM369](https://www.youtube.com/watch?v=XWpXxUc-GJY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
