@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Create multimodal AI agents with persistent memory | DEMSP390](https://www.youtube.com/watch?v=o_rcIQUU-k4)
-- [Ship faster with Claude Code and Cowork in Microsoft Foundry | DEMSP388](https://www.youtube.com/watch?v=1NBzjJom-mI)
-- [Beyond REST: .NET Apps That Talk to Hardware | DEM365](https://www.youtube.com/watch?v=5wvM8H_MUQU)
-- [Building a Multi-Agent Workflow in Microsoft Fabric | DEM362](https://www.youtube.com/watch?v=px76jA-Vdmw)
-- [Responsible AI in Action: From Principles to Real‑World Engineering | DEM369](https://www.youtube.com/watch?v=XWpXxUc-GJY)
+- [Azure Storage for AI workloads​ | OD870](https://www.youtube.com/watch?v=0aBr_9Unpco)
+- [Student to Startup | LIVE142](https://www.youtube.com/watch?v=DUXGJOF_2rE)
+- [Coding and Personal Agents with Ollama | LIVE145](https://www.youtube.com/watch?v=DFd0iiCX6tc)
+- [Behind the Keynote: How Windows Made OpenClaw Work in the Keynote Demo | LIVE144](https://www.youtube.com/watch?v=P0klw6aVw04)
+- [Backing the future of innovation | LIVE110](https://www.youtube.com/watch?v=MfOGRlbhR-s)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
