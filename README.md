@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Turn APIs, tools, and data into real agent velocity | DEM331](https://www.youtube.com/watch?v=b23ZV37_9Hw)
+- [Build agents where work happens: chats, channels, and meetings in Microsoft Teams | DEM334](https://www.youtube.com/watch?v=jDFlfu-Z_Co)
+- [AI Skills Navigator: Accelerate tech skills with personalized learning | DEM351](https://www.youtube.com/watch?v=HTSQzsXzXz4)
+- [Using AI tools to teach old apps new tricks | BRK220](https://www.youtube.com/watch?v=SgTw85Cwtm8)
 - [Profile and optimize agentic AI on Windows | DEMSP384](https://www.youtube.com/watch?v=OWR3K-ZsS4g)
-- [Azure Storage for AI workloads​ | OD870](https://www.youtube.com/watch?v=0aBr_9Unpco)
-- [Student to Startup | LIVE142](https://www.youtube.com/watch?v=DUXGJOF_2rE)
-- [Coding and Personal Agents with Ollama | LIVE145](https://www.youtube.com/watch?v=DFd0iiCX6tc)
-- [Behind the Keynote: How Windows Made OpenClaw Work in the Keynote Demo | LIVE144](https://www.youtube.com/watch?v=P0klw6aVw04)
 <!-- YOUTUBEAPPMOD:END -->
 
 
