@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What keeps us coming back to the #MicrosoftCommunity?](https://www.youtube.com/shorts/75undJufnlg)
 - [Have you seen EP02 of The Next Big Bite with Miti Joshi?](https://www.youtube.com/shorts/Ky9M6a5umd8)
 - [What to expect when joining a #PowerPlatform user group?](https://www.youtube.com/shorts/rlxazEZItK8)
 - [Check out EP02 of The Next Big Bite with Miti Joshi!](https://www.youtube.com/shorts/w1lfrjDQNgw)
 - [Have you got the lowdown on the latest #PowerPages news?](https://www.youtube.com/shorts/2Tknd5GpyGk)
-- [What&#39;s your favorite #PowerPlatform user group events?](https://www.youtube.com/shorts/3nPg7puaPAc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
