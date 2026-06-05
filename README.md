@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Turn APIs, tools, and data into real agent velocity | DEM331](https://www.youtube.com/watch?v=b23ZV37_9Hw)
-- [Build agents where work happens: chats, channels, and meetings in Microsoft Teams | DEM334](https://www.youtube.com/watch?v=jDFlfu-Z_Co)
-- [AI Skills Navigator: Accelerate tech skills with personalized learning | DEM351](https://www.youtube.com/watch?v=HTSQzsXzXz4)
-- [Using AI tools to teach old apps new tricks | BRK220](https://www.youtube.com/watch?v=SgTw85Cwtm8)
-- [Profile and optimize agentic AI on Windows | DEMSP384](https://www.youtube.com/watch?v=OWR3K-ZsS4g)
+- [From rows to reasoning: Designing databases for AI apps and agents | BRK223](https://www.youtube.com/watch?v=E5PHOR7cz2w)
+- [Scott and Mark learn to Vibe Check with Steve Sanderson | LIVE116](https://www.youtube.com/watch?v=zh6fMtL_cSM)
+- [Scott and Mark learn to Vibe Check with Cassidy Williams | LIVE114](https://www.youtube.com/watch?v=la02mLeX0Is)
+- [Scott and Mark learn to Vibe Check with Simon Willison | LIVE113](https://www.youtube.com/watch?v=-b1e0tyMVvY)
+- [Scott and Mark learn to Vibe Check with Swyx | LIVE115](https://www.youtube.com/watch?v=K893N9c0upY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
