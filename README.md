@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Work IQ: A2A for Context‑Aware, Agentic Experiences](https://www.youtube.com/watch?v=ESwuKxPcS6w)
+- [Your agent anywhere: MultiClient MultiDevice with GitHub Copilot SDK | BRK206-R1](https://www.youtube.com/watch?v=3N5h_jb3PS0)
+- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/shorts/tX95u6m9E18)
+- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/watch?v=UO9YDx_5bzY)
 - [MSFT Quantum Development Kit March 2026 Release Highlights](https://www.youtube.com/watch?v=HXv2hEqF6OI)
-- [Simplifying Quantum Development with GitHub Copilot in VS Code](https://www.youtube.com/watch?v=HyyiaFtfbNE)
-- [AMD quick take: Live from Microsoft Build | LIVESP120](https://www.youtube.com/watch?v=HEG-Gx6VrrM)
-- [Build AI across client and cloud with AMD ROCm and Microsoft | BRKSP93](https://www.youtube.com/watch?v=WQuFQ3eJ_c8)
-- [From rows to reasoning: Designing databases for AI apps and agents | BRK223](https://www.youtube.com/watch?v=E5PHOR7cz2w)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
