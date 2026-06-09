@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MSFT Quantum Development Kit March 2026 Release Highlights](https://www.youtube.com/watch?v=HXv2hEqF6OI)
+- [Simplifying Quantum Development with GitHub Copilot in VS Code](https://www.youtube.com/watch?v=HyyiaFtfbNE)
 - [AMD quick take: Live from Microsoft Build | LIVESP120](https://www.youtube.com/watch?v=HEG-Gx6VrrM)
 - [Build AI across client and cloud with AMD ROCm and Microsoft | BRKSP93](https://www.youtube.com/watch?v=WQuFQ3eJ_c8)
 - [From rows to reasoning: Designing databases for AI apps and agents | BRK223](https://www.youtube.com/watch?v=E5PHOR7cz2w)
-- [Scott and Mark learn to Vibe Check with Steve Sanderson | LIVE116](https://www.youtube.com/watch?v=zh6fMtL_cSM)
-- [Scott and Mark learn to Vibe Check with Cassidy Williams | LIVE114](https://www.youtube.com/watch?v=la02mLeX0Is)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
