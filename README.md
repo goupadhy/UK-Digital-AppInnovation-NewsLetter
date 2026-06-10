@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build multimodal agents that reason interact and take action | DEM330](https://www.youtube.com/watch?v=A-hzeIWn5BA)
+- [Build Game UI Without the Pain: Gum Layout Tool for .NET | .NET Game Development](https://www.youtube.com/shorts/zqdwAD8wG1k)
 - [Work IQ: A2A for Context‑Aware, Agentic Experiences](https://www.youtube.com/watch?v=ESwuKxPcS6w)
 - [Your agent anywhere: MultiClient MultiDevice with GitHub Copilot SDK | BRK206-R1](https://www.youtube.com/watch?v=3N5h_jb3PS0)
 - [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/shorts/tX95u6m9E18)
-- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/watch?v=UO9YDx_5bzY)
-- [MSFT Quantum Development Kit March 2026 Release Highlights](https://www.youtube.com/watch?v=HXv2hEqF6OI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
