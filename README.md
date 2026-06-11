@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Build multimodal agents that reason interact and take action | DEM330](https://www.youtube.com/watch?v=A-hzeIWn5BA)
-- [Build Game UI Without the Pain: Gum Layout Tool for .NET | .NET Game Development](https://www.youtube.com/shorts/zqdwAD8wG1k)
-- [Work IQ: A2A for Context‑Aware, Agentic Experiences](https://www.youtube.com/watch?v=ESwuKxPcS6w)
-- [Your agent anywhere: MultiClient MultiDevice with GitHub Copilot SDK | BRK206-R1](https://www.youtube.com/watch?v=3N5h_jb3PS0)
-- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/shorts/tX95u6m9E18)
+- [From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale | BRK229](https://www.youtube.com/watch?v=YoP2TaXxcd0)
+- [From CLI to PR: Automating the path to merged code | BRK203](https://www.youtube.com/watch?v=4cVkF40rgUc)
+- [Inside Azure innovations with Mark Russinovich | BRK226](https://www.youtube.com/watch?v=yByo-WWGnMs)
+- [Using AI tools to teach old apps new tricks | BRK220](https://www.youtube.com/watch?v=VyKWfAuAEbY)
+- [Distributed systems to AI platforms with Mark Russinovich &amp; Ion Stoica | BRK227](https://www.youtube.com/watch?v=21bi6p1XMGc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
