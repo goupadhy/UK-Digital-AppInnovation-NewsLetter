@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Build Game UI Without the Pain: Gum Layout Tool for .NET | .NET Game Development](https://www.youtube.com/watch?v=GeFYWYbmTQU)
+- [Tell me about the labs at Build](https://www.youtube.com/shorts/KzErOV2ifCw)
+- [Tell us about the labs at Build](https://www.youtube.com/watch?v=JEfMYIMTBrc)
+- [Agentic AI Journeys: Planning, Coding, and Deployment | Data Exposed](https://www.youtube.com/watch?v=W8K-WUXTiLk)
 - [From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale | BRK229](https://www.youtube.com/watch?v=YoP2TaXxcd0)
-- [From CLI to PR: Automating the path to merged code | BRK203](https://www.youtube.com/watch?v=4cVkF40rgUc)
-- [Inside Azure innovations with Mark Russinovich | BRK226](https://www.youtube.com/watch?v=yByo-WWGnMs)
-- [Using AI tools to teach old apps new tricks | BRK220](https://www.youtube.com/watch?v=VyKWfAuAEbY)
-- [Distributed systems to AI platforms with Mark Russinovich &amp; Ion Stoica | BRK227](https://www.youtube.com/watch?v=21bi6p1XMGc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
