@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Why should you join a #PowerPlatform user group?](https://www.youtube.com/shorts/oX1duwUC1cs)
 - [Keeping It Real with Shane Young!](https://www.youtube.com/shorts/Fqdu4o1RLVg)
 - [The future of Power Platform with Shane Young | EP12 | Keeping it Real](https://www.youtube.com/watch?v=b5UhDBafy74)
 - [What can you expect when joining a #Microsoft community user group?](https://www.youtube.com/shorts/tZ6VNRIy0xs)
 - [What&#39;s the inside scoop on being a #MicrosoftMVP?](https://www.youtube.com/shorts/mUS5pnM8naQ)
-- [Prompt Assistant in Copilot Studio | Power Platform Shorts](https://www.youtube.com/watch?v=fsaLvZr7QpQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
