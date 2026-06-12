@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure Storage for AI workloads​ | OD870](https://www.youtube.com/watch?v=50ZODW1SNOU)
 - [Build Game UI Without the Pain: Gum Layout Tool for .NET | .NET Game Development](https://www.youtube.com/watch?v=GeFYWYbmTQU)
 - [Tell me about the labs at Build](https://www.youtube.com/shorts/KzErOV2ifCw)
 - [Tell us about the labs at Build](https://www.youtube.com/watch?v=JEfMYIMTBrc)
 - [Agentic AI Journeys: Planning, Coding, and Deployment | Data Exposed](https://www.youtube.com/watch?v=W8K-WUXTiLk)
-- [From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale | BRK229](https://www.youtube.com/watch?v=YoP2TaXxcd0)
 <!-- YOUTUBEAPPMOD:END -->
 
 
