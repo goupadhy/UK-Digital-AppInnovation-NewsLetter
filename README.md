@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [What’s new in Power Platform: June 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/06/11/whats-new-in-power-platform-june-2026-feature-update/)
-- [Bulk Deletion in Microsoft Dataverse: New Capabilities for Data Lifecycle Management](https://www.microsoft.com/en-us/power-platform/blog/2026/06/10/bulk-deletion-in-dataverse/)
 - [Announcing Low-latency sync for Dataverse to Fabric in GA](https://www.microsoft.com/en-us/power-platform/blog/2026/06/09/low-latency-sync/)
 - [Dataverse MCP Server: Understanding the New Tool Shape](https://www.microsoft.com/en-us/power-platform/blog/2026/06/08/dataverse-mcp-server-understanding-the-new-tool-shape/)
 - [Microsoft Dataverse Plugin: Unleashing Coding Agents on the Enterprise – Microsoft Build 2026](https://www.microsoft.com/en-us/power-platform/blog/2026/06/04/microsoft-dataverse-plugin-unleashing-coding-agents-on-the-enterprise-microsoft-build-2026/)
+- [Advanced connector policies are generally available](https://www.microsoft.com/en-us/power-platform/blog/2026/06/04/advanced-connector-policies-are-generally-available/)
+- [Enhanced Data Model and Bootstrap 5 Now Available for Dynamics 365 Portal Templates](https://www.microsoft.com/en-us/power-platform/blog/power-pages/enhanced-data-model-and-bootstrap-5-now-available-for-dynamics-365-portal-templates/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
