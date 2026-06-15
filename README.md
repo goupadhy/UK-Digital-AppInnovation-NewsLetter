@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Modernize Java apps with AI​ | OD871](https://www.youtube.com/watch?v=Jb1E2mnWKqc)
 - [What&#39;s one mistake devs make when building cost-efficient AI apps?](https://www.youtube.com/shorts/vQcoq40ygmA)
 - [What&#39;s one mistake developers make when building cost-efficient AI apps?](https://www.youtube.com/watch?v=9dX3O-1ohuk)
 - [Azure Storage for AI workloads​ | OD870](https://www.youtube.com/watch?v=50ZODW1SNOU)
 - [Build Game UI Without the Pain: Gum Layout Tool for .NET | .NET Game Development](https://www.youtube.com/watch?v=GeFYWYbmTQU)
-- [Tell me about the labs at Build](https://www.youtube.com/shorts/KzErOV2ifCw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
