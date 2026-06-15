@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Joey Te Puni-Fromont at Microsoft AI Tour Sydney](https://www.youtube.com/shorts/7TyE8hChVu4)
 - [Frontier Transformation - AI Tour Zurich](https://www.youtube.com/shorts/cqTWkn8OCMM)
 - [AI won’t dilute creativity—what matters is how it’s shaped](https://www.youtube.com/watch?v=IE1EsHiPDzk)
 - [Cloud Healthcare: AI Transformation - Becoming Frontier](https://www.youtube.com/shorts/hm5X2ku_4r8)
 - [Introducing intelligent discovery in Microsoft Marketplace | Demo Walkthrough](https://www.youtube.com/watch?v=ezFMU3n6qzg)
-- [A new way to shop Microsoft Marketplace: say hello to intelligent discovery](https://www.youtube.com/watch?v=Ww1wpgTJvao)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
