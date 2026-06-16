@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [From draft to published - streamline blog content with Microsoft Power Platform](https://www.youtube.com/watch?v=WGNdkqvPAJY)
 - [Closing the Copilot Agents adoption gap with templates](https://www.youtube.com/watch?v=26RH3p6VaRo)
 - [Mentoring the next generation of Power Platform leaders | Areti Iles | Community Spotlight](https://www.youtube.com/watch?v=RNaJgwExukE)
 - [Why should you join a #PowerPlatform user group?](https://www.youtube.com/shorts/oX1duwUC1cs)
 - [Keeping It Real with Shane Young!](https://www.youtube.com/shorts/Fqdu4o1RLVg)
-- [The future of Power Platform with Shane Young | EP12 | Keeping it Real](https://www.youtube.com/watch?v=b5UhDBafy74)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
