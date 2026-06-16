@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Robots! In Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/shorts/Fc1hv-9Pg1o)
+- [Robots with AI Agents + Copilot](https://www.youtube.com/watch?v=7siCRbR8eEQ)
 - [Trailer for Livestream 1 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=2yN9TD1l5ag)
 - [Modernize Java apps with AI​ | OD871](https://www.youtube.com/watch?v=Jb1E2mnWKqc)
 - [What&#39;s one mistake devs make when building cost-efficient AI apps?](https://www.youtube.com/shorts/vQcoq40ygmA)
-- [What&#39;s one mistake developers make when building cost-efficient AI apps?](https://www.youtube.com/watch?v=9dX3O-1ohuk)
-- [Azure Storage for AI workloads​ | OD870](https://www.youtube.com/watch?v=50ZODW1SNOU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
