@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Robots! In Mr. Maeda&#39;s Cozy AI Kitchen](https://www.youtube.com/shorts/Fc1hv-9Pg1o)
-- [Robots with AI Agents + Copilot](https://www.youtube.com/watch?v=7siCRbR8eEQ)
-- [Trailer for Livestream 1 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=2yN9TD1l5ag)
-- [Modernize Java apps with AI​ | OD871](https://www.youtube.com/watch?v=Jb1E2mnWKqc)
-- [What&#39;s one mistake devs make when building cost-efficient AI apps?](https://www.youtube.com/shorts/vQcoq40ygmA)
+- [Trailer for Livestream 2 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=R3sUwiZr4Ro)
+- [KEYNOTE: Driving Postgres forward at Microsoft | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=E2s9Prs7PFc)
+- [JSON in PostgreSQL - evil data type or just needs to be tamed? | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=on8qjyOEwPk)
+- [random_page_cost in Postgres - why the default is 4.0 and should you lower it? | POSETTE 2026](https://www.youtube.com/watch?v=lbrWJgl8uDQ)
+- [Fuzzing PostgreSQL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=F2DJuDX6XHg)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
