@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Can you explain what viewers will learn from Budget Bytes?](https://www.youtube.com/watch?v=7AOArJzuMWw)
-- [What will you learn from Budget Bytes?](https://www.youtube.com/shorts/ObOzbDlUKdI)
-- [Product Management in the Age of AI with GitHub &amp; M365 Copilot](https://www.youtube.com/watch?v=xkg76Il0vJI)
-- [Trailer for Livestream 3 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=5-eQk1_eFRc)
-- [KEYNOTE: Postgres 19 Hackers Panel: What’s In, What’s Out, &amp; What’s Next | POSETTE 2026](https://www.youtube.com/watch?v=Vw4WKeoxKq4)
+- [Trailer for Livestream 4 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=6FdpZSXRCk8)
+- [The Wonderful World of WAL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=T7lrE22tgkg)
+- [Building Event-Driven Systems with PostgreSQL Logical Replication and Drasi | POSETTE 2026](https://www.youtube.com/watch?v=TtQfXOgjLr4)
+- [pgcov: Bringing Real Test Coverage to PostgreSQL Code | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=oHhInwoJCE4)
+- [Quorum-Based Consistency for Cluster Changes with CloudNativePG Operator | POSETTE 2026](https://www.youtube.com/watch?v=VrXSCbU3aa4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
