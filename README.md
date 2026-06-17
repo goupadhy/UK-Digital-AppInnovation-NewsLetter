@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Trailer for Livestream 2 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=R3sUwiZr4Ro)
-- [KEYNOTE: Driving Postgres forward at Microsoft | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=E2s9Prs7PFc)
-- [JSON in PostgreSQL - evil data type or just needs to be tamed? | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=on8qjyOEwPk)
-- [random_page_cost in Postgres - why the default is 4.0 and should you lower it? | POSETTE 2026](https://www.youtube.com/watch?v=lbrWJgl8uDQ)
-- [Fuzzing PostgreSQL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=F2DJuDX6XHg)
+- [KEYNOTE: Postgres 19 Hackers Panel: What’s In, What’s Out, &amp; What’s Next | POSETTE 2026](https://www.youtube.com/watch?v=Vw4WKeoxKq4)
+- [pg_lake: Postgres as a lakehouse | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=9COYCHn1MuU)
+- [Migrating VLDBs from Oracle to Azure Database for PostgreSQL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=i4mbsBs1wOE)
+- [pg_stats: How Postgres Internal Stats Work | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=CvvA5P1b5No)
+- [The Hitchhiker’s Guide to PostgreSQL Hacking: Don’t Panic, Just Start Small | POSETTE 2026](https://www.youtube.com/watch?v=YY8UCINpe5c)
 <!-- YOUTUBEAPPMOD:END -->
 
 
