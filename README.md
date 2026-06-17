@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Can you explain what viewers will learn from Budget Bytes?](https://www.youtube.com/watch?v=7AOArJzuMWw)
+- [What will you learn from Budget Bytes?](https://www.youtube.com/shorts/ObOzbDlUKdI)
 - [Product Management in the Age of AI with GitHub &amp; M365 Copilot](https://www.youtube.com/watch?v=xkg76Il0vJI)
 - [Trailer for Livestream 3 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=5-eQk1_eFRc)
 - [KEYNOTE: Postgres 19 Hackers Panel: What’s In, What’s Out, &amp; What’s Next | POSETTE 2026](https://www.youtube.com/watch?v=Vw4WKeoxKq4)
-- [pg_lake: Postgres as a lakehouse | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=9COYCHn1MuU)
-- [Migrating VLDBs from Oracle to Azure Database for PostgreSQL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=i4mbsBs1wOE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
