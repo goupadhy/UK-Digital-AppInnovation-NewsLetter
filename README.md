@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What were some of the most surprising things for devs at Build 2026?](https://www.youtube.com/watch?v=ZNx4cc-233U)
+- [What were some of the most surprising things for devs at Build 2026?](https://www.youtube.com/shorts/7Nsky-2DRVE)
 - [Introducing Agent mode in SQL Server Management Studio &lpar;SSMS&rpar; | Data Exposed](https://www.youtube.com/watch?v=WQflZhHgwys)
 - [My Postgres partitioning cookbook | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=R0yrUdLy6S8)
 - [Exploring property graphs with SQL/PGQ in PostgreSQL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=LUKCoxAjBrM)
-- [Journey of developing a performance optimization feature in PGSQL | POSETTE 2026](https://www.youtube.com/watch?v=oZHhjDD0R74)
-- [pg_duckdb in Action: Accelerating Analytics on Azure Database for PostgreSQL | POSETTE 2026](https://www.youtube.com/watch?v=QrXxp-QKxyA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
