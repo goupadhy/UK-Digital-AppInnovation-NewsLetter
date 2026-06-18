@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Trailer for Livestream 4 of POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=6FdpZSXRCk8)
-- [The Wonderful World of WAL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=T7lrE22tgkg)
-- [Building Event-Driven Systems with PostgreSQL Logical Replication and Drasi | POSETTE 2026](https://www.youtube.com/watch?v=TtQfXOgjLr4)
-- [pgcov: Bringing Real Test Coverage to PostgreSQL Code | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=oHhInwoJCE4)
-- [Quorum-Based Consistency for Cluster Changes with CloudNativePG Operator | POSETTE 2026](https://www.youtube.com/watch?v=VrXSCbU3aa4)
+- [Introducing Agent mode in SQL Server Management Studio &lpar;SSMS&rpar; | Data Exposed](https://www.youtube.com/watch?v=WQflZhHgwys)
+- [My Postgres partitioning cookbook | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=R0yrUdLy6S8)
+- [Exploring property graphs with SQL/PGQ in PostgreSQL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=LUKCoxAjBrM)
+- [Journey of developing a performance optimization feature in PGSQL | POSETTE 2026](https://www.youtube.com/watch?v=oZHhjDD0R74)
+- [pg_duckdb in Action: Accelerating Analytics on Azure Database for PostgreSQL | POSETTE 2026](https://www.youtube.com/watch?v=QrXxp-QKxyA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
