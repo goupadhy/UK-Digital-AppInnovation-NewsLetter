@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The New Industrialists | Manufacturing Co-Intelligence: Leading Change with Agentic AI at Bosch](https://www.youtube.com/watch?v=nXIiPHJ-Jcg)
 - [Microsoft for US Government](https://www.youtube.com/watch?v=as9xvFeaaHA)
 - [Frontier Transformation - AI Tour Sydney - Andrew Dome](https://www.youtube.com/shorts/_Axd4KMI0To)
 - [Aldin Birdaini at AI Tour Zurich](https://www.youtube.com/shorts/fpLmnbwZDWQ)
 - [Frontier Transformation - AI Tour Zurich](https://www.youtube.com/shorts/cqTWkn8OCMM)
-- [AI won’t dilute creativity—what matters is how it’s shaped](https://www.youtube.com/watch?v=IE1EsHiPDzk)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
