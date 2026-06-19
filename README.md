@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What’s it like for Microsoft to manage open source projects?  What’s in it for Microsoft?](https://www.youtube.com/watch?v=PrJreRWqF0A)
+- [What’s it like for Microsoft to manage open source projects?](https://www.youtube.com/shorts/1oD2EKtCm78)
 - [What were some of the most surprising things for devs at Build 2026?](https://www.youtube.com/watch?v=ZNx4cc-233U)
 - [What were some of the most surprising things for devs at Build 2026?](https://www.youtube.com/shorts/7Nsky-2DRVE)
 - [Introducing Agent mode in SQL Server Management Studio &lpar;SSMS&rpar; | Data Exposed](https://www.youtube.com/watch?v=WQflZhHgwys)
-- [My Postgres partitioning cookbook | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=R0yrUdLy6S8)
-- [Exploring property graphs with SQL/PGQ in PostgreSQL | POSETTE: An Event for Postgres 2026](https://www.youtube.com/watch?v=LUKCoxAjBrM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
