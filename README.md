@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How does the #MicrosoftCommunity support each other?](https://www.youtube.com/shorts/YLCqSpVm6oo)
+- [Real-world agent case studies: how organizations are using AI agents](https://www.youtube.com/watch?v=g13UP2B29Ek)
+- [How does the #PowerPlatform community create meaningful impact?](https://www.youtube.com/shorts/LJ3TzWD-4gg)
+- [Building a global community from the ground up | Dharani Balasubramaniam | Community Spotlight](https://www.youtube.com/watch?v=mrWeFb4EVEA)
 - [How does the #MicrosoftCommunity help solve your problems?](https://www.youtube.com/shorts/rjxCv2Y1Rtg)
-- [How does the #PowerPlatform community open doors for opportunity?](https://www.youtube.com/shorts/nUwPg0qhZpU)
-- [How does the #MicrosoftCommunity work from the inside?](https://www.youtube.com/shorts/dWLT6Ef4V9M)
-- [Building a better #PowerPlatform community with Hardit Bhatia!](https://www.youtube.com/shorts/ty2JGVm-gEk)
-- [MCS Work IQ semantic search | Power Platform Shorts](https://www.youtube.com/watch?v=ulgNAMY-OyE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
