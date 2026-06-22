@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What do you think indie devs will love about Build 2026?](https://www.youtube.com/shorts/fAeJhON49eU)
+- [What do you think indie devs will love about Build 2026?](https://www.youtube.com/watch?v=GL4qaejy8mo)
 - [What’s it like for Microsoft to manage open source projects?  What’s in it for Microsoft?](https://www.youtube.com/watch?v=PrJreRWqF0A)
 - [What’s it like for Microsoft to manage open source projects?](https://www.youtube.com/shorts/1oD2EKtCm78)
 - [What were some of the most surprising things for devs at Build 2026?](https://www.youtube.com/watch?v=ZNx4cc-233U)
-- [What were some of the most surprising things for devs at Build 2026?](https://www.youtube.com/shorts/7Nsky-2DRVE)
-- [Introducing Agent mode in SQL Server Management Studio &lpar;SSMS&rpar; | Data Exposed](https://www.youtube.com/watch?v=WQflZhHgwys)
 <!-- YOUTUBEAPPMOD:END -->
 
 
