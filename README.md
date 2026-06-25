@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Getting Started with Git for Game Dev | Quest to Compile - SHORT](https://www.youtube.com/shorts/nwJABHLTgVQ)
+- [3 things that slow down Enterprise SQL Server migrations | Data Exposed](https://www.youtube.com/watch?v=daydaG7k4oE)
+- [Getting Started with Git for Game Dev | Quest to Compile](https://www.youtube.com/watch?v=MB5U9Rh4pJo)
+- [DevOps in the Age of AI with GitHub &amp; Azure](https://www.youtube.com/watch?v=sOYxgLTa_EE)
 - [Writing Safe Code with AI Security and Accessibility Checks](https://www.youtube.com/shorts/J0LVKHKRb7I)
-- [What Azure tools or services did you rely on most in your project? Why?](https://www.youtube.com/shorts/VL3iHu2ldeU)
-- [What Azure tools or services did you rely on most in your project? Why?](https://www.youtube.com/watch?v=thFBuEr90OI)
-- [The Burrito Bot - AI-Powered Search in SQL Server 2025 | MVP Unplugged](https://www.youtube.com/watch?v=u_HgYZ2Zl9I)
-- [Designing AI Coding Tools: Inside Visual Studio &amp; VS Code Agents](https://www.youtube.com/watch?v=kDcMtzc1abM)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
