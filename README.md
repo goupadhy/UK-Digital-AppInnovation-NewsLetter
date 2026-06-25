@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The Power Platform story that every CIO needs to hear | EP13 | Keeping It Real](https://www.youtube.com/watch?v=ItBkSJLt4hU)
 - [How do you start a #MicrosoftCommunity user group?](https://www.youtube.com/shorts/OI7Pcfj2VXc)
 - [Resolve Customer Cases Faster with Microsoft Power Platform](https://www.youtube.com/watch?v=tcROrBKejmo)
 - [Multi-turn conversational evaluations | Power Platform Shorts](https://www.youtube.com/watch?v=avGxHW5bclc)
 - [Build Beyond the Chatbot with Copilot Studio](https://www.youtube.com/watch?v=56GuQzoHl_A)
-- [How does the #MicrosoftCommunity support each other?](https://www.youtube.com/shorts/YLCqSpVm6oo)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
