@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Advice for Designers:  Build Your Own AI Agent and Make It Fun, on the Cozy AI Kitchen](https://www.youtube.com/shorts/_H2EMB6y90I)
+- [Designing Opal: Building a Personal AI Pet](https://www.youtube.com/watch?v=5YnH1gTI1Yg)
+- [Why does Windows sometimes say a file is ‘in use’ even when I’ve closed the app that was using it?](https://www.youtube.com/shorts/w58sOI4HYao)
+- [Why does Windows sometimes say a file is ‘in use’ even when I’ve closed the app that was using it?](https://www.youtube.com/watch?v=DULHyCygDt4)
 - [Strategic Considerations for Maximizing ROI in Modernization Projects](https://www.youtube.com/watch?v=j6dZ2fCH0oo)
-- [Getting Started with Git for Game Dev | Quest to Compile - SHORT](https://www.youtube.com/shorts/nwJABHLTgVQ)
-- [3 things that slow down Enterprise SQL Server migrations | Data Exposed](https://www.youtube.com/watch?v=daydaG7k4oE)
-- [Getting Started with Git for Game Dev | Quest to Compile](https://www.youtube.com/watch?v=MB5U9Rh4pJo)
-- [DevOps in the Age of AI with GitHub &amp; Azure](https://www.youtube.com/watch?v=sOYxgLTa_EE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
