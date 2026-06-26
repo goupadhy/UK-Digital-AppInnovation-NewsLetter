@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Strategic Considerations for Maximizing ROI in Modernization Projects](https://www.youtube.com/watch?v=j6dZ2fCH0oo)
 - [Getting Started with Git for Game Dev | Quest to Compile - SHORT](https://www.youtube.com/shorts/nwJABHLTgVQ)
 - [3 things that slow down Enterprise SQL Server migrations | Data Exposed](https://www.youtube.com/watch?v=daydaG7k4oE)
 - [Getting Started with Git for Game Dev | Quest to Compile](https://www.youtube.com/watch?v=MB5U9Rh4pJo)
 - [DevOps in the Age of AI with GitHub &amp; Azure](https://www.youtube.com/watch?v=sOYxgLTa_EE)
-- [Writing Safe Code with AI Security and Accessibility Checks](https://www.youtube.com/shorts/J0LVKHKRb7I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
