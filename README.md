@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What are AI &#39;hallucinations&#39; and can we fix LLMs so that they don&#39;t happen?](https://www.youtube.com/shorts/cRaqFjQ8JqU)
+- [What are AI &#39;hallucinations&#39; and can we fix LLMs so that they don&#39;t happen?](https://www.youtube.com/watch?v=o3YCjK7bWHI)
 - [Advice for Designers:  Build Your Own AI Agent and Make It Fun, on the Cozy AI Kitchen](https://www.youtube.com/shorts/_H2EMB6y90I)
 - [Designing Opal: Building a Personal AI Pet](https://www.youtube.com/watch?v=5YnH1gTI1Yg)
 - [Why does Windows sometimes say a file is ‘in use’ even when I’ve closed the app that was using it?](https://www.youtube.com/shorts/w58sOI4HYao)
-- [Why does Windows sometimes say a file is ‘in use’ even when I’ve closed the app that was using it?](https://www.youtube.com/watch?v=DULHyCygDt4)
-- [Strategic Considerations for Maximizing ROI in Modernization Projects](https://www.youtube.com/watch?v=j6dZ2fCH0oo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
