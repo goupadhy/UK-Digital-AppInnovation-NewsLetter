@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Proactive field service coordination with Microsoft Power Platform](https://www.youtube.com/watch?v=tAC2ID4quvo)
 - [Analyze your agent with custom metrics | Power Platform Shorts](https://www.youtube.com/watch?v=v7skRSn1ktk)
 - [Asado and Keeping it Real with Leon Welicki | EP03 | The Next Big Bite](https://www.youtube.com/watch?v=MtC3gePmTq8)
 - [Agents know your existing business](https://www.youtube.com/watch?v=s5kImn_UBbI)
 - [The MCP Catalog: Built for the Enterprise](https://www.youtube.com/watch?v=mLKq7hSuUD8)
-- [What are the challenges of leading a #PowerPlatform user group?](https://www.youtube.com/shorts/E0xay2JBu4w)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
