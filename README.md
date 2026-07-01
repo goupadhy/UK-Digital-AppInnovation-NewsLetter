@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [How do you balance cost and performance when building these solutions?](https://www.youtube.com/watch?v=iVnMLFYbbzw)
+- [Cozy AI Kitchen - Hanging up the Aprons](https://www.youtube.com/shorts/XghWz5rUKbE)
+- [Cozy AI Kitchen Finale: Reflecting on AI, Creativity, and the Journey](https://www.youtube.com/watch?v=8uIMLNOsnmw)
 - [Microsoft Dataverse plugin: unleashing coding agents on the enterprise](https://www.youtube.com/watch?v=DHJv_Khorc4)
 - [Giving AI agents visibility into SQL Server with MCP | Data Exposed MVP Edition](https://www.youtube.com/watch?v=tLAfkruOOWo)
-- [What are AI &#39;hallucinations&#39; and can we fix LLMs so that they don&#39;t happen?](https://www.youtube.com/shorts/cRaqFjQ8JqU)
-- [What are AI &#39;hallucinations&#39; and can we fix LLMs so that they don&#39;t happen?](https://www.youtube.com/watch?v=o3YCjK7bWHI)
-- [Advice for Designers:  Build Your Own AI Agent and Make It Fun, on the Cozy AI Kitchen](https://www.youtube.com/shorts/_H2EMB6y90I)
 <!-- YOUTUBEAPPMOD:END -->
 
 
