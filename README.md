@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SSMS + Pipelines | Data Exposed](https://www.youtube.com/watch?v=wkqqRAQFwWA)
 - [How do you balance cost and performance when building these solutions?](https://www.youtube.com/watch?v=iVnMLFYbbzw)
 - [Cozy AI Kitchen - Hanging up the Aprons](https://www.youtube.com/shorts/XghWz5rUKbE)
 - [Cozy AI Kitchen Finale: Reflecting on AI, Creativity, and the Journey](https://www.youtube.com/watch?v=8uIMLNOsnmw)
 - [Microsoft Dataverse plugin: unleashing coding agents on the enterprise](https://www.youtube.com/watch?v=DHJv_Khorc4)
-- [Giving AI agents visibility into SQL Server with MCP | Data Exposed MVP Edition](https://www.youtube.com/watch?v=tLAfkruOOWo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
