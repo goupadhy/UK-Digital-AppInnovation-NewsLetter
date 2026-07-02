@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [SSMS + Pipelines | Data Exposed](https://www.youtube.com/watch?v=wkqqRAQFwWA)
+- [Discovering Power App Data with M365 Copilot using MCP | DEM360](https://www.youtube.com/watch?v=mJ-7v30gfiU)
+- [Introduction to SQL projects in Azure DevOps pipelines | Data Exposed](https://www.youtube.com/watch?v=wkqqRAQFwWA)
 - [How do you balance cost and performance when building these solutions?](https://www.youtube.com/watch?v=iVnMLFYbbzw)
 - [Cozy AI Kitchen - Hanging up the Aprons](https://www.youtube.com/shorts/XghWz5rUKbE)
 - [Cozy AI Kitchen Finale: Reflecting on AI, Creativity, and the Journey](https://www.youtube.com/watch?v=8uIMLNOsnmw)
-- [Microsoft Dataverse plugin: unleashing coding agents on the enterprise](https://www.youtube.com/watch?v=DHJv_Khorc4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
