@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Frontier Transformation - Learning to use AI](https://www.youtube.com/shorts/vPWjRuMxrRI)
 - [Katherine Boiciuc at AI Tour Sydney](https://www.youtube.com/shorts/tDqU9n8ajyY)
 - [Bend the Curve of Innovation](https://www.youtube.com/shorts/vQ-S4ehE9ik)
 - [The New Industrialists | Manufacturing Co-Intelligence: Leading Change with Agentic AI at Bosch](https://www.youtube.com/watch?v=nXIiPHJ-Jcg)
 - [Microsoft for US Government](https://www.youtube.com/watch?v=as9xvFeaaHA)
-- [Frontier Transformation - AI Tour Sydney - Andrew Dome](https://www.youtube.com/shorts/_Axd4KMI0To)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
