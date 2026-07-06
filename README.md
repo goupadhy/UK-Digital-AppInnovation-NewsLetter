@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How can the #PowerPlatform make a difference at your business?](https://www.youtube.com/shorts/UPeJPEfLS1Y)
 - [The Next Big Bite with #PowerPlatform VP Leon Welicki!](https://www.youtube.com/shorts/7J3C1SO8Z-Y)
 - [What are the highlights of becoming a #MicrosoftMVP?](https://www.youtube.com/shorts/WB0xjKIixJA)
 - [What inspired Aurelien Clere start his #Microsoft community user group?](https://www.youtube.com/shorts/nGyk0MsQyKM)
 - [Proactive field service coordination with Microsoft Power Platform](https://www.youtube.com/watch?v=tAC2ID4quvo)
-- [Analyze your agent with custom metrics | Power Platform Shorts](https://www.youtube.com/watch?v=v7skRSn1ktk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
