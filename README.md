@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to get started on the #PowerPlatform with VP Leon Welicki!](https://www.youtube.com/shorts/xsWfa968Lsk)
 - [What changes when you become a #MicrosoftMVP?](https://www.youtube.com/shorts/87g23AOCP-k)
 - [How can the #PowerPlatform make a difference at your business?](https://www.youtube.com/shorts/UPeJPEfLS1Y)
 - [The Next Big Bite with #PowerPlatform VP Leon Welicki!](https://www.youtube.com/shorts/7J3C1SO8Z-Y)
 - [What are the highlights of becoming a #MicrosoftMVP?](https://www.youtube.com/shorts/WB0xjKIixJA)
-- [What inspired Aurelien Clere start his #Microsoft community user group?](https://www.youtube.com/shorts/nGyk0MsQyKM)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
