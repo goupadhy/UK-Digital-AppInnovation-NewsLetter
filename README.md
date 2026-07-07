@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Dataverse Is Your Agent Data Platform: Here’s What’s New in July 2026](https://www.microsoft.com/en-us/power-platform/blog/2026/07/06/dataverse-july2026/)
 - [What’s new in Power Platform: June 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/06/11/whats-new-in-power-platform-june-2026-feature-update/)
 - [Bulk Deletion in Microsoft Dataverse: New Capabilities for Data Lifecycle Management](https://www.microsoft.com/en-us/power-platform/blog/2026/06/10/bulk-deletion-in-dataverse/)
 - [Announcing Low-latency sync for Dataverse to Fabric in GA](https://www.microsoft.com/en-us/power-platform/blog/2026/06/09/low-latency-sync/)
 - [Dataverse MCP Server: Understanding the New Tool Shape](https://www.microsoft.com/en-us/power-platform/blog/2026/06/08/dataverse-mcp-server-understanding-the-new-tool-shape/)
+- [Microsoft Dataverse Plugin: Unleashing Coding Agents on the Enterprise – Microsoft Build 2026](https://www.microsoft.com/en-us/power-platform/blog/2026/06/04/microsoft-dataverse-plugin-unleashing-coding-agents-on-the-enterprise-microsoft-build-2026/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
