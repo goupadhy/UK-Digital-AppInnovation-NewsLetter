@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What was the biggest challenge you faced during your build, and how did you solve it?](https://www.youtube.com/watch?v=HnNm42DrArs)
 - [Discovering Power App Data with M365 Copilot using MCP | DEM360](https://www.youtube.com/watch?v=mJ-7v30gfiU)
 - [Introduction to SQL projects in Azure DevOps pipelines | Data Exposed](https://www.youtube.com/watch?v=wkqqRAQFwWA)
 - [How do you balance cost and performance when building these solutions?](https://www.youtube.com/watch?v=iVnMLFYbbzw)
 - [Cozy AI Kitchen - Hanging up the Aprons](https://www.youtube.com/shorts/XghWz5rUKbE)
-- [Cozy AI Kitchen Finale: Reflecting on AI, Creativity, and the Journey](https://www.youtube.com/watch?v=8uIMLNOsnmw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
