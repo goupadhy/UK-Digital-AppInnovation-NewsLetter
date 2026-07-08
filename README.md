@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The New Industrialists | AI, Discovery, and the Future of Innovation at Saint-Gobain](https://www.youtube.com/watch?v=rFyjB-Lq4fs)
 - [The New Industrialists | Digitale Transformation und Innovation mit Microsoft und Krones](https://www.youtube.com/watch?v=ZU7f89JF-NY)
 - [AI Tour Atlanta Sizzle](https://www.youtube.com/shorts/7yaPP3Tvzu4)
 - [Frontier Transformation - Learning to use AI](https://www.youtube.com/shorts/vPWjRuMxrRI)
 - [Katherine Boiciuc at AI Tour Sydney](https://www.youtube.com/shorts/tDqU9n8ajyY)
-- [Bend the Curve of Innovation](https://www.youtube.com/shorts/vQ-S4ehE9ik)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
