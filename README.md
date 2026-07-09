@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Find out how Leon Welicki keeps it real with #PowerPlatform!](https://www.youtube.com/shorts/utH6cAH1uxs)
+- [What is zoned governance? | EP02 | Agents Under Control](https://www.youtube.com/watch?v=Ov88KbdSPIE)
 - [How can #PowerAutomate flows change your business?](https://www.youtube.com/shorts/SPpOhrVCUPM)
 - [How does becoming a #MicrosoftMVP impact your professional journey?](https://www.youtube.com/shorts/fW61C2YK9hk)
 - [Streamline finance approvals with Microsoft PowerPlatform](https://www.youtube.com/watch?v=uTdQ3phDakY)
-- [External model selection | Power Platform Shorts](https://www.youtube.com/watch?v=iVPz0vO6Uio)
-- [How to get started on the #PowerPlatform with VP Leon Welicki!](https://www.youtube.com/shorts/xsWfa968Lsk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
