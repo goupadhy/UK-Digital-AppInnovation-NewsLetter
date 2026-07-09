@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How can #PowerAutomate flows change your business?](https://www.youtube.com/shorts/SPpOhrVCUPM)
 - [How does becoming a #MicrosoftMVP impact your professional journey?](https://www.youtube.com/shorts/fW61C2YK9hk)
 - [Streamline finance approvals with Microsoft PowerPlatform](https://www.youtube.com/watch?v=uTdQ3phDakY)
 - [External model selection | Power Platform Shorts](https://www.youtube.com/watch?v=iVPz0vO6Uio)
 - [How to get started on the #PowerPlatform with VP Leon Welicki!](https://www.youtube.com/shorts/xsWfa968Lsk)
-- [What changes when you become a #MicrosoftMVP?](https://www.youtube.com/shorts/87g23AOCP-k)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
