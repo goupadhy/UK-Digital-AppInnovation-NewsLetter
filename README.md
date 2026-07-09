@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [What are AI skeptics missing?](https://www.youtube.com/shorts/PP78cIwbRe8)
+- [The New Industrialists | How Tetra Pak Scales AI for Smarter, Context-Driven Decisions](https://www.youtube.com/watch?v=FHBvFMSiLpI)
 - [The New Industrialists | How Brembo Uses AI and Data to Drive Innovation and Business Growth](https://www.youtube.com/watch?v=8EWgBD-VJF0)
 - [The New Industrialists | Bridging AI, Data, and Human Expertise in Modern Machine Tool Production](https://www.youtube.com/watch?v=k5whFj_oZwM)
 - [The New Industrialists | AI, Discovery, and the Future of Innovation at Saint-Gobain](https://www.youtube.com/watch?v=rFyjB-Lq4fs)
-- [The New Industrialists | Digitale Transformation und Innovation mit Microsoft und Krones](https://www.youtube.com/watch?v=ZU7f89JF-NY)
-- [AI Tour Atlanta Sizzle](https://www.youtube.com/shorts/7yaPP3Tvzu4)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
