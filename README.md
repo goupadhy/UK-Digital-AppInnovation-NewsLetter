@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What’s new in Microsoft SQL in 2026 so far &lpar;SQL Server/Azure SQL/Fabric&rpar; | Data Exposed](https://www.youtube.com/watch?v=dEMQl1TTCSY)
 - [What was the biggest challenge you faced during your build, and how did you solve it?](https://www.youtube.com/watch?v=HnNm42DrArs)
 - [Discovering Power App Data with M365 Copilot using MCP | DEM360](https://www.youtube.com/watch?v=mJ-7v30gfiU)
 - [Introduction to SQL projects in Azure DevOps pipelines | Data Exposed](https://www.youtube.com/watch?v=wkqqRAQFwWA)
 - [How do you balance cost and performance when building these solutions?](https://www.youtube.com/watch?v=iVnMLFYbbzw)
-- [Cozy AI Kitchen - Hanging up the Aprons](https://www.youtube.com/shorts/XghWz5rUKbE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
