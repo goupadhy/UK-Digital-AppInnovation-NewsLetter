@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Microsoft Copilot Studio and Docusign | Copilot Studio Agent Academy](https://www.youtube.com/watch?v=P3Sv4U7JSEs)
+- [Power Apps number formatting: format text input as currency | Ask a Community Pro](https://www.youtube.com/watch?v=8x8GP169gkA)
 - [What&#39;s the best part about being a #Microsoft Super User?](https://www.youtube.com/shorts/KAuobmopHqI)
 - [Find out how Leon Welicki keeps it real with #PowerPlatform!](https://www.youtube.com/shorts/utH6cAH1uxs)
 - [What is zoned governance? | EP02 | Agents Under Control](https://www.youtube.com/watch?v=Ov88KbdSPIE)
-- [How can #PowerAutomate flows change your business?](https://www.youtube.com/shorts/SPpOhrVCUPM)
-- [How does becoming a #MicrosoftMVP impact your professional journey?](https://www.youtube.com/shorts/fW61C2YK9hk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
