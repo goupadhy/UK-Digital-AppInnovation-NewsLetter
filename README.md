@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How can the #PowerPlatform community help you learn and prosper?](https://www.youtube.com/shorts/fLL_qGVx2Kw)
+- [Smarter inventory management with Microsoft Power Platform](https://www.youtube.com/watch?v=GgeAu3YEEo8)
+- [How to set up agent sharing limits for #CopilotStudio agents](https://www.youtube.com/shorts/UcWbVCK4CAc)
 - [Computer use enhancement | Power Platform Shorts](https://www.youtube.com/watch?v=CyFPyNMlOnw)
 - [How to guide agent makers with environment routing](https://www.youtube.com/shorts/jVc5ArakJBA)
-- [Microsoft Copilot Studio and Docusign | Copilot Studio Agent Academy](https://www.youtube.com/watch?v=P3Sv4U7JSEs)
-- [Power Apps number formatting: format text input as currency | Ask a Community Pro](https://www.youtube.com/watch?v=8x8GP169gkA)
-- [What&#39;s the best part about being a #Microsoft Super User?](https://www.youtube.com/shorts/KAuobmopHqI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
