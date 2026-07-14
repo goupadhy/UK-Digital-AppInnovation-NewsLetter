@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Claude Opus 4 + RAG: Build an AI App with Embeddings &amp; Knowledge Graphs | MVP Unplugged](https://www.youtube.com/watch?v=W_s_X_kj3vg)
 - [Demo: A real-time 3D digital twin built on Microsoft Fabric](https://www.youtube.com/watch?v=c98gGftOX_0)
 - [What’s new in Microsoft SQL in 2026 so far &lpar;SQL Server/Azure SQL/Fabric&rpar; | Data Exposed](https://www.youtube.com/watch?v=dEMQl1TTCSY)
 - [What was the biggest challenge you faced during your build, and how did you solve it?](https://www.youtube.com/watch?v=HnNm42DrArs)
 - [Discovering Power App Data with M365 Copilot using MCP | DEM360](https://www.youtube.com/watch?v=mJ-7v30gfiU)
-- [Introduction to SQL projects in Azure DevOps pipelines | Data Exposed](https://www.youtube.com/watch?v=wkqqRAQFwWA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
