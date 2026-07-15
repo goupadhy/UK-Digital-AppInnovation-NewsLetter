@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What&#39;s it like to run a #PowerPlatform user group?](https://www.youtube.com/shorts/2f0UQhzzhwg)
 - [How can the #PowerPlatform community help you learn and prosper?](https://www.youtube.com/shorts/fLL_qGVx2Kw)
 - [Smarter inventory management with Microsoft Power Platform](https://www.youtube.com/watch?v=GgeAu3YEEo8)
 - [How to set up agent sharing limits for #CopilotStudio agents](https://www.youtube.com/shorts/UcWbVCK4CAc)
 - [Computer use enhancement | Power Platform Shorts](https://www.youtube.com/watch?v=CyFPyNMlOnw)
-- [How to guide agent makers with environment routing](https://www.youtube.com/shorts/jVc5ArakJBA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
