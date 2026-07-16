@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Advania UK Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=4ygWPWgVybY)
 - [The New Industrialists | Transforming Manufacturing with Standards, AI, and Data-Driven Tools](https://www.youtube.com/watch?v=2tsyZ7SVkO8)
 - [The New Industrialists | How 25,000 TKE Technicians Power Global Uptime and Innovation](https://www.youtube.com/watch?v=C8pGAS_HJDo)
 - [The New Industrialists | Physical AI vs. Digital AI: The Next Evolution in Robotics and Industry](https://www.youtube.com/watch?v=rdvtAQzx3jY)
 - [The New Industrialists | AI, Openness, and Sustainability in Practice](https://www.youtube.com/watch?v=Fa5Jtm7rjTw)
-- [What are AI skeptics missing?](https://www.youtube.com/shorts/PP78cIwbRe8)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
