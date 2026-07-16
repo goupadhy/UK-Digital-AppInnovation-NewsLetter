@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Work IQ: Tooling with MCP &amp; CLI](https://www.youtube.com/watch?v=4zeSzqQ7nC0)
 - [What&#39;s New in Data API builder &lpar;DAB&rpar; 2.0 | Data Exposed](https://www.youtube.com/watch?v=8b_4ftQP1IY)
 - [If someone is brand new to Azure and sees Budget Bytes, what’s your first tip?](https://www.youtube.com/watch?v=EbgjKWNBIrw)
 - [Claude Opus 4 + RAG: Build an AI App with Embeddings &amp; Knowledge Graphs | MVP Unplugged](https://www.youtube.com/watch?v=W_s_X_kj3vg)
 - [Demo: A real-time 3D digital twin built on Microsoft Fabric](https://www.youtube.com/watch?v=c98gGftOX_0)
-- [What’s new in Microsoft SQL in 2026 so far &lpar;SQL Server/Azure SQL/Fabric&rpar; | Data Exposed](https://www.youtube.com/watch?v=dEMQl1TTCSY)
 <!-- YOUTUBEAPPMOD:END -->
 
 
