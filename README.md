@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [AI Tour Conversation Studio - Teach for America](https://www.youtube.com/watch?v=KL-zFx4IEeU)
 - [Baringa Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=2sXUPviJ-OU)
 - [Salvation Army UK and Ireland Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=_TxtXuxAWvM)
 - [Scope Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=ZZEtahBCSvM)
 - [Lifeline Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=DKuLbhBHupY)
-- [EY Global Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=dYSo0Nq9hNI)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
