@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Baringa Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=2sXUPviJ-OU)
 - [Salvation Army UK and Ireland Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=_TxtXuxAWvM)
 - [Scope Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=ZZEtahBCSvM)
 - [Lifeline Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=DKuLbhBHupY)
 - [EY Global Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=dYSo0Nq9hNI)
-- [EY Oceania Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=wwFU6YaS6sA)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
