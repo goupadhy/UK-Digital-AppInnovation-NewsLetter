@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Grant Thorton Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=z1THXoJN-YE)
 - [GHD Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=o9kn2oH219I)
 - [Brisbane Catholic Education Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=k5jUhrC-yLA)
 - [AI Tour Conversation Studio - Teach for America](https://www.youtube.com/watch?v=KL-zFx4IEeU)
 - [Baringa Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=2sXUPviJ-OU)
-- [Salvation Army UK and Ireland Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=_TxtXuxAWvM)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
