@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Esuarve Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=p49sFWfB4KE)
 - [Children&#39;s Cancer Institute Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=c8zvlqgpO_Q)
 - [Grant Thorton Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=z1THXoJN-YE)
 - [GHD Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=o9kn2oH219I)
 - [Brisbane Catholic Education Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=k5jUhrC-yLA)
-- [AI Tour Conversation Studio - Teach for America](https://www.youtube.com/watch?v=KL-zFx4IEeU)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
