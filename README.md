@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How G&amp;J Pepsi Manages 3,800 Stores with #PowerPlatform](https://www.youtube.com/shorts/kDBuo38FInM)
 - [What&#39;s it like being a #Microsoft MVP?](https://www.youtube.com/shorts/ycqlxV_EfjQ)
 - [Welcome Ryan Jones to #Microsoft Agents Under Control!](https://www.youtube.com/shorts/y5NRARBXHc4)
 - [Inside G&amp;J Pepsi’s frontline app: offline, unified, and #AI‑powered!](https://www.youtube.com/shorts/Ae3Z-o27Ong)
 - [Hear from #Microsoft MVP talks about the governance red zone for agents](https://www.youtube.com/shorts/Kq7ti6KxTK0)
-- [What&#39;s it like to initially join the #PowerPlatform community?](https://www.youtube.com/shorts/K6eIeSAll5I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
