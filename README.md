@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Stanwell Corporation Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=VM8eWMuRkjs)
 - [Sciensus Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=Ynq-3sTRtH8)
 - [Gorilla Glue Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=tRGv_u3nNFo)
 - [Opportunity International Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=2vJ-EaYBMDU)
 - [Uniting NSW/ACT Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=TtuIH8Vsqmw)
-- [Esuarve Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=p49sFWfB4KE)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
