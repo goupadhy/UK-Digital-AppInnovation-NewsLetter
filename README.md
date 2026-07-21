@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Prompt modification for custom instructions | Power Platform Shorts](https://www.youtube.com/watch?v=HZ4wJjWAtUY)
 - [Welcome, VP of Managed Platform, Mr  Ryan Jones!](https://www.youtube.com/shorts/TF9RYkUAt5A)
 - [What is a governance red zone?](https://www.youtube.com/shorts/vsBJKtQMa9A)
 - [Aussie classics and starting small with Clay Wesener | EP04 | The Next Big Bite](https://www.youtube.com/watch?v=pnpeZjVxJOs)
 - [How G&amp;J Pepsi Manages 3,800 Stores with #PowerPlatform](https://www.youtube.com/shorts/kDBuo38FInM)
-- [What&#39;s it like being a #Microsoft MVP?](https://www.youtube.com/shorts/ycqlxV_EfjQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
