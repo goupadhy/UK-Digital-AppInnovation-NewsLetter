@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to start a #PowerPlatform Community!](https://www.youtube.com/shorts/-sM3lEV65Mk)
 - [What is zoned governance?](https://www.youtube.com/shorts/Gu3NDtxwRM4)
 - [The Next Big Bite with Clay Wesener!](https://www.youtube.com/shorts/16_8diEhL3Y)
 - [Inside G&amp;J Pepsi’s offline frontline app!](https://www.youtube.com/shorts/30Kfzj4GbEA)
 - [Transform employee onboarding with Microsoft Power Platform](https://www.youtube.com/watch?v=sj6j4oDehY8)
-- [Prompt modification for custom instructions | Power Platform Shorts](https://www.youtube.com/watch?v=HZ4wJjWAtUY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
