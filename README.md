@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [What&#39;s the Tea? with Rachel Thornton | Why Marketers Aren&#39;t Afraid of AI Anymore](https://www.youtube.com/watch?v=ABzgjWoYzwI)
 - [PhysicsX Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=LKId_wIAhD0)
 - [CDW UK &amp; International Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=hIdleez87wk)
 - [Stanwell Corporation Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=VM8eWMuRkjs)
 - [Sciensus Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=Ynq-3sTRtH8)
-- [Gorilla Glue Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=tRGv_u3nNFo)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
