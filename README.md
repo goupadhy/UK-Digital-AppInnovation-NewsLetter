@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Data Streaming for Modern Applications in SQL Server 2025, Azure SQL, and Fabric SQL | Data Exposed](https://www.youtube.com/watch?v=rv3x-vd5JWE)
+- [What&#39;s New in SQL MCP Server 2.0 | Data Exposed](https://www.youtube.com/watch?v=NFQwTIDPenw)
 - [Work IQ: Tooling with MCP &amp; CLI](https://www.youtube.com/watch?v=4zeSzqQ7nC0)
 - [What&#39;s New in Data API builder &lpar;DAB&rpar; 2.0 | Data Exposed](https://www.youtube.com/watch?v=8b_4ftQP1IY)
 - [If someone is brand new to Azure and sees Budget Bytes, what’s your first tip?](https://www.youtube.com/watch?v=EbgjKWNBIrw)
-- [Claude Opus 4 + RAG: Build an AI App with Embeddings &amp; Knowledge Graphs | MVP Unplugged](https://www.youtube.com/watch?v=W_s_X_kj3vg)
-- [Demo: A real-time 3D digital twin built on Microsoft Fabric](https://www.youtube.com/watch?v=c98gGftOX_0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
