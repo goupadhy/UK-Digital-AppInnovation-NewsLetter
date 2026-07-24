@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Experimentation is key with #PowerPlatform!](https://www.youtube.com/shorts/5LR1eGsHwZY)
 - [How Merck scaled Power Platform to 20,000 makers | EP15 | Keeping It Real](https://www.youtube.com/watch?v=ovXCetL0TIM)
 - [How to start a #PowerPlatform Community!](https://www.youtube.com/shorts/-sM3lEV65Mk)
 - [What is zoned governance?](https://www.youtube.com/shorts/Gu3NDtxwRM4)
 - [The Next Big Bite with Clay Wesener!](https://www.youtube.com/shorts/16_8diEhL3Y)
-- [Inside G&amp;J Pepsi’s offline frontline app!](https://www.youtube.com/shorts/30Kfzj4GbEA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
