@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [What&#39;s the Tea? with Michelle Boockoff-Bajdek | AI&#39;s Impact on Customer Experience](https://www.youtube.com/watch?v=5Wf6PjZsEFo)
 - [What&#39;s the Tea? with Jon Levy | The Human Side of AI](https://www.youtube.com/watch?v=uLn2NIgni2Q)
 - [What&#39;s the Tea? with Ryan Asdourian | The New Expectations of AI](https://www.youtube.com/watch?v=18qT12maaTc)
 - [What&#39;s the Tea? with Rachel Thornton | Why Marketers Aren&#39;t Afraid of AI Anymore](https://www.youtube.com/watch?v=ABzgjWoYzwI)
 - [PhysicsX Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=LKId_wIAhD0)
-- [CDW UK &amp; International Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=hIdleez87wk)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
