@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to setup link to Fabric in Dataverse](https://www.youtube.com/watch?v=gJiLSWLENgs)
+- [Business value of AI agents: ROI, impact, and real-world outcomes](https://www.youtube.com/watch?v=pJHZzoKIA-w)
 - [Clay Wesener&#39;s #PowerPlatform Journey](https://www.youtube.com/shorts/ottWKz4X_PM)
 - [From 900 #PowerPoints to a Global #PowerApp!](https://www.youtube.com/shorts/KBC5AYXzbY0)
 - [Experimentation is key with #PowerPlatform!](https://www.youtube.com/shorts/5LR1eGsHwZY)
-- [How Merck scaled Power Platform to 20,000 makers | EP15 | Keeping It Real](https://www.youtube.com/watch?v=ovXCetL0TIM)
-- [How to start a #PowerPlatform Community!](https://www.youtube.com/shorts/-sM3lEV65Mk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
