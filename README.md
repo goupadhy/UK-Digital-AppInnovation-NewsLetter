@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Automagic Data Anomaly Detection in Fabric | Data Exposed MVP Edition](https://www.youtube.com/watch?v=2j-y_YtR2r0)
 - [TypeScript 7 Is Here &lpar;And It&#39;s 10× Faster&rpar;](https://www.youtube.com/shorts/sCZ4u09636A)
 - [TypeScript 7 Is Here &lpar;And It&#39;s 10× Faster&rpar;](https://www.youtube.com/watch?v=OytpXXeNmTQ)
 - [Data Streaming for Modern Applications in SQL Server 2025, Azure SQL, and Fabric SQL | Data Exposed](https://www.youtube.com/watch?v=rv3x-vd5JWE)
 - [What&#39;s New in SQL MCP Server 2.0 | Data Exposed](https://www.youtube.com/watch?v=NFQwTIDPenw)
-- [Work IQ: Tooling with MCP &amp; CLI](https://www.youtube.com/watch?v=4zeSzqQ7nC0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
