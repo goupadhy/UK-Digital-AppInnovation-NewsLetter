@@ -44,8 +44,8 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Agents in Copilot Studio Workflows](https://www.youtube.com/watch?v=ANec5l1moJA)
 - [AGCO accelerates manufacturing with agentic AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=6BPEWtfMlXA)
-- [Agents in Copilot Studio Workflows](https://www.youtube.com/watch?v=ZaUsL54JL44)
 - [Enterprise transformation with #PowerPlatform at Merck](https://www.youtube.com/shorts/5C-0053VGaQ)
 - [How can the #Microsoft Community change people&#39;s careers?](https://www.youtube.com/shorts/P2v9bjY1bw8)
 - [What makes becoming a #MicrosoftMVP so memorable?](https://www.youtube.com/shorts/5pCZc3r1Bl4)
