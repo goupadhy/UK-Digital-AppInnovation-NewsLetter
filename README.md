@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What does becoming a #Microsoft MVP mean within the community?](https://www.youtube.com/shorts/kK8axrMyrm8)
 - [G&amp;J Pepsi-Cola bottlers empowers frontline sales with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=KEGahzmOIvE)
 - [18,000 hours saved: Merck’s #PowerPlatform story](https://www.youtube.com/shorts/aPWR6ZwM610)
 - [What are the advantages of becoming a #Microsoft MVP?](https://www.youtube.com/shorts/kdmHr8ULp1c)
 - [Agents in Copilot Studio Workflows](https://www.youtube.com/watch?v=ANec5l1moJA)
-- [AGCO accelerates manufacturing with agentic AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=6BPEWtfMlXA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
