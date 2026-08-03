@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How organizations are using AI agents featuring Almirall and LTM | Real-world agent case studies](https://www.youtube.com/watch?v=_QKUihHOmgk)
 - [Inside the new agent and workflow harness | Copilot Studio Updates August 2026](https://www.youtube.com/watch?v=v7IA56HJU2E)
 - [How can becoming a #Microsoft MVP help your career and life?](https://www.youtube.com/shorts/n92g6gFt_8I)
 - [Optimize Power Automate flows for large data sets | Ask A Community Pro](https://www.youtube.com/watch?v=Q2UurR0nGDs)
 - [What does becoming a #Microsoft MVP mean within the community?](https://www.youtube.com/shorts/kK8axrMyrm8)
-- [G&amp;J Pepsi-Cola bottlers empowers frontline sales with AI | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=KEGahzmOIvE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
