@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [QDK Tutorial: Learn Quantum Computing with GitHub Copilot in VS Code](https://www.youtube.com/watch?v=551n6E8iCBI)
+- [How does using real pricing &lpar;not estimates&rpar; change how you architect an app?](https://www.youtube.com/watch?v=ztIP2EDBZO0)
 - [Where does AI actually add value in this build, and where is it just hype?](https://www.youtube.com/watch?v=E-AO0-1Ig74)
 - [Automagic Data Anomaly Detection in Fabric | Data Exposed MVP Edition](https://www.youtube.com/watch?v=2j-y_YtR2r0)
 - [TypeScript 7 Is Here &lpar;And It&#39;s 10× Faster&rpar;](https://www.youtube.com/shorts/sCZ4u09636A)
-- [TypeScript 7 Is Here &lpar;And It&#39;s 10× Faster&rpar;](https://www.youtube.com/watch?v=OytpXXeNmTQ)
-- [Data Streaming for Modern Applications in SQL Server 2025, Azure SQL, and Fabric SQL | Data Exposed](https://www.youtube.com/watch?v=rv3x-vd5JWE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
