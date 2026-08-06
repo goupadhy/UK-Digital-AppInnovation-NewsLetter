@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Building highly effective business‑process agents | Copilot Studio Updates August 2026](https://www.youtube.com/watch?v=6KoTjt6wIMc)
+- [Are you ready for the 2026 Power Platform Community Conference?](https://www.youtube.com/watch?v=2i8vVAUhOvw)
 - [Technical deep dive on modern agents and workflows in Copilot Studio](https://www.youtube.com/watch?v=CRBPxSzPc2c)
 - [State Farm scales responsible AI with 3,000+ agents | Who’s Using Copilot Studio?](https://www.youtube.com/watch?v=y8n81AKUnXA)
 - [How organizations are using AI agents featuring Almirall and LTM | Real-world agent case studies](https://www.youtube.com/watch?v=_QKUihHOmgk)
-- [Inside the new agent and workflow harness | Copilot Studio Updates August 2026](https://www.youtube.com/watch?v=v7IA56HJU2E)
-- [How can becoming a #Microsoft MVP help your career and life?](https://www.youtube.com/shorts/n92g6gFt_8I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
