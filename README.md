@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [ZoomIt for Mac: How AI Ported a 20+ Year-Old Windows Tool](https://www.youtube.com/watch?v=Pp3EgOodc40)
 - [Get Started with FREE Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=h_iKzAlmaUU)
 - [QDK Tutorial: Learn Quantum Computing with GitHub Copilot in VS Code](https://www.youtube.com/watch?v=551n6E8iCBI)
 - [How does using real pricing &lpar;not estimates&rpar; change how you architect an app?](https://www.youtube.com/watch?v=ztIP2EDBZO0)
 - [Where does AI actually add value in this build, and where is it just hype?](https://www.youtube.com/watch?v=E-AO0-1Ig74)
-- [Automagic Data Anomaly Detection in Fabric | Data Exposed MVP Edition](https://www.youtube.com/watch?v=2j-y_YtR2r0)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
