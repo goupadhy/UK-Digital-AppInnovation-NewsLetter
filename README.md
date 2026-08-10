@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [ZoomIt for Mac: How AI Ported a 20+ Year-Old Windows Tool](https://www.youtube.com/shorts/6Qx099Wptf0)
 - [VS Gets AI Agents + MCP C# SDK 2.0 and More](https://www.youtube.com/shorts/4aX8cI15-Ng)
 - [Microsoft Quantum Development Kit &lpar;QDK&rpar;](https://www.youtube.com/watch?v=myY6iW-pWCA)
 - [ZoomIt for Mac: How AI Ported a 20+ Year-Old Windows Tool](https://www.youtube.com/watch?v=Pp3EgOodc40)
 - [Get Started with FREE Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=h_iKzAlmaUU)
-- [QDK Tutorial: Learn Quantum Computing with GitHub Copilot in VS Code](https://www.youtube.com/watch?v=551n6E8iCBI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
