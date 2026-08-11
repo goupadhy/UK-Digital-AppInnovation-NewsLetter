@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [What’s new in Power Platform: July/August 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/whats-new-in-power-platform-july-august-2026-feature-update/)
-- [Secured and Governed your AI Agents: Microsoft Entra Agent ID for Dataverse ](https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/microsoft-entra-agent-id-for-dataverse/)
 - [Prompt Columns in GA: Turning Business Apps Data into Persisted AI Insights](https://www.microsoft.com/en-us/power-platform/blog/2026/07/29/prompt-columns-july2026/)
 - [Dataverse Plugin for Coding Agents: OpenAI and Codex Marketplace Expansion](https://www.microsoft.com/en-us/power-platform/blog/2026/07/28/dataverse-plugin-for-coding-agents-openai-and-codex-marketplace-expansion/)
 - [Announcing the Power Pages Security Agent (Preview): Your AI Partner for Site Security](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-the-power-pages-security-agent-preview-your-ai-partner-for-site-security/)
+- [Dataverse Plugin for Coding Agents Now Available in Cursor Marketplace](https://www.microsoft.com/en-us/power-platform/blog/2026/07/21/dataverse-plugin-for-coding-agents-now-available-in-cursor-marketplace/)
+- [Announcing Link to Fabric UX refresh](https://www.microsoft.com/en-us/power-platform/blog/2026/07/20/link-to-fabric-ux-refresh/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
