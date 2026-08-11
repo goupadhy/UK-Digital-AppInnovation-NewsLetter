@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [KOHLER achieves 98% Microsoft 365 Copilot adoption with a bold strategy for change](https://www.youtube.com/watch?v=mO8LU91Xs10)
 - [Agentic AI In Action: How Consumer Goods Leaders Deliver Measurable Results](https://www.youtube.com/watch?v=Me0VdyV4wdk)
 - [CDW UK &amp; International Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=fCKfgU4z7Pw)
 - [Trustmarque Ultima Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=L80wAGefO9w)
 - [What&#39;s the Tea? with Gary Vaynerchuk | What Leaders Are Missing About AI](https://www.youtube.com/watch?v=EDg1KpnXL4M)
-- [What&#39;s the Tea? with Michelle Boockoff-Bajdek | AI&#39;s Impact on Customer Experience](https://www.youtube.com/watch?v=5Wf6PjZsEFo)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
