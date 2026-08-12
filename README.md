@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Will this architecture still make sense when my app 10x’s? Or will I have to rebuild?](https://www.youtube.com/watch?v=eigZTjpnCKY)
+- [If I’m a startup founder with limited budget, why should I build this on Azure SQL?](https://www.youtube.com/watch?v=hYRcywaOPjc)
 - [ZoomIt for Mac: How AI Ported a 20+ Year-Old Windows Tool](https://www.youtube.com/shorts/6Qx099Wptf0)
 - [VS Gets AI Agents + MCP C# SDK 2.0 and More](https://www.youtube.com/shorts/4aX8cI15-Ng)
 - [Microsoft Quantum Development Kit &lpar;QDK&rpar;](https://www.youtube.com/watch?v=myY6iW-pWCA)
-- [ZoomIt for Mac: How AI Ported a 20+ Year-Old Windows Tool](https://www.youtube.com/watch?v=Pp3EgOodc40)
-- [Get Started with FREE Azure SQL Managed Instance | Data Exposed](https://www.youtube.com/watch?v=h_iKzAlmaUU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
