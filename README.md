@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
-- [Extend Liquid with Server Logic in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/extend-liquid-with-server-logic-in-power-pages/)
-- [Your Company Is Racing to Deploy AI. Is Your Data Ready?](https://www.microsoft.com/en-us/power-platform/blog/2026/08/11/your-company-is-racing-to-deploy-ai-is-your-data-ready/)
 - [What’s new in Power Platform: July/August 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/whats-new-in-power-platform-july-august-2026-feature-update/)
 - [Secured and Governed your AI Agents: Microsoft Entra Agent ID for Dataverse ](https://www.microsoft.com/en-us/power-platform/blog/2026/08/06/microsoft-entra-agent-id-for-dataverse/)
 - [Prompt Columns in GA: Turning Business Apps Data into Persisted AI Insights](https://www.microsoft.com/en-us/power-platform/blog/2026/07/29/prompt-columns-july2026/)
+- [Dataverse Plugin for Coding Agents: OpenAI and Codex Marketplace Expansion](https://www.microsoft.com/en-us/power-platform/blog/2026/07/28/dataverse-plugin-for-coding-agents-openai-and-codex-marketplace-expansion/)
+- [Announcing the Power Pages Security Agent (Preview): Your AI Partner for Site Security](https://www.microsoft.com/en-us/power-platform/blog/power-pages/announcing-the-power-pages-security-agent-preview-your-ai-partner-for-site-security/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
