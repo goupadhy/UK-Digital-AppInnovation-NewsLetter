@@ -80,7 +80,7 @@ We hope that these resources will help you innovate and address the real-world n
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
 - [What&#39;s new in vector indexing for Microsoft SQL | Data Exposed](https://www.youtube.com/watch?v=aFXFfo1oe_w)
-- [MCP Live!](https://www.youtube.com/watch?v=uydwDk91Y9Y)
+- [MCP Live! | A half-day livestream about the latest in MCP](https://www.youtube.com/watch?v=uydwDk91Y9Y)
 - [Will this architecture still make sense when my app 10x’s? Or will I have to rebuild?](https://www.youtube.com/watch?v=eigZTjpnCKY)
 - [If I’m a startup founder with limited budget, why should I build this on Azure SQL?](https://www.youtube.com/watch?v=hYRcywaOPjc)
 - [ZoomIt for Mac: How AI Ported a 20+ Year-Old Windows Tool](https://www.youtube.com/shorts/6Qx099Wptf0)
