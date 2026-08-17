@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [SQL MCP Server: Bringing AI Agents to Your SQL Data](https://www.youtube.com/watch?v=geK_ijU0YC8)
+- [Beyond Embeddings: Practical Vector Search with DiskANN in SQL Server](https://www.youtube.com/watch?v=Qcw6jf93uh4)
 - [Kimi K3 in GitHub Copilot, Multi-Agent AI, and more | The Upload](https://www.youtube.com/shorts/aPn0Gon8p8k)
 - [What&#39;s new in vector indexing for Microsoft SQL | Data Exposed](https://www.youtube.com/watch?v=aFXFfo1oe_w)
 - [MCP Live! | A half-day livestream about the latest in MCP](https://www.youtube.com/watch?v=uydwDk91Y9Y)
-- [Will this architecture still make sense when my app 10x’s? Or will I have to rebuild?](https://www.youtube.com/watch?v=eigZTjpnCKY)
-- [If I’m a startup founder with limited budget, why should I build this on Azure SQL?](https://www.youtube.com/watch?v=hYRcywaOPjc)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
