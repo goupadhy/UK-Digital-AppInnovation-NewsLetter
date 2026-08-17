@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Jollof rice and building the future with Derah Onuorah | EP05 | The Next Big Bite](https://www.youtube.com/watch?v=GsWL5gsIJpo)
 - [How Western States Equipment built a single app for 20+ data sources!](https://www.youtube.com/shorts/PCUpWY1E45k)
 - [Building autonomous multi‑agent workflows | Copilot Studio Updates August 2026](https://www.youtube.com/watch?v=UuJpNa_TbiI)
 - [How Western States Equipment moved from ten systems to ONE app! | EP16 | Keeping It Real](https://www.youtube.com/watch?v=XMOgs7fQuEk)
 - [Action Apps transforms athlete performance with Microsoft technology | Who’s Using Copilot?](https://www.youtube.com/watch?v=XbzrqHCHndA)
-- [Building highly effective business‑process agents | Copilot Studio Updates August 2026](https://www.youtube.com/watch?v=6KoTjt6wIMc)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
