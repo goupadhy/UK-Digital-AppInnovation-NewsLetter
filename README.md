@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Quantum Development Kit &lpar;QDK&rpar; Installation](https://www.youtube.com/watch?v=fthyzc00Mx8)
 - [Turn Every Idea into an AI App with the GitHub Copilot SDK](https://www.youtube.com/watch?v=QLKcF0j6bVA)
 - [Fast Focus: Dream a Little Dream: Dev with the CLI](https://www.youtube.com/watch?v=UicOrEO1-7Q)
 - [Fast Focus: What’s New Across Microsoft SQL and Developer Tooling in 2026](https://www.youtube.com/watch?v=OpsL85Ps79c)
 - [SQL MCP Server: Bringing AI Agents to Your SQL Data](https://www.youtube.com/watch?v=geK_ijU0YC8)
-- [Beyond Embeddings: Practical Vector Search with DiskANN in SQL Server](https://www.youtube.com/watch?v=Qcw6jf93uh4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
