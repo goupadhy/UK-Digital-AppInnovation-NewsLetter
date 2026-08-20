@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Automatic backup immutability for Azure SQL DB and Azure SQL MI | Data Exposed](https://www.youtube.com/watch?v=G9lUxxcRNTg)
 - [The Developers Guide to Azure SQL Hyperscale](https://www.youtube.com/watch?v=PS2U-mZYvss)
 - [SQL and AI for Developers in Action](https://www.youtube.com/watch?v=KykyglY1W4g)
 - [Microsoft Quantum Development Kit &lpar;QDK&rpar; Installation](https://www.youtube.com/watch?v=fthyzc00Mx8)
 - [Turn Every Idea into an AI App with the GitHub Copilot SDK](https://www.youtube.com/watch?v=QLKcF0j6bVA)
-- [Fast Focus: Dream a Little Dream: Dev with the CLI](https://www.youtube.com/watch?v=UicOrEO1-7Q)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
