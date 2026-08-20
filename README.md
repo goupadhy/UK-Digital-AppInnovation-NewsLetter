@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [From 10 systems to 1 app — real‑world #PowerPlatform innovation!](https://www.youtube.com/shorts/Sj_VzXwmhNQ)
 - [How NASA built mission‑critical apps with Power Platform | EP17 | Keeping it Real](https://www.youtube.com/watch?v=yKQwkw-8dG4)
 - [The Next Big Bite with Derah Onuorah!](https://www.youtube.com/shorts/HFi-V0ug-wY)
 - [Jollof rice and building the future with Derah Onuorah | EP05 | The Next Big Bite](https://www.youtube.com/watch?v=GsWL5gsIJpo)
 - [How Western States Equipment built a single app for 20+ data sources!](https://www.youtube.com/shorts/PCUpWY1E45k)
-- [Building autonomous multi‑agent workflows | Copilot Studio Updates August 2026](https://www.youtube.com/watch?v=UuJpNa_TbiI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
