@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [The Next Big Bite Episode 5 with Derah Onuorah!](https://www.youtube.com/shorts/zZAk_YSb4TY)
 - [Real NASA apps built with #PowerPlatform!](https://www.youtube.com/shorts/lMOn4VT3eEQ)
 - [Have you seen EP05 of The Next Big Bite yet?](https://www.youtube.com/shorts/eUtgo800hQU)
 - [From 10 systems to 1 app — real‑world #PowerPlatform innovation!](https://www.youtube.com/shorts/Sj_VzXwmhNQ)
 - [How NASA built mission‑critical apps with Power Platform | EP17 | Keeping it Real](https://www.youtube.com/watch?v=yKQwkw-8dG4)
-- [The Next Big Bite with Derah Onuorah!](https://www.youtube.com/shorts/HFi-V0ug-wY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
