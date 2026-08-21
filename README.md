@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Automatic backup immutability for Azure SQL DB and Azure SQL MI | Data Exposed](https://www.youtube.com/watch?v=G9lUxxcRNTg)
-- [The Developers Guide to Azure SQL Hyperscale](https://www.youtube.com/watch?v=PS2U-mZYvss)
-- [SQL and AI for Developers in Action](https://www.youtube.com/watch?v=KykyglY1W4g)
-- [Microsoft Quantum Development Kit &lpar;QDK&rpar; Installation](https://www.youtube.com/watch?v=fthyzc00Mx8)
-- [Turn Every Idea into an AI App with the GitHub Copilot SDK](https://www.youtube.com/watch?v=QLKcF0j6bVA)
+- [Build Reusable Copilot Workflows with Skills and Agents](https://www.youtube.com/watch?v=5062_E26pJE)
+- [Modernize Your Portfolio with Bootstrap and GitHub Copilot](https://www.youtube.com/watch?v=5RdcjCOC1Rk)
+- [Build a Portfolio Website from Your Resume with GitHub Copilot](https://www.youtube.com/watch?v=ecbNPzagCCo)
+- [Optimizing GitHub Copilot: Better Results, Fewer Tokens](https://www.youtube.com/watch?v=37I7qkgEl9U)
+- [Get Started with GitHub Copilot and the Student Developer Pack](https://www.youtube.com/watch?v=R-Cc3t1twEE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
