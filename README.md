@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [E4: Optimize performance and scalability with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=CPldqiLKidY)
+- [E3: Build AI apps with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=RV3GaHKIOvo)
+- [E2: Migrate and optimize with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=FGEq2AOHlDo)
+- [E1: A reintroduction to Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=Gbb4vTh0Lts)
 - [Build Intelligent Agents with Work IQ, Foundry IQ, and Fabric IQ](https://www.youtube.com/watch?v=1FfowsCdnxQ)
-- [Stop Writing Prompts. Start Writing Specs.](https://www.youtube.com/watch?v=Orr7qadkZD8)
-- [Building your own MCP server](https://www.youtube.com/watch?v=a2DSorZ-LeE)
-- [Secure AI Agents in Azure: AI Gateway, Tools, and Trust](https://www.youtube.com/watch?v=rkJJZQF_qcg)
-- [Building an End-to-End Enterprise AI Platform on Azure](https://www.youtube.com/watch?v=yC-TA-GsRLI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
