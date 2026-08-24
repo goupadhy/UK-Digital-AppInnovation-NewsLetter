@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Build Reusable Copilot Workflows with Skills and Agents](https://www.youtube.com/watch?v=5062_E26pJE)
-- [Modernize Your Portfolio with Bootstrap and GitHub Copilot](https://www.youtube.com/watch?v=5RdcjCOC1Rk)
-- [Build a Portfolio Website from Your Resume with GitHub Copilot](https://www.youtube.com/watch?v=ecbNPzagCCo)
-- [Optimizing GitHub Copilot: Better Results, Fewer Tokens](https://www.youtube.com/watch?v=37I7qkgEl9U)
-- [Get Started with GitHub Copilot and the Student Developer Pack](https://www.youtube.com/watch?v=R-Cc3t1twEE)
+- [Build Intelligent Agents with Work IQ, Foundry IQ, and Fabric IQ](https://www.youtube.com/watch?v=1FfowsCdnxQ)
+- [Stop Writing Prompts. Start Writing Specs.](https://www.youtube.com/watch?v=Orr7qadkZD8)
+- [Building your own MCP server](https://www.youtube.com/watch?v=a2DSorZ-LeE)
+- [Secure AI Agents in Azure: AI Gateway, Tools, and Trust](https://www.youtube.com/watch?v=rkJJZQF_qcg)
+- [Building an End-to-End Enterprise AI Platform on Azure](https://www.youtube.com/watch?v=yC-TA-GsRLI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
