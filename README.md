@@ -28,7 +28,7 @@ We hope that these resources will help you innovate and address the real-world n
 - [E4: Optimize performance and scalability with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=CPldqiLKidY)
 - [E3: Build AI apps with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=RV3GaHKIOvo)
 - [E2: Migrate and optimize with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=FGEq2AOHlDo)
-- [E1: A reintroduction to Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=Gbb4vTh0Lts)
+- [E1: Meet Azure SQL Hyperscale](https://www.youtube.com/watch?v=Gbb4vTh0Lts)
 - [Build Intelligent Agents with Work IQ, Foundry IQ, and Fabric IQ](https://www.youtube.com/watch?v=1FfowsCdnxQ)
 <!-- YOUTUBECNA:END -->
 
