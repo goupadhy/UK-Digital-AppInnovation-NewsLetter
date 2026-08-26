@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Find out how #Microsoft  Power Platform is a game‑changing sales app!](https://www.youtube.com/shorts/qmDUHAnVrAA)
 - [PPCC26 Product Weeks are here!](https://www.youtube.com/watch?v=BJqmxSHva3c)
 - [How did #NASA scale #PowerPlatform from 7,000 to 47,000 users?](https://www.youtube.com/shorts/qznRlOfI3-0)
 - [From observing the forums to becoming a Microsoft MVP | Cat Schneider | Community Spotlight](https://www.youtube.com/watch?v=n6O6hTP7Z5s)
 - [The Next Big Bite Episode 5 with Derah Onuorah!](https://www.youtube.com/shorts/zZAk_YSb4TY)
-- [Real NASA apps built with #PowerPlatform!](https://www.youtube.com/shorts/lMOn4VT3eEQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
