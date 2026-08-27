@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Agent Optimizer, Agent Plugins 1.0 &amp; Sonnet 4.6 Sunset](https://www.youtube.com/shorts/vrrJJTW5Tgg)
+- [Join us for MCP Live! Sept 9th!](https://www.youtube.com/shorts/3KsIU_crL8s)
 - [E4: Optimize performance and scalability with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=CPldqiLKidY)
 - [E3: Build AI apps with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=RV3GaHKIOvo)
 - [E2: Migrate and optimize with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=FGEq2AOHlDo)
-- [E1: Meet Azure SQL Hyperscale](https://www.youtube.com/watch?v=Gbb4vTh0Lts)
-- [Build Intelligent Agents with Work IQ, Foundry IQ, and Fabric IQ](https://www.youtube.com/watch?v=1FfowsCdnxQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
