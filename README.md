@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [Agent Optimizer, Agent Plugins 1.0 &amp; Sonnet 4.6 Sunset](https://www.youtube.com/shorts/vrrJJTW5Tgg)
-- [Join us for MCP Live! Sept 9th!](https://www.youtube.com/shorts/3KsIU_crL8s)
-- [E4: Optimize performance and scalability with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=CPldqiLKidY)
-- [E3: Build AI apps with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=RV3GaHKIOvo)
-- [E2: Migrate and optimize with Azure SQL Database Hyperscale](https://www.youtube.com/watch?v=FGEq2AOHlDo)
+- [What was announced for developers on Windows at Build 2026?](https://www.youtube.com/watch?v=omgOmiO8gz0)
+- [Tackle real database changes with SQL projects in VS Code | Data Exposed](https://www.youtube.com/watch?v=I8tgsDFJE1k)
+- [What was announced for developers on Windows at Build 2026?](https://www.youtube.com/shorts/jx-56eUNOJc)
+- [What&#39;s the coolest thing coming in the next version of C#?](https://www.youtube.com/watch?v=iHq2J6ixi7s)
+- [What&#39;s the coolest thing coming in the next version of C#?](https://www.youtube.com/shorts/-vFBqPiUWdk)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
