@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What does it really take to ship an AI agent?](https://www.youtube.com/watch?v=gF2RMvXput8)
 - [What was announced for developers on Windows at Build 2026?](https://www.youtube.com/watch?v=omgOmiO8gz0)
 - [Tackle real database changes with SQL projects in VS Code | Data Exposed](https://www.youtube.com/watch?v=I8tgsDFJE1k)
 - [What was announced for developers on Windows at Build 2026?](https://www.youtube.com/shorts/jx-56eUNOJc)
 - [What&#39;s the coolest thing coming in the next version of C#?](https://www.youtube.com/watch?v=iHq2J6ixi7s)
-- [What&#39;s the coolest thing coming in the next version of C#?](https://www.youtube.com/shorts/-vFBqPiUWdk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
