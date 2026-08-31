@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Now that everything is agentic, what should I be learning?](https://www.youtube.com/shorts/MF_sEVTiIzU)
+- [Now that everything is agentic, what should I be learning?](https://www.youtube.com/watch?v=Hjth_qL6ok8)
 - [What were the biggest technical shifts in Visual Studio and VS Code?](https://www.youtube.com/shorts/Vh8j_Dq2aaY)
-- [MSFT ONEDEV 0426 Q9 16x9 v1](https://www.youtube.com/watch?v=bmVE-Sj1L3Y)
+- [What were the biggest technical shifts in Visual Studio and VS Code?](https://www.youtube.com/watch?v=bmVE-Sj1L3Y)
 - [What does it really take to ship an AI agent?](https://www.youtube.com/watch?v=gF2RMvXput8)
-- [What was announced for developers on Windows at Build 2026?](https://www.youtube.com/watch?v=omgOmiO8gz0)
-- [Tackle real database changes with SQL projects in VS Code | Data Exposed](https://www.youtube.com/watch?v=I8tgsDFJE1k)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
