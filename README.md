@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Power Apps gallery data with Keith Atherton | Ask a Community Pro](https://www.youtube.com/watch?v=gfp53eoWS0o)
 - [Get ready for PPCC26 with Mary Myers!](https://www.youtube.com/watch?v=0sb0B3eAxr0)
 - [How does low code power NASA missions?](https://www.youtube.com/shorts/lLL3TV5FfaA)
 - [Find out how #Microsoft  Power Platform is a game‑changing sales app!](https://www.youtube.com/shorts/qmDUHAnVrAA)
 - [PPCC26 Product Weeks are here!](https://www.youtube.com/watch?v=BJqmxSHva3c)
-- [How did #NASA scale #PowerPlatform from 7,000 to 47,000 users?](https://www.youtube.com/shorts/qznRlOfI3-0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
