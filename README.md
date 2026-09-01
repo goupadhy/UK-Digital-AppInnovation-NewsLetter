@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Bring Your Own Model in VS, Foundry Models, .NET Conf Sets Date | The Upload Ep 4](https://www.youtube.com/shorts/BBfx2jQfp_o)
 - [Now that everything is agentic, what should I be learning?](https://www.youtube.com/shorts/MF_sEVTiIzU)
 - [Now that everything is agentic, what should I be learning?](https://www.youtube.com/watch?v=Hjth_qL6ok8)
 - [What were the biggest technical shifts in Visual Studio and VS Code?](https://www.youtube.com/shorts/Vh8j_Dq2aaY)
 - [What were the biggest technical shifts in Visual Studio and VS Code?](https://www.youtube.com/watch?v=bmVE-Sj1L3Y)
-- [What does it really take to ship an AI agent?](https://www.youtube.com/watch?v=gF2RMvXput8)
 <!-- YOUTUBEAPPMOD:END -->
 
 
