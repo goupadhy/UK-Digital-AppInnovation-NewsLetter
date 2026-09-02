@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What&#39;s new in AI?](https://www.youtube.com/watch?v=lI1Oc-lFeCQ)
+- [What&#39;s new in AI?](https://www.youtube.com/shorts/94ZMV3YeP-E)
 - [Your first AI agent is only a few lines of Python away](https://www.youtube.com/watch?v=pdBSgV2SRcM)
 - [Build Your Personal Brand with GitHub Copilot — Full Course for Students](https://www.youtube.com/watch?v=CFFcWs2FRBo)
 - [From Code to Agents: Build Production MCP Servers on Azure Functions](https://www.youtube.com/watch?v=ii001KWkV54)
-- [Shield sensitive fields with Dynamic Data Masking for Microsoft SQL | Data Exposed MVP Edition](https://www.youtube.com/watch?v=nRyebHtBKIc)
-- [Bring Your Own Model in VS, Foundry Models, .NET Conf Sets Date | The Upload Ep 4](https://www.youtube.com/shorts/BBfx2jQfp_o)
 <!-- YOUTUBEAPPMOD:END -->
 
 
