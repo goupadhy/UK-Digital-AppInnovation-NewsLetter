@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Executive Voices | How Microsoft Uses AI and Agents to Run One of the World&#39;s Largest Supply Chains](https://www.youtube.com/watch?v=LRORY_UbD60)
 - [Inside Microsoft&#39;s AI-Powered Supply Chain](https://www.youtube.com/watch?v=anJdV7q6k3A)
 - [KOHLER achieves 98% Microsoft 365 Copilot adoption with AI change management strategy](https://www.youtube.com/watch?v=mO8LU91Xs10)
 - [Agentic AI In Action: How Consumer Goods Leaders Deliver Measurable Results](https://www.youtube.com/watch?v=Me0VdyV4wdk)
 - [CDW UK &amp; International Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=fCKfgU4z7Pw)
-- [Trustmarque Ultima Frontier Transformation: Turning AI Ambition into Human Impact](https://www.youtube.com/watch?v=L80wAGefO9w)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
