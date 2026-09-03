@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [5 things you didn&#39;t know about Azure SQL Database Hyperscale | Data Exposed](https://www.youtube.com/watch?v=Se4NOPZdCMA)
 - [Build an AI agent without leaving VS Code](https://www.youtube.com/watch?v=lLTqWYDhHZw)
 - [What&#39;s new in AI?](https://www.youtube.com/watch?v=lI1Oc-lFeCQ)
 - [What&#39;s new in AI?](https://www.youtube.com/shorts/94ZMV3YeP-E)
 - [Your first AI agent is only a few lines of Python away](https://www.youtube.com/watch?v=pdBSgV2SRcM)
-- [Build Your Personal Brand with GitHub Copilot — Full Course for Students](https://www.youtube.com/watch?v=CFFcWs2FRBo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
