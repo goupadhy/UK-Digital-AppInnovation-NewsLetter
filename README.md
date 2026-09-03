@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Get ready for PPCC26 with Shane Young!](https://www.youtube.com/watch?v=JxTKj0aWh8A)
 - [How IT can secure agents across the full lifecycle | EP03 | Agents Under Control](https://www.youtube.com/watch?v=jUSUyeK_Tqg)
 - [Power Apps | Product Weeks | PPCC26](https://www.youtube.com/watch?v=dPY4jJsw77I)
 - [Power Apps gallery data with Keith Atherton | Ask a Community Pro](https://www.youtube.com/watch?v=gfp53eoWS0o)
 - [Get ready for PPCC26 with Mary Myers!](https://www.youtube.com/watch?v=0sb0B3eAxr0)
-- [How does low code power NASA missions?](https://www.youtube.com/shorts/lLL3TV5FfaA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
