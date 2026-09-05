@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [PPCC 2026: Bringing AI and your business processes together](https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/)
 - [Turbocharge your canvas development with the canvas authoring agent plugin – now generally available!](https://www.microsoft.com/en-us/power-platform/blog/power-apps/turbocharge-your-canvas-development-with-the-canvas-authoring-agent-plugin-now-generally-available/)
 - [One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/)
 - [Register now for PPCC 2026: Come for the learning, stay for the community](https://www.microsoft.com/en-us/power-platform/blog/2026/08/13/register-now-for-ppcc-2026-come-for-the-learning-stay-for-the-community/)
 - [Extend Liquid with Server Logic in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/extend-liquid-with-server-logic-in-power-pages/)
-- [Your Company Is Racing to Deploy AI. Is Your Data Ready?](https://www.microsoft.com/en-us/power-platform/blog/2026/08/11/your-company-is-racing-to-deploy-ai-is-your-data-ready/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
