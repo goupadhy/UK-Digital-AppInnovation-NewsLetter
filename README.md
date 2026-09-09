@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [MCP Live! | A half-day livestream about the latest in MCP](https://www.youtube.com/watch?v=uydwDk91Y9Y)
+- [You don’t need code to build your first AI agent](https://www.youtube.com/watch?v=K6ypSCMWvGU)
 - [What&#39;s the deal with these IQs?](https://www.youtube.com/watch?v=mMO8Dxyk4Q4)
 - [What&#39;s the deal with these IQs?](https://www.youtube.com/shorts/RC8ppKEklaY)
 - [Fly with Copilot Is Landing in Redmond ✈️](https://www.youtube.com/shorts/k4U8rAScimo)
-- [How does Aspire make Copilot more efficient when I&#39;m building an app?](https://www.youtube.com/watch?v=_xKFJG3FTXo)
-- [How does Aspire make Copilot more efficient when I&#39;m building an app?](https://www.youtube.com/shorts/K_TD4d1VvwE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
