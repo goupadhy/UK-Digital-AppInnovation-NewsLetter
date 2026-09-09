@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What&#39;s the deal with these IQs?](https://www.youtube.com/watch?v=mMO8Dxyk4Q4)
+- [What&#39;s the deal with these IQs?](https://www.youtube.com/shorts/RC8ppKEklaY)
 - [Fly with Copilot Is Landing in Redmond ✈️](https://www.youtube.com/shorts/k4U8rAScimo)
 - [How does Aspire make Copilot more efficient when I&#39;m building an app?](https://www.youtube.com/watch?v=_xKFJG3FTXo)
 - [How does Aspire make Copilot more efficient when I&#39;m building an app?](https://www.youtube.com/shorts/K_TD4d1VvwE)
-- [Azure Developer CLI Extensions Go GA, Ci/CD Pipelines, More| Ep 5](https://www.youtube.com/shorts/hSTPTKpBQqo)
-- [What&#39;s a durable skill software engineers need to learn in 2026?](https://www.youtube.com/watch?v=IF1DZE7FrdE)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
