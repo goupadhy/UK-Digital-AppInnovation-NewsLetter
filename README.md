@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
-- [MCP Live! | A half-day livestream about the latest in MCP](https://www.youtube.com/watch?v=uydwDk91Y9Y)
-- [You don’t need code to build your first AI agent](https://www.youtube.com/watch?v=K6ypSCMWvGU)
-- [What&#39;s the deal with these IQs?](https://www.youtube.com/watch?v=mMO8Dxyk4Q4)
-- [What&#39;s the deal with these IQs?](https://www.youtube.com/shorts/RC8ppKEklaY)
-- [Fly with Copilot Is Landing in Redmond ✈️](https://www.youtube.com/shorts/k4U8rAScimo)
+- [Evolution of MCP auth](https://www.youtube.com/watch?v=AHWS8PNVdEA)
+- [When chatbots grow buttons: Building MCP apps with FastMCP](https://www.youtube.com/watch?v=C81lgsW5kIA)
+- [A unified MCP layer with Toolboxes in Microsoft Foundry](https://www.youtube.com/watch?v=_VzwtDOqX0M)
+- [MCP: Server, Client &amp; Protocol at GitHub](https://www.youtube.com/watch?v=_pE2eqmCHr0)
+- [State of MCP](https://www.youtube.com/watch?v=lP93VxU76aI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
