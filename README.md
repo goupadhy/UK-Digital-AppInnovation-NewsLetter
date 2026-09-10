@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to manage #CopilotStudio agent authorization and access](https://www.youtube.com/shorts/2oypJomPD6o)
 - [Copilot Studio | Product Weeks | PPCC26](https://www.youtube.com/watch?v=aMHAiuQUYBQ)
 - [#CopilotStudio agent security 101](https://www.youtube.com/shorts/FydaxyxxJpE)
 - [Get ready for PPCC26 with Shane Young!](https://www.youtube.com/watch?v=JxTKj0aWh8A)
 - [How IT can secure agents across the full lifecycle | EP03 | Agents Under Control](https://www.youtube.com/watch?v=jUSUyeK_Tqg)
-- [Power Apps | Product Weeks | PPCC26](https://www.youtube.com/watch?v=dPY4jJsw77I)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
