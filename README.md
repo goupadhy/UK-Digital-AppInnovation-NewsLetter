@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Trailer: Azure SQL Database Foundations](https://www.youtube.com/watch?v=romAMrrpdmw)
+- [The End of Index Maintenance? | Data Exposed](https://www.youtube.com/watch?v=q2FXWZ8Ve0k)
 - [Evolution of MCP auth](https://www.youtube.com/watch?v=AHWS8PNVdEA)
 - [When chatbots grow buttons: Building MCP apps with FastMCP](https://www.youtube.com/watch?v=C81lgsW5kIA)
 - [A unified MCP layer with Toolboxes in Microsoft Foundry](https://www.youtube.com/watch?v=_VzwtDOqX0M)
-- [MCP: Server, Client &amp; Protocol at GitHub](https://www.youtube.com/watch?v=_pE2eqmCHr0)
-- [State of MCP](https://www.youtube.com/watch?v=lP93VxU76aI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
