@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [If Windows were designed today, would the Registry exist?](https://www.youtube.com/shorts/ZhJsMKliqE8)
 - [What&#39;s your favorite new GitHub Copilot feature?](https://www.youtube.com/shorts/GQg42Zj5gjw)
 - [What&#39;s your favorite new GitHub Copilot feature?](https://www.youtube.com/watch?v=s3ZzQKsClr0)
 - [Trailer: Azure SQL Database Foundations](https://www.youtube.com/watch?v=romAMrrpdmw)
 - [The End of Index Maintenance? | Data Exposed](https://www.youtube.com/watch?v=q2FXWZ8Ve0k)
-- [Evolution of MCP auth](https://www.youtube.com/watch?v=AHWS8PNVdEA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
