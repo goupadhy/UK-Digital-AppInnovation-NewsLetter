@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dataverse | Product Weeks | PPCC26](https://www.youtube.com/watch?v=SzoCbGaqjS0)
 - [Enterprise app development inside Copilot Cowork | Copilot Studio Updates | September 2026](https://www.youtube.com/watch?v=FkusD1MrCeU)
 - [Get ready for PPCC26 with Sheila Shahpari!](https://www.youtube.com/watch?v=qilYzmVWKVU)
 - [How to manage #CopilotStudio agent authorization and access](https://www.youtube.com/shorts/2oypJomPD6o)
 - [Copilot Studio | Product Weeks | PPCC26](https://www.youtube.com/watch?v=aMHAiuQUYBQ)
-- [#CopilotStudio agent security 101](https://www.youtube.com/shorts/FydaxyxxJpE)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
