@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What was the first thing you worked on at Microsoft?](https://www.youtube.com/watch?v=ZpJQr0-RM4U)
+- [What was the first thing you worked on at Microsoft?](https://www.youtube.com/shorts/y94sy7hdM24)
 - [What if an agent could refactor your agent?](https://www.youtube.com/watch?v=X-uQwleiUwA)
 - [If Windows were designed today, would the Registry exist?](https://www.youtube.com/shorts/ZhJsMKliqE8)
 - [What&#39;s your favorite new GitHub Copilot feature?](https://www.youtube.com/shorts/GQg42Zj5gjw)
-- [What&#39;s your favorite new GitHub Copilot feature?](https://www.youtube.com/watch?v=s3ZzQKsClr0)
-- [Trailer: Azure SQL Database Foundations](https://www.youtube.com/watch?v=romAMrrpdmw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
