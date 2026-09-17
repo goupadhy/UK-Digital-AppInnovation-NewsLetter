@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [What if you could customize your agent from a Chat Window](https://www.youtube.com/watch?v=ojQu4RwvvIA)
+- [Enterprise-ready Vibe Coding with Rayfin | Data Exposed](https://www.youtube.com/watch?v=xC5MTxyc3Tw)
 - [What was the first thing you worked on at Microsoft?](https://www.youtube.com/watch?v=ZpJQr0-RM4U)
 - [What was the first thing you worked on at Microsoft?](https://www.youtube.com/shorts/y94sy7hdM24)
 - [What if an agent could refactor your agent?](https://www.youtube.com/watch?v=X-uQwleiUwA)
-- [If Windows were designed today, would the Registry exist?](https://www.youtube.com/shorts/ZhJsMKliqE8)
-- [What&#39;s your favorite new GitHub Copilot feature?](https://www.youtube.com/shorts/GQg42Zj5gjw)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
