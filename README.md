@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/watch?v=YJIBPHqHznU)
+- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/shorts/V0G7Z_DKkes)
 - [What if you could customize your agent from a Chat Window](https://www.youtube.com/watch?v=ojQu4RwvvIA)
 - [Enterprise-ready Vibe Coding with Rayfin | Data Exposed](https://www.youtube.com/watch?v=xC5MTxyc3Tw)
 - [What was the first thing you worked on at Microsoft?](https://www.youtube.com/watch?v=ZpJQr0-RM4U)
-- [What was the first thing you worked on at Microsoft?](https://www.youtube.com/shorts/y94sy7hdM24)
-- [What if an agent could refactor your agent?](https://www.youtube.com/watch?v=X-uQwleiUwA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
