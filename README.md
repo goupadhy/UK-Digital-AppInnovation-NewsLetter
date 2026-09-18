@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How becoming a #MicrosoftMVP can shape your community journey?](https://www.youtube.com/shorts/pCRobScB9B4)
 - [Get ready for PPCC26 with Sean Astrakhan!](https://www.youtube.com/watch?v=b7ep3ZFKPhY)
 - [Building a Microsoft community group with Keith Atherton!](https://www.youtube.com/shorts/8nHnokdMN74)
 - [Dataverse | Product Weeks | PPCC26](https://www.youtube.com/watch?v=SzoCbGaqjS0)
 - [Enterprise app development inside Copilot Cowork | Copilot Studio Updates | September 2026](https://www.youtube.com/watch?v=FkusD1MrCeU)
-- [Get ready for PPCC26 with Sheila Shahpari!](https://www.youtube.com/watch?v=qilYzmVWKVU)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
