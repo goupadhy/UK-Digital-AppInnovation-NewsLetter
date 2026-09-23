@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How to prevent agent data leak with advanced connector policy | EP04 | Agents Under Control](https://www.youtube.com/watch?v=2e_z_qRR_7M)
 - [How to configure agent runtime protection with #Microsoft Defender](https://www.youtube.com/shorts/ZoilMx9JNqE)
 - [How to use environment strategy to manage agent access](https://www.youtube.com/shorts/w5ikmuh_IJw)
 - [How can things change within six months of joining the #PowerPlatform community?](https://www.youtube.com/shorts/stlmgvtuDoU)
 - [How organizations are using AI agents featuring mobilezone](https://www.youtube.com/watch?v=599eBLXwIlU)
-- [How to reduce data exposure with Copilot Studio and #Microsoft Purview](https://www.youtube.com/shorts/Q2vDMOmykR0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
