@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Resilience at Cloud Scale: Azure CTO on Outages, Hardware, and AI](https://www.youtube.com/watch?v=IQOki5wRGHI)
 - [.NET 11 Performance Update, Azure Resiliency &amp; Multicloud Databases | Ep 6](https://www.youtube.com/shorts/pmCwxoUlMw8)
 - [What’s it like for Microsoft to manage open source projects?  What’s in it for Microsoft?](https://www.youtube.com/watch?v=OdE8r4WvxUA)
 - [What’s it like for Microsoft to manage open source projects?  What’s in it for Microsoft?](https://www.youtube.com/shorts/ck0vkwfacIA)
 - [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/watch?v=YJIBPHqHznU)
-- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/shorts/V0G7Z_DKkes)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
