@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/shorts/XjSY7Ox2EoQ)
+- [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/watch?v=G_DxnqhIfgk)
+- [Stop guessing which model your agent needs](https://www.youtube.com/watch?v=iTiKeH3FDoQ)
 - [Resilience at Cloud Scale: Azure CTO on Outages, Hardware, and AI](https://www.youtube.com/watch?v=IQOki5wRGHI)
 - [.NET 11 Performance Update, Azure Resiliency &amp; Multicloud Databases | Ep 6](https://www.youtube.com/shorts/pmCwxoUlMw8)
-- [What’s it like for Microsoft to manage open source projects?  What’s in it for Microsoft?](https://www.youtube.com/watch?v=OdE8r4WvxUA)
-- [What’s it like for Microsoft to manage open source projects?  What’s in it for Microsoft?](https://www.youtube.com/shorts/ck0vkwfacIA)
-- [What was the process of open-sourcing TypeScript, Chakra, .NET, VS Code, and the Copilot extension?](https://www.youtube.com/watch?v=YJIBPHqHznU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
