@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [One model deployment to route them all](https://www.youtube.com/watch?v=cify-SUpqz4)
 - [Agentic RAG and chat completion in the Microsoft SQL engine | Data Exposed](https://www.youtube.com/watch?v=YCxvQFoITdo)
 - [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/shorts/XjSY7Ox2EoQ)
 - [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/watch?v=G_DxnqhIfgk)
 - [Stop guessing which model your agent needs](https://www.youtube.com/watch?v=iTiKeH3FDoQ)
-- [Resilience at Cloud Scale: Azure CTO on Outages, Hardware, and AI](https://www.youtube.com/watch?v=IQOki5wRGHI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
