@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [The 2014 Bug That Almost Broke Azure](https://www.youtube.com/shorts/w68V3NwvH0A)
 - [One model deployment to route them all](https://www.youtube.com/watch?v=cify-SUpqz4)
 - [Agentic RAG and chat completion in the Microsoft SQL engine | Data Exposed](https://www.youtube.com/watch?v=YCxvQFoITdo)
 - [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/shorts/XjSY7Ox2EoQ)
 - [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/watch?v=G_DxnqhIfgk)
-- [Stop guessing which model your agent needs](https://www.youtube.com/watch?v=iTiKeH3FDoQ)
 <!-- YOUTUBEAPPMOD:END -->
 
 
