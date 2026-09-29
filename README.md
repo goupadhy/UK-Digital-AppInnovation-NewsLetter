@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Tools your agent can actually trust](https://www.youtube.com/watch?v=hW6feo19LXo)
 - [Azure Cost Estimation: Price AI Workloads Confidently](https://www.youtube.com/watch?v=28Y_O2g-zMM)
 - [What Actually Breaks Inside a Data Center](https://www.youtube.com/shorts/xhOxkwdYH6U)
 - [.NET Memory Dumps, Database Time Migration &amp; AI Agent Memory | The Upload](https://www.youtube.com/shorts/PS-IRAWuFOM)
 - [The 2014 Bug That Almost Broke Azure](https://www.youtube.com/shorts/w68V3NwvH0A)
-- [One model deployment to route them all](https://www.youtube.com/watch?v=cify-SUpqz4)
 <!-- YOUTUBEAPPMOD:END -->
 
 
