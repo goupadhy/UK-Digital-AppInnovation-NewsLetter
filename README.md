@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Want to get skilled on #CopilotStudio?](https://www.youtube.com/shorts/OKQV6s__nL0)
 - [Everyone is a maker at PPCC26!](https://www.youtube.com/watch?v=j5R6xRbvxP8)
 - [Why DLP alone can’t scale for agents](https://www.youtube.com/shorts/0WOvdd5CXqw)
 - [How to configure advanced connector policy in PPAC](https://www.youtube.com/shorts/1yadVwR1FtI)
 - [Want to get started with #CopilotStudio, but not sure where to begin?](https://www.youtube.com/shorts/aLEj7FDrwqA)
-- [How to prevent agent data leak with advanced connector policy | EP04 | Agents Under Control](https://www.youtube.com/watch?v=2e_z_qRR_7M)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
