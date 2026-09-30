@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/watch?v=VyowNv9wodk)
+- [Save your spot! Copilot Studio Oct 8th](https://www.youtube.com/shorts/GHUQaisG1AE)
+- [AI Isn&#39;t Accountable. You Are.](https://www.youtube.com/shorts/ahVnui1X3Lk)
 - [Keep Your AI Accurate with Microsoft Learn MCP Server](https://www.youtube.com/watch?v=KH5fQCLhXrg)
 - [Tools your agent can actually trust](https://www.youtube.com/watch?v=hW6feo19LXo)
-- [Azure Cost Estimation: Price AI Workloads Confidently](https://www.youtube.com/watch?v=28Y_O2g-zMM)
-- [What Actually Breaks Inside a Data Center](https://www.youtube.com/shorts/xhOxkwdYH6U)
-- [.NET Memory Dumps, Database Time Migration &amp; AI Agent Memory | The Upload](https://www.youtube.com/shorts/PS-IRAWuFOM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
