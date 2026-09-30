@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Skill up on Copilot Studio Oct 8th!](https://www.youtube.com/watch?v=VyowNv9wodk)
-- [Save your spot! Copilot Studio Oct 8th](https://www.youtube.com/shorts/GHUQaisG1AE)
-- [AI Isn&#39;t Accountable. You Are.](https://www.youtube.com/shorts/ahVnui1X3Lk)
-- [Keep Your AI Accurate with Microsoft Learn MCP Server](https://www.youtube.com/watch?v=KH5fQCLhXrg)
-- [Tools your agent can actually trust](https://www.youtube.com/watch?v=hW6feo19LXo)
+- [🌎 Expanding Your Airspace | Extend your Copilot with Plugins, Work IQ Dev Tools and more!](https://www.youtube.com/watch?v=okwrNSHnosk)
+- [✈️ Powering the Cockpit: Boost Your M365 Flight Crew | Boost Microsoft 365 with Cowork, Scout &amp; More](https://www.youtube.com/watch?v=4Pz6bNYZfrI)
+- [KEYNOTE: From Copilot to Flight Captain](https://www.youtube.com/watch?v=qvcqTa01WhU)
+- [🧭 Flight Intelligence: The Power of Work IQ | Discover how Work IQ is your business&#39;s secret sauce](https://www.youtube.com/watch?v=VpSCu7s4wD4)
+- [🛫Wheels Up: Closing keynote and HOMEWORK!](https://www.youtube.com/watch?v=h0YmWeMxfPw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
