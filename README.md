@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Skill up on Copilot Studio with April Dunnam and Jack Rowbotham!](https://www.youtube.com/watch?v=g9oCS5byDB4)
 - [Want to get skilled on #CopilotStudio?](https://www.youtube.com/shorts/OKQV6s__nL0)
 - [Everyone is a maker at PPCC26!](https://www.youtube.com/watch?v=j5R6xRbvxP8)
 - [Why DLP alone can’t scale for agents](https://www.youtube.com/shorts/0WOvdd5CXqw)
 - [How to configure advanced connector policy in PPAC](https://www.youtube.com/shorts/1yadVwR1FtI)
-- [Want to get started with #CopilotStudio, but not sure where to begin?](https://www.youtube.com/shorts/aLEj7FDrwqA)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
