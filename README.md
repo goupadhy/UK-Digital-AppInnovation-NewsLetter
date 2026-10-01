@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Get ready for the big #Microsoft makers meet-up in Las Vegas!](https://www.youtube.com/shorts/ba4dvUtHRxY)
+- [What you need to know before you go to PPCC26 with David Abu!](https://www.youtube.com/watch?v=6AIFEdd6fT8)
+- [Ever wondered how to start with #CopilotStudio?](https://www.youtube.com/shorts/WzG1fXZ9g74)
 - [Skill up on Copilot Studio with April Dunnam and Jack Rowbotham!](https://www.youtube.com/watch?v=g9oCS5byDB4)
 - [Want to get skilled on #CopilotStudio?](https://www.youtube.com/shorts/OKQV6s__nL0)
-- [Everyone is a maker at PPCC26!](https://www.youtube.com/watch?v=j5R6xRbvxP8)
-- [Why DLP alone can’t scale for agents](https://www.youtube.com/shorts/0WOvdd5CXqw)
-- [How to configure advanced connector policy in PPAC](https://www.youtube.com/shorts/1yadVwR1FtI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
