@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [1B row vector search in less than a second with Azure SQL Database Hyperscale | Data Exposed](https://www.youtube.com/watch?v=LRuMaO07KlU)
 - [🌎 Expanding Your Airspace | Extend your Copilot with Plugins, Work IQ Dev Tools and more!](https://www.youtube.com/watch?v=okwrNSHnosk)
 - [✈️ Powering the Cockpit: Boost Your M365 Flight Crew | Boost Microsoft 365 with Cowork, Scout &amp; More](https://www.youtube.com/watch?v=4Pz6bNYZfrI)
 - [KEYNOTE: From Copilot to Flight Captain](https://www.youtube.com/watch?v=qvcqTa01WhU)
 - [🧭 Flight Intelligence: The Power of Work IQ | Discover how Work IQ is your business&#39;s secret sauce](https://www.youtube.com/watch?v=VpSCu7s4wD4)
-- [🛫Wheels Up: Closing keynote and HOMEWORK!](https://www.youtube.com/watch?v=h0YmWeMxfPw)
 <!-- YOUTUBEAPPMOD:END -->
 
 
