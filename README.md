@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Am I paying for a giant model I don&#39;t need?](https://www.youtube.com/watch?v=MOMk8rPUB4w)
 - [1B row vector search in less than a second with Azure SQL Database Hyperscale | Data Exposed](https://www.youtube.com/watch?v=LRuMaO07KlU)
 - [🌎 Expanding Your Airspace | Extend your Copilot with Plugins, Work IQ Dev Tools and more!](https://www.youtube.com/watch?v=okwrNSHnosk)
 - [✈️ Powering the Cockpit: Boost Your M365 Flight Crew | Boost Microsoft 365 with Cowork, Scout &amp; More](https://www.youtube.com/watch?v=4Pz6bNYZfrI)
 - [KEYNOTE: From Copilot to Flight Captain](https://www.youtube.com/watch?v=qvcqTa01WhU)
-- [🧭 Flight Intelligence: The Power of Work IQ | Discover how Work IQ is your business&#39;s secret sauce](https://www.youtube.com/watch?v=VpSCu7s4wD4)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
