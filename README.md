@@ -35,11 +35,11 @@ We hope that these resources will help you innovate and address the real-world n
 ##  Featured Content for PowerApps
 ### 📝 Latest Blog Posts
 <!-- BLOGPOWER:START -->
+- [Your AI transformation starts with what you’ve already built](https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built/)
 - [Simplify Site Governance with Self-Service Ownership Transfer in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/transfer-power-pages-site-ownership-with-self-service/)
 - [Modern List in Power Pages is now generally available](https://www.microsoft.com/en-us/power-platform/blog/power-pages/modern-list-in-power-pages-is-now-generally-available/)
 - [Extend Server Logic with Power Automate Cloud Flows in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/extend-server-logic-with-power-automate-cloud-flows-in-power-pages/)
 - [What’s new in Power Platform: September 2026 feature update](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-september-2026-feature-update/)
-- [Microsoft-Managed SSL/TLS Certificates for Custom Domains Now Available in Power Pages](https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-managed-ssl-tls-certificates-for-custom-domains-now-available-in-power-pages/)
 <!-- BLOGPOWER:END -->
  ### 📺 Latest YouTube Videos
     
