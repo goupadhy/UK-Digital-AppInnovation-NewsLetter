@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Reduce Database Costs with Flexible Savings Plans](https://www.youtube.com/watch?v=Dc4-WOlz-TA)
 - [Oct 8 Webinar on Copilot Studio!](https://www.youtube.com/shorts/sAZI_iD-cVU)
 - [Am I paying for a giant model I don&#39;t need?](https://www.youtube.com/watch?v=MOMk8rPUB4w)
 - [1B row vector search in less than a second with Azure SQL Database Hyperscale | Data Exposed](https://www.youtube.com/watch?v=LRuMaO07KlU)
 - [🌎 Expanding Your Airspace | Extend your Copilot with Plugins, Work IQ Dev Tools and more!](https://www.youtube.com/watch?v=okwrNSHnosk)
-- [✈️ Powering the Cockpit: Boost Your M365 Flight Crew | Boost Microsoft 365 with Cowork, Scout &amp; More](https://www.youtube.com/watch?v=4Pz6bNYZfrI)
 <!-- YOUTUBEAPPMOD:END -->
 
 
