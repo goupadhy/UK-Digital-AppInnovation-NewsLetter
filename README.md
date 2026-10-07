@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Cut AI Agent Costs with TokenOps](https://www.youtube.com/watch?v=B4yovi_znxE)
 - [Turn Meeting Transcripts into Project Plans with GitHub Copilot Agents | MVP Unplugged](https://www.youtube.com/watch?v=sRXhjodSZTc)
 - [Your Agent Is Only as Smart as Its Context](https://www.youtube.com/watch?v=c9Xh7BMkBQE)
 - [Reduce Database Costs with Flexible Savings Plans](https://www.youtube.com/watch?v=Dc4-WOlz-TA)
 - [Oct 8 Webinar on Copilot Studio!](https://www.youtube.com/shorts/sAZI_iD-cVU)
-- [GitHub Universe Day 2 Keynote](https://www.youtube.com/watch?v=i7TX34huTUM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
