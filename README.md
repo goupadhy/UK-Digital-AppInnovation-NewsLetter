@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Creating a solution for your agent | EP03 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=VMB8rjNMXIs)
+- [Introduction to Agents | EP01 |  Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=YbpOuw1CB-8)
+- [Copilot Studio Fundamentals | EP02 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=0Xf4FGY_MpI)
 - [Global makers assemble at #PPCC!](https://www.youtube.com/shorts/er9GYVQJiwQ)
 - [Ready to build your #CopilotStudio skills?](https://www.youtube.com/shorts/a3JF8jHOBy8)
-- [Get ready for the big #Microsoft makers meet-up in Las Vegas!](https://www.youtube.com/shorts/ba4dvUtHRxY)
-- [What you need to know before you go to PPCC26 with David Abu!](https://www.youtube.com/watch?v=6AIFEdd6fT8)
-- [Ever wondered how to start with #CopilotStudio?](https://www.youtube.com/shorts/WzG1fXZ9g74)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
