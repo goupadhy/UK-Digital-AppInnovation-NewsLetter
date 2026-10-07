@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Frontier Firm BNY resolves client inquires 80% faster with Microsoft AI powered Eliza](https://www.youtube.com/watch?v=-yliH7wA4xI)
+- [What&#39;s the Tea? with Ray Rasmussen | Why AI Will Be More Like Electricity Than the Internet](https://www.youtube.com/watch?v=55Ze52iZ8-M)
 - [What&#39;s the Tea? With Hilary Kerner | Why AI Governance Is a Growth Strategy](https://www.youtube.com/watch?v=0Ku4fAKFdGo)
 - [To innovate faster, BNY upskills 100% of staff on Eliza, powered by Microsoft AI](https://www.youtube.com/watch?v=JqffBpyfa3w)
 - [How To Avoid the AI Adoption Mistake Most Companies are Making | Microsoft Research + Gap Inc.](https://www.youtube.com/watch?v=QlpT_f5WUQs)
-- [Black &amp; Veatch scales Microsoft AI enterprise-wide to deliver greater client value](https://www.youtube.com/watch?v=HDo7RKwuXjo)
-- [Black &amp; Veatch Achieves 98% Microsoft Copilot Adoption Through AI Change Management.](https://www.youtube.com/watch?v=Xe4LO_WJr9E)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
