@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [4X the Turns, 16X the Cost](https://www.youtube.com/shorts/PV3aAxRYI2M)
+- [When my agent is slow or wrong, where do I even look?](https://www.youtube.com/watch?v=c-TtEKSMoBM)
+- [What&#39;s new in Microsoft SQL at SQLCon/FabCon Barcelona 2026 | Data Exposed](https://www.youtube.com/watch?v=dEsEGU0OiOM)
 - [Cut AI Agent Costs with TokenOps](https://www.youtube.com/watch?v=B4yovi_znxE)
 - [Turn Meeting Transcripts into Project Plans with GitHub Copilot Agents | MVP Unplugged](https://www.youtube.com/watch?v=sRXhjodSZTc)
-- [Your Agent Is Only as Smart as Its Context](https://www.youtube.com/watch?v=c9Xh7BMkBQE)
-- [Reduce Database Costs with Flexible Savings Plans](https://www.youtube.com/watch?v=Dc4-WOlz-TA)
-- [Oct 8 Webinar on Copilot Studio!](https://www.youtube.com/shorts/sAZI_iD-cVU)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
