@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [It&#39;s nearly time for #PPCC26 in Las Vegas!](https://www.youtube.com/shorts/sunu3XyXHaM)
+- [How Provance built an enterprise ITSM platform with Power Platform | EP18 | Keeping It Real](https://www.youtube.com/watch?v=nDZfWPdFUf4)
 - [PRE-RECORD TEST | OCT26](https://www.youtube.com/watch?v=10aQ1CCMhjI)
 - [What you need to know before you go to PPCC26 with Derah Onuorah!](https://www.youtube.com/watch?v=16EJzM9vlN8)
 - [Creating a solution for your agent | EP03 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=VMB8rjNMXIs)
-- [Introduction to Agents | EP01 |  Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=YbpOuw1CB-8)
-- [Copilot Studio Fundamentals | EP02 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=0Xf4FGY_MpI)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
