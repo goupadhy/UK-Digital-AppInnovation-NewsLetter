@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [QDK Tutorial: Build Chemistry applications with the Quantum Development Kit for Chemistry](https://www.youtube.com/watch?v=NSdLodogANg)
 - [4X the Turns, 16X the Cost](https://www.youtube.com/shorts/PV3aAxRYI2M)
 - [When my agent is slow or wrong, where do I even look?](https://www.youtube.com/watch?v=c-TtEKSMoBM)
 - [What&#39;s new in Microsoft SQL at SQLCon/FabCon Barcelona 2026 | Data Exposed](https://www.youtube.com/watch?v=dEsEGU0OiOM)
 - [Cut AI Agent Costs with TokenOps](https://www.youtube.com/watch?v=B4yovi_znxE)
-- [Turn Meeting Transcripts into Project Plans with GitHub Copilot Agents | MVP Unplugged](https://www.youtube.com/watch?v=sRXhjodSZTc)
 <!-- YOUTUBEAPPMOD:END -->
 
 
