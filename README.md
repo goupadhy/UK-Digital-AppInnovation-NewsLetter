@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Aspire 13.6, Azure VM Changes &amp; SQL Server Goes Local](https://www.youtube.com/shorts/6kX6Ya3dqeE)
+- [Ship an AI agent without leaving your terminal](https://www.youtube.com/watch?v=l37ZnSjKRxo)
 - [Fewer Experiments, Faster Discovery](https://www.youtube.com/shorts/y0uuFwjIFR4)
 - [Speed up Research with Microsoft Discovery](https://www.youtube.com/watch?v=w-csec1OUgM)
-- [Aspire 13.6, Azure VM Changes &amp; SQL Server Goes Local](https://www.youtube.com/watch?v=d57VponQIfY)
 - [QDK Tutorial: Build Chemistry applications with the Quantum Development Kit for Chemistry](https://www.youtube.com/watch?v=NSdLodogANg)
-- [4X the Turns, 16X the Cost](https://www.youtube.com/shorts/PV3aAxRYI2M)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
