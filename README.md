@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [The #PowerPlatform ITSM solution supporting global enterprises](https://www.youtube.com/shorts/fLdz7jpUYRs)
-- [It&#39;s nearly time for #PPCC26 in Las Vegas!](https://www.youtube.com/shorts/sunu3XyXHaM)
-- [How Provance built an enterprise ITSM platform with Power Platform | EP18 | Keeping It Real](https://www.youtube.com/watch?v=nDZfWPdFUf4)
-- [What you need to know before you go to PPCC26 with Derah Onuorah!](https://www.youtube.com/watch?v=16EJzM9vlN8)
-- [Creating a solution for your agent | EP03 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=VMB8rjNMXIs)
+- [Tammy Briggs shares his #PowerPlatform journey and MVP experience](https://www.youtube.com/shorts/CxnCuhRMNfQ)
+- [Adding skills to your agent | EP06 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=HHWRehWrnBY)
+- [Adding tools to your agent | EP05 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=qfQM2WW4MD4)
+- [Build an agent with the GitHub Copilot Harness | EP04 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=vlHQQ5_DSkc)
+- [Welcome to the wonderful world of MAKERS!](https://www.youtube.com/shorts/kE-W5bqVsz8)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
