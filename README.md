@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [From Estate to Evidence with Fabric Database Hub | Data Exposed](https://www.youtube.com/watch?v=XxuXK6CG_6k)
+- [PRAISE: Preceptorship for AI-accelerated Software Engineering](https://www.youtube.com/watch?v=BglzGRnH8Zg)
+- [Develop Portable Apps with Adaptive Applications](https://www.youtube.com/watch?v=fkrYQ7PBANk)
 - [Aspire 13.6, Azure VM Changes &amp; SQL Server Goes Local](https://www.youtube.com/shorts/6kX6Ya3dqeE)
 - [Ship an AI agent without leaving your terminal](https://www.youtube.com/watch?v=l37ZnSjKRxo)
-- [Fewer Experiments, Faster Discovery](https://www.youtube.com/shorts/y0uuFwjIFR4)
-- [Speed up Research with Microsoft Discovery](https://www.youtube.com/watch?v=w-csec1OUgM)
-- [QDK Tutorial: Build Chemistry applications with the Quantum Development Kit for Chemistry](https://www.youtube.com/watch?v=NSdLodogANg)
 <!-- YOUTUBEAPPMOD:END -->
 
 
