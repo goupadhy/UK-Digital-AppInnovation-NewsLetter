@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [PPCC626 KBYG MitiJoshi vFinal](https://www.youtube.com/watch?v=VwxtShWvTUs)
+- [Going to PPCC? Hear from Miti Joshi on what you need to know before you go!](https://www.youtube.com/watch?v=VwxtShWvTUs)
 - [Tammy Briggs shares his #PowerPlatform journey and MVP experience](https://www.youtube.com/shorts/CxnCuhRMNfQ)
 - [Adding skills to your agent | EP06 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=HHWRehWrnBY)
 - [Adding tools to your agent | EP05 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=qfQM2WW4MD4)
