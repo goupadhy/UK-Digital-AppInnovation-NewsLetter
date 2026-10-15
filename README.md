@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [What kind of skill levels sessions will you find at #PPCC26?](https://www.youtube.com/shorts/FM9jyHBjnFg)
 - [#Microsoft Power Platform + #Copilot for IT service management](https://www.youtube.com/shorts/SKTUqTABkfQ)
 - [Going to PPCC? Hear from Miti Joshi on what you need to know before you go!](https://www.youtube.com/watch?v=VwxtShWvTUs)
 - [Tammy Briggs shares his #PowerPlatform journey and MVP experience](https://www.youtube.com/shorts/CxnCuhRMNfQ)
 - [Adding skills to your agent | EP06 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=HHWRehWrnBY)
-- [Adding tools to your agent | EP05 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=qfQM2WW4MD4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
