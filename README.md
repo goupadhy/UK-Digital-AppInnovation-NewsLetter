@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Sprouts Put Agentic Intelligence in 55 Stores. Here’s What Happened Next.](https://www.youtube.com/watch?v=tq8qTzcReXM)
 - [Vision to Value | Docusign CTO on the Future of Agreement Management](https://www.youtube.com/watch?v=Svq5T_U2Bno)
 - [What&#39;s the Tea? with Dr. Scott Schell | AI Isn&#39;t Replacing Doctors. It&#39;s Replacing the Paperwork](https://www.youtube.com/watch?v=ONEKBJnlcH0)
 - [Frontier Firm BNY resolves client inquires 80% faster with Microsoft AI powered Eliza](https://www.youtube.com/watch?v=-yliH7wA4xI)
 - [What&#39;s the Tea? with Ray Rasmussen | Why AI Will Be More Like Electricity Than the Internet](https://www.youtube.com/watch?v=55Ze52iZ8-M)
-- [What&#39;s the Tea? With Hilary Kerner | Why AI Governance Is a Growth Strategy](https://www.youtube.com/watch?v=0Ku4fAKFdGo)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
