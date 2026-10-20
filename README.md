@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Why AI agents Cost So Much](https://www.youtube.com/watch?v=QQHy0Ekesgc)
 - [From Estate to Evidence with Fabric Database Hub | Data Exposed](https://www.youtube.com/watch?v=XxuXK6CG_6k)
 - [PRAISE: Preceptorship for AI-accelerated Software Engineering](https://www.youtube.com/watch?v=BglzGRnH8Zg)
 - [Develop Portable Apps with Adaptive Applications](https://www.youtube.com/watch?v=fkrYQ7PBANk)
 - [Aspire 13.6, Azure VM Changes &amp; SQL Server Goes Local](https://www.youtube.com/shorts/6kX6Ya3dqeE)
-- [Ship an AI agent without leaving your terminal](https://www.youtube.com/watch?v=l37ZnSjKRxo)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
