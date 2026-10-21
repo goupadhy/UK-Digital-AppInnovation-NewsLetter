@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
-- [Why AI agents Cost So Much](https://www.youtube.com/watch?v=QQHy0Ekesgc)
-- [SQL Modernization Day](https://www.youtube.com/watch?v=MxwXGl-lpe0)
-- [From Estate to Evidence with Fabric Database Hub | Data Exposed](https://www.youtube.com/watch?v=XxuXK6CG_6k)
-- [PRAISE: Preceptorship for AI-accelerated Software Engineering](https://www.youtube.com/watch?v=BglzGRnH8Zg)
-- [Develop Portable Apps with Adaptive Applications](https://www.youtube.com/watch?v=fkrYQ7PBANk)
+- [SQL Meets Fabric: Migrate, Mirror, Build](https://www.youtube.com/watch?v=JLVHKSYf5Pw)
+- [Ground to Cloud to Fabric: The State of Microsoft SQL](https://www.youtube.com/watch?v=bp0Tw00e7oA)
+- [Hyperscale for Every Workload](https://www.youtube.com/watch?v=cXx6nOCdvQo)
+- [Database Agents: A New Way to Manage Databases in Fabric](https://www.youtube.com/watch?v=eK-7atguOB8)
+- [SQL MI, Supercharged: Expanding What&#39;s Possible in Azure](https://www.youtube.com/watch?v=F2NNyvAmiEE)
 <!-- YOUTUBEAPPMOD:END -->
 
 
