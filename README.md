@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [LIVE from the Community Lounge at PPCC 2026!](https://www.youtube.com/watch?v=JAIPIQpQ2pY)
 - [Cowork, Code, and Copilot Studio on one managed runtime | Copilot Studio Updates | October 2026](https://www.youtube.com/watch?v=r_C1dsjA6Dc)
 - [Network like never before at #PPCC!](https://www.youtube.com/shorts/xbYhwO9huns)
 - [What kind of skill levels sessions will you find at #PPCC26?](https://www.youtube.com/shorts/FM9jyHBjnFg)
 - [#Microsoft Power Platform + #Copilot for IT service management](https://www.youtube.com/shorts/SKTUqTABkfQ)
-- [Going to PPCC? Hear from Miti Joshi on what you need to know before you go!](https://www.youtube.com/watch?v=VwxtShWvTUs)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
