@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [The Token Trap](https://www.youtube.com/shorts/T9U7SzSSt18)
 - [SQL Modernization Day](https://www.youtube.com/watch?v=MxwXGl-lpe0)
 - [SQL Meets Fabric: Migrate, Mirror, Build](https://www.youtube.com/watch?v=JLVHKSYf5Pw)
 - [Ground to Cloud to Fabric: The State of Microsoft SQL](https://www.youtube.com/watch?v=bp0Tw00e7oA)
 - [Hyperscale for Every Workload](https://www.youtube.com/watch?v=cXx6nOCdvQo)
-- [Database Agents: A New Way to Manage Databases in Fabric](https://www.youtube.com/watch?v=eK-7atguOB8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
