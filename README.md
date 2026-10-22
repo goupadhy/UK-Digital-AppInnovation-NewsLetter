@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [When the Expert&#39;s on Vacation](https://www.youtube.com/shorts/nqAri_t8xRA)
 - [How to Build an App with Azure SQL Using AI Coding Agents | Data Exposed](https://www.youtube.com/watch?v=0eMm7k3H0vA)
 - [Code with Cosmos: AI-Assisted Development with Azure Cosmos DB](https://www.youtube.com/watch?v=2lOcF3Gw39o)
 - [Code with Cosmos: Operating AI Agents in Production](https://www.youtube.com/watch?v=NNw_VdIL18o)
 - [Code with Cosmos: Building Stateful and Multi-Agent Systems](https://www.youtube.com/watch?v=JD4aUQM85K8)
-- [Code with Cosmos: Building AI Applications with Azure Cosmos DB](https://www.youtube.com/watch?v=bwqC8oDKNA8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
