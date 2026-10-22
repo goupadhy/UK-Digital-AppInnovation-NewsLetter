@@ -44,7 +44,7 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [LIVE from the Community Lounge at PPCC 2026!](https://www.youtube.com/watch?v=JAIPIQpQ2pY)
+- [Good Morning, and welcome to PPCC! | 10-27-26 | 1pm PT](https://www.youtube.com/watch?v=JAIPIQpQ2pY)
 - [Cowork, Code, and Copilot Studio on one managed runtime | Copilot Studio Updates | October 2026](https://www.youtube.com/watch?v=r_C1dsjA6Dc)
 - [Network like never before at #PPCC!](https://www.youtube.com/shorts/xbYhwO9huns)
 - [What kind of skill levels sessions will you find at #PPCC26?](https://www.youtube.com/shorts/FM9jyHBjnFg)
