@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [When prompting is not enough for your agent](https://www.youtube.com/watch?v=raSYE1Axnok)
+- [Find Root Causes Faster with AI &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=eNuyyBJwOEw)
 - [The Token Trap](https://www.youtube.com/shorts/T9U7SzSSt18)
 - [SQL Modernization Day](https://www.youtube.com/watch?v=MxwXGl-lpe0)
 - [SQL Meets Fabric: Migrate, Mirror, Build](https://www.youtube.com/watch?v=JLVHKSYf5Pw)
-- [Ground to Cloud to Fabric: The State of Microsoft SQL](https://www.youtube.com/watch?v=bp0Tw00e7oA)
-- [Hyperscale for Every Workload](https://www.youtube.com/watch?v=cXx6nOCdvQo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
