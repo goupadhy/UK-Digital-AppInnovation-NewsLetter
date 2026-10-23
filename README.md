@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Physical AI: Closing the Gap Between Knowing and Doing](https://www.youtube.com/watch?v=kwNp5jpi6lM)
 - [The New Industrialists | How SymphonyAI Takes Industrial Intelligence Beyond the Pilot](https://www.youtube.com/watch?v=w-k1gsN02ko)
 - [Microsoft AI powers AMA to transform marketing and delivers $14M in value](https://www.youtube.com/watch?v=9Wi4m3xkB8Q)
 - [Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI](https://www.youtube.com/watch?v=HkxmBdpKB1E)
 - [Sprouts Put Agentic Intelligence in 55 Stores. Here’s What Happened Next.](https://www.youtube.com/watch?v=tq8qTzcReXM)
-- [Vision to Value | Docusign CTO on the Future of Agreement Management](https://www.youtube.com/watch?v=Svq5T_U2Bno)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
