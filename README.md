@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Meet the Microsoft admins at PPCC26!](https://www.youtube.com/watch?v=u2n4hNPysko)
+- [Feel The Power at PPCC26!](https://www.youtube.com/watch?v=xyxbyh1nGQs)
 - [What you LEARN in Vegas shouldn&#39;t STAY in Vegas!](https://www.youtube.com/shorts/Vs1vLgaKQXw)
 - [What actually mattered at PPCC26? | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=w1AUmUdI4-g)
 - [What are people talking about at PPCC26 | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=8xZCGCwWylQ)
-- [LIVE from the Community Lounge at PPCC 2026!](https://www.youtube.com/watch?v=D2Oj5Cr9MOU)
-- [Welcome to PPCC26! | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=JAIPIQpQ2pY)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
