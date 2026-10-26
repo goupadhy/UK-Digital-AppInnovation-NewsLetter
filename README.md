@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Dataverse Security via coding agent for IT admins](https://www.youtube.com/watch?v=H4fYxmCWOOA)
+- [Prompt Columns: Pre-computed AI insights, ready for every agent](https://www.youtube.com/watch?v=v4N5Zgfz8g4)
+- [Low-latency sync for Link to Fabric](https://www.youtube.com/watch?v=Nn9Q-O6vVV0)
+- [Meet the Admins: Stories from the Power Platform Community](https://www.youtube.com/watch?v=NhbwZdeqVvc)
 - [Meet the Microsoft admins at PPCC26!](https://www.youtube.com/watch?v=u2n4hNPysko)
-- [Feel The Power at PPCC26!](https://www.youtube.com/watch?v=xyxbyh1nGQs)
-- [What you LEARN in Vegas shouldn&#39;t STAY in Vegas!](https://www.youtube.com/shorts/Vs1vLgaKQXw)
-- [What actually mattered at PPCC26? | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=w1AUmUdI4-g)
-- [What are people talking about at PPCC26 | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=8xZCGCwWylQ)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
