@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
-- [Ryan Cunningham is PUMPED for #PPCC26!](https://www.youtube.com/shorts/XHp9_MVF0Qg)
-- [Dataverse Security via coding agent for IT admins](https://www.youtube.com/watch?v=H4fYxmCWOOA)
-- [Prompt Columns: Pre-computed AI insights, ready for every agent](https://www.youtube.com/watch?v=v4N5Zgfz8g4)
-- [Low-latency sync for Link to Fabric](https://www.youtube.com/watch?v=Nn9Q-O6vVV0)
-- [Meet the Admins: Stories from the Power Platform Community](https://www.youtube.com/watch?v=NhbwZdeqVvc)
+- [From the Theater Stage to a Tech Career | Tiffany Duppong | My Maker Journey](https://www.youtube.com/watch?v=Tb-vvs_andI)
+- [From Infrastructure Engineer to Published Author | Manikandan Venkatachalam | My Maker Journey](https://www.youtube.com/watch?v=218Nk8ITSnM)
+- [From Neuroscience Major to Tech Consultant | Linda Lee | My Maker Journey](https://www.youtube.com/watch?v=nP78odEqf2U)
+- [The Animal Shelter Project That Changed Everything | Nsikan Ikpe | My Maker Journey](https://www.youtube.com/watch?v=Nh6ncrDAOHs)
+- [A 10-Year Career Break, but She Never Stopped Learning | Maryam Umar | My Maker Journey](https://www.youtube.com/watch?v=5y-GNgkovz0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
