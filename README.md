@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Ryan Cunningham is PUMPED for #PPCC26!](https://www.youtube.com/shorts/XHp9_MVF0Qg)
 - [Dataverse Security via coding agent for IT admins](https://www.youtube.com/watch?v=H4fYxmCWOOA)
 - [Prompt Columns: Pre-computed AI insights, ready for every agent](https://www.youtube.com/watch?v=v4N5Zgfz8g4)
 - [Low-latency sync for Link to Fabric](https://www.youtube.com/watch?v=Nn9Q-O6vVV0)
 - [Meet the Admins: Stories from the Power Platform Community](https://www.youtube.com/watch?v=NhbwZdeqVvc)
-- [Meet the Microsoft admins at PPCC26!](https://www.youtube.com/watch?v=u2n4hNPysko)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
