@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Scale One AI Agent Across Sites &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=TRHV_Ze4x5M)
 - [Inside Azure&#39;s DDoS Defense | Behind the Code](https://www.youtube.com/watch?v=qVGa1VU2YfA)
 - [.NET 11, Python on Arm64, and AI Agents That Use Browsers](https://www.youtube.com/shorts/H0b71nYoSdI)
 - [My agent said something it shouldn&#39;t have](https://www.youtube.com/watch?v=Sae2yyNEQNM)
 - [Your App Is Already Obsolete](https://www.youtube.com/shorts/S4BR-Fr-xT0)
-- [When the Expert&#39;s on Vacation](https://www.youtube.com/shorts/nqAri_t8xRA)
 <!-- YOUTUBEAPPMOD:END -->
 
 
