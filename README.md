@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [The New Industrialists | How Aras Connects PLM Across the Digital Thread](https://www.youtube.com/watch?v=O7WGTr8gR_g)
 - [Energy Frontier: Powering what comes next](https://www.youtube.com/watch?v=2-oAGIHqpfA)
 - [Physical AI: Closing the Gap Between Knowing and Doing](https://www.youtube.com/watch?v=kwNp5jpi6lM)
 - [The New Industrialists | How SymphonyAI Takes Industrial Intelligence Beyond the Pilot](https://www.youtube.com/watch?v=w-k1gsN02ko)
 - [Microsoft AI powers AMA to transform marketing and delivers $14M in value](https://www.youtube.com/watch?v=9Wi4m3xkB8Q)
-- [Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI](https://www.youtube.com/watch?v=HkxmBdpKB1E)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
