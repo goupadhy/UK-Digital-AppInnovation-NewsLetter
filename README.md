@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Day one from the streets at #PPCC26!](https://www.youtube.com/shorts/2-LrNEPjUqc)
+- [Welcome to PPCC26! | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=JAIPIQpQ2pY)
 - [From the Theater Stage to a Tech Career | Tiffany Duppong | My Maker Journey](https://www.youtube.com/watch?v=Tb-vvs_andI)
 - [From Infrastructure Engineer to Published Author | Manikandan Venkatachalam | My Maker Journey](https://www.youtube.com/watch?v=218Nk8ITSnM)
 - [From Neuroscience Major to Tech Consultant | Linda Lee | My Maker Journey](https://www.youtube.com/watch?v=nP78odEqf2U)
-- [The Animal Shelter Project That Changed Everything | Nsikan Ikpe | My Maker Journey](https://www.youtube.com/watch?v=Nh6ncrDAOHs)
-- [A 10-Year Career Break, but She Never Stopped Learning | Maryam Umar | My Maker Journey](https://www.youtube.com/watch?v=5y-GNgkovz0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
