@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Automation vs Physical AI](https://www.youtube.com/shorts/1lX4bK3FTPk)
+- [Customize your agent from a Chat Window?](https://www.youtube.com/shorts/FVYDyA1LcGI)
 - [Stop wiring infrastructure, start building agents](https://www.youtube.com/shorts/oQqHV3UB_qA)
 - [Stop wiring infrastructure, start building agents.](https://www.youtube.com/watch?v=AMxLLFeUyRM)
 - [How to Use Database Agents in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=KGhCcTWy-Ew)
-- [Make Machines Smarter with Physical AI](https://www.youtube.com/watch?v=NrcM8Rq73Q4)
-- [Scale One AI Agent Across Sites &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=TRHV_Ze4x5M)
 <!-- YOUTUBEAPPMOD:END -->
 
 
