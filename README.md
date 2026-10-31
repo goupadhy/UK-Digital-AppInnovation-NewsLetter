@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Running a 120B model offline on Surface RTX Spark Dev Box with Intelligent Terminal](https://www.youtube.com/watch?v=L1b4AI_CPeA)
 - [Automation vs Physical AI](https://www.youtube.com/shorts/1lX4bK3FTPk)
 - [Customize your agent from a Chat Window?](https://www.youtube.com/shorts/FVYDyA1LcGI)
 - [Stop wiring infrastructure, start building agents](https://www.youtube.com/shorts/oQqHV3UB_qA)
 - [Stop wiring infrastructure, start building agents.](https://www.youtube.com/watch?v=AMxLLFeUyRM)
-- [How to Use Database Agents in Microsoft Fabric | Data Exposed](https://www.youtube.com/watch?v=KGhCcTWy-Ew)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
