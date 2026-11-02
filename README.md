@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [WebTransport Headers, Zstd WAL Compression, and Copilot Studio Conversation Harness](https://www.youtube.com/shorts/y7r-UYR1Lz0)
+- [Build an AI agent without leaving VS Code!](https://www.youtube.com/shorts/sipxLzh8Mw4)
 - [Running a 120B model offline on Surface RTX Spark Dev Box with Intelligent Terminal](https://www.youtube.com/watch?v=L1b4AI_CPeA)
 - [Automation vs Physical AI](https://www.youtube.com/shorts/1lX4bK3FTPk)
 - [Customize your agent from a Chat Window?](https://www.youtube.com/shorts/FVYDyA1LcGI)
-- [Stop wiring infrastructure, start building agents](https://www.youtube.com/shorts/oQqHV3UB_qA)
-- [Stop wiring infrastructure, start building agents.](https://www.youtube.com/watch?v=AMxLLFeUyRM)
 <!-- YOUTUBEAPPMOD:END -->
 
 
