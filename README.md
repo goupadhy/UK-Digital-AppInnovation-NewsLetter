@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [How to Run AI Agents at the Industrial Edge](https://www.youtube.com/watch?v=J9GDIAewjPY)
 - [WebTransport Headers, Zstd WAL Compression, and Copilot Studio Conversation Harness](https://www.youtube.com/shorts/y7r-UYR1Lz0)
 - [Build an AI agent without leaving VS Code!](https://www.youtube.com/shorts/sipxLzh8Mw4)
 - [Running a 120B model offline on Surface RTX Spark Dev Box with Intelligent Terminal](https://www.youtube.com/watch?v=L1b4AI_CPeA)
 - [Automation vs Physical AI](https://www.youtube.com/shorts/1lX4bK3FTPk)
-- [Customize your agent from a Chat Window?](https://www.youtube.com/shorts/FVYDyA1LcGI)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
