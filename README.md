@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How Power Automate reduced 4 hours work to 15 minutes | EP19 | Keeping It Real](https://www.youtube.com/watch?v=EPiSTzHbkkk)
 - [Power Platform admin plugin for Copilot Cowork | EP05 | Agents Under Control](https://www.youtube.com/watch?v=YjXZ3MO843Y)
 - [Final thoughts from #PPCC26!](https://www.youtube.com/shorts/k4Co5bNtun0)
 - [Community thoughts from #PPCC26!](https://www.youtube.com/shorts/kisaJDhNW90)
 - [What actually mattered at PPCC26? | LIVE from the Microsoft Community Lounge](https://www.youtube.com/watch?v=w1AUmUdI4-g)
-- [Reasons to get excited at #PPCC26!](https://www.youtube.com/shorts/sDe_ZpbBWnk)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
