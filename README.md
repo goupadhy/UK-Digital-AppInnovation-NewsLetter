@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How can low code change your problem solving?](https://www.youtube.com/shorts/g02O0Qa-4f0)
 - [How to set up the #PowerPlatform admin plugin in Cowork](https://www.youtube.com/shorts/ugdhDS_zYM4)
 - [How Power Automate reduced 4 hours work to 15 minutes | EP19 | Keeping It Real](https://www.youtube.com/watch?v=EPiSTzHbkkk)
 - [Power Platform admin plugin for Copilot Cowork | EP05 | Agents Under Control](https://www.youtube.com/watch?v=YjXZ3MO843Y)
 - [Final thoughts from #PPCC26!](https://www.youtube.com/shorts/k4Co5bNtun0)
-- [Community thoughts from #PPCC26!](https://www.youtube.com/shorts/kisaJDhNW90)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
