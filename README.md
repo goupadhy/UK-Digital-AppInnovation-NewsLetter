@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Microsoft Foundry with Adrian Twarog: Build Your First Agent](https://www.youtube.com/watch?v=-B9pIyQfaSU)
 - [Copilot Harness, DirectX, and Azure Auth](https://www.youtube.com/shorts/L1AKSCAE--8)
 - [52% More Throughput. 1.5x Better Value. The Azure SQL DB Hyperscale Advantage | Data Exposed](https://www.youtube.com/watch?v=FtpOReqx5ts)
 - [AI That Works Offline](https://www.youtube.com/shorts/bbz496RR8Xc)
 - [What does it really take to ship an AI agent?](https://www.youtube.com/shorts/Er0AYcDuZeA)
-- [How to Run AI Agents at the Industrial Edge](https://www.youtube.com/watch?v=J9GDIAewjPY)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
