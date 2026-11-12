@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Your Path to Production for Agents](https://www.youtube.com/watch?v=VZPAjGP3EH0)
 - [Microsoft Foundry: Test Your Agent Before You Ship](https://www.youtube.com/shorts/OGe27KkS6dk)
 - [Grounding Agents with Real World Intelligence](https://www.youtube.com/watch?v=5O7ZsSHhzpg)
 - [Microsoft Foundry with Adrian Twarog: Build Your First Agent](https://www.youtube.com/watch?v=-B9pIyQfaSU)
 - [Copilot Harness, DirectX, and Azure Auth](https://www.youtube.com/shorts/L1AKSCAE--8)
-- [52% More Throughput. 1.5x Better Value. The Azure SQL DB Hyperscale Advantage | Data Exposed](https://www.youtube.com/watch?v=FtpOReqx5ts)
 <!-- YOUTUBEAPPMOD:END -->
 
 
