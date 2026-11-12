@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Microsoft Foundry: Keep Your AI Spend Under Control](https://www.youtube.com/shorts/SXyfxKGb85E)
 - [Build smarter search without AI: Fuzzy matching for applications | Data Exposed](https://www.youtube.com/watch?v=kaOI6ibSMwo)
 - [Your Path to Production for Agents](https://www.youtube.com/watch?v=VZPAjGP3EH0)
 - [Microsoft Foundry: Test Your Agent Before You Ship](https://www.youtube.com/shorts/OGe27KkS6dk)
 - [Grounding Agents with Real World Intelligence](https://www.youtube.com/watch?v=5O7ZsSHhzpg)
-- [Microsoft Foundry with Adrian Twarog: Build Your First Agent](https://www.youtube.com/watch?v=-B9pIyQfaSU)
 <!-- YOUTUBEAPPMOD:END -->
 
 
