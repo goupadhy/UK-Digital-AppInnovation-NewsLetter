@@ -25,11 +25,11 @@ We hope that these resources will help you innovate and address the real-world n
 
  
 <!-- YOUTUBECNA:START -->
+- [Build smarter search without AI: Fuzzy matching for applications | Data Exposed](https://www.youtube.com/watch?v=kaOI6ibSMwo)
 - [Your Path to Production for Agents](https://www.youtube.com/watch?v=VZPAjGP3EH0)
 - [Microsoft Foundry: Test Your Agent Before You Ship](https://www.youtube.com/shorts/OGe27KkS6dk)
 - [Grounding Agents with Real World Intelligence](https://www.youtube.com/watch?v=5O7ZsSHhzpg)
 - [Microsoft Foundry with Adrian Twarog: Build Your First Agent](https://www.youtube.com/watch?v=-B9pIyQfaSU)
-- [Copilot Harness, DirectX, and Azure Auth](https://www.youtube.com/shorts/L1AKSCAE--8)
 <!-- YOUTUBECNA:END -->
 
 ##  Featured Content for PowerApps
