@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [Microsoft Copilot Harness | EP06 | Agents Under Control](https://www.youtube.com/watch?v=SzHnlFpmKhM)
 - [Real stories of Power Platform success across the world | Keeping It Real](https://www.youtube.com/watch?v=J8eIl-8QbzY)
 - [Automating recruitment analysis with #PowerPlatform](https://www.youtube.com/shorts/EIT9oTfpx68)
 - [How to visualize governance reports with #PowerPlatform admin plugin](https://www.youtube.com/shorts/JP_JNTKmKT4)
 - [Automate with Workflows | EP07 | Agent Academy Recruit NextGen](https://www.youtube.com/watch?v=r8dx48DnCvI)
-- [How can low code change your problem solving?](https://www.youtube.com/shorts/g02O0Qa-4f0)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
