@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Azure HorizonDB + VS Code: Your AI App Development Workspace](https://www.youtube.com/watch?v=6xNqWkvILMQ)
 - [Microsoft Foundry: Bigger Models Aren’t Always Better](https://www.youtube.com/shorts/XCgKFOPn35U)
 - [Microsoft Foundry: Keep Your AI Spend Under Control](https://www.youtube.com/shorts/SXyfxKGb85E)
 - [Build smarter search without AI: Fuzzy matching for applications | Data Exposed](https://www.youtube.com/watch?v=kaOI6ibSMwo)
 - [Your Path to Production for Agents](https://www.youtube.com/watch?v=VZPAjGP3EH0)
-- [Microsoft Foundry: Test Your Agent Before You Ship](https://www.youtube.com/shorts/OGe27KkS6dk)
 <!-- YOUTUBEAPPMOD:END -->
 
 
