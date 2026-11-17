@@ -62,11 +62,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGGITHUB:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEGITHUB:START -->
+- [Telefónica Deutschland cuts operating costs by over 90% with Windows 365 Cloud Apps](https://www.youtube.com/watch?v=yoHOfhWnrMA)
 - [Vision to Value | LSEG&#39;s Ken Beinert on Finding the AI Efficiency Frontier](https://www.youtube.com/watch?v=hvNi0CNln14)
 - [Private offer enhancements in Microsoft Marketplace | Customer demo](https://www.youtube.com/watch?v=_bKZR7CJ8Ic)
 - [Private offer enhancements in Microsoft Marketplace | Partner demo](https://www.youtube.com/watch?v=REkZmdc2hYE)
 - [The New Industrialists | How AGCO Is Transforming Agriculture from the Factory to the Field](https://www.youtube.com/watch?v=RkipGir8n2I)
-- [The New Industrialists | How Aras Connects PLM Across the Digital Thread](https://www.youtube.com/watch?v=O7WGTr8gR_g)
 <!-- YOUTUBEGITHUB:END -->
 ##  Featured Content for App Modernization
 ### 📝 Latest Blog Posts
