@@ -44,11 +44,11 @@ We hope that these resources will help you innovate and address the real-world n
  ### 📺 Latest YouTube Videos
     
 <!-- YOUTUBEPOWER:START -->
+- [How Black Hills Energy Saved $300,000 with Power Platform!](https://www.youtube.com/shorts/ZV9S9z6-qZg)
 - [How Black Hills Energy saved $300,000 with Power Platform | EP20 | Keeping It Real](https://www.youtube.com/watch?v=_E8gusnMC8M)
 - [Microsoft Copilot Harness | EP06 | Agents Under Control](https://www.youtube.com/watch?v=SzHnlFpmKhM)
 - [Real stories of Power Platform success across the world | Keeping It Real](https://www.youtube.com/watch?v=J8eIl-8QbzY)
 - [Automating recruitment analysis with #PowerPlatform](https://www.youtube.com/shorts/EIT9oTfpx68)
-- [How to visualize governance reports with #PowerPlatform admin plugin](https://www.youtube.com/shorts/JP_JNTKmKT4)
 <!-- YOUTUBEPOWER:END -->
 
 ##  Featured Content for Github
