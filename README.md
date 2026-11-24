@@ -79,11 +79,11 @@ We hope that these resources will help you innovate and address the real-world n
 <!-- BLOGAPPMOD:END -->
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBEAPPMOD:START -->
+- [Observability in Database Hub in Fabric for free, now generally available | Data Exposed](https://www.youtube.com/watch?v=6BJ4939LTMI)
 - [Announcements across Microsoft SQL at Microsoft Ignite 2026 | Data Exposed](https://www.youtube.com/watch?v=q3_WWf1ptWI)
 - [Azure HorizonDB + VS Code: Your AI App Development Workspace](https://www.youtube.com/watch?v=6xNqWkvILMQ)
 - [Microsoft Foundry: Bigger Models Aren’t Always Better](https://www.youtube.com/shorts/XCgKFOPn35U)
 - [Microsoft Foundry: Keep Your AI Spend Under Control](https://www.youtube.com/shorts/SXyfxKGb85E)
-- [Build smarter search without AI: Fuzzy matching for applications | Data Exposed](https://www.youtube.com/watch?v=kaOI6ibSMwo)
 <!-- YOUTUBEAPPMOD:END -->
 
 
